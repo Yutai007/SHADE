@@ -1,0 +1,4 @@
+case_id,assertion_key,source_evidence,source
+gate_0090,"[""propose model"",""train"",[[""prep:in"",""semi - supervised manner""]],false,[""be""],[],""nsubjpass"",[""Past""]]","The proposed model is trained in a semi-supervised manner, where only a small portion of the labeled data is used for training, and the remaining unlabeled data are utilized to enhance the model's representation power.",previous_ai_unverified
+gate_0017,"[""pm announcement"",""meet"",[[""prep:with"",""mixed reaction""]],false,[""be""],[],""nsubjpass"",[""Past""]]",The PM's announcement was met with mixed reactions from politicians and public alike.,previous_ai_unverified
+gate_0051,"[""keeps"",""release"",[[""prep:in"",""2006""]],false,[""be""],[],""nsubjpass"",[""Past""]]","The band's second album, Keeps Me Wondering, was released in 2006.",previous_ai_unverified

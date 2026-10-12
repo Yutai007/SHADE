@@ -1,0 +1,65 @@
+group,X_type,token,fine_tag,count,documents
+Fixed AI,List-item tag (LS),.,LS,16,4
+Fixed AI,Angle markers,>,XX,12,2
+Fixed AI,List-item tag (LS),2,LS,7,7
+Fixed AI,List-item tag (LS),3,LS,7,7
+Fixed AI,List-item tag (LS),4,LS,7,7
+Fixed AI,List-item tag (LS),5,LS,5,5
+Fixed AI,List-item tag (LS),6,LS,4,4
+Fixed AI,List-item tag (LS),7,LS,4,4
+Fixed AI,Brackets,[,XX,2,1
+Fixed AI,Foreign-word tag (FW),di,FW,2,1
+Fixed AI,URL-like,www.allrecipes.com,ADD,2,1
+Fixed AI,edit token (inspect context),edit,XX,2,1
+Fixed AI,Angle markers,>,ADD,1,1
+Fixed AI,List-item tag (LS),8,LS,1,1
+Fixed AI,List-item tag (LS),9,LS,1,1
+Fixed AI,Other ADD-tagged,mid-50s,ADD,1,1
+Fixed AI,URL-like,allrecipes.com,ADD,1,1
+Human test,Foreign-word tag (FW),de,FW,10,4
+Human test,Foreign-word tag (FW),rue,FW,8,1
+Human test,List-item tag (LS),.,LS,5,1
+Human test,List-item tag (LS),1,LS,5,5
+Human test,List-item tag (LS),2,LS,4,4
+Human test,List-item tag (LS),3,LS,4,4
+Human test,Angle markers,<,ADD,2,2
+Human test,Brackets,[,XX,2,2
+Human test,Foreign-word tag (FW),etc,FW,2,2
+Human test,Foreign-word tag (FW),i.e.,FW,2,2
+Human test,Foreign-word tag (FW),.,FW,1,1
+Human test,Foreign-word tag (FW),des,FW,1,1
+Human test,Foreign-word tag (FW),di,FW,1,1
+Human test,Foreign-word tag (FW),rigueur,FW,1,1
+Human test,List-item tag (LS),4,LS,1,1
+Human test,List-item tag (LS),5,LS,1,1
+Human test,List-item tag (LS),6,LS,1,1
+Human test,List-item tag (LS),7,LS,1,1
+Human test,Other ADD-tagged,$,ADD,1,1
+Human test,Other lexical/fragments,"""Earlier",XX,1,1
+Human test,Other lexical/fragments,-thought,XX,1,1
+Human test,Other lexical/fragments,forward-,XX,1,1
+Human test,Other lexical/fragments,gain-,XX,1,1
+Original AI source,List-item tag (LS),.,LS,17,4
+Original AI source,Angle markers,>,XX,12,2
+Original AI source,List-item tag (LS),2,LS,9,7
+Original AI source,List-item tag (LS),3,LS,8,7
+Original AI source,List-item tag (LS),4,LS,8,7
+Original AI source,List-item tag (LS),1,LS,6,6
+Original AI source,List-item tag (LS),5,LS,5,5
+Original AI source,List-item tag (LS),6,LS,4,4
+Original AI source,List-item tag (LS),7,LS,4,4
+Original AI source,Angle markers,>,ADD,2,2
+Original AI source,Brackets,[,XX,2,1
+Original AI source,URL-like,www.allrecipes.com,ADD,2,1
+Original AI source,Brackets,],XX,1,1
+Original AI source,Foreign-word tag (FW),.,FW,1,1
+Original AI source,Foreign-word tag (FW),di,FW,1,1
+Original AI source,Foreign-word tag (FW),etc,FW,1,1
+Original AI source,Foreign-word tag (FW),i.e.,FW,1,1
+Original AI source,Foreign-word tag (FW),persona,FW,1,1
+Original AI source,List-item tag (LS),8,LS,1,1
+Original AI source,List-item tag (LS),9,LS,1,1
+Original AI source,Other ADD-tagged,_,ADD,1,1
+Original AI source,Other ADD-tagged,about/,ADD,1,1
+Original AI source,Other ADD-tagged,mid-50s,ADD,1,1
+Original AI source,URL-like,allrecipes.com,ADD,1,1

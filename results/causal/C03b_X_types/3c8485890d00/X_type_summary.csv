@@ -1,0 +1,25 @@
+group,X_type,token_count,documents_with_type,weighted_prevalence,weighted_per_1000_tokens
+Fixed AI,List-item tag (LS),52,7,0.12962962962962962,3.4723986686788124
+Fixed AI,Angle markers,13,2,0.037037037037037035,0.8261251199104306
+Fixed AI,Brackets,2,1,0.018518518518518517,0.2092487968194183
+Fixed AI,edit token (inspect context),2,1,0.018518518518518517,0.2092487968194183
+Fixed AI,URL-like,3,1,0.018518518518518517,0.13133701076963486
+Fixed AI,Foreign-word tag (FW),2,1,0.018518518518518517,0.09850275807722615
+Fixed AI,Other ADD-tagged,1,1,0.018518518518518517,0.0617283950617284
+Fixed AI,Other lexical/fragments,0,0,0.0,0.0
+Human test,Foreign-word tag (FW),26,9,0.07266993638147973,0.8868529388690096
+Human test,List-item tag (LS),22,6,0.04807913503565677,0.6789932980164548
+Human test,Other lexical/fragments,4,3,0.024722222222222222,0.09182497617449828
+Human test,Angle markers,2,2,0.010288065843621397,0.04913959148701305
+Human test,Brackets,2,2,0.014403292181069957,0.03329460627811676
+Human test,Other ADD-tagged,1,1,0.008051529790660225,0.03073102973534437
+Human test,URL-like,0,0,0.0,0.0
+Human test,edit token (inspect context),0,0,0.0,0.0
+Original AI source,List-item tag (LS),63,8,0.14814814814814814,3.6764286960191472
+Original AI source,Angle markers,14,3,0.05555555555555555,0.9851694828783633
+Original AI source,Brackets,3,1,0.018518518518518517,0.3494060097833683
+Original AI source,Foreign-word tag (FW),5,4,0.07407407407407407,0.31852922073129325
+Original AI source,Other ADD-tagged,3,3,0.05555555555555555,0.21065058229151998
+Original AI source,URL-like,3,1,0.018518518518518517,0.1295001295001295
+Original AI source,Other lexical/fragments,0,0,0.0,0.0
+Original AI source,edit token (inspect context),0,0,0.0,0.0

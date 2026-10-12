@@ -1,0 +1,2 @@
+detector,exposure,heldout,comparison,delta_AUROC,ci_low,ci_high
+Ghostbuster,30,44,Adapted_minus_Frozen,0.08268642320857841,0.06395592010704086,0.10178085935283772

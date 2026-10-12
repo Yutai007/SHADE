@@ -1,0 +1,7 @@
+generator,scorer,eligible_pairs,total_pairs,eligible_fraction
+Qwen2.5-1.5B-Instruct,GPT2,58,60,0.9666666666666667
+Qwen2.5-1.5B-Instruct,Qwen3,60,60,1.0
+Qwen2.5-1.5B-Instruct,SmolLM2,60,60,1.0
+SmolLM2,GPT2,35,40,0.875
+SmolLM2,Qwen3,40,40,1.0
+SmolLM2,SmolLM2,40,40,1.0

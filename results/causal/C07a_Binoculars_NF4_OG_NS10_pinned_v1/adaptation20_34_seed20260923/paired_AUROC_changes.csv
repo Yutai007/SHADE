@@ -1,0 +1,4 @@
+comparison,mean_AUROC_delta,ci_low,ci_high,increased,decreased,unchanged
+Adapted readout minus Frozen ratio,-0.006100428909392994,-0.017103035133154084,0.003446686404404255,17,12,5
+Adapted readout minus RAID-only readout,0.006074852204982142,0.0018686723578918735,0.01125114541374498,10,3,21
+RAID-only readout minus Frozen ratio,-0.012175281114375137,-0.025217933788133647,-0.0008228724926503212,15,15,4

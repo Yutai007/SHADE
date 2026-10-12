@@ -1,0 +1,8 @@
+domain,entity_share,sentence_mean,sentence_std,sentence_max,operations
+abstracts,UP,HOLD,HOLD,HOLD,ADD
+books,UP,UP,UP,UP,ADD + FUSE
+news,UP,UP,UP,HOLD,ADD + FUSE
+recipes,DOWN,DOWN,DOWN,HOLD,REMOVE + SPLIT
+reddit,HOLD,HOLD,HOLD,HOLD,HOLD
+reviews,UP,UP,UP,UP,ADD + FUSE
+wiki,DOWN,HOLD,DOWN,DOWN,REMOVE + SPLIT

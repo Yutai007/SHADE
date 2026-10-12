@@ -1,0 +1,2 @@
+detector,exposure,heldout,comparison,delta_AUROC,ci_low,ci_high
+GLTR,40,34,Adapted_minus_Frozen,0.0016201569693251737,-0.00278640162822431,0.005864467393723751

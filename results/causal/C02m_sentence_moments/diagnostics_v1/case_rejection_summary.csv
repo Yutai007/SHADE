@@ -1,0 +1,16 @@
+case_id,status,diagnosed,objective,threshold,n_opportunities,n_eligible_primitives,n_candidates,breaks_satisfied_band,no_joint_objective_improvement,below_mutability_threshold
+raid_residual_03,no_eligible_improving_candidate,True,1.6671390900534817,0.5273168297897978,16.0,0.0,0.0,,,
+raid_residual_05,no_eligible_improving_candidate,True,0.35017399516177034,0.8877350966826673,49.0,0.0,0.0,,,
+raid_residual_09,no_eligible_improving_candidate,True,0.9237591065608114,0.790746569063169,13.0,6.0,11.0,9.0,2.0,
+raid_residual_10,in_band,False,,,,,,,,
+raid_residual_14,no_eligible_improving_candidate,True,0.9495029126181748,0.7395027047241867,10.0,8.0,20.0,14.0,6.0,
+raid_residual_16,no_eligible_improving_candidate,True,0.4179212706757528,0.908097018562754,24.0,7.0,7.0,,1.0,6.0
+raid_residual_17,in_band,False,,,,,,,,
+raid_residual_18,in_band,False,,,,,,,,
+raid_residual_19,no_eligible_improving_candidate,True,1.1630869408740114,0.7971872264341021,26.0,0.0,0.0,,,
+raid_residual_21,no_eligible_improving_candidate,True,1.3986427235296053,0.39905065576328574,20.0,0.0,0.0,,,
+raid_residual_24,no_eligible_improving_candidate,True,0.02353988072820783,0.9322456587270844,29.0,7.0,7.0,3.0,,4.0
+raid_residual_25,no_eligible_improving_candidate,True,0.8468154818202225,0.752028032933984,18.0,7.0,7.0,7.0,,
+raid_residual_26,in_band,False,,,,,,,,
+raid_residual_27,no_eligible_improving_candidate,True,5.794937298197512,0.05001208381354553,27.0,1.0,1.0,1.0,,
+raid_residual_29,no_eligible_improving_candidate,True,12.78912400703901,0.05001784298136384,34.0,0.0,0.0,,,

@@ -1,0 +1,4 @@
+condition,status,words,unique_words,unique_share,replacements,fallbacks
+ordinary,completed_eos,225,175,0.7777777777777778,0,0
+original_controlled,failed_manual_stop,332,115,0.3463855421686747,67,102
+relative_likelihood_020,completed_eos,224,168,0.75,11,135

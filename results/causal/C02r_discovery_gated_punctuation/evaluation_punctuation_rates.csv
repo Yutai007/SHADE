@@ -1,0 +1,1441 @@
+case_id,condition,mark,denominator,value
+gate_0008,Original AI,semicolon,relative,0.0
+gate_0008,Original AI,semicolon,per_sentence,0.0
+gate_0008,Original AI,colon,relative,0.0
+gate_0008,Original AI,colon,per_sentence,0.0
+gate_0008,Original AI,hyphen,relative,0.005291005291005291
+gate_0008,Original AI,hyphen,per_sentence,0.9
+gate_0008,Original AI,en_dash,relative,0.0
+gate_0008,Original AI,en_dash,per_sentence,0.0
+gate_0008,Original AI,em_dash,relative,0.0
+gate_0008,Original AI,em_dash,per_sentence,0.0
+gate_0008,Original AI,comma,relative,0.00940623162845385
+gate_0008,Original AI,comma,per_sentence,1.6
+gate_0008,Unique + sentence means,semicolon,relative,0.0
+gate_0008,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0008,Unique + sentence means,colon,relative,0.0
+gate_0008,Unique + sentence means,colon,per_sentence,0.0
+gate_0008,Unique + sentence means,hyphen,relative,0.006806930693069307
+gate_0008,Unique + sentence means,hyphen,per_sentence,1.1
+gate_0008,Unique + sentence means,en_dash,relative,0.0
+gate_0008,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0008,Unique + sentence means,em_dash,relative,0.0
+gate_0008,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0008,Unique + sentence means,comma,relative,0.008663366336633664
+gate_0008,Unique + sentence means,comma,per_sentence,1.4
+gate_0008,Final gated,semicolon,relative,0.0
+gate_0008,Final gated,semicolon,per_sentence,0.0
+gate_0008,Final gated,colon,relative,0.0
+gate_0008,Final gated,colon,per_sentence,0.0
+gate_0008,Final gated,hyphen,relative,0.006199628022318661
+gate_0008,Final gated,hyphen,per_sentence,1.0
+gate_0008,Final gated,en_dash,relative,0.0
+gate_0008,Final gated,en_dash,per_sentence,0.0
+gate_0008,Final gated,em_dash,relative,0.0
+gate_0008,Final gated,em_dash,per_sentence,0.0
+gate_0008,Final gated,comma,relative,0.006819590824550527
+gate_0008,Final gated,comma,per_sentence,1.1
+gate_0008,Human,semicolon,relative,0.00011905633676107429
+gate_0008,Human,semicolon,per_sentence,0.0180976430976431
+gate_0008,Human,colon,relative,0.00020390983777808454
+gate_0008,Human,colon,per_sentence,0.03161616161616162
+gate_0008,Human,hyphen,relative,0.005588957749491653
+gate_0008,Human,hyphen,per_sentence,0.8767255892255894
+gate_0008,Human,en_dash,relative,0.0
+gate_0008,Human,en_dash,per_sentence,0.0
+gate_0008,Human,em_dash,relative,0.0
+gate_0008,Human,em_dash,per_sentence,0.0
+gate_0008,Human,comma,relative,0.006576420783105782
+gate_0008,Human,comma,per_sentence,1.0202813852813852
+gate_0009,Original AI,semicolon,relative,0.0
+gate_0009,Original AI,semicolon,per_sentence,0.0
+gate_0009,Original AI,colon,relative,0.0
+gate_0009,Original AI,colon,per_sentence,0.0
+gate_0009,Original AI,hyphen,relative,0.0016652789342214821
+gate_0009,Original AI,hyphen,per_sentence,0.2
+gate_0009,Original AI,en_dash,relative,0.0
+gate_0009,Original AI,en_dash,per_sentence,0.0
+gate_0009,Original AI,em_dash,relative,0.0
+gate_0009,Original AI,em_dash,per_sentence,0.0
+gate_0009,Original AI,comma,relative,0.011656952539550375
+gate_0009,Original AI,comma,per_sentence,1.4
+gate_0009,Unique + sentence means,semicolon,relative,0.0
+gate_0009,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0009,Unique + sentence means,colon,relative,0.0
+gate_0009,Unique + sentence means,colon,per_sentence,0.0
+gate_0009,Unique + sentence means,hyphen,relative,0.0016652789342214821
+gate_0009,Unique + sentence means,hyphen,per_sentence,0.2
+gate_0009,Unique + sentence means,en_dash,relative,0.0
+gate_0009,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0009,Unique + sentence means,em_dash,relative,0.0
+gate_0009,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0009,Unique + sentence means,comma,relative,0.011656952539550375
+gate_0009,Unique + sentence means,comma,per_sentence,1.4
+gate_0009,Final gated,semicolon,relative,0.0
+gate_0009,Final gated,semicolon,per_sentence,0.0
+gate_0009,Final gated,colon,relative,0.0
+gate_0009,Final gated,colon,per_sentence,0.0
+gate_0009,Final gated,hyphen,relative,0.0008326394671107411
+gate_0009,Final gated,hyphen,per_sentence,0.1
+gate_0009,Final gated,en_dash,relative,0.0
+gate_0009,Final gated,en_dash,per_sentence,0.0
+gate_0009,Final gated,em_dash,relative,0.0
+gate_0009,Final gated,em_dash,per_sentence,0.0
+gate_0009,Final gated,comma,relative,0.011656952539550375
+gate_0009,Final gated,comma,per_sentence,1.4
+gate_0009,Human,semicolon,relative,0.0006017878653296197
+gate_0009,Human,semicolon,per_sentence,0.08556036556036557
+gate_0009,Human,colon,relative,0.0004627879323222291
+gate_0009,Human,colon,per_sentence,0.07228114478114477
+gate_0009,Human,hyphen,relative,0.0016683528846454254
+gate_0009,Human,hyphen,per_sentence,0.24092546342546345
+gate_0009,Human,en_dash,relative,4.894762604013705e-05
+gate_0009,Human,en_dash,per_sentence,0.01111111111111111
+gate_0009,Human,em_dash,relative,0.00024286987614404997
+gate_0009,Human,em_dash,per_sentence,0.032318422318422316
+gate_0009,Human,comma,relative,0.01177603587298008
+gate_0009,Human,comma,per_sentence,1.6011852961852961
+gate_0011,Original AI,semicolon,relative,0.0
+gate_0011,Original AI,semicolon,per_sentence,0.0
+gate_0011,Original AI,colon,relative,0.0014124293785310734
+gate_0011,Original AI,colon,per_sentence,0.14285714285714285
+gate_0011,Original AI,hyphen,relative,0.014830508474576272
+gate_0011,Original AI,hyphen,per_sentence,1.5
+gate_0011,Original AI,en_dash,relative,0.0
+gate_0011,Original AI,en_dash,per_sentence,0.0
+gate_0011,Original AI,em_dash,relative,0.0
+gate_0011,Original AI,em_dash,per_sentence,0.0
+gate_0011,Original AI,comma,relative,0.012005649717514125
+gate_0011,Original AI,comma,per_sentence,1.2142857142857142
+gate_0011,Unique + sentence means,semicolon,relative,0.0
+gate_0011,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0011,Unique + sentence means,colon,relative,0.001440922190201729
+gate_0011,Unique + sentence means,colon,per_sentence,0.14285714285714285
+gate_0011,Unique + sentence means,hyphen,relative,0.015129682997118156
+gate_0011,Unique + sentence means,hyphen,per_sentence,1.5
+gate_0011,Unique + sentence means,en_dash,relative,0.0
+gate_0011,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0011,Unique + sentence means,em_dash,relative,0.0
+gate_0011,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0011,Unique + sentence means,comma,relative,0.012247838616714697
+gate_0011,Unique + sentence means,comma,per_sentence,1.2142857142857142
+gate_0011,Final gated,semicolon,relative,0.0
+gate_0011,Final gated,semicolon,per_sentence,0.0
+gate_0011,Final gated,colon,relative,0.0
+gate_0011,Final gated,colon,per_sentence,0.0
+gate_0011,Final gated,hyphen,relative,0.0014716703458425313
+gate_0011,Final gated,hyphen,per_sentence,0.14285714285714285
+gate_0011,Final gated,en_dash,relative,0.0
+gate_0011,Final gated,en_dash,per_sentence,0.0
+gate_0011,Final gated,em_dash,relative,0.0
+gate_0011,Final gated,em_dash,per_sentence,0.0
+gate_0011,Final gated,comma,relative,0.007358351729212656
+gate_0011,Final gated,comma,per_sentence,0.7142857142857143
+gate_0011,Human,semicolon,relative,0.001339246854321339
+gate_0011,Human,semicolon,per_sentence,0.10210531938136595
+gate_0011,Human,colon,relative,0.0003147727270653196
+gate_0011,Human,colon,per_sentence,0.022960380636548358
+gate_0011,Human,hyphen,relative,0.0022740190220645793
+gate_0011,Human,hyphen,per_sentence,0.1729584055559961
+gate_0011,Human,en_dash,relative,0.0
+gate_0011,Human,en_dash,per_sentence,0.0
+gate_0011,Human,em_dash,relative,0.0
+gate_0011,Human,em_dash,per_sentence,0.0
+gate_0011,Human,comma,relative,0.008741130975062192
+gate_0011,Human,comma,per_sentence,0.6603187519320244
+gate_0012,Original AI,semicolon,relative,0.0
+gate_0012,Original AI,semicolon,per_sentence,0.0
+gate_0012,Original AI,colon,relative,0.0
+gate_0012,Original AI,colon,per_sentence,0.0
+gate_0012,Original AI,hyphen,relative,0.0012987012987012987
+gate_0012,Original AI,hyphen,per_sentence,0.1
+gate_0012,Original AI,en_dash,relative,0.0
+gate_0012,Original AI,en_dash,per_sentence,0.0
+gate_0012,Original AI,em_dash,relative,0.0
+gate_0012,Original AI,em_dash,per_sentence,0.0
+gate_0012,Original AI,comma,relative,0.0025974025974025974
+gate_0012,Original AI,comma,per_sentence,0.2
+gate_0012,Unique + sentence means,semicolon,relative,0.0
+gate_0012,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0012,Unique + sentence means,colon,relative,0.0
+gate_0012,Unique + sentence means,colon,per_sentence,0.0
+gate_0012,Unique + sentence means,hyphen,relative,0.0013245033112582781
+gate_0012,Unique + sentence means,hyphen,per_sentence,0.1111111111111111
+gate_0012,Unique + sentence means,en_dash,relative,0.0
+gate_0012,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0012,Unique + sentence means,em_dash,relative,0.0
+gate_0012,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0012,Unique + sentence means,comma,relative,0.003973509933774834
+gate_0012,Unique + sentence means,comma,per_sentence,0.3333333333333333
+gate_0012,Final gated,semicolon,relative,0.0
+gate_0012,Final gated,semicolon,per_sentence,0.0
+gate_0012,Final gated,colon,relative,0.0
+gate_0012,Final gated,colon,per_sentence,0.0
+gate_0012,Final gated,hyphen,relative,0.0
+gate_0012,Final gated,hyphen,per_sentence,0.0
+gate_0012,Final gated,en_dash,relative,0.0
+gate_0012,Final gated,en_dash,per_sentence,0.0
+gate_0012,Final gated,em_dash,relative,0.0
+gate_0012,Final gated,em_dash,per_sentence,0.0
+gate_0012,Final gated,comma,relative,0.005305039787798408
+gate_0012,Final gated,comma,per_sentence,0.4444444444444444
+gate_0012,Human,semicolon,relative,0.0001246697755886552
+gate_0012,Human,semicolon,per_sentence,0.014761904761904763
+gate_0012,Human,colon,relative,0.00016121623246673108
+gate_0012,Human,colon,per_sentence,0.018703703703703705
+gate_0012,Human,hyphen,relative,0.000477994292155144
+gate_0012,Human,hyphen,per_sentence,0.03962121212121213
+gate_0012,Human,en_dash,relative,0.0
+gate_0012,Human,en_dash,per_sentence,0.0
+gate_0012,Human,em_dash,relative,0.0
+gate_0012,Human,em_dash,per_sentence,0.0
+gate_0012,Human,comma,relative,0.005625158428093492
+gate_0012,Human,comma,per_sentence,0.5417277167277167
+gate_0014,Original AI,semicolon,relative,0.0
+gate_0014,Original AI,semicolon,per_sentence,0.0
+gate_0014,Original AI,colon,relative,0.0
+gate_0014,Original AI,colon,per_sentence,0.0
+gate_0014,Original AI,hyphen,relative,0.0
+gate_0014,Original AI,hyphen,per_sentence,0.0
+gate_0014,Original AI,en_dash,relative,0.0
+gate_0014,Original AI,en_dash,per_sentence,0.0
+gate_0014,Original AI,em_dash,relative,0.0
+gate_0014,Original AI,em_dash,per_sentence,0.0
+gate_0014,Original AI,comma,relative,0.015302727877578177
+gate_0014,Original AI,comma,per_sentence,1.6428571428571428
+gate_0014,Unique + sentence means,semicolon,relative,0.0006662225183211193
+gate_0014,Unique + sentence means,semicolon,per_sentence,0.07692307692307693
+gate_0014,Unique + sentence means,colon,relative,0.0
+gate_0014,Unique + sentence means,colon,per_sentence,0.0
+gate_0014,Unique + sentence means,hyphen,relative,0.0
+gate_0014,Unique + sentence means,hyphen,per_sentence,0.0
+gate_0014,Unique + sentence means,en_dash,relative,0.0
+gate_0014,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0014,Unique + sentence means,em_dash,relative,0.0
+gate_0014,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0014,Unique + sentence means,comma,relative,0.017321785476349102
+gate_0014,Unique + sentence means,comma,per_sentence,2.0
+gate_0014,Final gated,semicolon,relative,0.0006729475100942127
+gate_0014,Final gated,semicolon,per_sentence,0.07692307692307693
+gate_0014,Final gated,colon,relative,0.0
+gate_0014,Final gated,colon,per_sentence,0.0
+gate_0014,Final gated,hyphen,relative,0.0006729475100942127
+gate_0014,Final gated,hyphen,per_sentence,0.07692307692307693
+gate_0014,Final gated,en_dash,relative,0.0
+gate_0014,Final gated,en_dash,per_sentence,0.0
+gate_0014,Final gated,em_dash,relative,0.0
+gate_0014,Final gated,em_dash,per_sentence,0.0
+gate_0014,Final gated,comma,relative,0.011440107671601614
+gate_0014,Final gated,comma,per_sentence,1.3076923076923077
+gate_0014,Human,semicolon,relative,0.0001144902836047251
+gate_0014,Human,semicolon,per_sentence,0.01738215488215488
+gate_0014,Human,colon,relative,0.00018424131473407485
+gate_0014,Human,colon,per_sentence,0.029405964405964404
+gate_0014,Human,hyphen,relative,0.0018960589523126063
+gate_0014,Human,hyphen,per_sentence,0.2671553641290484
+gate_0014,Human,en_dash,relative,0.000388035606334515
+gate_0014,Human,en_dash,per_sentence,0.050735404945931255
+gate_0014,Human,em_dash,relative,6.598363119699225e-05
+gate_0014,Human,em_dash,per_sentence,0.008585858585858586
+gate_0014,Human,comma,relative,0.010333905825637167
+gate_0014,Human,comma,per_sentence,1.405467748625643
+gate_0031,Original AI,semicolon,relative,0.0
+gate_0031,Original AI,semicolon,per_sentence,0.0
+gate_0031,Original AI,colon,relative,0.001850709438618137
+gate_0031,Original AI,colon,per_sentence,0.2
+gate_0031,Original AI,hyphen,relative,0.0006169031462060457
+gate_0031,Original AI,hyphen,per_sentence,0.06666666666666667
+gate_0031,Original AI,en_dash,relative,0.0
+gate_0031,Original AI,en_dash,per_sentence,0.0
+gate_0031,Original AI,em_dash,relative,0.0
+gate_0031,Original AI,em_dash,per_sentence,0.0
+gate_0031,Original AI,comma,relative,0.009253547193090685
+gate_0031,Original AI,comma,per_sentence,1.0
+gate_0031,Unique + sentence means,semicolon,relative,0.0
+gate_0031,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0031,Unique + sentence means,colon,relative,0.0019011406844106464
+gate_0031,Unique + sentence means,colon,per_sentence,0.2
+gate_0031,Unique + sentence means,hyphen,relative,0.0006337135614702154
+gate_0031,Unique + sentence means,hyphen,per_sentence,0.06666666666666667
+gate_0031,Unique + sentence means,en_dash,relative,0.0
+gate_0031,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0031,Unique + sentence means,em_dash,relative,0.0
+gate_0031,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0031,Unique + sentence means,comma,relative,0.008871989860583017
+gate_0031,Unique + sentence means,comma,per_sentence,0.9333333333333333
+gate_0031,Final gated,semicolon,relative,0.0
+gate_0031,Final gated,semicolon,per_sentence,0.0
+gate_0031,Final gated,colon,relative,0.0
+gate_0031,Final gated,colon,per_sentence,0.0
+gate_0031,Final gated,hyphen,relative,0.0012779552715654952
+gate_0031,Final gated,hyphen,per_sentence,0.13333333333333333
+gate_0031,Final gated,en_dash,relative,0.0
+gate_0031,Final gated,en_dash,per_sentence,0.0
+gate_0031,Final gated,em_dash,relative,0.0
+gate_0031,Final gated,em_dash,per_sentence,0.0
+gate_0031,Final gated,comma,relative,0.007028753993610224
+gate_0031,Final gated,comma,per_sentence,0.7333333333333333
+gate_0031,Human,semicolon,relative,0.0011429822923843466
+gate_0031,Human,semicolon,per_sentence,0.08753944203944204
+gate_0031,Human,colon,relative,0.0002569034790071177
+gate_0031,Human,colon,per_sentence,0.019892249563302194
+gate_0031,Human,hyphen,relative,0.0020234708115447263
+gate_0031,Human,hyphen,per_sentence,0.15049050546876633
+gate_0031,Human,en_dash,relative,0.0
+gate_0031,Human,en_dash,per_sentence,0.0
+gate_0031,Human,em_dash,relative,0.0
+gate_0031,Human,em_dash,per_sentence,0.0
+gate_0031,Human,comma,relative,0.009653639236459918
+gate_0031,Human,comma,per_sentence,0.7544503917347166
+gate_0032,Original AI,semicolon,relative,0.0008733624454148472
+gate_0032,Original AI,semicolon,per_sentence,0.2
+gate_0032,Original AI,colon,relative,0.0
+gate_0032,Original AI,colon,per_sentence,0.0
+gate_0032,Original AI,hyphen,relative,0.0008733624454148472
+gate_0032,Original AI,hyphen,per_sentence,0.2
+gate_0032,Original AI,en_dash,relative,0.0008733624454148472
+gate_0032,Original AI,en_dash,per_sentence,0.2
+gate_0032,Original AI,em_dash,relative,0.0017467248908296944
+gate_0032,Original AI,em_dash,per_sentence,0.4
+gate_0032,Original AI,comma,relative,0.004366812227074236
+gate_0032,Original AI,comma,per_sentence,1.0
+gate_0032,Unique + sentence means,semicolon,relative,0.0
+gate_0032,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0032,Unique + sentence means,colon,relative,0.0
+gate_0032,Unique + sentence means,colon,per_sentence,0.0
+gate_0032,Unique + sentence means,hyphen,relative,0.002806361085126286
+gate_0032,Unique + sentence means,hyphen,per_sentence,0.25
+gate_0032,Unique + sentence means,en_dash,relative,0.0
+gate_0032,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0032,Unique + sentence means,em_dash,relative,0.0009354536950420954
+gate_0032,Unique + sentence means,em_dash,per_sentence,0.08333333333333333
+gate_0032,Unique + sentence means,comma,relative,0.007483629560336763
+gate_0032,Unique + sentence means,comma,per_sentence,0.6666666666666666
+gate_0032,Final gated,semicolon,relative,0.0
+gate_0032,Final gated,semicolon,per_sentence,0.0
+gate_0032,Final gated,colon,relative,0.0
+gate_0032,Final gated,colon,per_sentence,0.0
+gate_0032,Final gated,hyphen,relative,0.0009372071227741331
+gate_0032,Final gated,hyphen,per_sentence,0.08333333333333333
+gate_0032,Final gated,en_dash,relative,0.0
+gate_0032,Final gated,en_dash,per_sentence,0.0
+gate_0032,Final gated,em_dash,relative,0.0009372071227741331
+gate_0032,Final gated,em_dash,per_sentence,0.08333333333333333
+gate_0032,Final gated,comma,relative,0.005623242736644799
+gate_0032,Final gated,comma,per_sentence,0.5
+gate_0032,Human,semicolon,relative,0.00010171156004489338
+gate_0032,Human,semicolon,per_sentence,0.012169312169312168
+gate_0032,Human,colon,relative,3.822629969418961e-05
+gate_0032,Human,colon,per_sentence,0.0037037037037037034
+gate_0032,Human,hyphen,relative,0.00043013596070942564
+gate_0032,Human,hyphen,per_sentence,0.04385281385281385
+gate_0032,Human,en_dash,relative,0.0
+gate_0032,Human,en_dash,per_sentence,0.0
+gate_0032,Human,em_dash,relative,0.0
+gate_0032,Human,em_dash,per_sentence,0.0
+gate_0032,Human,comma,relative,0.0059455176646639445
+gate_0032,Human,comma,per_sentence,0.5483807695572402
+gate_0033,Original AI,semicolon,relative,0.0
+gate_0033,Original AI,semicolon,per_sentence,0.0
+gate_0033,Original AI,colon,relative,0.0006882312456985547
+gate_0033,Original AI,colon,per_sentence,0.1
+gate_0033,Original AI,hyphen,relative,0.0013764624913971094
+gate_0033,Original AI,hyphen,per_sentence,0.2
+gate_0033,Original AI,en_dash,relative,0.0027529249827942187
+gate_0033,Original AI,en_dash,per_sentence,0.4
+gate_0033,Original AI,em_dash,relative,0.0
+gate_0033,Original AI,em_dash,per_sentence,0.0
+gate_0033,Original AI,comma,relative,0.013764624913971095
+gate_0033,Original AI,comma,per_sentence,2.0
+gate_0033,Unique + sentence means,semicolon,relative,0.001514004542013626
+gate_0033,Unique + sentence means,semicolon,per_sentence,0.16666666666666666
+gate_0033,Unique + sentence means,colon,relative,0.000757002271006813
+gate_0033,Unique + sentence means,colon,per_sentence,0.08333333333333333
+gate_0033,Unique + sentence means,hyphen,relative,0.001514004542013626
+gate_0033,Unique + sentence means,hyphen,per_sentence,0.16666666666666666
+gate_0033,Unique + sentence means,en_dash,relative,0.003028009084027252
+gate_0033,Unique + sentence means,en_dash,per_sentence,0.3333333333333333
+gate_0033,Unique + sentence means,em_dash,relative,0.0
+gate_0033,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0033,Unique + sentence means,comma,relative,0.016654049962149888
+gate_0033,Unique + sentence means,comma,per_sentence,1.8333333333333333
+gate_0033,Final gated,semicolon,relative,0.0015255530129672007
+gate_0033,Final gated,semicolon,per_sentence,0.16666666666666666
+gate_0033,Final gated,colon,relative,0.0
+gate_0033,Final gated,colon,per_sentence,0.0
+gate_0033,Final gated,hyphen,relative,0.0015255530129672007
+gate_0033,Final gated,hyphen,per_sentence,0.16666666666666666
+gate_0033,Final gated,en_dash,relative,0.0030511060259344014
+gate_0033,Final gated,en_dash,per_sentence,0.3333333333333333
+gate_0033,Final gated,em_dash,relative,0.0
+gate_0033,Final gated,em_dash,per_sentence,0.0
+gate_0033,Final gated,comma,relative,0.009916094584286803
+gate_0033,Final gated,comma,per_sentence,1.0833333333333333
+gate_0033,Human,semicolon,relative,0.0002792845435401134
+gate_0033,Human,semicolon,per_sentence,0.03637159137159138
+gate_0033,Human,colon,relative,0.00024438372340548876
+gate_0033,Human,colon,per_sentence,0.03338744588744589
+gate_0033,Human,hyphen,relative,0.0016552627116628237
+gate_0033,Human,hyphen,per_sentence,0.21301430051430048
+gate_0033,Human,en_dash,relative,0.0003567103699019913
+gate_0033,Human,en_dash,per_sentence,0.04975986975986976
+gate_0033,Human,em_dash,relative,0.0
+gate_0033,Human,em_dash,per_sentence,0.0
+gate_0033,Human,comma,relative,0.009762568830381853
+gate_0033,Human,comma,per_sentence,1.242178747178747
+gate_0034,Original AI,semicolon,relative,0.0
+gate_0034,Original AI,semicolon,per_sentence,0.0
+gate_0034,Original AI,colon,relative,0.000649772579597141
+gate_0034,Original AI,colon,per_sentence,0.09090909090909091
+gate_0034,Original AI,hyphen,relative,0.005198180636777128
+gate_0034,Original AI,hyphen,per_sentence,0.7272727272727273
+gate_0034,Original AI,en_dash,relative,0.0
+gate_0034,Original AI,en_dash,per_sentence,0.0
+gate_0034,Original AI,em_dash,relative,0.0
+gate_0034,Original AI,em_dash,per_sentence,0.0
+gate_0034,Original AI,comma,relative,0.004548408057179987
+gate_0034,Original AI,comma,per_sentence,0.6363636363636364
+gate_0034,Unique + sentence means,semicolon,relative,0.000774593338497289
+gate_0034,Unique + sentence means,semicolon,per_sentence,0.125
+gate_0034,Unique + sentence means,colon,relative,0.000774593338497289
+gate_0034,Unique + sentence means,colon,per_sentence,0.125
+gate_0034,Unique + sentence means,hyphen,relative,0.006196746707978312
+gate_0034,Unique + sentence means,hyphen,per_sentence,1.0
+gate_0034,Unique + sentence means,en_dash,relative,0.0
+gate_0034,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0034,Unique + sentence means,em_dash,relative,0.0
+gate_0034,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0034,Unique + sentence means,comma,relative,0.005422153369481022
+gate_0034,Unique + sentence means,comma,per_sentence,0.875
+gate_0034,Final gated,semicolon,relative,0.000774593338497289
+gate_0034,Final gated,semicolon,per_sentence,0.125
+gate_0034,Final gated,colon,relative,0.0
+gate_0034,Final gated,colon,per_sentence,0.0
+gate_0034,Final gated,hyphen,relative,0.005422153369481022
+gate_0034,Final gated,hyphen,per_sentence,0.875
+gate_0034,Final gated,en_dash,relative,0.0
+gate_0034,Final gated,en_dash,per_sentence,0.0
+gate_0034,Final gated,em_dash,relative,0.0
+gate_0034,Final gated,em_dash,per_sentence,0.0
+gate_0034,Final gated,comma,relative,0.006196746707978312
+gate_0034,Final gated,comma,per_sentence,1.0
+gate_0034,Human,semicolon,relative,8.110253060509316e-05
+gate_0034,Human,semicolon,per_sentence,0.0125
+gate_0034,Human,colon,relative,0.00014028775087078025
+gate_0034,Human,colon,per_sentence,0.022354497354497356
+gate_0034,Human,hyphen,relative,0.005294269864941584
+gate_0034,Human,hyphen,per_sentence,0.8702380952380951
+gate_0034,Human,en_dash,relative,0.0
+gate_0034,Human,en_dash,per_sentence,0.0
+gate_0034,Human,em_dash,relative,0.0
+gate_0034,Human,em_dash,per_sentence,0.0
+gate_0034,Human,comma,relative,0.006391986912758882
+gate_0034,Human,comma,per_sentence,1.0326455026455026
+gate_0036,Original AI,semicolon,relative,0.0
+gate_0036,Original AI,semicolon,per_sentence,0.0
+gate_0036,Original AI,colon,relative,0.0
+gate_0036,Original AI,colon,per_sentence,0.0
+gate_0036,Original AI,hyphen,relative,0.002583979328165375
+gate_0036,Original AI,hyphen,per_sentence,0.3
+gate_0036,Original AI,en_dash,relative,0.0
+gate_0036,Original AI,en_dash,per_sentence,0.0
+gate_0036,Original AI,em_dash,relative,0.0
+gate_0036,Original AI,em_dash,per_sentence,0.0
+gate_0036,Original AI,comma,relative,0.005598621877691645
+gate_0036,Original AI,comma,per_sentence,0.65
+gate_0036,Unique + sentence means,semicolon,relative,0.0
+gate_0036,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0036,Unique + sentence means,colon,relative,0.0
+gate_0036,Unique + sentence means,colon,per_sentence,0.0
+gate_0036,Unique + sentence means,hyphen,relative,0.0014822134387351778
+gate_0036,Unique + sentence means,hyphen,per_sentence,0.16666666666666666
+gate_0036,Unique + sentence means,en_dash,relative,0.0
+gate_0036,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0036,Unique + sentence means,em_dash,relative,0.0
+gate_0036,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0036,Unique + sentence means,comma,relative,0.00691699604743083
+gate_0036,Unique + sentence means,comma,per_sentence,0.7777777777777778
+gate_0036,Final gated,semicolon,relative,0.0
+gate_0036,Final gated,semicolon,per_sentence,0.0
+gate_0036,Final gated,colon,relative,0.0
+gate_0036,Final gated,colon,per_sentence,0.0
+gate_0036,Final gated,hyphen,relative,0.0014822134387351778
+gate_0036,Final gated,hyphen,per_sentence,0.16666666666666666
+gate_0036,Final gated,en_dash,relative,0.0
+gate_0036,Final gated,en_dash,per_sentence,0.0
+gate_0036,Final gated,em_dash,relative,0.0
+gate_0036,Final gated,em_dash,per_sentence,0.0
+gate_0036,Final gated,comma,relative,0.00691699604743083
+gate_0036,Final gated,comma,per_sentence,0.7777777777777778
+gate_0036,Human,semicolon,relative,0.00022005136756161602
+gate_0036,Human,semicolon,per_sentence,0.02564270152505447
+gate_0036,Human,colon,relative,0.00016802418281988484
+gate_0036,Human,colon,per_sentence,0.021288515406162462
+gate_0036,Human,hyphen,relative,0.0021321812878801944
+gate_0036,Human,hyphen,per_sentence,0.2644552967385785
+gate_0036,Human,en_dash,relative,0.0
+gate_0036,Human,en_dash,per_sentence,0.0
+gate_0036,Human,em_dash,relative,0.0
+gate_0036,Human,em_dash,per_sentence,0.0
+gate_0036,Human,comma,relative,0.006886456061867994
+gate_0036,Human,comma,per_sentence,0.850569090209183
+gate_0040,Original AI,semicolon,relative,0.0
+gate_0040,Original AI,semicolon,per_sentence,0.0
+gate_0040,Original AI,colon,relative,0.0
+gate_0040,Original AI,colon,per_sentence,0.0
+gate_0040,Original AI,hyphen,relative,0.0020463847203274215
+gate_0040,Original AI,hyphen,per_sentence,0.42857142857142855
+gate_0040,Original AI,en_dash,relative,0.0
+gate_0040,Original AI,en_dash,per_sentence,0.0
+gate_0040,Original AI,em_dash,relative,0.0
+gate_0040,Original AI,em_dash,per_sentence,0.0
+gate_0040,Original AI,comma,relative,0.007503410641200546
+gate_0040,Original AI,comma,per_sentence,1.5714285714285714
+gate_0040,Unique + sentence means,semicolon,relative,0.0
+gate_0040,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0040,Unique + sentence means,colon,relative,0.0
+gate_0040,Unique + sentence means,colon,per_sentence,0.0
+gate_0040,Unique + sentence means,hyphen,relative,0.0023446658851113715
+gate_0040,Unique + sentence means,hyphen,per_sentence,0.3333333333333333
+gate_0040,Unique + sentence means,en_dash,relative,0.0
+gate_0040,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0040,Unique + sentence means,em_dash,relative,0.0
+gate_0040,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0040,Unique + sentence means,comma,relative,0.008206330597889801
+gate_0040,Unique + sentence means,comma,per_sentence,1.1666666666666667
+gate_0040,Final gated,semicolon,relative,0.0
+gate_0040,Final gated,semicolon,per_sentence,0.0
+gate_0040,Final gated,colon,relative,0.0
+gate_0040,Final gated,colon,per_sentence,0.0
+gate_0040,Final gated,hyphen,relative,0.0023501762632197414
+gate_0040,Final gated,hyphen,per_sentence,0.3333333333333333
+gate_0040,Final gated,en_dash,relative,0.0
+gate_0040,Final gated,en_dash,per_sentence,0.0
+gate_0040,Final gated,em_dash,relative,0.0
+gate_0040,Final gated,em_dash,per_sentence,0.0
+gate_0040,Final gated,comma,relative,0.005875440658049354
+gate_0040,Final gated,comma,per_sentence,0.8333333333333334
+gate_0040,Human,semicolon,relative,0.0
+gate_0040,Human,semicolon,per_sentence,0.0
+gate_0040,Human,colon,relative,0.00024135846571389172
+gate_0040,Human,colon,per_sentence,0.041984126984126985
+gate_0040,Human,hyphen,relative,0.004232502790572584
+gate_0040,Human,hyphen,per_sentence,0.7221428571428571
+gate_0040,Human,en_dash,relative,0.0
+gate_0040,Human,en_dash,per_sentence,0.0
+gate_0040,Human,em_dash,relative,0.0
+gate_0040,Human,em_dash,per_sentence,0.0
+gate_0040,Human,comma,relative,0.005964197322095854
+gate_0040,Human,comma,per_sentence,1.0127777777777778
+gate_0042,Original AI,semicolon,relative,0.0
+gate_0042,Original AI,semicolon,per_sentence,0.0
+gate_0042,Original AI,colon,relative,0.0
+gate_0042,Original AI,colon,per_sentence,0.0
+gate_0042,Original AI,hyphen,relative,0.0005277044854881266
+gate_0042,Original AI,hyphen,per_sentence,0.05263157894736842
+gate_0042,Original AI,en_dash,relative,0.0
+gate_0042,Original AI,en_dash,per_sentence,0.0
+gate_0042,Original AI,em_dash,relative,0.0
+gate_0042,Original AI,em_dash,per_sentence,0.0
+gate_0042,Original AI,comma,relative,0.006860158311345646
+gate_0042,Original AI,comma,per_sentence,0.6842105263157895
+gate_0042,Unique + sentence means,semicolon,relative,0.0
+gate_0042,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0042,Unique + sentence means,colon,relative,0.0
+gate_0042,Unique + sentence means,colon,per_sentence,0.0
+gate_0042,Unique + sentence means,hyphen,relative,0.0015706806282722514
+gate_0042,Unique + sentence means,hyphen,per_sentence,0.17647058823529413
+gate_0042,Unique + sentence means,en_dash,relative,0.0
+gate_0042,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0042,Unique + sentence means,em_dash,relative,0.0
+gate_0042,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0042,Unique + sentence means,comma,relative,0.008376963350785341
+gate_0042,Unique + sentence means,comma,per_sentence,0.9411764705882353
+gate_0042,Final gated,semicolon,relative,0.0
+gate_0042,Final gated,semicolon,per_sentence,0.0
+gate_0042,Final gated,colon,relative,0.0
+gate_0042,Final gated,colon,per_sentence,0.0
+gate_0042,Final gated,hyphen,relative,0.0015723270440251573
+gate_0042,Final gated,hyphen,per_sentence,0.17647058823529413
+gate_0042,Final gated,en_dash,relative,0.0
+gate_0042,Final gated,en_dash,per_sentence,0.0
+gate_0042,Final gated,em_dash,relative,0.0
+gate_0042,Final gated,em_dash,per_sentence,0.0
+gate_0042,Final gated,comma,relative,0.007337526205450734
+gate_0042,Final gated,comma,per_sentence,0.8235294117647058
+gate_0042,Human,semicolon,relative,0.00020954742448491426
+gate_0042,Human,semicolon,per_sentence,0.024072128851540617
+gate_0042,Human,colon,relative,0.0001273957061303779
+gate_0042,Human,colon,per_sentence,0.015169144580909287
+gate_0042,Human,hyphen,relative,0.002301304237658866
+gate_0042,Human,hyphen,per_sentence,0.28284918713324286
+gate_0042,Human,en_dash,relative,0.0
+gate_0042,Human,en_dash,per_sentence,0.0
+gate_0042,Human,em_dash,relative,0.0
+gate_0042,Human,em_dash,per_sentence,0.0
+gate_0042,Human,comma,relative,0.007845595706352211
+gate_0042,Human,comma,per_sentence,0.943148472614417
+gate_0043,Original AI,semicolon,relative,0.0
+gate_0043,Original AI,semicolon,per_sentence,0.0
+gate_0043,Original AI,colon,relative,0.0012746972594008922
+gate_0043,Original AI,colon,per_sentence,0.125
+gate_0043,Original AI,hyphen,relative,0.012746972594008922
+gate_0043,Original AI,hyphen,per_sentence,1.25
+gate_0043,Original AI,en_dash,relative,0.0
+gate_0043,Original AI,en_dash,per_sentence,0.0
+gate_0043,Original AI,em_dash,relative,0.0
+gate_0043,Original AI,em_dash,per_sentence,0.0
+gate_0043,Original AI,comma,relative,0.010834926704907584
+gate_0043,Original AI,comma,per_sentence,1.0625
+gate_0043,Unique + sentence means,semicolon,relative,0.0
+gate_0043,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0043,Unique + sentence means,colon,relative,0.0014534883720930232
+gate_0043,Unique + sentence means,colon,per_sentence,0.125
+gate_0043,Unique + sentence means,hyphen,relative,0.014534883720930232
+gate_0043,Unique + sentence means,hyphen,per_sentence,1.25
+gate_0043,Unique + sentence means,en_dash,relative,0.0
+gate_0043,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0043,Unique + sentence means,em_dash,relative,0.0
+gate_0043,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0043,Unique + sentence means,comma,relative,0.011627906976744186
+gate_0043,Unique + sentence means,comma,per_sentence,1.0
+gate_0043,Final gated,semicolon,relative,0.0
+gate_0043,Final gated,semicolon,per_sentence,0.0
+gate_0043,Final gated,colon,relative,0.0
+gate_0043,Final gated,colon,per_sentence,0.0
+gate_0043,Final gated,hyphen,relative,0.001467351430667645
+gate_0043,Final gated,hyphen,per_sentence,0.125
+gate_0043,Final gated,en_dash,relative,0.0
+gate_0043,Final gated,en_dash,per_sentence,0.0
+gate_0043,Final gated,em_dash,relative,0.0
+gate_0043,Final gated,em_dash,per_sentence,0.0
+gate_0043,Final gated,comma,relative,0.00880410858400587
+gate_0043,Final gated,comma,per_sentence,0.75
+gate_0043,Human,semicolon,relative,0.001339246854321339
+gate_0043,Human,semicolon,per_sentence,0.10210531938136595
+gate_0043,Human,colon,relative,0.0003147727270653197
+gate_0043,Human,colon,per_sentence,0.022960380636548358
+gate_0043,Human,hyphen,relative,0.0022740190220645797
+gate_0043,Human,hyphen,per_sentence,0.1729584055559961
+gate_0043,Human,en_dash,relative,0.0
+gate_0043,Human,en_dash,per_sentence,0.0
+gate_0043,Human,em_dash,relative,0.0
+gate_0043,Human,em_dash,per_sentence,0.0
+gate_0043,Human,comma,relative,0.008741130975062192
+gate_0043,Human,comma,per_sentence,0.6603187519320244
+gate_0044,Original AI,semicolon,relative,0.0
+gate_0044,Original AI,semicolon,per_sentence,0.0
+gate_0044,Original AI,colon,relative,0.0
+gate_0044,Original AI,colon,per_sentence,0.0
+gate_0044,Original AI,hyphen,relative,0.0
+gate_0044,Original AI,hyphen,per_sentence,0.0
+gate_0044,Original AI,en_dash,relative,0.0
+gate_0044,Original AI,en_dash,per_sentence,0.0
+gate_0044,Original AI,em_dash,relative,0.0
+gate_0044,Original AI,em_dash,per_sentence,0.0
+gate_0044,Original AI,comma,relative,0.0073846153846153844
+gate_0044,Original AI,comma,per_sentence,0.5217391304347826
+gate_0044,Unique + sentence means,semicolon,relative,0.0
+gate_0044,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0044,Unique + sentence means,colon,relative,0.0
+gate_0044,Unique + sentence means,colon,per_sentence,0.0
+gate_0044,Unique + sentence means,hyphen,relative,0.0
+gate_0044,Unique + sentence means,hyphen,per_sentence,0.0
+gate_0044,Unique + sentence means,en_dash,relative,0.0
+gate_0044,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0044,Unique + sentence means,em_dash,relative,0.0
+gate_0044,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0044,Unique + sentence means,comma,relative,0.0068846815834767644
+gate_0044,Unique + sentence means,comma,per_sentence,0.47058823529411764
+gate_0044,Final gated,semicolon,relative,0.0
+gate_0044,Final gated,semicolon,per_sentence,0.0
+gate_0044,Final gated,colon,relative,0.0
+gate_0044,Final gated,colon,per_sentence,0.0
+gate_0044,Final gated,hyphen,relative,0.0
+gate_0044,Final gated,hyphen,per_sentence,0.0
+gate_0044,Final gated,en_dash,relative,0.0
+gate_0044,Final gated,en_dash,per_sentence,0.0
+gate_0044,Final gated,em_dash,relative,0.0
+gate_0044,Final gated,em_dash,per_sentence,0.0
+gate_0044,Final gated,comma,relative,0.0068846815834767644
+gate_0044,Final gated,comma,per_sentence,0.47058823529411764
+gate_0044,Human,semicolon,relative,0.0001329205425250623
+gate_0044,Human,semicolon,per_sentence,0.01748971193415638
+gate_0044,Human,colon,relative,3.298044259753966e-05
+gate_0044,Human,colon,per_sentence,0.0023148148148148147
+gate_0044,Human,hyphen,relative,0.0002940402354162111
+gate_0044,Human,hyphen,per_sentence,0.028187861521194856
+gate_0044,Human,en_dash,relative,0.0
+gate_0044,Human,en_dash,per_sentence,0.0
+gate_0044,Human,em_dash,relative,0.0
+gate_0044,Human,em_dash,per_sentence,0.0
+gate_0044,Human,comma,relative,0.006914642542169071
+gate_0044,Human,comma,per_sentence,0.6145603865805105
+gate_0045,Original AI,semicolon,relative,0.0
+gate_0045,Original AI,semicolon,per_sentence,0.0
+gate_0045,Original AI,colon,relative,0.0
+gate_0045,Original AI,colon,per_sentence,0.0
+gate_0045,Original AI,hyphen,relative,0.0
+gate_0045,Original AI,hyphen,per_sentence,0.0
+gate_0045,Original AI,en_dash,relative,0.0
+gate_0045,Original AI,en_dash,per_sentence,0.0
+gate_0045,Original AI,em_dash,relative,0.0
+gate_0045,Original AI,em_dash,per_sentence,0.0
+gate_0045,Original AI,comma,relative,0.01747997086671522
+gate_0045,Original AI,comma,per_sentence,2.1818181818181817
+gate_0045,Unique + sentence means,semicolon,relative,0.0
+gate_0045,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0045,Unique + sentence means,colon,relative,0.0
+gate_0045,Unique + sentence means,colon,per_sentence,0.0
+gate_0045,Unique + sentence means,hyphen,relative,0.0
+gate_0045,Unique + sentence means,hyphen,per_sentence,0.0
+gate_0045,Unique + sentence means,en_dash,relative,0.0
+gate_0045,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0045,Unique + sentence means,em_dash,relative,0.0
+gate_0045,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0045,Unique + sentence means,comma,relative,0.02
+gate_0045,Unique + sentence means,comma,per_sentence,2.6
+gate_0045,Final gated,semicolon,relative,0.0
+gate_0045,Final gated,semicolon,per_sentence,0.0
+gate_0045,Final gated,colon,relative,0.0
+gate_0045,Final gated,colon,per_sentence,0.0
+gate_0045,Final gated,hyphen,relative,0.0
+gate_0045,Final gated,hyphen,per_sentence,0.0
+gate_0045,Final gated,en_dash,relative,0.0
+gate_0045,Final gated,en_dash,per_sentence,0.0
+gate_0045,Final gated,em_dash,relative,0.0
+gate_0045,Final gated,em_dash,per_sentence,0.0
+gate_0045,Final gated,comma,relative,0.010869565217391304
+gate_0045,Final gated,comma,per_sentence,1.4
+gate_0045,Human,semicolon,relative,0.00021422388686240568
+gate_0045,Human,semicolon,per_sentence,0.02896742146742147
+gate_0045,Human,colon,relative,0.00026743599027484027
+gate_0045,Human,colon,per_sentence,0.040517075517075514
+gate_0045,Human,hyphen,relative,0.0017344179350044448
+gate_0045,Human,hyphen,per_sentence,0.22590587287955705
+gate_0045,Human,en_dash,relative,0.0004923143816702028
+gate_0045,Human,en_dash,per_sentence,0.06443707364759996
+gate_0045,Human,em_dash,relative,4.368708716131779e-05
+gate_0045,Human,em_dash,per_sentence,0.005808080808080808
+gate_0045,Human,comma,relative,0.010402015782385513
+gate_0045,Human,comma,per_sentence,1.3606631088210033
+gate_0052,Original AI,semicolon,relative,0.0
+gate_0052,Original AI,semicolon,per_sentence,0.0
+gate_0052,Original AI,colon,relative,0.0
+gate_0052,Original AI,colon,per_sentence,0.0
+gate_0052,Original AI,hyphen,relative,0.001455604075691412
+gate_0052,Original AI,hyphen,per_sentence,0.2
+gate_0052,Original AI,en_dash,relative,0.0
+gate_0052,Original AI,en_dash,per_sentence,0.0
+gate_0052,Original AI,em_dash,relative,0.0
+gate_0052,Original AI,em_dash,per_sentence,0.0
+gate_0052,Original AI,comma,relative,0.005822416302765648
+gate_0052,Original AI,comma,per_sentence,0.8
+gate_0052,Unique + sentence means,semicolon,relative,0.0
+gate_0052,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0052,Unique + sentence means,colon,relative,0.0014903129657228018
+gate_0052,Unique + sentence means,colon,per_sentence,0.2
+gate_0052,Unique + sentence means,hyphen,relative,0.005961251862891207
+gate_0052,Unique + sentence means,hyphen,per_sentence,0.8
+gate_0052,Unique + sentence means,en_dash,relative,0.0
+gate_0052,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0052,Unique + sentence means,em_dash,relative,0.0
+gate_0052,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0052,Unique + sentence means,comma,relative,0.005961251862891207
+gate_0052,Unique + sentence means,comma,per_sentence,0.8
+gate_0052,Final gated,semicolon,relative,0.0
+gate_0052,Final gated,semicolon,per_sentence,0.0
+gate_0052,Final gated,colon,relative,0.0
+gate_0052,Final gated,colon,per_sentence,0.0
+gate_0052,Final gated,hyphen,relative,0.004477611940298508
+gate_0052,Final gated,hyphen,per_sentence,0.6
+gate_0052,Final gated,en_dash,relative,0.0
+gate_0052,Final gated,en_dash,per_sentence,0.0
+gate_0052,Final gated,em_dash,relative,0.0
+gate_0052,Final gated,em_dash,per_sentence,0.0
+gate_0052,Final gated,comma,relative,0.005970149253731343
+gate_0052,Final gated,comma,per_sentence,0.8
+gate_0052,Human,semicolon,relative,0.0
+gate_0052,Human,semicolon,per_sentence,0.0
+gate_0052,Human,colon,relative,0.00013478715216793627
+gate_0052,Human,colon,per_sentence,0.023714285714285716
+gate_0052,Human,hyphen,relative,0.00511092974215252
+gate_0052,Human,hyphen,per_sentence,0.8419047619047617
+gate_0052,Human,en_dash,relative,0.0
+gate_0052,Human,en_dash,per_sentence,0.0
+gate_0052,Human,em_dash,relative,0.0
+gate_0052,Human,em_dash,per_sentence,0.0
+gate_0052,Human,comma,relative,0.006083471114085827
+gate_0052,Human,comma,per_sentence,1.0305714285714285
+gate_0053,Original AI,semicolon,relative,0.00046490004649000463
+gate_0053,Original AI,semicolon,per_sentence,0.0625
+gate_0053,Original AI,colon,relative,0.00046490004649000463
+gate_0053,Original AI,colon,per_sentence,0.0625
+gate_0053,Original AI,hyphen,relative,0.00046490004649000463
+gate_0053,Original AI,hyphen,per_sentence,0.0625
+gate_0053,Original AI,en_dash,relative,0.0
+gate_0053,Original AI,en_dash,per_sentence,0.0
+gate_0053,Original AI,em_dash,relative,0.00046490004649000463
+gate_0053,Original AI,em_dash,per_sentence,0.0625
+gate_0053,Original AI,comma,relative,0.00604370060437006
+gate_0053,Original AI,comma,per_sentence,0.8125
+gate_0053,Unique + sentence means,semicolon,relative,0.003714020427112349
+gate_0053,Unique + sentence means,semicolon,per_sentence,0.5
+gate_0053,Unique + sentence means,colon,relative,0.0009285051067780873
+gate_0053,Unique + sentence means,colon,per_sentence,0.125
+gate_0053,Unique + sentence means,hyphen,relative,0.0018570102135561746
+gate_0053,Unique + sentence means,hyphen,per_sentence,0.25
+gate_0053,Unique + sentence means,en_dash,relative,0.0
+gate_0053,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0053,Unique + sentence means,em_dash,relative,0.0018570102135561746
+gate_0053,Unique + sentence means,em_dash,per_sentence,0.25
+gate_0053,Unique + sentence means,comma,relative,0.012999071494893221
+gate_0053,Unique + sentence means,comma,per_sentence,1.75
+gate_0053,Final gated,semicolon,relative,0.0037243947858473
+gate_0053,Final gated,semicolon,per_sentence,0.5
+gate_0053,Final gated,colon,relative,0.0
+gate_0053,Final gated,colon,per_sentence,0.0
+gate_0053,Final gated,hyphen,relative,0.000931098696461825
+gate_0053,Final gated,hyphen,per_sentence,0.125
+gate_0053,Final gated,en_dash,relative,0.0
+gate_0053,Final gated,en_dash,per_sentence,0.0
+gate_0053,Final gated,em_dash,relative,0.00186219739292365
+gate_0053,Final gated,em_dash,per_sentence,0.25
+gate_0053,Final gated,comma,relative,0.012104283054003724
+gate_0053,Final gated,comma,per_sentence,1.625
+gate_0053,Human,semicolon,relative,0.0006148619497392268
+gate_0053,Human,semicolon,per_sentence,0.09411375661375661
+gate_0053,Human,colon,relative,0.00032108173754139
+gate_0053,Human,colon,per_sentence,0.05026455026455026
+gate_0053,Human,hyphen,relative,0.0014613975770509941
+gate_0053,Human,hyphen,per_sentence,0.21260822510822514
+gate_0053,Human,en_dash,relative,4.894762604013705e-05
+gate_0053,Human,en_dash,per_sentence,0.01111111111111111
+gate_0053,Human,em_dash,relative,0.0001523688275898404
+gate_0053,Human,em_dash,per_sentence,0.02275132275132275
+gate_0053,Human,comma,relative,0.01087040826963288
+gate_0053,Human,comma,per_sentence,1.5843229918229917
+gate_0055,Original AI,semicolon,relative,0.0
+gate_0055,Original AI,semicolon,per_sentence,0.0
+gate_0055,Original AI,colon,relative,0.0006485084306095979
+gate_0055,Original AI,colon,per_sentence,0.058823529411764705
+gate_0055,Original AI,hyphen,relative,0.0006485084306095979
+gate_0055,Original AI,hyphen,per_sentence,0.058823529411764705
+gate_0055,Original AI,en_dash,relative,0.0
+gate_0055,Original AI,en_dash,per_sentence,0.0
+gate_0055,Original AI,em_dash,relative,0.0
+gate_0055,Original AI,em_dash,per_sentence,0.0
+gate_0055,Original AI,comma,relative,0.007782101167315175
+gate_0055,Original AI,comma,per_sentence,0.7058823529411765
+gate_0055,Unique + sentence means,semicolon,relative,0.0
+gate_0055,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0055,Unique + sentence means,colon,relative,0.0006317119393556538
+gate_0055,Unique + sentence means,colon,per_sentence,0.058823529411764705
+gate_0055,Unique + sentence means,hyphen,relative,0.003790271636133923
+gate_0055,Unique + sentence means,hyphen,per_sentence,0.35294117647058826
+gate_0055,Unique + sentence means,en_dash,relative,0.0
+gate_0055,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0055,Unique + sentence means,em_dash,relative,0.0
+gate_0055,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0055,Unique + sentence means,comma,relative,0.0082122552116235
+gate_0055,Unique + sentence means,comma,per_sentence,0.7647058823529411
+gate_0055,Final gated,semicolon,relative,0.0
+gate_0055,Final gated,semicolon,per_sentence,0.0
+gate_0055,Final gated,colon,relative,0.0
+gate_0055,Final gated,colon,per_sentence,0.0
+gate_0055,Final gated,hyphen,relative,0.0018963337547408343
+gate_0055,Final gated,hyphen,per_sentence,0.17647058823529413
+gate_0055,Final gated,en_dash,relative,0.0
+gate_0055,Final gated,en_dash,per_sentence,0.0
+gate_0055,Final gated,em_dash,relative,0.0
+gate_0055,Final gated,em_dash,per_sentence,0.0
+gate_0055,Final gated,comma,relative,0.008849557522123894
+gate_0055,Final gated,comma,per_sentence,0.8235294117647058
+gate_0055,Human,semicolon,relative,0.0006551907185208272
+gate_0055,Human,semicolon,per_sentence,0.0542968462026433
+gate_0055,Human,colon,relative,0.000567879506984325
+gate_0055,Human,colon,per_sentence,0.047790816854284345
+gate_0055,Human,hyphen,relative,0.002426940791159388
+gate_0055,Human,hyphen,per_sentence,0.2075043720216242
+gate_0055,Human,en_dash,relative,0.0
+gate_0055,Human,en_dash,per_sentence,0.0
+gate_0055,Human,em_dash,relative,0.0
+gate_0055,Human,em_dash,per_sentence,0.0
+gate_0055,Human,comma,relative,0.010753115938301475
+gate_0055,Human,comma,per_sentence,0.9256521888628623
+gate_0056,Original AI,semicolon,relative,0.0
+gate_0056,Original AI,semicolon,per_sentence,0.0
+gate_0056,Original AI,colon,relative,0.0
+gate_0056,Original AI,colon,per_sentence,0.0
+gate_0056,Original AI,hyphen,relative,0.0
+gate_0056,Original AI,hyphen,per_sentence,0.0
+gate_0056,Original AI,en_dash,relative,0.0
+gate_0056,Original AI,en_dash,per_sentence,0.0
+gate_0056,Original AI,em_dash,relative,0.0
+gate_0056,Original AI,em_dash,per_sentence,0.0
+gate_0056,Original AI,comma,relative,0.006321112515802781
+gate_0056,Original AI,comma,per_sentence,0.8333333333333334
+gate_0056,Unique + sentence means,semicolon,relative,0.0
+gate_0056,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0056,Unique + sentence means,colon,relative,0.0
+gate_0056,Unique + sentence means,colon,per_sentence,0.0
+gate_0056,Unique + sentence means,hyphen,relative,0.0
+gate_0056,Unique + sentence means,hyphen,per_sentence,0.0
+gate_0056,Unique + sentence means,en_dash,relative,0.0
+gate_0056,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0056,Unique + sentence means,em_dash,relative,0.0
+gate_0056,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0056,Unique + sentence means,comma,relative,0.005082592121982211
+gate_0056,Unique + sentence means,comma,per_sentence,0.5714285714285714
+gate_0056,Final gated,semicolon,relative,0.0
+gate_0056,Final gated,semicolon,per_sentence,0.0
+gate_0056,Final gated,colon,relative,0.0
+gate_0056,Final gated,colon,per_sentence,0.0
+gate_0056,Final gated,hyphen,relative,0.0
+gate_0056,Final gated,hyphen,per_sentence,0.0
+gate_0056,Final gated,en_dash,relative,0.0
+gate_0056,Final gated,en_dash,per_sentence,0.0
+gate_0056,Final gated,em_dash,relative,0.0
+gate_0056,Final gated,em_dash,per_sentence,0.0
+gate_0056,Final gated,comma,relative,0.003816793893129771
+gate_0056,Final gated,comma,per_sentence,0.42857142857142855
+gate_0056,Human,semicolon,relative,0.0001246697755886552
+gate_0056,Human,semicolon,per_sentence,0.014761904761904763
+gate_0056,Human,colon,relative,0.00016121623246673108
+gate_0056,Human,colon,per_sentence,0.018703703703703705
+gate_0056,Human,hyphen,relative,0.00047799429215514397
+gate_0056,Human,hyphen,per_sentence,0.03962121212121213
+gate_0056,Human,en_dash,relative,0.0
+gate_0056,Human,en_dash,per_sentence,0.0
+gate_0056,Human,em_dash,relative,0.0
+gate_0056,Human,em_dash,per_sentence,0.0
+gate_0056,Human,comma,relative,0.005625158428093492
+gate_0056,Human,comma,per_sentence,0.5417277167277167
+gate_0057,Original AI,semicolon,relative,0.0
+gate_0057,Original AI,semicolon,per_sentence,0.0
+gate_0057,Original AI,colon,relative,0.0008361204013377926
+gate_0057,Original AI,colon,per_sentence,0.07692307692307693
+gate_0057,Original AI,hyphen,relative,0.0008361204013377926
+gate_0057,Original AI,hyphen,per_sentence,0.07692307692307693
+gate_0057,Original AI,en_dash,relative,0.0
+gate_0057,Original AI,en_dash,per_sentence,0.0
+gate_0057,Original AI,em_dash,relative,0.0
+gate_0057,Original AI,em_dash,per_sentence,0.0
+gate_0057,Original AI,comma,relative,0.010033444816053512
+gate_0057,Original AI,comma,per_sentence,0.9230769230769231
+gate_0057,Unique + sentence means,semicolon,relative,0.0
+gate_0057,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0057,Unique + sentence means,colon,relative,0.000851063829787234
+gate_0057,Unique + sentence means,colon,per_sentence,0.08333333333333333
+gate_0057,Unique + sentence means,hyphen,relative,0.0
+gate_0057,Unique + sentence means,hyphen,per_sentence,0.0
+gate_0057,Unique + sentence means,en_dash,relative,0.0
+gate_0057,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0057,Unique + sentence means,em_dash,relative,0.0
+gate_0057,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0057,Unique + sentence means,comma,relative,0.01702127659574468
+gate_0057,Unique + sentence means,comma,per_sentence,1.6666666666666667
+gate_0057,Final gated,semicolon,relative,0.0
+gate_0057,Final gated,semicolon,per_sentence,0.0
+gate_0057,Final gated,colon,relative,0.0
+gate_0057,Final gated,colon,per_sentence,0.0
+gate_0057,Final gated,hyphen,relative,0.0
+gate_0057,Final gated,hyphen,per_sentence,0.0
+gate_0057,Final gated,en_dash,relative,0.0
+gate_0057,Final gated,en_dash,per_sentence,0.0
+gate_0057,Final gated,em_dash,relative,0.0
+gate_0057,Final gated,em_dash,per_sentence,0.0
+gate_0057,Final gated,comma,relative,0.010291595197255575
+gate_0057,Final gated,comma,per_sentence,1.0
+gate_0057,Human,semicolon,relative,0.0002531407526904402
+gate_0057,Human,semicolon,per_sentence,0.032204924704924705
+gate_0057,Human,colon,relative,0.0003046065478559555
+gate_0057,Human,colon,per_sentence,0.04172077922077922
+gate_0057,Human,hyphen,relative,0.0015364466215411383
+gate_0057,Human,hyphen,per_sentence,0.19218096718096717
+gate_0057,Human,en_dash,relative,0.0003567103699019913
+gate_0057,Human,en_dash,per_sentence,0.049759869759869756
+gate_0057,Human,em_dash,relative,0.0
+gate_0057,Human,em_dash,per_sentence,0.0
+gate_0057,Human,comma,relative,0.009761860326564788
+gate_0057,Human,comma,per_sentence,1.2338454138454134
+gate_0058,Original AI,semicolon,relative,0.0
+gate_0058,Original AI,semicolon,per_sentence,0.0
+gate_0058,Original AI,colon,relative,0.0018115942028985507
+gate_0058,Original AI,colon,per_sentence,0.3333333333333333
+gate_0058,Original AI,hyphen,relative,0.0036231884057971015
+gate_0058,Original AI,hyphen,per_sentence,0.6666666666666666
+gate_0058,Original AI,en_dash,relative,0.0009057971014492754
+gate_0058,Original AI,en_dash,per_sentence,0.16666666666666666
+gate_0058,Original AI,em_dash,relative,0.0
+gate_0058,Original AI,em_dash,per_sentence,0.0
+gate_0058,Original AI,comma,relative,0.002717391304347826
+gate_0058,Original AI,comma,per_sentence,0.5
+gate_0058,Unique + sentence means,semicolon,relative,0.0
+gate_0058,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0058,Unique + sentence means,colon,relative,0.0
+gate_0058,Unique + sentence means,colon,per_sentence,0.0
+gate_0058,Unique + sentence means,hyphen,relative,0.008307372793354102
+gate_0058,Unique + sentence means,hyphen,per_sentence,1.3333333333333333
+gate_0058,Unique + sentence means,en_dash,relative,0.0
+gate_0058,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0058,Unique + sentence means,em_dash,relative,0.0
+gate_0058,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0058,Unique + sentence means,comma,relative,0.0020768431983385254
+gate_0058,Unique + sentence means,comma,per_sentence,0.3333333333333333
+gate_0058,Final gated,semicolon,relative,0.0
+gate_0058,Final gated,semicolon,per_sentence,0.0
+gate_0058,Final gated,colon,relative,0.0
+gate_0058,Final gated,colon,per_sentence,0.0
+gate_0058,Final gated,hyphen,relative,0.0051813471502590676
+gate_0058,Final gated,hyphen,per_sentence,0.8333333333333334
+gate_0058,Final gated,en_dash,relative,0.0
+gate_0058,Final gated,en_dash,per_sentence,0.0
+gate_0058,Final gated,em_dash,relative,0.0
+gate_0058,Final gated,em_dash,per_sentence,0.0
+gate_0058,Final gated,comma,relative,0.004145077720207254
+gate_0058,Final gated,comma,per_sentence,0.6666666666666666
+gate_0058,Human,semicolon,relative,8.650519031141868e-05
+gate_0058,Human,semicolon,per_sentence,0.016666666666666666
+gate_0058,Human,colon,relative,0.00038855410735988074
+gate_0058,Human,colon,per_sentence,0.06976190476190475
+gate_0058,Human,hyphen,relative,0.004474979008416341
+gate_0058,Human,hyphen,per_sentence,0.7413095238095239
+gate_0058,Human,en_dash,relative,0.0
+gate_0058,Human,en_dash,per_sentence,0.0
+gate_0058,Human,em_dash,relative,0.0
+gate_0058,Human,em_dash,per_sentence,0.0
+gate_0058,Human,comma,relative,0.005543791783525515
+gate_0058,Human,comma,per_sentence,0.9405555555555555
+gate_0060,Original AI,semicolon,relative,0.00049800796812749
+gate_0060,Original AI,semicolon,per_sentence,0.05263157894736842
+gate_0060,Original AI,colon,relative,0.00398406374501992
+gate_0060,Original AI,colon,per_sentence,0.42105263157894735
+gate_0060,Original AI,hyphen,relative,0.0
+gate_0060,Original AI,hyphen,per_sentence,0.0
+gate_0060,Original AI,en_dash,relative,0.0
+gate_0060,Original AI,en_dash,per_sentence,0.0
+gate_0060,Original AI,em_dash,relative,0.0
+gate_0060,Original AI,em_dash,per_sentence,0.0
+gate_0060,Original AI,comma,relative,0.0069721115537848604
+gate_0060,Original AI,comma,per_sentence,0.7368421052631579
+gate_0060,Unique + sentence means,semicolon,relative,0.00099601593625498
+gate_0060,Unique + sentence means,semicolon,per_sentence,0.1111111111111111
+gate_0060,Unique + sentence means,colon,relative,0.00398406374501992
+gate_0060,Unique + sentence means,colon,per_sentence,0.4444444444444444
+gate_0060,Unique + sentence means,hyphen,relative,0.0
+gate_0060,Unique + sentence means,hyphen,per_sentence,0.0
+gate_0060,Unique + sentence means,en_dash,relative,0.0
+gate_0060,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0060,Unique + sentence means,em_dash,relative,0.0
+gate_0060,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0060,Unique + sentence means,comma,relative,0.0069721115537848604
+gate_0060,Unique + sentence means,comma,per_sentence,0.7777777777777778
+gate_0060,Final gated,semicolon,relative,0.000994530084535057
+gate_0060,Final gated,semicolon,per_sentence,0.1111111111111111
+gate_0060,Final gated,colon,relative,0.0029835902536051715
+gate_0060,Final gated,colon,per_sentence,0.3333333333333333
+gate_0060,Final gated,hyphen,relative,0.0004972650422675286
+gate_0060,Final gated,hyphen,per_sentence,0.05555555555555555
+gate_0060,Final gated,en_dash,relative,0.0
+gate_0060,Final gated,en_dash,per_sentence,0.0
+gate_0060,Final gated,em_dash,relative,0.0
+gate_0060,Final gated,em_dash,per_sentence,0.0
+gate_0060,Final gated,comma,relative,0.0069617105917454
+gate_0060,Final gated,comma,per_sentence,0.7777777777777778
+gate_0060,Human,semicolon,relative,4.662091317382553e-05
+gate_0060,Human,semicolon,per_sentence,0.006034858387799564
+gate_0060,Human,colon,relative,0.0002132831215917028
+gate_0060,Human,colon,per_sentence,0.026855155937973274
+gate_0060,Human,hyphen,relative,0.0019117241943439694
+gate_0060,Human,hyphen,per_sentence,0.2414134675667183
+gate_0060,Human,en_dash,relative,0.0
+gate_0060,Human,en_dash,per_sentence,0.0
+gate_0060,Human,em_dash,relative,0.0
+gate_0060,Human,em_dash,per_sentence,0.0
+gate_0060,Human,comma,relative,0.006415812422700803
+gate_0060,Human,comma,per_sentence,0.7960723894555166
+gate_0063,Original AI,semicolon,relative,0.0
+gate_0063,Original AI,semicolon,per_sentence,0.0
+gate_0063,Original AI,colon,relative,0.0
+gate_0063,Original AI,colon,per_sentence,0.0
+gate_0063,Original AI,hyphen,relative,0.0016433853738701725
+gate_0063,Original AI,hyphen,per_sentence,0.2
+gate_0063,Original AI,en_dash,relative,0.0
+gate_0063,Original AI,en_dash,per_sentence,0.0
+gate_0063,Original AI,em_dash,relative,0.0
+gate_0063,Original AI,em_dash,per_sentence,0.0
+gate_0063,Original AI,comma,relative,0.016433853738701727
+gate_0063,Original AI,comma,per_sentence,2.0
+gate_0063,Unique + sentence means,semicolon,relative,0.0
+gate_0063,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0063,Unique + sentence means,colon,relative,0.0
+gate_0063,Unique + sentence means,colon,per_sentence,0.0
+gate_0063,Unique + sentence means,hyphen,relative,0.0016638935108153079
+gate_0063,Unique + sentence means,hyphen,per_sentence,0.2
+gate_0063,Unique + sentence means,en_dash,relative,0.0
+gate_0063,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0063,Unique + sentence means,em_dash,relative,0.0
+gate_0063,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0063,Unique + sentence means,comma,relative,0.014975041597337771
+gate_0063,Unique + sentence means,comma,per_sentence,1.8
+gate_0063,Final gated,semicolon,relative,0.0
+gate_0063,Final gated,semicolon,per_sentence,0.0
+gate_0063,Final gated,colon,relative,0.0
+gate_0063,Final gated,colon,per_sentence,0.0
+gate_0063,Final gated,hyphen,relative,0.0008368200836820083
+gate_0063,Final gated,hyphen,per_sentence,0.1
+gate_0063,Final gated,en_dash,relative,0.0
+gate_0063,Final gated,en_dash,per_sentence,0.0
+gate_0063,Final gated,em_dash,relative,0.0
+gate_0063,Final gated,em_dash,per_sentence,0.0
+gate_0063,Final gated,comma,relative,0.009205020920502092
+gate_0063,Final gated,comma,per_sentence,1.1
+gate_0063,Human,semicolon,relative,0.0002792845435401134
+gate_0063,Human,semicolon,per_sentence,0.03637159137159138
+gate_0063,Human,colon,relative,0.0002069953724405618
+gate_0063,Human,colon,per_sentence,0.03220899470899471
+gate_0063,Human,hyphen,relative,0.0014339685441804128
+gate_0063,Human,hyphen,per_sentence,0.1902819402819403
+gate_0063,Human,en_dash,relative,0.0003265717321684168
+gate_0063,Human,en_dash,per_sentence,0.044997964997965004
+gate_0063,Human,em_dash,relative,0.0
+gate_0063,Human,em_dash,per_sentence,0.0
+gate_0063,Human,comma,relative,0.009420766160742184
+gate_0063,Human,comma,per_sentence,1.2371682946682945
+gate_0064,Original AI,semicolon,relative,0.0
+gate_0064,Original AI,semicolon,per_sentence,0.0
+gate_0064,Original AI,colon,relative,0.0
+gate_0064,Original AI,colon,per_sentence,0.0
+gate_0064,Original AI,hyphen,relative,0.0
+gate_0064,Original AI,hyphen,per_sentence,0.0
+gate_0064,Original AI,en_dash,relative,0.0
+gate_0064,Original AI,en_dash,per_sentence,0.0
+gate_0064,Original AI,em_dash,relative,0.0
+gate_0064,Original AI,em_dash,per_sentence,0.0
+gate_0064,Original AI,comma,relative,0.011638316920322292
+gate_0064,Original AI,comma,per_sentence,1.8571428571428572
+gate_0064,Unique + sentence means,semicolon,relative,0.0
+gate_0064,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0064,Unique + sentence means,colon,relative,0.0
+gate_0064,Unique + sentence means,colon,per_sentence,0.0
+gate_0064,Unique + sentence means,hyphen,relative,0.0
+gate_0064,Unique + sentence means,hyphen,per_sentence,0.0
+gate_0064,Unique + sentence means,en_dash,relative,0.0
+gate_0064,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0064,Unique + sentence means,em_dash,relative,0.0
+gate_0064,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0064,Unique + sentence means,comma,relative,0.0125
+gate_0064,Unique + sentence means,comma,per_sentence,1.8571428571428572
+gate_0064,Final gated,semicolon,relative,0.0
+gate_0064,Final gated,semicolon,per_sentence,0.0
+gate_0064,Final gated,colon,relative,0.0
+gate_0064,Final gated,colon,per_sentence,0.0
+gate_0064,Final gated,hyphen,relative,0.0019550342130987292
+gate_0064,Final gated,hyphen,per_sentence,0.2857142857142857
+gate_0064,Final gated,en_dash,relative,0.0
+gate_0064,Final gated,en_dash,per_sentence,0.0
+gate_0064,Final gated,em_dash,relative,0.0
+gate_0064,Final gated,em_dash,per_sentence,0.0
+gate_0064,Final gated,comma,relative,0.005865102639296188
+gate_0064,Final gated,comma,per_sentence,0.8571428571428571
+gate_0064,Human,semicolon,relative,0.00014412547265080217
+gate_0064,Human,semicolon,per_sentence,0.030000000000000002
+gate_0064,Human,colon,relative,0.0003291285108977067
+gate_0064,Human,colon,per_sentence,0.06142857142857142
+gate_0064,Human,hyphen,relative,0.00528817157336727
+gate_0064,Human,hyphen,per_sentence,0.8587301587301589
+gate_0064,Human,en_dash,relative,0.0
+gate_0064,Human,en_dash,per_sentence,0.0
+gate_0064,Human,em_dash,relative,0.0
+gate_0064,Human,em_dash,per_sentence,0.0
+gate_0064,Human,comma,relative,0.005718877799837235
+gate_0064,Human,comma,per_sentence,0.9682142857142859
+gate_0068,Original AI,semicolon,relative,0.0
+gate_0068,Original AI,semicolon,per_sentence,0.0
+gate_0068,Original AI,colon,relative,0.0
+gate_0068,Original AI,colon,per_sentence,0.0
+gate_0068,Original AI,hyphen,relative,0.0
+gate_0068,Original AI,hyphen,per_sentence,0.0
+gate_0068,Original AI,en_dash,relative,0.0
+gate_0068,Original AI,en_dash,per_sentence,0.0
+gate_0068,Original AI,em_dash,relative,0.0
+gate_0068,Original AI,em_dash,per_sentence,0.0
+gate_0068,Original AI,comma,relative,0.01129032258064516
+gate_0068,Original AI,comma,per_sentence,1.4
+gate_0068,Unique + sentence means,semicolon,relative,0.0
+gate_0068,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0068,Unique + sentence means,colon,relative,0.0
+gate_0068,Unique + sentence means,colon,per_sentence,0.0
+gate_0068,Unique + sentence means,hyphen,relative,0.0
+gate_0068,Unique + sentence means,hyphen,per_sentence,0.0
+gate_0068,Unique + sentence means,en_dash,relative,0.0
+gate_0068,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0068,Unique + sentence means,em_dash,relative,0.0
+gate_0068,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0068,Unique + sentence means,comma,relative,0.01231060606060606
+gate_0068,Unique + sentence means,comma,per_sentence,2.1666666666666665
+gate_0068,Final gated,semicolon,relative,0.0
+gate_0068,Final gated,semicolon,per_sentence,0.0
+gate_0068,Final gated,colon,relative,0.0
+gate_0068,Final gated,colon,per_sentence,0.0
+gate_0068,Final gated,hyphen,relative,0.0
+gate_0068,Final gated,hyphen,per_sentence,0.0
+gate_0068,Final gated,en_dash,relative,0.0
+gate_0068,Final gated,en_dash,per_sentence,0.0
+gate_0068,Final gated,em_dash,relative,0.0
+gate_0068,Final gated,em_dash,per_sentence,0.0
+gate_0068,Final gated,comma,relative,0.008555133079847909
+gate_0068,Final gated,comma,per_sentence,1.5
+gate_0068,Human,semicolon,relative,0.00018023463947641636
+gate_0068,Human,semicolon,per_sentence,0.0241008991008991
+gate_0068,Human,colon,relative,0.0002394648615082038
+gate_0068,Human,colon,per_sentence,0.027826340326340328
+gate_0068,Human,hyphen,relative,0.0013320275542652417
+gate_0068,Human,hyphen,per_sentence,0.17357439568978028
+gate_0068,Human,en_dash,relative,0.00039240312460949676
+gate_0068,Human,en_dash,per_sentence,0.0521062271062271
+gate_0068,Human,em_dash,relative,0.0
+gate_0068,Human,em_dash,per_sentence,0.0
+gate_0068,Human,comma,relative,0.01056828362183873
+gate_0068,Human,comma,per_sentence,1.3476271591656208
+gate_0072,Original AI,semicolon,relative,0.0
+gate_0072,Original AI,semicolon,per_sentence,0.0
+gate_0072,Original AI,colon,relative,0.0020876826722338203
+gate_0072,Original AI,colon,per_sentence,0.2
+gate_0072,Original AI,hyphen,relative,0.0027835768963117608
+gate_0072,Original AI,hyphen,per_sentence,0.26666666666666666
+gate_0072,Original AI,en_dash,relative,0.0
+gate_0072,Original AI,en_dash,per_sentence,0.0
+gate_0072,Original AI,em_dash,relative,0.0
+gate_0072,Original AI,em_dash,per_sentence,0.0
+gate_0072,Original AI,comma,relative,0.014613778705636743
+gate_0072,Original AI,comma,per_sentence,1.4
+gate_0072,Unique + sentence means,semicolon,relative,0.0
+gate_0072,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0072,Unique + sentence means,colon,relative,0.0020891364902506965
+gate_0072,Unique + sentence means,colon,per_sentence,0.2
+gate_0072,Unique + sentence means,hyphen,relative,0.002785515320334262
+gate_0072,Unique + sentence means,hyphen,per_sentence,0.26666666666666666
+gate_0072,Unique + sentence means,en_dash,relative,0.0
+gate_0072,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0072,Unique + sentence means,em_dash,relative,0.0
+gate_0072,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0072,Unique + sentence means,comma,relative,0.013927576601671309
+gate_0072,Unique + sentence means,comma,per_sentence,1.3333333333333333
+gate_0072,Final gated,semicolon,relative,0.0
+gate_0072,Final gated,semicolon,per_sentence,0.0
+gate_0072,Final gated,colon,relative,0.0014035087719298245
+gate_0072,Final gated,colon,per_sentence,0.13333333333333333
+gate_0072,Final gated,hyphen,relative,0.002807017543859649
+gate_0072,Final gated,hyphen,per_sentence,0.26666666666666666
+gate_0072,Final gated,en_dash,relative,0.0
+gate_0072,Final gated,en_dash,per_sentence,0.0
+gate_0072,Final gated,em_dash,relative,0.0
+gate_0072,Final gated,em_dash,per_sentence,0.0
+gate_0072,Final gated,comma,relative,0.0077192982456140355
+gate_0072,Final gated,comma,per_sentence,0.7333333333333333
+gate_0072,Human,semicolon,relative,0.001339246854321339
+gate_0072,Human,semicolon,per_sentence,0.10210531938136594
+gate_0072,Human,colon,relative,0.0003342315906676852
+gate_0072,Human,colon,per_sentence,0.02423629770193911
+gate_0072,Human,hyphen,relative,0.0023928120845497303
+gate_0072,Human,hyphen,per_sentence,0.18053416313175366
+gate_0072,Human,en_dash,relative,0.0
+gate_0072,Human,en_dash,per_sentence,0.0
+gate_0072,Human,em_dash,relative,0.0
+gate_0072,Human,em_dash,per_sentence,0.0
+gate_0072,Human,comma,relative,0.00874995046000427
+gate_0072,Human,comma,per_sentence,0.6611959449144804
+gate_0077,Original AI,semicolon,relative,0.0
+gate_0077,Original AI,semicolon,per_sentence,0.0
+gate_0077,Original AI,colon,relative,0.00275178866263071
+gate_0077,Original AI,colon,per_sentence,0.3125
+gate_0077,Original AI,hyphen,relative,0.012107870115575124
+gate_0077,Original AI,hyphen,per_sentence,1.375
+gate_0077,Original AI,en_dash,relative,0.0
+gate_0077,Original AI,en_dash,per_sentence,0.0
+gate_0077,Original AI,em_dash,relative,0.0
+gate_0077,Original AI,em_dash,per_sentence,0.0
+gate_0077,Original AI,comma,relative,0.012107870115575124
+gate_0077,Original AI,comma,per_sentence,1.375
+gate_0077,Unique + sentence means,semicolon,relative,0.0
+gate_0077,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0077,Unique + sentence means,colon,relative,0.003132832080200501
+gate_0077,Unique + sentence means,colon,per_sentence,0.3125
+gate_0077,Unique + sentence means,hyphen,relative,0.013784461152882205
+gate_0077,Unique + sentence means,hyphen,per_sentence,1.375
+gate_0077,Unique + sentence means,en_dash,relative,0.0
+gate_0077,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0077,Unique + sentence means,em_dash,relative,0.0
+gate_0077,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0077,Unique + sentence means,comma,relative,0.013784461152882205
+gate_0077,Unique + sentence means,comma,per_sentence,1.375
+gate_0077,Final gated,semicolon,relative,0.0
+gate_0077,Final gated,semicolon,per_sentence,0.0
+gate_0077,Final gated,colon,relative,0.0
+gate_0077,Final gated,colon,per_sentence,0.0
+gate_0077,Final gated,hyphen,relative,0.0025559105431309905
+gate_0077,Final gated,hyphen,per_sentence,0.25
+gate_0077,Final gated,en_dash,relative,0.0
+gate_0077,Final gated,en_dash,per_sentence,0.0
+gate_0077,Final gated,em_dash,relative,0.0
+gate_0077,Final gated,em_dash,per_sentence,0.0
+gate_0077,Final gated,comma,relative,0.0076677316293929714
+gate_0077,Final gated,comma,per_sentence,0.75
+gate_0077,Human,semicolon,relative,0.0011205808586925903
+gate_0077,Human,semicolon,per_sentence,0.08578505607452974
+gate_0077,Human,colon,relative,0.0003240931676663438
+gate_0077,Human,colon,per_sentence,0.023602567023619656
+gate_0077,Human,hyphen,relative,0.002214133043427955
+gate_0077,Human,hyphen,per_sentence,0.17678406570969502
+gate_0077,Human,en_dash,relative,0.0
+gate_0077,Human,en_dash,per_sentence,0.0
+gate_0077,Human,em_dash,relative,0.0
+gate_0077,Human,em_dash,per_sentence,0.0
+gate_0077,Human,comma,relative,0.010180081323975547
+gate_0077,Human,comma,per_sentence,0.837140901284494
+gate_0080,Original AI,semicolon,relative,0.0
+gate_0080,Original AI,semicolon,per_sentence,0.0
+gate_0080,Original AI,colon,relative,0.0
+gate_0080,Original AI,colon,per_sentence,0.0
+gate_0080,Original AI,hyphen,relative,0.0020755500207555004
+gate_0080,Original AI,hyphen,per_sentence,0.35714285714285715
+gate_0080,Original AI,en_dash,relative,0.0
+gate_0080,Original AI,en_dash,per_sentence,0.0
+gate_0080,Original AI,em_dash,relative,0.0
+gate_0080,Original AI,em_dash,per_sentence,0.0
+gate_0080,Original AI,comma,relative,0.007471980074719801
+gate_0080,Original AI,comma,per_sentence,1.2857142857142858
+gate_0080,Unique + sentence means,semicolon,relative,0.0
+gate_0080,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0080,Unique + sentence means,colon,relative,0.0
+gate_0080,Unique + sentence means,colon,per_sentence,0.0
+gate_0080,Unique + sentence means,hyphen,relative,0.0007288629737609329
+gate_0080,Unique + sentence means,hyphen,per_sentence,0.09090909090909091
+gate_0080,Unique + sentence means,en_dash,relative,0.0
+gate_0080,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0080,Unique + sentence means,em_dash,relative,0.0
+gate_0080,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0080,Unique + sentence means,comma,relative,0.0058309037900874635
+gate_0080,Unique + sentence means,comma,per_sentence,0.7272727272727273
+gate_0080,Final gated,semicolon,relative,0.0
+gate_0080,Final gated,semicolon,per_sentence,0.0
+gate_0080,Final gated,colon,relative,0.0
+gate_0080,Final gated,colon,per_sentence,0.0
+gate_0080,Final gated,hyphen,relative,0.0007288629737609329
+gate_0080,Final gated,hyphen,per_sentence,0.09090909090909091
+gate_0080,Final gated,en_dash,relative,0.0
+gate_0080,Final gated,en_dash,per_sentence,0.0
+gate_0080,Final gated,em_dash,relative,0.0
+gate_0080,Final gated,em_dash,per_sentence,0.0
+gate_0080,Final gated,comma,relative,0.0058309037900874635
+gate_0080,Final gated,comma,per_sentence,0.7272727272727273
+gate_0080,Human,semicolon,relative,0.0001404019910215
+gate_0080,Human,semicolon,per_sentence,0.018535353535353537
+gate_0080,Human,colon,relative,0.0002909709008726334
+gate_0080,Human,colon,per_sentence,0.032984006734006734
+gate_0080,Human,hyphen,relative,0.003278537140205448
+gate_0080,Human,hyphen,per_sentence,0.3833946608946609
+gate_0080,Human,en_dash,relative,0.0
+gate_0080,Human,en_dash,per_sentence,0.0
+gate_0080,Human,em_dash,relative,0.0
+gate_0080,Human,em_dash,per_sentence,0.0
+gate_0080,Human,comma,relative,0.007524046005348006
+gate_0080,Human,comma,per_sentence,0.9026178451178452
+gate_0087,Original AI,semicolon,relative,0.0
+gate_0087,Original AI,semicolon,per_sentence,0.0
+gate_0087,Original AI,colon,relative,0.0007692307692307692
+gate_0087,Original AI,colon,per_sentence,0.1
+gate_0087,Original AI,hyphen,relative,0.01
+gate_0087,Original AI,hyphen,per_sentence,1.3
+gate_0087,Original AI,en_dash,relative,0.0
+gate_0087,Original AI,en_dash,per_sentence,0.0
+gate_0087,Original AI,em_dash,relative,0.0
+gate_0087,Original AI,em_dash,per_sentence,0.0
+gate_0087,Original AI,comma,relative,0.006923076923076923
+gate_0087,Original AI,comma,per_sentence,0.9
+gate_0087,Unique + sentence means,semicolon,relative,0.0008382229673093043
+gate_0087,Unique + sentence means,semicolon,per_sentence,0.125
+gate_0087,Unique + sentence means,colon,relative,0.0008382229673093043
+gate_0087,Unique + sentence means,colon,per_sentence,0.125
+gate_0087,Unique + sentence means,hyphen,relative,0.010896898575020955
+gate_0087,Unique + sentence means,hyphen,per_sentence,1.625
+gate_0087,Unique + sentence means,en_dash,relative,0.0
+gate_0087,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0087,Unique + sentence means,em_dash,relative,0.0
+gate_0087,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0087,Unique + sentence means,comma,relative,0.00586756077116513
+gate_0087,Unique + sentence means,comma,per_sentence,0.875
+gate_0087,Final gated,semicolon,relative,0.0008382229673093043
+gate_0087,Final gated,semicolon,per_sentence,0.125
+gate_0087,Final gated,colon,relative,0.0
+gate_0087,Final gated,colon,per_sentence,0.0
+gate_0087,Final gated,hyphen,relative,0.00586756077116513
+gate_0087,Final gated,hyphen,per_sentence,0.875
+gate_0087,Final gated,en_dash,relative,0.0
+gate_0087,Final gated,en_dash,per_sentence,0.0
+gate_0087,Final gated,em_dash,relative,0.0
+gate_0087,Final gated,em_dash,per_sentence,0.0
+gate_0087,Final gated,comma,relative,0.006705783738474434
+gate_0087,Final gated,comma,per_sentence,1.0
+gate_0087,Human,semicolon,relative,0.00017008601263003372
+gate_0087,Human,semicolon,per_sentence,0.034166666666666665
+gate_0087,Human,colon,relative,0.00023073050958560855
+gate_0087,Human,colon,per_sentence,0.04119047619047619
+gate_0087,Human,hyphen,relative,0.005181179143238955
+gate_0087,Human,hyphen,per_sentence,0.853611111111111
+gate_0087,Human,en_dash,relative,0.0
+gate_0087,Human,en_dash,per_sentence,0.0
+gate_0087,Human,em_dash,relative,0.0
+gate_0087,Human,em_dash,per_sentence,0.0
+gate_0087,Human,comma,relative,0.00644937608598588
+gate_0087,Human,comma,per_sentence,1.0886507936507934
+gate_0091,Original AI,semicolon,relative,0.0
+gate_0091,Original AI,semicolon,per_sentence,0.0
+gate_0091,Original AI,colon,relative,0.0
+gate_0091,Original AI,colon,per_sentence,0.0
+gate_0091,Original AI,hyphen,relative,0.0008288437629506838
+gate_0091,Original AI,hyphen,per_sentence,0.09523809523809523
+gate_0091,Original AI,en_dash,relative,0.0
+gate_0091,Original AI,en_dash,per_sentence,0.0
+gate_0091,Original AI,em_dash,relative,0.0
+gate_0091,Original AI,em_dash,per_sentence,0.0
+gate_0091,Original AI,comma,relative,0.00870285951098218
+gate_0091,Original AI,comma,per_sentence,1.0
+gate_0091,Unique + sentence means,semicolon,relative,0.0
+gate_0091,Unique + sentence means,semicolon,per_sentence,0.0
+gate_0091,Unique + sentence means,colon,relative,0.0
+gate_0091,Unique + sentence means,colon,per_sentence,0.0
+gate_0091,Unique + sentence means,hyphen,relative,0.0008288437629506838
+gate_0091,Unique + sentence means,hyphen,per_sentence,0.09523809523809523
+gate_0091,Unique + sentence means,en_dash,relative,0.0
+gate_0091,Unique + sentence means,en_dash,per_sentence,0.0
+gate_0091,Unique + sentence means,em_dash,relative,0.0
+gate_0091,Unique + sentence means,em_dash,per_sentence,0.0
+gate_0091,Unique + sentence means,comma,relative,0.00870285951098218
+gate_0091,Unique + sentence means,comma,per_sentence,1.0
+gate_0091,Final gated,semicolon,relative,0.0
+gate_0091,Final gated,semicolon,per_sentence,0.0
+gate_0091,Final gated,colon,relative,0.0
+gate_0091,Final gated,colon,per_sentence,0.0
+gate_0091,Final gated,hyphen,relative,0.0012489592006661116
+gate_0091,Final gated,hyphen,per_sentence,0.14285714285714285
+gate_0091,Final gated,en_dash,relative,0.0
+gate_0091,Final gated,en_dash,per_sentence,0.0
+gate_0091,Final gated,em_dash,relative,0.0
+gate_0091,Final gated,em_dash,per_sentence,0.0
+gate_0091,Final gated,comma,relative,0.006661115736885929
+gate_0091,Final gated,comma,per_sentence,0.7619047619047619
+gate_0091,Human,semicolon,relative,5.9759791113649465e-05
+gate_0091,Human,semicolon,per_sentence,0.007789244352711845
+gate_0091,Human,colon,relative,0.00022528708102867708
+gate_0091,Human,colon,per_sentence,0.029834827338697308
+gate_0091,Human,hyphen,relative,0.002348179310004928
+gate_0091,Human,hyphen,per_sentence,0.3047741481309256
+gate_0091,Human,en_dash,relative,0.0
+gate_0091,Human,en_dash,per_sentence,0.0
+gate_0091,Human,em_dash,relative,0.0
+gate_0091,Human,em_dash,per_sentence,0.0
+gate_0091,Human,comma,relative,0.00637240055747688
+gate_0091,Human,comma,per_sentence,0.8348236739417584

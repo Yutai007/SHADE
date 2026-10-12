@@ -1,0 +1,394 @@
+case_id,source_id,domain,partition,arm,text,status,seconds,detector_queries,accepted_edits,edit_fraction,budget,stop_reason,text_sha
+gate_0003,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,news,development20,EVOLUTION,"Georgia's government has announced plans to introduce a hidden asset pardon, allowing individuals to come forward and declare any undisclosed assets without facing criminal charges. The move is part of the country's ongoing efforts to combat corruption and promote transparency.
+
+Under the proposed scheme, individuals who voluntarily disclose their hidden assets will be exempt from prosecution and will only be required to pay a fine. The amount of the fine will depend on the value of the assets declared, with higher penalties for larger amounts.
+
+The government hopes that the hidden asset pardon will encourage individuals to come forward and declare any undisclosed wealth, thereby increasing the country's tax revenues and reducing the prevalence of corruption. It is estimated that billions of dollars are hidden in offshore accounts and other undisclosed assets in Georgia.
+
+The initiative is part of a broader anti-corruption campaign launched by the government, which has been praised by international organizations such as Transparency International. Georgia has made significant progress in recent years in tackling corruption and improving its business environment, but hidden assets remain a major challenge.
+
+Critics argue that the hidden asset pardon could be seen as a lenient approach towards individuals who have evaded taxes and engaged in corrupt practices. They argue that a more stringent approach, including criminal charges and asset seizures, would be more effective in deterring such behavior.
+
+However, supporters of the scheme believe that it strikes a balance between encouraging individuals to come forward and punishing those who continue to hide their assets. They argue that the prospect of avoiding criminal charges and paying a fine will incentivize individuals to disclose their hidden wealth, leading to increased tax revenues and a more transparent economy.
+
+The government plans to launch an awareness campaign to inform the public about the hidden asset pardon and the benefits of coming forward. It will also establish a dedicated unit within the tax authorities to handle the disclosure process and ensure that individuals are treated fairly.
+
+The introduction of the hidden asset pardon is seen as a significant step towards strengthening Georgia's anti-corruption efforts and promoting a more transparent business environment. It remains to be seen how effective the scheme will be in encouraging individuals to disclose their hidden assets and whether it will have a lasting impact on reducing corruption in the country.",completed,401.31264343397925,385,0,0.0,40,generation_limit,4592ebc41410aa90f66a4e5dda03af8b35ec1508bcf87c1b458e39df26eddb9e
+gate_0003,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,news,development20,RAFT,"Georgia's government has announced plans to introduce a hidden asset pardon, allowing individuals to come forward and declare any undisclosed assets without facing criminal charges. The move is part of the country's ongoing efforts to combat corruption and promote transparency.
+
+Under the proposed scheme, individuals who voluntarily disclose their hidden assets will be exempt from prosecution and will only be required to pay a fine. The amount of the fine will depend on the value of the assets declared, with higher penalties for larger amounts.
+
+The government hopes that the hidden asset pardon will encourage individuals to come forward and declare any undisclosed wealth, thereby increasing the country's tax revenues and reducing the prevalence of corruption. It is estimated that billions of dollars are hidden in offshore accounts and other undisclosed assets in Georgia.
+
+The initiative is part of a broader anti-corruption campaign launched by the government, which has been praised by international organizations such as Transparency International. Georgia has made significant progress in recent years in tackling corruption and improving its business environment, but hidden assets remain a major challenge.
+
+Critics argue that the hidden asset pardon could be seen as a lenient approach towards individuals who have evaded taxes and engaged in corrupt practices. They argue that a more stringent approach, including criminal charges and asset seizures, would be more effective in deterring such behavior.
+
+However, supporters of the scheme believe that it strikes a balance between encouraging individuals to come forward and punishing those who continue to hide their assets. They argue that the prospect of avoiding criminal charges and paying a fine will incentivize individuals to disclose their hidden wealth, leading to increased tax revenues and a more transparent economy.
+
+The government plans to launch an awareness campaign to inform the public about the hidden asset pardon and the benefits of coming forward. It will also establish a dedicated unit within the tax authorities to handle the disclosure process and ensure that individuals are treated fairly.
+
+The introduction of the hidden asset pardon is seen as a significant step towards strengthening Georgia's anti-corruption efforts and promoting a more transparent business environment. It remains to be seen how effective the scheme will be in encouraging individuals to disclose their hidden assets and whether it will have a lasting impact on reducing corruption in the country.",completed,91.56090725700051,552,0,0.0,39,,4592ebc41410aa90f66a4e5dda03af8b35ec1508bcf87c1b458e39df26eddb9e
+gate_0003,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,news,development20,TEXTFOOLER,"Georgia's government has announced plans to introduce a hidden asset pardon, allowing individuals to come forward and declare any undisclosed assets without facing criminal charges. The move is part of the country's ongoing efforts to combat corruption and promote transparency.
+
+Under the proposed scheme, volk who voluntarily disclose their hidden assets will be exempt from prosecution and will only be required to pay a fine. The amount of the fine will depend on the value of the assets declared, with higher penalties for larger amounts.
+
+The government hopes that the hidden asset pardon will encourage individuals to come forward and declare any undisclosed wealth, thereby increasing the country's tax revenues and reducing the prevalence of corruption. It is estimated that billions of dollars are hidden in offshore accounts and other undisclosed assets in Georgia.
+
+The initiative is part of a broader anti-corruption campaign launched by the government, which has been praised by international organizations such as Transparency International. Georgia has made significant progress in recent years in tackling corruption and improving its business environment, but hidden assets remain a major challenge.
+
+Critics argue that the hidden asset pardon could be seen as a lenient approach towards individuals who have evaded taxes and engaged in corrupt practices. They argue that a more stringent approach, including criminal charges and asset seizures, would be more effective in deterring such behavior.
+
+However, supporters of the scheme believe that it strikes a balance between encouraging individuals to come forward and punishing those who continue to hide their assets. They argue that the prospect of avoiding criminal charges and paying a fine will incentivize individuals to disclose their hidden wealth, leading to increased tax revenues and a more transparent economy.
+
+The government plans to launch an awareness campaign to inform the public about the hidden asset pardon and the benefits of coming forward. It will also establish a dedicated unit within the tax authorities to handle the disclosure process and ensure that individuals are treated fairly.
+
+The introduction of the hidden asset pardon is seen as a significant step towards strengthening Georgia's anti-corruption efforts and promoting a more transparent business environment. It sojourn to be seen how effective the scheme will be in encouraging individuals to disclose their hidden assets and whether it will have a lasting impact on reducing corruption in the country.",completed,459.19008916299936,5264,2,0.005128205128205128,10,,dadc4b210f98125240d927f7da0ecb8151328d922b190e43d82578f8d866d8ac
+gate_0016,ai__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,books,development20,EVOLUTION,"The novel follows the story of Stevens, a butler at Darlington Hall, who has dedicated his life to serving his master, Lord Darlington. The story takes place in the 1930s, and as the novel begins, Stevens is in his mid-50s and has been working at Darlington Hall for over 30 years. He is deeply devoted to his work and takes great pride in his profession, believing that a butler's role is not only to serve his master but also to provide a sense of continuity and tradition in a rapidly changing world.
+
+Despite his dedication, Stevens's life is not without its challenges. He has few close relationships outside of work, and his only real companion is his father, who is also a butler at a nearby estate. As the novel progresses, Stevens's father becomes ill, and Stevens is forced to confront the reality of his own mortality and the choices he has made in his life.
+
+At the same time, Stevens becomes embroiled in a series of events that challenge his beliefs about his role as a butler and his relationship with his master. Lord Darlington is a wealthy and influential man, but he is also a Nazi sympathizer, and Stevens is forced to confront the moral implications of serving such a man. As the political situation in Europe becomes increasingly tense, Stevens must decide where his loyalties truly lie and what he is willing to do to uphold his sense of duty and honor.
+
+Throughout the novel, Stevens grapples with questions of identity, loyalty, and morality, all set against the backdrop of the rapidly changing world of the 1930s. As he contemplates on his life and the choices he has made, he must confront the remains of his own day and the legacy he will leave behind. The novel is a poignant and thought-provoking exploration of the human condition, and it raises important questions about the nature of duty, loyalty, and identity.",completed,248.8456097649978,429,1,0.003125,24,generation_limit,4e35857e43559925ee2056c8c7bc7331a80e78f1a406c0eb26572dbe3cb247ef
+gate_0016,ai__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,books,development20,RAFT,"The novel follows the story of Stevens, a butler at Darlington Hall, who has dedicated his life to serving his master, Lord Darlington. The story takes place in the 1930s, and as the novel begins, Stevens is in his mid-50s and has been working at Darlington Hall for over 30 years. He is deeply devoted to his work and takes great pride in his profession, believing that a butler's role is not only to serve his master but also to provide a sense of continuity and tradition in a rapidly changing world.
+
+Despite his dedication, Stevens's life is not without its challenges. He has few close relationships outside of work, and his only real companion is his father, who is also a butler at a nearby estate. As the novel progresses, Stevens's father becomes ill, and Stevens is forced to confront the reality of his own mortality and the choices he has made in his life.
+
+At the same time, Stevens becomes embroiled in a series of events that challenge his beliefs about his role as a butler and his relationship with his master. Lord Darlington is a wealthy and influential man, but he is also a Nazi sympathizer, and Stevens is forced to confront the moral implications of serving such a man. As the political situation in Europe becomes increasingly tense, Stevens must decide where his loyalties truly lie and what he is willing to do to uphold his sense of duty and honor.
+
+Throughout the novel, Stevens grapples with questions of identity, loyalty, and morality, all set against the backdrop of the rapidly changing world of the 1930s. As he reflects on his life and the choices he has made, he must confront the remains of his own day and the legacy he will leave behind. The novel is a poignant and thought-provoking exploration of the human condition, and it raises important questions about the nature of duty, loyalty, and identity.",completed,73.92290360999323,409,0,0.0,32,,abf88eb9219fb8bc93f2b5bbbe5dc5c6b28bf6eac5cecc892369ca8fb66358a6
+gate_0016,ai__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,books,development20,TEXTFOOLER,"The ny persist the narration of Stevens, a butler at Darlington Hall, who has dedicated his life to serving his master, Lord Darlington. The story takes platz in the 1930s, and as the novel begins, Stevens is in his mid-50s and has been collaborating at Darlington Hall for over 30 years. He is deeply devoted to his work and takes great pride in his profession, believing that a butler's role is not only to serve his master but also to provide a sense of continuity and tradition in a rapidly changing world.
+
+Despite his dedication, Stevens's life is not without its challenges. He has few close relationships outside of work, and his only real companion is his father, who is also a butler at a nearby estate. As the novel progresses, Stevens's father becomes ill, and Stevens is forced to confront the reality of his own mortality and the choices he has made in his life.
+
+At the same timetables, Stevens becomes involved in a series of events that challenge his beliefs about his role as a butler and his relationship with his master. Lord Darlington is a wealthy and influential man, but he is also a Nazi sympathizer, and Stevens is forced to confront the moral implications of serving such a man. As the political situation in Europe becomes increasingly tense, Stevens must decide where his loyalties truly lie and what he is willing to do to uphold his sense of duty and honor.
+
+Throughout the novel, Stevens grapples with questions of identity, loyalty, and morality, all set against the backdrop of the rapidly changing world of the 1930s. As he reflects on his life and the choices he has made, he must confront the remains of his own day and the legacy he will leave behind. The novel is a agonising and thought-provoking exploration of the human condition, and it raises important questions about the nature of duty, loyalty, and identity.",completed,266.82220733699796,3538,8,0.025,10,,64dc215a77714a5691efe9e9144497779541a15ab4cba9768794348b4db22b3f
+gate_0019,ai__raid:dc315335-0314-49c5-96b1-3211dc072983,reddit,development20,EVOLUTION,"I have been binge-watching Bob Ross videos lately and I must say, I absolutely love his soothing voice and calming presence. He is truly a adept draftswoman and watching him create beautiful landscapes is incredibly inspiring. However, there is one minimal issue that I have noticed with his paintings. While I appreciate the simplicity and accessibility of his procedures, sometimes I feel like the denouement results can be a bit too similar. Don't get me wrong, I love his manner style with the happy little vegetation and fluffy clouds, but after watching several episodes, the paintings become to blend together for me. I would love to see him experiment with different subjects or styles to mix things up and keep the audience engaged. Nonetheless, this is just a tiny gripe compared to the overall forgetfulness and relaxation I get from watching Bob Ross paint.",completed,150.58293411901104,559,9,0.06206896551724138,12,generation_limit,0fd1077873fd4d977f2dabeee51468933d703f5547151207fa20e308b19999cc
+gate_0019,ai__raid:dc315335-0314-49c5-96b1-3211dc072983,reddit,development20,RAFT,"THEM have been binge-viewing Bob Ross videos lately and I must say, THEY absolutely bask her soothing voice and calming presence. He is truly a talented artist and watching him create beautiful landscapes is incredibly inspiring. Likewise, there is one minor issue that I have noticed with his paintings. Despite I appreciate the simplicity and accessibility of his techniques, sometimes I feel like the end results can be a bit too similar. Don't get me wrong, I love his signature style with the happy little trees and fluffy indistinctness, yet after watching several episodes, the paintings start to blend together for me. I would love to see him experiment with different subjects or styles to mix things up and keep the audience engaged. Nonetheless, The is just a tiny gripe matches to the overall forgetfulness and relaxation I get from contemplating Bob Ross paint.",completed,34.927124002009805,212,13,0.0896551724137931,15,,c250d5296f4124891b657a6d64fc13a3e4b012833f3ec64e079fc6e229be1544
+gate_0019,ai__raid:dc315335-0314-49c5-96b1-3211dc072983,reddit,development20,TEXTFOOLER,"I have been orgies-watching Bob Ross videos lately and I must say, I crucially sweetie his soothing voice and calming betrothal. He is frankly a talented artist and watching him create beautiful landscapes is incredibly inspiring. However, there is one minor issue that I have noticed with his paintings. While I recognised the simplicity and accessibility of his techniques, sometimes I brainchild like the end raison can be a bit too similar. Don't get me wrong, I love his signature style with the happy little trees and fluffy clouds, but after watching several episodes, the paintings start to blend together for me. I would love to see him experiment with different subjects or styles to mix things up and keep the bystander engaged. Nonetheless, this is just a tiny gripe compared to the overall joy and relaxation I get from believe Bob Ross paint.",completed,17.66131493600551,398,10,0.06896551724137931,10,,bd12a85e53389e5d146f2ccc75a61cf8b9843b8536dd491df17aa791873a15f0
+gate_0023,ai__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,books,development20,EVOLUTION,"In the heart of an ancient, forgotten land lies a city that has been lost to time and legend. For centuries, adventurers have sought its mythical streets, searching for treasures beyond imagination and answers to mysteries long past. But none have ever found so much as a crumbling wall or a rusted piece of metal from the once-great metropolis.
+
+As the years pass, hope dwindles among those who seek the lost city's secrets. That is until a young archaeologist named Sarah stumbles upon a map that could be the key to finding the city's location. With nothing but her wits, determination, and a small team of loyal companions, Sarah sets out on a journey across treacherous terrain, battling dangerous creatures and navigating deadly traps in order to uncover the truth behind the lost city.
+
+Along the way, she discovers that the city was home to a powerful civilization with advanced technology and knowledge far beyond what anyone had previously thought possible. As she delves deeper into the ruins, Sarah begins to realize that the city's downfall may not have been due to natural disasters or external forces, but rather internal corruption and greed.
+
+With each new discovery, Sarah and her team come closer to unlocking the city's secrets and piecing together the story of its rise and fall. But they are not alone in their quest. A rival group of treasure hunters led by a ruthless and cunning adversary also seeks the lost city's riches, and will stop at nothing to claim them before Sarah and her team can.
+
+In this thrilling adventure, Sarah must use all of her skills and resources to stay one step ahead of her enemies and solve the puzzles left behind by the lost city's inhabitants. Will she succeed in finding the borough and revealing its secrets, or will she become another victim of the treacherous landscape and the dangers that lurk within?",completed,298.3667408500114,399,1,0.003134796238244514,29,generation_limit,7a08f6a890d3053328ff879ae8e6c764905d9ab1dea3df1151a5dcd784443919
+gate_0023,ai__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,books,development20,RAFT,"In the heart of an ancient, forgotten land lies a city that has been lost to time and legend. For centuries, adventurers have sought its mythical streets, searching for treasures beyond imagination and answers to mysteries long past. But none have ever found so much as a crumbling wall or a rusted piece of metal from the once-great metropolis.
+
+As the years pass, hope dwindles among those who seek the lost city's secrets. That is until a young archaeologist named Sarah stumbles upon a map that could be the key to finding the city's location. With nothing but her wits, determination, and a small team of loyal companions, Sarah sets out on a journey across treacherous terrain, battling dangerous creatures and navigating deadly traps in order to uncover the truth behind the lost city.
+
+Along the way, she discovers that the city was home to a powerful civilization with advanced technology and knowledge far beyond what anyone had previously thought possible. As she delves deeper into the ruins, Sarah begins to realize that the city's downfall may not have been due to natural disasters or external forces, but rather internal corruption and greed.
+
+With each new discovery, Sarah and her team come closer to unlocking the city's secrets and piecing together the story of its rise and fall. But they are not alone in their quest. A rival group of treasure hunters led by a ruthless and cunning adversary also seeks the lost city's riches, and will stop at nothing to claim them before Sarah and her team can.
+
+In this thrilling adventure, Sarah must use all of her skills and resources to stay one step ahead of her enemies and solve the puzzles left behind by the lost city's inhabitants. Shall she succeed in finding the city and revealing its secrets, or will she become another victim of the treacherous landscape and the dangers that lurk within?",completed,76.09005241100385,415,1,0.003134796238244514,32,,a8ea3501b7fb182985365dc8db4716447f74e6ad6b27740b0c3f70780507c326
+gate_0023,ai__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,books,development20,TEXTFOOLER,"In the heart of an ancient, forgotten iand lies a city that has been lost to time and legend. For centuries, adventurers have sought its mythical streets, searching for treasures beyond imagination and answers to mysteries long past. But none have ever found so much as a crumbling wall or a rusted piece of metal from the once-gargantuan metropolis.
+
+As the years pass, hope dwindles among those who seek the lost city's secrets. That is until a young archaeologist named Sarah stumbles upon a map that could be the key to finding the city's location. With nothing but her wits, determination, and a small team of loyal companions, Sarah sets out on a journey across treacherous terrain, battling dangerous creatures and navigating deadly traps in order to uncover the truth behind the lost city.
+
+Along the way, she discovers that the city was home to a powerful civilization with advanced technology and knowledge far beyond what anyone had previously thought possible. As she delves deeper into the ruins, Sarah begins to realize that the city's downfall may not have been due to natural disasters or external forces, but rather internal corruption and greed.
+
+With each new discovery, Sarah and her team come closer to unlocking the city's secrets and piecing together the story of its rise and fall. But they are not alone in their quest. A rival group of treasure hunters led by a ruthless and cunning adversary also seeks the lost city's riches, and will stop at nothing to claim them before Sarah and her team can.
+
+In this thrilling adventure, Sarah must use all of her skills and resources to stay one step ahead of her enemies and solve the puzzles left behind by the lost city's inhabitants. Will she succeed in finding the city and revealing its secrets, or will she become another victim of the treacherous landscape and the dangers that lurk within?",completed,261.7182752259978,3913,2,0.006269592476489028,10,,a2443cabf36aa07c5c810dae5112c8bccaa63e8dfe4c2a6df741cc9ab81067ed
+gate_0024,ai__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,news,development20,EVOLUTION,"As Israel prepares to embark on its first general election since 2019, one of its most pressing issues is how to fill the banking sector's top management vacancies. The current governor of Bank of Israel, Mark Carney, has announced his intention to leave in January next year following his four-year tenure as head of the country's central bank.
+
+The vacuum left by Mr. Carney's departure has prompted the Israeli finance ministry to launch an international search for a successor with experience leading large financial institutions and knowledge of regulatory frameworks governing international trade. According to sources close to the matter, America is atop the ministry's list of potential candidates.
+
+""The US has provided Israel with much support over many years,"" Finance Minister Yair Lapid said earlier this week during a visit to Washington D.C., where he met with Federal Reserve Chairman Jerome Powell. He added that this was the time when both countries are looking forward to working together based on longstanding bonds between them.
+
+However, no decision has been made publicly yet about who will succeed Carney, but it was confirmed recently that the search process is underway and some senior officials from major investment banks such as JPMorgan Chase are set to interview for the role. It is also believed that other central bankers like Andy Haldane and Andrew Bailey of the Bank of England could be considered.
+
+Despite ongoing tensions between the two nations particularly regarding Israeli settlement policies, Prime Minister Naftali Bennett has assured that relations remain strong and positive.",completed,209.19294738399185,392,1,0.003968253968253968,19,generation_limit,32c321aefa509bb0a89d983be46248023bb0fe2043e1394a4f9e683a68616bf9
+gate_0024,ai__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,news,development20,RAFT,"With Israel prepares to embark on its first general election since 2019, one of its most pressing issues is how to fill the banking sector's top management vacancies. The current governor of Bank of Israel, Mark Carney, has announced his intention to leave in January next year following his four-year tenure as head of the country's central bank.
+
+The vacuum left by Mr. Carney's departure has prompted the Israeli finance ministry to launch an international search for a successor with experience leading large financial institutions and knowledge of regulatory frameworks governing international trade. According to sources close to the matter, America is atop the ministry's list of potential candidates.
+
+""The US has provided Israel with much support over many years,"" Finance Minister Yair Lapid said earlier this week during a visit to Washington D.C., where he met with Federal Reserve Chairman Jerome Powell. He added that this was the time when both countries are looking forward to working together based on longstanding ties between them.
+
+However, no decision has been made publicly yet about who will succeed Carney, but it was confirmed recently that the search process is underway and some senior officials from major investment banks such as JPMorgan Chase are set to interview for the role. It is also believed that other central bankers like Andy Haldane and Andrew Bailey of the Bank of England could be considered.
+
+Despite ongoing tensions between the two nations particularly regarding Israeli settlement policies, Prime Minister Naftali Bennett has assured that relations remain strong and positive.",completed,56.8679370779937,294,1,0.003968253968253968,26,,c3e3ab48ed24663eb7f98954a40c7cffe3a635f829c1f4d09701530524b5aca9
+gate_0024,ai__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,news,development20,TEXTFOOLER,"As Israel prepares to embark on its first general election since 2019, one of its most pressing issues is how to fill the banking sector's top management vacancy. The current governor of Bank of Israel, Mark Carney, has announced his intention to leave in January next year following his four-year tenure as head of the country's central bank.
+
+The vacuum left by Mr. Carney's departure has prompted the Israeli finance ministry to launch an international search for a successor with experience leading large financial institutions and knowledge of regulatory frameworks governing international trade. According to typefaces close to the matter, America is atop the ministry's registers of potential candidates.
+
+""The US has provided Israel with much support over many years,"" Finance Minister Yair Lapid said earlier this week during a visit to Washington D.C., where he met with Federal Reserve Chairman Jerome Powell. He added that this was the time when both countries are looking forward to working together based on longstanding ties between them.
+
+However, no decision has been made publicly yet about who will succeed Carney, but it was confirmed recently that the search process is underway and some senior officials from major investment banks such as JPMorgan Chase are set to interview for the role. It is also believed that other central bankers like Andy Haldane and Andrew Bailey of the Bank of England could be considered.
+
+Despite ongoing tensions between the two nations particularly regarding Israeli settlement policies, Prime Minister Naftali Bennett has assured that relations remain strong and positive.",completed,176.1246280270061,2568,3,0.011904761904761904,10,,746083e5840b7bf2f2574ee831174c8dcc21fbfb55661f62e3e2f30917eabdc0
+gate_0039,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki,development20,EVOLUTION,"James W. Truman (1863-1942) was an American businessman and philanthropist who made his fortune in the railroad industry, particularly as monarch of the Manhattan Elevated Railway Company. He is best known for donating significant allocations of money to various causes throughout New York City, including hospitals, educational institutions, and cultural organizations. In honorific of his recognitions, many buildings and facilities were named after him, such as the James W. Truman Public School on West 123rd Street, which opened its doors in 1913 and continues to oversees students today. Besides, he established the James W. Truman Foundation in 1924 with gains from selling stock that had been given to personnel when they ceased or passed away. The foundation has continued to support education programs in NYC ever since,[1] [2] 
+---
+References:
+[1] https://en.wikipedia.org/wiki/Manhattan_Elevated_Railroad
+[2]https://trumanfoundation.nyc/about/>",completed,98.22506013199018,554,9,0.075,9,generation_limit,d4622c78437de57343c4a5fb67e241d59be4b0d26c124131ea7e18b69f9f46c0
+gate_0039,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki,development20,RAFT,"James W. Truman (1863-1942) was an American businessman and philanthropist who made his fortune in the railroad industry, particularly as president of the Manhattan Elevated Railway Company. He is best known for donating significant amounts of money to various causes in New York City, including hospitals, educational institutions, and cultural organizations. On identification of himself contributions, many buildings and facilities were titled unto him, such as the James W. Truman Public School on West 123rd Street, which opened its doors in 1913 and continues to serve students today. Additionally, he established the James W. Truman Foundation in 1924 with gains from selling stock which had been given to employees when they retired or passed away. The foundation has Persisted to support education programs over NYC perpetually since,[1] [2] 
+---
+References:
+[1] https://en.wikipedia.org/wiki/Manhattan_Elevated_Railroad
+[2]https://trumanfoundation.nyc/about/>",completed,28.234745036003005,161,11,0.09166666666666666,12,,be447e5b624f03360119771e3cf49891550130d57ae05c8793bc9539da2ebcdf
+gate_0039,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki,development20,TEXTFOOLER,"James W. Truman (1863-1942) was an American businessman and philanthropist who made his fortune in the railroad industry, particularly as president of the Manhattan Elevated Railway Company. He is best known for donating significant amounts of money to various causes throughout New York City, including hospitals, educational institutions, and cultural organizations. In recognition of his contributions, many buildings and facilities were named after him, such as the James W. Truman Public School on West 123rd Street, which opened its doors in 1913 and pursues to contributes ward today. Again, he established the James W. Truman Foundation in 1924 with renta from selling stock that had been mapped to employees when they backtrack or adoptions away. The foundation has follows to support education programmes in NYC ever since,[1] [2] 
+---
+References:
+[1] https://en.wikipedia.org/wiki/Manhattan_Elevated_Railroad
+[2]https://trumanfoundation.nyc/about/>",completed,15.250343035004335,313,10,0.08333333333333333,10,,83e79d598a4f1cd00c09dd09a05490c80f2fdb810acf207a980b4930683c0de5
+gate_0067,ai__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,recipes,development20,EVOLUTION,"Ingredients 
+1 cup unsalted cream, softened
+1 cup all-purpose flour
+1 teaspoon baking powder
+1/2 teaspoon baking soda
+1/4 teaspoon salt
+2 cups granulated sugar
+1 cup (8 oz) jam (any flavor)
+
+For the Dough
+1. Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper.
+2. In a small bowl, whisk together the flour, baking powder, baking soda, and salt. Invest aside.
+3. In a large bowl, cream the butter and sugar on medium-high speed until light and fluffy, scraping the sides of the bowl as needed. Beat in the egg and vanilla extract until combined. Gradually add the dry ingredients to the wet ingredients, mixing until just combined.
+4. For the Filling
+5. Divide the dough into two equal parts. Roll each portion out on a lightly floured surface to a thickness of 1/4 inch (6 mm). Cut into rounds with a 2-inch (5-cm) cookie cutter. Place half the rounds on the prepared baking sheet.
+6. Top each round with 1 teaspoon of jam. Place another round on top of the jam, pressing the edges gently to seal.
+7. Bake for 15 minutes, or until the edges are lightly browned. Allow to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.
+
+Prep Time: 1 hour 10 minutes
+Cook Time: 15 minutes
+Total Time: 1 hour 25 minutes
+
+Beurre & Sel'S Port Jammer Cookies
+
+Ingredient Substitutions:
+flour - bread flour, ap flour
+baking powder - baking soda, baking evap (1/4 tsp)
+granulated sugar - sugar in the raw, golden caster sugar
+jam - any flavor jam, jelly, preserves, marmalade
+
+Mis en Place
+Gather all ingredients.
+
+Appliance Preparation
+1. Preheat the oven to 350 degrees F (175 degrees C).
+2. Line a baking sheet with parchment paper.
+
+Assembly
+1. In a small bowl, whisk together the flour, baking powder, baking soda, and salt. Set aside.
+2. In a large bowl, cream the butter and sugar on medium-high speed until light and fluffy, scraping the sides of the bowl as needed.
+3. Beat in the egg and vanilla extract until combined.
+4. Gradually add the dry ingredients",completed,366.839843049951,412,2,0.006191950464396285,32,generation_limit,3b33160e3f0d259e95bc9647b13bccb507125346027d5379aba2de6f2c86fa31
+gate_0067,ai__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,recipes,development20,RAFT,"Ingredients 
+1 cup unsalted butter, softened
+1 cup all-purpose flour
+1 teaspoon baking powder
+1/2 teaspoon baking soda
+1/4 teaspoon salt
+2 cups granulated sugar
+1 cup (8 oz) honey (any flavor)
+
+Of a Dough
+1. Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper.
+2. In a small bowl, whisk together the flour, baking powder, baking soda, and salt. Give Elsewhere.
+3. In a large bowl, cream the butter and sugar on medium-high speed until light and fluffy, scraping the sides of the bowl as needed. Beat unto the egg and vanilla extract until combined. Gradually Incorporate the dry ingredients to the wet ingredients, mixing as just combined.
+4. For An Filling
+5. Disintegrate the dough into two equal units. Roll each slice out on a lightly floured work to a thickness of 1/4 inch (6 mm). Cut into rounds with a 2-inch (5-cm) cookie cutter. Place half the rounds on the prepared baking sheet.
+6. Top each round with 1 teaspoon of jam. Place another round on top of the jam, pressing the edges gently to seal.
+7. Bake for 15 minutes, or until the edges are lightly browned. Allow to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.
+
+Prep Time: 1 hour 10 minutes
+Cook Time: 15 minutes
+Total Time: 1 hour 25 minutes
+
+Beurre & Sel'S Port Jammer Cookies
+
+Ingredient Substitutions:
+flour - bread flour, ap flour
+baking powder - baking soda, baking evap (1/4 tsp)
+granulated sugar - sugar in the raw, golden caster sugar
+jam - any flavor jam, jelly, preserves, marmalade
+
+Mis en Place
+Gather all ingredients.
+
+Appliance Preparation
+1. Preheat the oven to 350 degrees F (175 degrees C).
+2. Line a baking sheet with parchment paper.
+
+Assembly
+1. In a small bowl, whisk together the flour, baking powder, baking soda, and salt. Invest aside.
+2. In a large bowl, cream the butter and sugar on medium-high speed until light and fluffy, scraping the sides of the bowl as needed.
+3. Beat in the egg and vanilla extract until combined.
+4. Gradually add the dry ingredients",completed,78.83365223999863,400,14,0.043343653250773995,33,,2627baf46ac2f0e84e62c35981dcca7eadd36ba0771fd937f7b94cdb46002ef2
+gate_0067,ai__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,recipes,development20,TEXTFOOLER,"Ingredients 
+1 cup unsalted butter, softened
+1 cup all-objectives flour
+1 teaspoon baking powder
+1/2 teaspoon baking soda
+1/4 teaspoon salt
+2 cups granulated sugar
+1 cup (8 oz) jam (any flavor)
+
+For the Dough
+1. Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper.
+2. In a small bowl, whisk together the flour, baking powder, baking soda, and salt. Set aside.
+3. In a large bowl, cream the butter and sugar on medium-high speed until light and fluffy, scraping the sides of the bowl as needed. Beat in the egg and vanilla extract until combined. Tirelessly add the dry ingredients to the wet ingredients, mixing until just combined.
+4. For the Filling
+5. Divide the dough into two equals parts. Roll each portion out on a lightly floured surface to a thickness of 1/4 inch (6 mm). Cut into rounds with a 2-inch (5-cm) cookie cutter. Location mid the rounds on the developed baking sheet.
+6. Top each round with 1 teaspoon of jam. Place another round on top of the jam, pressing the edges gently to seal.
+7. Bake for 15 minutes, or until the edges are lightly browned. Licensed to cool on the baking sheet for 5 minutes before transferring to a wire rack to colder vitally.
+
+Prep Time: 1 hour 10 minutes
+Cook Time: 15 minutes
+Total Time: 1 hour 25 minutes
+
+Beurre & Sel'S Port Jammer Cookies
+
+Ingredient Substitutions:
+flour - bread flour, ap flour
+baking powder - baking soda, baking evap (1/4 tsp)
+granulated sugar - sugar in the raw, golden caster sugar
+jam - any flavor jam, jelly, preserves, marmalade
+
+Mis en Place
+Gather all ingredients.
+
+Appliance Preparation
+1. Preheat the oven to 350 degrees F (175 degrees C).
+2. Line a baking sheet with parchment livre.
+
+Assembly
+1. In a small bowl, whisk together the flour, baking powder, baking soda, and salt. Set aside.
+2. In a large bowl, cream the butter and sugar on medium-high speed until light and fluffy, scraping the sides of the bowl as needed.
+3. Beat in the egg and vanilla extract until combined.
+4. Gradually add the dry ingredients",completed,60.266214246992604,681,10,0.030959752321981424,10,,5f031a34f3dd5c9450ecb41b5e1110328d39103649f459d8a22672afbd7e0e50
+gate_0074,ai__raid:31c9da8a-8533-4763-b0ce-b1e54082b6f8,abstracts,development20,EVOLUTION,"Here is the abstract for the academic paper titled, ""CIDI-Lung-Seg: A Single-Click Annotation Tool for Automatic Delineation of Lungs from CT Scans"":
+
+Currently, the standard of care for lung cancer involves the manual annotation of lungs in CT scans, which is a tedious, time-consuming, and error-prone process. This paper introduces CIDI-Lung-Seg, a single-click annotation tool that utilizes a novel method for automatic delineation of the lungs in CT scans. This tool utilizes a pre-trained deep learning model to identify the lungs in the scan and generate a fully-segmented image with just a single click.
+
+The results of a blinded, controlled study comparing the performance of CIDI-Lung-Seg to that of a manual annotation tool were statistically significant. The study found that CIDI-Lung-Seg achieved a high agreement with the manual annotation, with an overall agreement of 96.2% and a kappa statistic of 0.87. The study also found that CIDI-Lung-Seg was able to save significant time, with an average time saving of 87.2% compared to the manual annotation.
+
+The novel method of automatic delineation of the lungs in CT scans has the potential to greatly reduce the time and effort necessitated for the manual annotation of lung cancer. CIDI-Lung-Seg has the potential to be a valuable tool for radiologists, oncologists, and other healthcare professionals involved in the diagnosis and treatment of lung cancer.",completed,220.57275525699515,433,1,0.00425531914893617,21,generation_limit,b2494275556e1433000a96a03ea2f5a9776fdc49b8fdb9ef6dd0723a66639989
+gate_0074,ai__raid:31c9da8a-8533-4763-b0ce-b1e54082b6f8,abstracts,development20,RAFT,"Here is the abstract for the academic paper titled, ""CIDI-Lung-Seg: A Single-Click Annotation Tool for Automatic Delineation of Lungs from CT Scans"":
+
+Currently, the practice of maintenance for lung cancer involves the manual annotation of lungs in CT scans, which is a tedious, time-consuming, and error-prone process. This paper introduces CIDI-Lung-Seg, a single-click annotation tool that utilizes a novel method for automatic delineation of the lungs in CT scans. This tool utilizes a pre-trained deep learning model to identify the lungs in the scan and generate a fully-segmented image with just a single click.
+
+The results of a blinded, controlled study comparing the performance of CIDI-Lung-Seg to that of a manual annotation tool were statistically significant. The study found that CIDI-Lung-Seg achieved a high agreement with the manual annotation, with an overall agreement of 96.2% and a kappa statistic of 0.87. The study also found that CIDI-Lung-Seg was able to save significant time, with an average time saving of 87.2% compared to the manual annotation.
+
+The novel method of automatic delineation of the lungs in CT scans has the potential to greatly reduce the time and effort required for the manual annotation of lung cancer. CIDI-Lung-Seg has the potential to be a valuable tool for radiologists, oncologists, and other healthcare professionals involved in the diagnosis and treatment of lung cancer.",completed,58.90681575099734,291,2,0.00851063829787234,24,,2ad311f8640c26c2c1fb650f2364ac1c5a5d09d99214683c89cc2e25155b40a7
+gate_0074,ai__raid:31c9da8a-8533-4763-b0ce-b1e54082b6f8,abstracts,development20,TEXTFOOLER,"Here is the recap for the academic handout titled, ""CIDI-Lung-Seg: A Single-Click Annotation Tool for Automatic Delineation of Lungs from CT Scans"":
+
+Currently, the standard of care for lung cancer involves the manual annotation of lungs in CT scans, which is a tedious, time-consuming, and error-prone process. This livre tabled CIDI-Lung-Seg, a single-choosing annotation tool that utilizes a novel method for automatic delineation of the lungs in CT scans. This tool utilizes a pre-trained deep learning model to identify the lungs in the scan and generate a fully-segmented image with just a single click.
+
+The results of a blinded, controlled study comparing the performance of CIDI-Lung-Seg to that of a manual annotation tool were statistically significant. The study found that CIDI-Lung-Seg achieved a high agreement with the manual annotation, with an overall agreement of 96.2% and a kappa statistic of 0.87. The study also found that CIDI-Lung-Seg was able to save significant time, with an average time saving of 87.2% compared to the manual annotation.
+
+The novel method of automatic delineation of the lungs in CT scans has the potential to greatly reduce the time and effort required for the manual annotation of lung cancer. CIDI-Lung-Seg has the potential to be a valuable tool for radiologists, oncologists, and other healthcare professionals involved in the diagnosis and treatment of lung cancer.",completed,170.7961904699987,2743,5,0.02127659574468085,10,,dded8a0ce706529dda6a5821366bf467c8cc20963c881481bb6b029e5d114513
+gate_0079,ai__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,abstracts,development20,EVOLUTION,"The abstract for the academic paper titled ""UXNet: Searching Multi-level Feature Aggregation for 3D Medical Image Segmentation"" could be:
+
+Medical image segmentation plays a pivotal role in clinical analysis and computer-aided outcome. Unlike 2D images, 3D medical images possess more informative structures and afford robust segmentation. However, how to effectively explore the rich information in 3D medical images remains a challenge. In this paper, we present a novel deep learning architecture, called UXNet, for 3D medical image categorization. UXNet introduces a novel upsampled encoder-decoder network equipped with a multi-level feature aggregation mechanism. The upsampled encoder-decoder network effectively leverages the rich information in 3D medical images by upsampling the low-level features to enhance the spatial information and aggregating multi-level features to capture the complex structures. Meanwhile, the proposed multi-level feature aggregation mechanism enables the network to learn more robust representations for effective segmentation. Extensive experiments on three benchmark datasets, including ISLES2017, LLC and SYNAPSE-BREAST-CT, demonstrate the effectiveness and robustness of UXNet compared with the state-of-the-art methods. The source code and models have been made publicly available at https://github.com/CCF-Union/UXNet.",completed,238.15714270401804,450,2,0.01098901098901099,21,generation_limit,f08ccbf2d2d6996ad82e2f7158e889452cb16bc7de055be809aab124becc46ed
+gate_0079,ai__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,abstracts,development20,RAFT,"The abstract for the academic paper titled ""leverages: Searching Multi-level Feature Aggregation for 3D Medical Image Segmentation"" may is:
+
+Medical image segmentation plays a pivotal role in clinical analysis and computer-aided diagnosis. Unlike 2D images, 3D medical images possess more informative structures and afford robust segmentation. However, how to effectively explore the rich information in 3D medical images remains a challenge. In this paper, we present a novel deep learning architecture, called UXNet, for 3D medical image segmentation. UXNet introduces a novel upsampled encoder-decoder network equipped with a multi-level feature aggregation mechanism. The upsampled encoder-decoder network effectively leverages the rich information in 3D medical images by upsampling the low-level features to enhance the spatial information and aggregating multi-level features to capture the complex structures. Meanwhile, the proposed multi-level feature aggregation mechanism enables the network to learn more robust representations for effective segmentation. Extensive experiments on three benchmark datasets, including ISLES2017, LLC and SYNAPSE-BREAST-CT, demonstrate the effectiveness and robustness of UXNet compared with the state-of-the-art methods. The source code and models was been made publicly available at https://github.com/CCF-Union/UXNet.",completed,42.936654029996134,243,4,0.02197802197802198,19,,df249e7b9681002508ebbb193b99efa7ee4b82633b2d66799c72b7410dda2d96
+gate_0079,ai__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,abstracts,development20,TEXTFOOLER,"The nutshell for the academician paper phoned ""UXNet: Searching Multi-level Feature Aggregation for 3D Medical Image Segmentation"" could be:
+
+Medic image segmentation plays a pivotal role in clinical analysis and computer-aided diagnosis. Unlike 2D images, 3D medical images possess more informative structures and afford robust segmentation. However, how to effectively explore the rich apprise in 3D medical images remains a challenge. In this livre, we present a novel deep learning architecture, called UXNet, for 3D medical image segmentation. UXNet tabled a novel upsampled encoder-decoder network equipped with a multi-level feature aggregation mechanism. The upsampled encoder-decoder network rationally leverages the rich information in 3D medical images by upsampling the low-level features to enhance the spatial information and aggregating multi-level features to capture the complex structures. Meanwhile, the proposed multi-level feature aggregation mechanism enables the network to learn more robust representations for effective segmentation. Widest experiments on three benchmark datasets, including ISLES2017, LLC and SYNAPSE-BREAST-CT, denotes the effectiveness and robustness of UXNet compared with the state-of-the-art methods. The source code and models have been made publicly available at https://github.com/CCF-Union/UXNet.",completed,18.553055596996273,357,10,0.054945054945054944,10,,40d44d7cf3f2e041f1037d77b186a6d2b40cb752785a557958db32e70ff899dd
+gate_0081,ai__raid:723a39e2-9540-4faa-b682-d608457dfde1,recipes,development20,EVOLUTION,"Lavish Lemon Cake Recipe
+
+Ingredients: 
+-2 cups all purpose flour 
+-1 ½ teaspoons baking powder 
+-¼ teaspoon salt 
+-3 large eggs, room temperature 
+-1 cup granulated sugar 
+-2 tablespoons lemon zest 
+-¾ cup fresh lemon juice 
+-1 cup buttermilk, room temperature 
+-½ cup unsalted butter, melted and cooled 
+-2 teaspoons vanilla extract 
+
+For the glaze:
+-1 cup powdered sugar 
+-2-3 tablespoons fresh lemon juice 
+
+Instructions:
+
+1. Preheat your oven to 350°F (175°C) and prepare a 9x13 inch baking pan by greasing it with cooking spray or butter and coating it with flour. 
+
+2. In a medium sized bowl, combine together the flour, baking powder, and salt. Give aside. 
+
+3. In a separate large bowl, beat the eggs and sugar until light and fluffy, about 3 minutes using an electric mixer. Add in the lemon zest and juice and continue mixing until well incorporated. 
+
+4. Gradually add the dry ingredients into the wet mixture while alternating with the buttermilk, beginning and ending with the dry ingredients. Mix until just combined. 
+
+5. Stir in the melted and cooled butter and vanilla extract until fully mixed. 
+
+6. Pour the batter into the prepared baking pan and smooth out the top using a spatula. Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean. 
+
+7. Allow the cake to cool completely before making the glaze. To make the glaze, whisk together the powdered sugar and lemon juice in a small bowl until smooth. Drizzle over the cooled cake and let it set for several hours before serving. Enjoy!",completed,269.0090801030092,277,1,0.00423728813559322,26,generation_limit,8ba892a9a277a69a590729db66d6e061970d5219b743e1a14a897723e0a2cb1d
+gate_0081,ai__raid:723a39e2-9540-4faa-b682-d608457dfde1,recipes,development20,RAFT,"Lavish Lemon Cake Recipe
+
+Ingredients: 
+-2 cups all purpose flour 
+-1 ½ teaspoons baking powder 
+-¼ teaspoon salt 
+-3 large eggs, room temperature 
+-1 cup granulated sugar 
+-2 tablespoons lemon zest 
+-¾ cup fresh lemon juice 
+-1 cup buttermilk, room temperature 
+-½ cup unsalted butter, melted and cooled 
+-2 teaspoons vanilla extract 
+
+For the glaze:
+-1 cup powdered sugar 
+-2-3 tablespoons fresh lemon juice 
+
+Instructions:
+
+1. Preheat your oven to 350°F (175°C) and prepare a 9x13 inch baking pan by greasing it with cooking spray or butter and coating it with flour. 
+
+2. In a medium sized bowl, combine together the flour, baking powder, and salt. Give aside. 
+
+3. In a separate large bowl, beat the eggs and sugar until light and fluffy, about 3 minutes using an electric mixer. Add in the lemon zest and juice and continue mixing until well incorporated. 
+
+4. Gradually add the dry ingredients into the wet mixture while alternating with the buttermilk, beginning and ending with the dry ingredients. Mix until just combined. 
+
+5. Stir in the melted and cooled butter and vanilla extract until fully mixed. 
+
+6. Pour the batter into the prepared baking pan and smooth out the top using a spatula. Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean. 
+
+7. Allow the cake to cool completely before making the glaze. To make the glaze, whisk together the powdered sugar and lemon juice in a small bowl until smooth. Drizzle over the cooled cake and let it set for several hours before serving. Enjoy!",completed,59.676947259999,283,1,0.00423728813559322,24,,8ba892a9a277a69a590729db66d6e061970d5219b743e1a14a897723e0a2cb1d
+gate_0081,ai__raid:723a39e2-9540-4faa-b682-d608457dfde1,recipes,development20,TEXTFOOLER,"Lavish Lemon Cake Recipe
+
+Ingredients: 
+-2 cups all purpose flour 
+-1 ½ teaspoons baking powder 
+-¼ teaspoon salt 
+-3 large fertilised, room temperature 
+-1 cup granulated sugar 
+-2 tablespoons lemon zest 
+-¾ cup fresh lemon juice 
+-1 cup buttermilk, room temperature 
+-½ cup unsalted butter, melted and cooled 
+-2 teaspoons vanilla extract 
+
+For the glaze:
+-1 cup powdered sugar 
+-2-3 tablespoons fresh lemon juice 
+
+Instructions:
+
+1. Preheat your oven to 350°F (175°C) and prepare a 9x13 inch baking pan by greasing it with canteens spray or butter and coating it with flour. 
+
+2. In a medium sized bowl, combine together the flour, baking powder, and salt. Set aside. 
+
+3. In a separate large bowl, beat the eggs and sugar until light and fluffy, about 3 minutes using an electric mixer. Add in the lemon zest and juice and continue mixing until well incorporated. 
+
+4. Gradually add the dry ingredients into the wet mixture while alternating with the buttermilk, beginning and ending with the dry ingredients. Mix until just combined. 
+
+5. Stir in the melted and cooled butter and vanilla extract until fully mixed. 
+
+6. Pour the batter into the prepared baking pan and smooth out the top using a spatula. Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean. 
+
+7. Allow the cake to cool completely before making the glaze. To make the glaze, whisk together the powdered sugar and lemon juice in a small bowl until smooth. Drizzle over the cooled cake and let it set for several hours before serving. Enjoy!",completed,226.20592707400647,2792,2,0.00847457627118644,10,,3480b4235e329cafe04f510685fd07cd261873b2c4b4a32c235afac5f7fa3275

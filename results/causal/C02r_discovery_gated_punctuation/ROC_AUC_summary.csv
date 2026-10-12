@@ -1,0 +1,4 @@
+condition,ROC_AUC,n_AI,n_human
+Original AI,0.8471776098862293,30,122
+Unique + sentence means,0.7532967987601855,30,122
+Final gated,0.6484848070256156,30,122

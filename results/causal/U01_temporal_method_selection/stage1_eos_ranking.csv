@@ -1,0 +1,11 @@
+method,non_eos,eos_rate,mean_tokens,mean_overrides,survives
+RECOVER75_90,3,0.7,329.9,3.8,True
+LINEAR80,3,0.7,333.4,3.8,True
+SIG_EARLY75,3,0.7,333.5,4.3,True
+LINEAR75,3,0.7,337.2,4.4,True
+SIG_LATE75,3,0.7,341.9,3.5,True
+PULSE8,4,0.6,336.7,3.9,True
+PULSE16,4,0.6,337.8,2.5,True
+STEP825,4,0.6,338.8,4.4,True
+STEP80,4,0.6,339.3,4.0,True
+STEP75,4,0.6,340.8,5.4,True

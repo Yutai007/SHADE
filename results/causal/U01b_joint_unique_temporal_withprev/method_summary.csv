@@ -1,0 +1,5 @@
+method,n,eos,truncated,runaway_guard,mean_tokens,supported_unique,unique_in_band,unique_in_band_rate,mean_unique,mean_replacements,mean_fallbacks,mean_search_words
+FULL,20,17,3,0,391.0,4,3,0.15,0.5459178535260831,76.25,70.15,76.25
+LINEAR75,20,19,1,0,382.25,5,3,0.15,0.5464109422572008,75.25,68.05,75.25
+RECOVER,20,18,2,0,370.6,6,4,0.2,0.5537666205856204,72.4,66.05,72.4
+SIG_EARLY75,20,19,1,0,378.35,5,3,0.15,0.5488408905402251,72.7,65.85,72.7

@@ -1,0 +1,302 @@
+feature,family,target_evidence,direct_target
+n_characters,FZ118,Not mapped as a direct target,False
+n_syllables,FZ118,Not mapped as a direct target,False
+n_words,FZ118,Not mapped as a direct target,False
+n_sentences,FZ118,Not mapped as a direct target,False
+n_difficult_words,FZ118,Not mapped as a direct target,False
+n_short_words,FZ118,Not mapped as a direct target,False
+n_long_words,FZ118,Not mapped as a direct target,False
+characters_per_word,FZ118,Not mapped as a direct target,False
+syllables_per_word,FZ118,Not mapped as a direct target,False
+words_per_sentence,FZ118,Not mapped as a direct target,False
+share_difficult_words,FZ118,Not mapped as a direct target,False
+share_short_words,FZ118,Not mapped as a direct target,False
+share_long_words,FZ118,Step 8,True
+automated_readability_index,FZ118,Not mapped as a direct target,False
+coleman_liau_index,FZ118,Not mapped as a direct target,False
+flesch_kincaid_grade,FZ118,Not mapped as a direct target,False
+flesch_reading_ease,FZ118,Not mapped as a direct target,False
+gunning_fog,FZ118,Not mapped as a direct target,False
+lix,FZ118,Not mapped as a direct target,False
+mcalpine_eflaw,FZ118,Not mapped as a direct target,False
+rix,FZ118,Not mapped as a direct target,False
+smog_grade,FZ118,Not mapped as a direct target,False
+share_stopwords,FZ118,Not mapped as a direct target,False
+share_unique_words,FZ118,NEW / lexical guard,True
+share_google_top100,FZ118,Not mapped as a direct target,False
+share_google_top1000,FZ118,Not mapped as a direct target,False
+share_google_top10000,FZ118,Not mapped as a direct target,False
+punct_relative_comma,FZ118,Not mapped as a direct target,False
+punct_relative_period,FZ118,Not mapped as a direct target,False
+punct_relative_colon,FZ118,Not mapped as a direct target,False
+punct_relative_semicolon,FZ118,Not mapped as a direct target,False
+punct_relative_question,FZ118,Not mapped as a direct target,False
+punct_relative_exclamation,FZ118,Not mapped as a direct target,False
+punct_relative_hyphen,FZ118,Not mapped as a direct target,False
+punct_relative_quote,FZ118,Not mapped as a direct target,False
+punct_relative_lparen,FZ118,Not mapped as a direct target,False
+punct_relative_rparen,FZ118,Not mapped as a direct target,False
+punct_relative_lbracket,FZ118,Not mapped as a direct target,False
+punct_relative_rbracket,FZ118,Not mapped as a direct target,False
+punct_relative_newline,FZ118,Not mapped as a direct target,False
+punct_per_sentence_comma,FZ118,Not mapped as a direct target,False
+punct_per_sentence_period,FZ118,Not mapped as a direct target,False
+punct_per_sentence_colon,FZ118,Not mapped as a direct target,False
+punct_per_sentence_semicolon,FZ118,Not mapped as a direct target,False
+punct_per_sentence_question,FZ118,Not mapped as a direct target,False
+punct_per_sentence_exclamation,FZ118,Not mapped as a direct target,False
+punct_per_sentence_hyphen,FZ118,Not mapped as a direct target,False
+punct_per_sentence_quote,FZ118,Not mapped as a direct target,False
+punct_per_sentence_lparen,FZ118,Not mapped as a direct target,False
+punct_per_sentence_rparen,FZ118,Not mapped as a direct target,False
+punct_per_sentence_lbracket,FZ118,Not mapped as a direct target,False
+punct_per_sentence_rbracket,FZ118,Not mapped as a direct target,False
+punct_per_sentence_newline,FZ118,Not mapped as a direct target,False
+n_paragraphs,FZ118,Not mapped as a direct target,False
+mean_paragraph_words,FZ118,Not mapped as a direct target,False
+word_1gram_overlap_bin_0,FZ118,Not mapped as a direct target,False
+word_1gram_overlap_bin_1,FZ118,Not mapped as a direct target,False
+word_1gram_overlap_bin_2,FZ118,Not mapped as a direct target,False
+word_1gram_overlap_bin_3,FZ118,Not mapped as a direct target,False
+word_1gram_overlap_bin_4,FZ118,Not mapped as a direct target,False
+word_1gram_overlap_bin_5,FZ118,Not mapped as a direct target,False
+word_1gram_overlap_bin_6,FZ118,Not mapped as a direct target,False
+word_1gram_overlap_bin_7,FZ118,Not mapped as a direct target,False
+word_1gram_overlap_bin_8,FZ118,Not mapped as a direct target,False
+word_1gram_overlap_bin_9,FZ118,Not mapped as a direct target,False
+word_2gram_overlap_bin_0,FZ118,Not mapped as a direct target,False
+word_2gram_overlap_bin_1,FZ118,Not mapped as a direct target,False
+word_2gram_overlap_bin_2,FZ118,Not mapped as a direct target,False
+word_2gram_overlap_bin_3,FZ118,Not mapped as a direct target,False
+word_2gram_overlap_bin_4,FZ118,Not mapped as a direct target,False
+word_2gram_overlap_bin_5,FZ118,Not mapped as a direct target,False
+word_2gram_overlap_bin_6,FZ118,Not mapped as a direct target,False
+word_2gram_overlap_bin_7,FZ118,Not mapped as a direct target,False
+word_2gram_overlap_bin_8,FZ118,Not mapped as a direct target,False
+word_2gram_overlap_bin_9,FZ118,Not mapped as a direct target,False
+word_3gram_overlap_bin_0,FZ118,Not mapped as a direct target,False
+word_3gram_overlap_bin_1,FZ118,Not mapped as a direct target,False
+word_3gram_overlap_bin_2,FZ118,Not mapped as a direct target,False
+word_3gram_overlap_bin_3,FZ118,Not mapped as a direct target,False
+word_3gram_overlap_bin_4,FZ118,Not mapped as a direct target,False
+word_3gram_overlap_bin_5,FZ118,Not mapped as a direct target,False
+word_3gram_overlap_bin_6,FZ118,Not mapped as a direct target,False
+word_3gram_overlap_bin_7,FZ118,Not mapped as a direct target,False
+word_3gram_overlap_bin_8,FZ118,Not mapped as a direct target,False
+word_3gram_overlap_bin_9,FZ118,Not mapped as a direct target,False
+pos_1gram_overlap_bin_0,POS,Not mapped as a direct target,False
+pos_1gram_overlap_bin_1,POS,Not mapped as a direct target,False
+pos_1gram_overlap_bin_2,POS,Not mapped as a direct target,False
+pos_1gram_overlap_bin_3,POS,Not mapped as a direct target,False
+pos_1gram_overlap_bin_4,POS,Not mapped as a direct target,False
+pos_1gram_overlap_bin_5,POS,Not mapped as a direct target,False
+pos_1gram_overlap_bin_6,POS,Not mapped as a direct target,False
+pos_1gram_overlap_bin_7,POS,Not mapped as a direct target,False
+pos_1gram_overlap_bin_8,POS,Not mapped as a direct target,False
+pos_1gram_overlap_bin_9,POS,Not mapped as a direct target,False
+pos_2gram_overlap_bin_0,POS,Not mapped as a direct target,False
+pos_2gram_overlap_bin_1,POS,Not mapped as a direct target,False
+pos_2gram_overlap_bin_2,POS,Not mapped as a direct target,False
+pos_2gram_overlap_bin_3,POS,Not mapped as a direct target,False
+pos_2gram_overlap_bin_4,POS,Not mapped as a direct target,False
+pos_2gram_overlap_bin_5,POS,Not mapped as a direct target,False
+pos_2gram_overlap_bin_6,POS,Not mapped as a direct target,False
+pos_2gram_overlap_bin_7,POS,Not mapped as a direct target,False
+pos_2gram_overlap_bin_8,POS,Not mapped as a direct target,False
+pos_2gram_overlap_bin_9,POS,Not mapped as a direct target,False
+pos_3gram_overlap_bin_0,POS,Not mapped as a direct target,False
+pos_3gram_overlap_bin_1,POS,Not mapped as a direct target,False
+pos_3gram_overlap_bin_2,POS,Not mapped as a direct target,False
+pos_3gram_overlap_bin_3,POS,Not mapped as a direct target,False
+pos_3gram_overlap_bin_4,POS,Not mapped as a direct target,False
+pos_3gram_overlap_bin_5,POS,Not mapped as a direct target,False
+pos_3gram_overlap_bin_6,POS,Not mapped as a direct target,False
+pos_3gram_overlap_bin_7,POS,Not mapped as a direct target,False
+pos_3gram_overlap_bin_8,POS,Not mapped as a direct target,False
+pos_3gram_overlap_bin_9,POS,Not mapped as a direct target,False
+and_conjunction_word_unigram_overlap,FZ118,Not mapped as a direct target,False
+and_conjunction_word_bigram_overlap,FZ118,Not mapped as a direct target,False
+and_conjunction_word_trigram_overlap,FZ118,Not mapped as a direct target,False
+pos_ADJ_token_share,POS,Not mapped as a direct target,False
+pos_ADJ_sentence_mean,POS,Not mapped as a direct target,False
+pos_ADJ_sentence_std,POS,Not mapped as a direct target,False
+pos_ADJ_sentence_max,POS,Not mapped as a direct target,False
+pos_ADP_token_share,POS,Step 7 compensation,True
+pos_ADP_sentence_mean,POS,Not mapped as a direct target,False
+pos_ADP_sentence_std,POS,Not mapped as a direct target,False
+pos_ADP_sentence_max,POS,Step 7,True
+pos_ADV_token_share,POS,Step 6,True
+pos_ADV_sentence_mean,POS,Not mapped as a direct target,False
+pos_ADV_sentence_std,POS,Not mapped as a direct target,False
+pos_ADV_sentence_max,POS,Not mapped as a direct target,False
+pos_AUX_token_share,POS,Not mapped as a direct target,False
+pos_AUX_sentence_mean,POS,Not mapped as a direct target,False
+pos_AUX_sentence_std,POS,Not mapped as a direct target,False
+pos_AUX_sentence_max,POS,Not mapped as a direct target,False
+pos_CCONJ_token_share,POS,Not mapped as a direct target,False
+pos_CCONJ_sentence_mean,POS,Not mapped as a direct target,False
+pos_CCONJ_sentence_std,POS,Not mapped as a direct target,False
+pos_CCONJ_sentence_max,POS,Not mapped as a direct target,False
+pos_DET_token_share,POS,Not mapped as a direct target,False
+pos_DET_sentence_mean,POS,Not mapped as a direct target,False
+pos_DET_sentence_std,POS,Not mapped as a direct target,False
+pos_DET_sentence_max,POS,Not mapped as a direct target,False
+pos_INTJ_token_share,POS,Not mapped as a direct target,False
+pos_INTJ_sentence_mean,POS,Not mapped as a direct target,False
+pos_INTJ_sentence_std,POS,Not mapped as a direct target,False
+pos_INTJ_sentence_max,POS,Not mapped as a direct target,False
+pos_NOUN_token_share,POS,Not mapped as a direct target,False
+pos_NOUN_sentence_mean,POS,Not mapped as a direct target,False
+pos_NOUN_sentence_std,POS,Not mapped as a direct target,False
+pos_NOUN_sentence_max,POS,Not mapped as a direct target,False
+pos_NUM_token_share,POS,Step 7.5,True
+pos_NUM_sentence_mean,POS,Not mapped as a direct target,False
+pos_NUM_sentence_std,POS,Not mapped as a direct target,False
+pos_NUM_sentence_max,POS,Not mapped as a direct target,False
+pos_PART_token_share,POS,Not mapped as a direct target,False
+pos_PART_sentence_mean,POS,Not mapped as a direct target,False
+pos_PART_sentence_std,POS,Not mapped as a direct target,False
+pos_PART_sentence_max,POS,Not mapped as a direct target,False
+pos_PRON_token_share,POS,Not mapped as a direct target,False
+pos_PRON_sentence_mean,POS,Not mapped as a direct target,False
+pos_PRON_sentence_std,POS,Not mapped as a direct target,False
+pos_PRON_sentence_max,POS,Not mapped as a direct target,False
+pos_PROPN_token_share,POS,Not mapped as a direct target,False
+pos_PROPN_sentence_mean,POS,Not mapped as a direct target,False
+pos_PROPN_sentence_std,POS,Not mapped as a direct target,False
+pos_PROPN_sentence_max,POS,Not mapped as a direct target,False
+pos_PUNCT_token_share,POS,Not mapped as a direct target,False
+pos_PUNCT_sentence_mean,POS,Not mapped as a direct target,False
+pos_PUNCT_sentence_std,POS,Not mapped as a direct target,False
+pos_PUNCT_sentence_max,POS,Not mapped as a direct target,False
+pos_SCONJ_token_share,POS,Not mapped as a direct target,False
+pos_SCONJ_sentence_mean,POS,Not mapped as a direct target,False
+pos_SCONJ_sentence_std,POS,Not mapped as a direct target,False
+pos_SCONJ_sentence_max,POS,Not mapped as a direct target,False
+pos_SYM_token_share,POS,Not mapped as a direct target,False
+pos_SYM_sentence_mean,POS,Not mapped as a direct target,False
+pos_SYM_sentence_std,POS,Not mapped as a direct target,False
+pos_SYM_sentence_max,POS,Not mapped as a direct target,False
+pos_VERB_token_share,POS,Not mapped as a direct target,False
+pos_VERB_sentence_mean,POS,Not mapped as a direct target,False
+pos_VERB_sentence_std,POS,Not mapped as a direct target,False
+pos_VERB_sentence_max,POS,Not mapped as a direct target,False
+pos_X_token_share,POS,Step 5,True
+pos_X_sentence_mean,POS,Not mapped as a direct target,False
+pos_X_sentence_std,POS,Not mapped as a direct target,False
+pos_X_sentence_max,POS,Not mapped as a direct target,False
+ner_CARDINAL_entity_share,NER,Not mapped as a direct target,False
+ner_CARDINAL_sentence_mean,NER,Step 10,True
+ner_CARDINAL_sentence_std,NER,Not mapped as a direct target,False
+ner_CARDINAL_sentence_max,NER,Not mapped as a direct target,False
+ner_DATE_entity_share,NER,Not mapped as a direct target,False
+ner_DATE_sentence_mean,NER,Not mapped as a direct target,False
+ner_DATE_sentence_std,NER,Not mapped as a direct target,False
+ner_DATE_sentence_max,NER,Not mapped as a direct target,False
+ner_EVENT_entity_share,NER,Not mapped as a direct target,False
+ner_EVENT_sentence_mean,NER,Not mapped as a direct target,False
+ner_EVENT_sentence_std,NER,Not mapped as a direct target,False
+ner_EVENT_sentence_max,NER,Not mapped as a direct target,False
+ner_FAC_entity_share,NER,Not mapped as a direct target,False
+ner_FAC_sentence_mean,NER,Not mapped as a direct target,False
+ner_FAC_sentence_std,NER,Not mapped as a direct target,False
+ner_FAC_sentence_max,NER,Not mapped as a direct target,False
+ner_GPE_entity_share,NER,Not mapped as a direct target,False
+ner_GPE_sentence_mean,NER,Not mapped as a direct target,False
+ner_GPE_sentence_std,NER,Not mapped as a direct target,False
+ner_GPE_sentence_max,NER,Not mapped as a direct target,False
+ner_LANGUAGE_entity_share,NER,Not mapped as a direct target,False
+ner_LANGUAGE_sentence_mean,NER,Not mapped as a direct target,False
+ner_LANGUAGE_sentence_std,NER,Not mapped as a direct target,False
+ner_LANGUAGE_sentence_max,NER,Not mapped as a direct target,False
+ner_LAW_entity_share,NER,Not mapped as a direct target,False
+ner_LAW_sentence_mean,NER,Not mapped as a direct target,False
+ner_LAW_sentence_std,NER,Not mapped as a direct target,False
+ner_LAW_sentence_max,NER,Not mapped as a direct target,False
+ner_LOC_entity_share,NER,Not mapped as a direct target,False
+ner_LOC_sentence_mean,NER,Not mapped as a direct target,False
+ner_LOC_sentence_std,NER,Not mapped as a direct target,False
+ner_LOC_sentence_max,NER,Not mapped as a direct target,False
+ner_MONEY_entity_share,NER,Not mapped as a direct target,False
+ner_MONEY_sentence_mean,NER,Not mapped as a direct target,False
+ner_MONEY_sentence_std,NER,Not mapped as a direct target,False
+ner_MONEY_sentence_max,NER,Not mapped as a direct target,False
+ner_NORP_entity_share,NER,Not mapped as a direct target,False
+ner_NORP_sentence_mean,NER,Not mapped as a direct target,False
+ner_NORP_sentence_std,NER,Not mapped as a direct target,False
+ner_NORP_sentence_max,NER,Not mapped as a direct target,False
+ner_ORDINAL_entity_share,NER,Not mapped as a direct target,False
+ner_ORDINAL_sentence_mean,NER,Not mapped as a direct target,False
+ner_ORDINAL_sentence_std,NER,Not mapped as a direct target,False
+ner_ORDINAL_sentence_max,NER,Not mapped as a direct target,False
+ner_ORG_entity_share,NER,Not mapped as a direct target,False
+ner_ORG_sentence_mean,NER,Step 9,True
+ner_ORG_sentence_std,NER,Not mapped as a direct target,False
+ner_ORG_sentence_max,NER,Not mapped as a direct target,False
+ner_PERCENT_entity_share,NER,Not mapped as a direct target,False
+ner_PERCENT_sentence_mean,NER,Not mapped as a direct target,False
+ner_PERCENT_sentence_std,NER,Not mapped as a direct target,False
+ner_PERCENT_sentence_max,NER,Not mapped as a direct target,False
+ner_PERSON_entity_share,NER,Not mapped as a direct target,False
+ner_PERSON_sentence_mean,NER,Not mapped as a direct target,False
+ner_PERSON_sentence_std,NER,Not mapped as a direct target,False
+ner_PERSON_sentence_max,NER,Not mapped as a direct target,False
+ner_PRODUCT_entity_share,NER,Not mapped as a direct target,False
+ner_PRODUCT_sentence_mean,NER,Not mapped as a direct target,False
+ner_PRODUCT_sentence_std,NER,Not mapped as a direct target,False
+ner_PRODUCT_sentence_max,NER,Not mapped as a direct target,False
+ner_QUANTITY_entity_share,NER,Not mapped as a direct target,False
+ner_QUANTITY_sentence_mean,NER,Not mapped as a direct target,False
+ner_QUANTITY_sentence_std,NER,Not mapped as a direct target,False
+ner_QUANTITY_sentence_max,NER,Not mapped as a direct target,False
+ner_TIME_entity_share,NER,Not mapped as a direct target,False
+ner_TIME_sentence_mean,NER,Not mapped as a direct target,False
+ner_TIME_sentence_std,NER,Not mapped as a direct target,False
+ner_TIME_sentence_max,NER,Not mapped as a direct target,False
+ner_WORK_OF_ART_entity_share,NER,Not mapped as a direct target,False
+ner_WORK_OF_ART_sentence_mean,NER,Not mapped as a direct target,False
+ner_WORK_OF_ART_sentence_std,NER,Not mapped as a direct target,False
+ner_WORK_OF_ART_sentence_max,NER,Not mapped as a direct target,False
+coref_mentions_per_sentence,Coreference proxy,Not mapped as a direct target,False
+coref_clusters_per_sentence,Coreference proxy,Not mapped as a direct target,False
+coref_repeated_clusters_per_sentence,Coreference proxy,Not mapped as a direct target,False
+coref_repeated_cluster_share,Coreference proxy,Not mapped as a direct target,False
+coref_repeated_mention_share,Coreference proxy,Not mapped as a direct target,False
+coref_cluster_size_mean,Coreference proxy,Not mapped as a direct target,False
+coref_cluster_size_std,Coreference proxy,Not mapped as a direct target,False
+coref_cluster_size_max,Coreference proxy,Not mapped as a direct target,False
+coref_distinct_sentence_mean,Coreference proxy,Not mapped as a direct target,False
+coref_cross_sentence_cluster_share,Coreference proxy,Not mapped as a direct target,False
+entity_grid_S_S,Entity grid,Not mapped as a direct target,False
+entity_grid_S_O,Entity grid,Not mapped as a direct target,False
+entity_grid_S_X,Entity grid,Not mapped as a direct target,False
+entity_grid_S_-,Entity grid,Not mapped as a direct target,False
+entity_grid_O_S,Entity grid,Not mapped as a direct target,False
+entity_grid_O_O,Entity grid,Not mapped as a direct target,False
+entity_grid_O_X,Entity grid,Not mapped as a direct target,False
+entity_grid_O_-,Entity grid,Not mapped as a direct target,False
+entity_grid_X_S,Entity grid,Not mapped as a direct target,False
+entity_grid_X_O,Entity grid,Not mapped as a direct target,False
+entity_grid_X_X,Entity grid,Not mapped as a direct target,False
+entity_grid_X_-,Entity grid,Not mapped as a direct target,False
+entity_grid_-_S,Entity grid,Not mapped as a direct target,False
+entity_grid_-_O,Entity grid,Not mapped as a direct target,False
+entity_grid_-_X,Entity grid,Not mapped as a direct target,False
+entity_grid_-_-,Entity grid,Not mapped as a direct target,False
+empath_all_mean,Empath,Not mapped as a direct target,False
+empath_all_median,Empath,Not mapped as a direct target,False
+empath_all_min,Empath,Not mapped as a direct target,False
+empath_all_max,Empath,Not mapped as a direct target,False
+empath_all_var,Empath,Not mapped as a direct target,False
+empath_active_mean,Empath,Not mapped as a direct target,False
+empath_active_median,Empath,Not mapped as a direct target,False
+empath_active_min,Empath,Not mapped as a direct target,False
+empath_active_max,Empath,Not mapped as a direct target,False
+empath_active_var,Empath,Not mapped as a direct target,False
+empath_q10,Empath,Not mapped as a direct target,False
+empath_q25,Empath,Not mapped as a direct target,False
+empath_q75,Empath,Not mapped as a direct target,False
+empath_q90,Empath,Not mapped as a direct target,False
+empath_active_share,Empath,Not mapped as a direct target,False
+yule_q_mean,Yule Q,Not mapped as a direct target,False
+topic_redundancy_mean_cosine,Topic redundancy,Not mapped as a direct target,False

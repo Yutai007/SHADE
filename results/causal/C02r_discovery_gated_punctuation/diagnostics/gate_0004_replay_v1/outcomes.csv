@@ -1,0 +1,4 @@
+condition,status,words,unique_words,replacements,fallbacks,reused,stop_reason
+ordinary_from_prompt,completed_eos,225,175,0,0,True,
+controlled_from_prompt,failed_manual_stop,332,115,67,102,True,"{'reason': 'manual_stop_after_length_overrun', 'words': 332}"
+ordinary_after_word48,completed_eos,225,175,0,0,False,

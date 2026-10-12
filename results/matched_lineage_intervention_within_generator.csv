@@ -1,0 +1,5 @@
+metric,generator_lineage,n,matched_minus_cross_recovery,ci_low,ci_high,exploratory_bootstrap_tail_area
+delta_U_long,Qwen lineage,44,0.15340556998520716,-0.4221351739924633,0.7123079109317904,0.5978
+delta_U_long,Falcon lineage,44,-0.19990539585575548,-0.6460875217531027,0.26783562327494315,0.3904
+selectivity_long_minus_short,Qwen lineage,44,-0.14144379090140868,-0.4562693154497194,0.1818609811272157,0.3874
+selectivity_long_minus_short,Falcon lineage,44,0.05959519685945622,-0.24582315347069397,0.36031480465717697,0.6946

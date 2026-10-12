@@ -1,0 +1,13 @@
+dataset,split,class_name,count,prevalence
+ghostbuster,test,ai,95,0.12631578947368421
+ghostbuster,test,human,95,0.6210526315789474
+ghostbuster,train,ai,447,0.174496644295302
+ghostbuster,train,human,447,0.5637583892617449
+ghostbuster,validation,ai,96,0.16666666666666666
+ghostbuster,validation,human,96,0.5625
+raid,test,ai,138,0.45652173913043476
+raid,test,human,138,0.47101449275362317
+raid,train,ai,636,0.4386792452830189
+raid,train,human,636,0.5235849056603774
+raid,validation,ai,135,0.4666666666666667
+raid,validation,human,135,0.5259259259259259

@@ -1,0 +1,3 @@
+split,cases,AUROC
+test,276,0.7894349926486033
+validation,270,0.8129766803840878

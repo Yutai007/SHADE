@@ -1,0 +1,387 @@
+case_id,domain,sent_i,start,end,target_org,original_sentence,source_sentence,jaccard,rank,candidate,valid,reason,logp_delta
+gate_0003,news,6,829,917,Transparency International,"The initiative is part of a broader anti-corruption campaign launched by the government, which has been praised by international organizations such as Transparency International.",The initiative is part of a broader anti-corruption campaign launched by the government.,0.7777777777777778,1,"The original sentence contained the organization ""Transparency International"".",False,target_ORG_not_plus_one,
+gate_0003,news,6,829,917,Transparency International,"The initiative is part of a broader anti-corruption campaign launched by the government, which has been praised by international organizations such as Transparency International.",The initiative is part of a broader anti-corruption campaign launched by the government.,0.7777777777777778,2,NO_CHANGE,False,no_change,
+gate_0003,news,6,829,917,Transparency International,"The initiative is part of a broader anti-corruption campaign launched by the government, which has been praised by international organizations such as Transparency International.",The initiative is part of a broader anti-corruption campaign launched by the government.,0.7777777777777778,3,"The current sentence does not contain the exact organization name ""Transparency International"".",False,target_ORG_not_plus_one,
+gate_0003,news,6,829,917,Transparency International,"The initiative is part of a broader anti-corruption campaign launched by the government, which has been praised by international organizations such as Transparency International.",The initiative is part of a broader anti-corruption campaign launched by the government.,0.7777777777777778,4,"The original sentence contained the organization ""Transparency International.",False,target_ORG_not_plus_one,
+gate_0003,news,6,829,917,Transparency International,"The initiative is part of a broader anti-corruption campaign launched by the government, which has been praised by international organizations such as Transparency International.",The initiative is part of a broader anti-corruption campaign launched by the government.,0.7777777777777778,5,"The original sentence contains the organization ""Transparency International"".",False,target_ORG_not_plus_one,
+gate_0003,news,6,829,917,Transparency International,"The initiative is part of a broader anti-corruption campaign launched by the government, which has been praised by international organizations such as Transparency International.",The initiative is part of a broader anti-corruption campaign launched by the government.,0.7777777777777778,6,"The current sentence does not contain the organization ""Transparency International"".",False,target_ORG_not_plus_one,
+gate_0003,news,6,829,917,Transparency International,"The initiative is part of a broader anti-corruption campaign launched by the government, which has been praised by international organizations such as Transparency International.",The initiative is part of a broader anti-corruption campaign launched by the government.,0.7777777777777778,7,No change.,False,target_ORG_not_plus_one,
+gate_0003,news,6,829,917,Transparency International,"The initiative is part of a broader anti-corruption campaign launched by the government, which has been praised by international organizations such as Transparency International.",The initiative is part of a broader anti-corruption campaign launched by the government.,0.7777777777777778,8,No change,False,target_ORG_not_plus_one,
+gate_0004,recipes,0,0,537,> Salt & Pepper,"One 4 lb turkey, cooked and diced or shredded
+> 8 tomatos (or equivalent amount frozen tomatoes)
+> 2 tsp dried rosemary
+> 2 bay leaves
+> Salt & Pepper to taste
+> Corn meal noodles: combine in food processer mix 1 cup cornmeal, 1 teaspoon salt, and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.","- 8-1/2 cups water, divided - 4 small carrots, chopped - 3 stalks celery, diced - 4 cloves garlic, minced - 2 leeks (white part only) cut into pieces - 6 (6 oz.) packages fresh baby spinach leaves - One 4 lb turkey, cooked and diced or shredded - 8 tomatos (or equivalent amount frozen tomatoes) - 2 tsp dried rosemary - 2 bay leaves - Salt & Pepper to taste - Corn meal noodles combine in food processor mix 1 cup cornmeal, 1 teaspoon salt and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.",0.5714285714285714,1,"One 4 lb turkey, cooked and diced or shredded, 8 tomatos (or equivalent amount frozen tomatoes), 2 tsp dried rosemary, 2 bay leaves, Salt & Pepper to taste, Corn meal noodles combine in food processor mix 1 cup cornmeal, 1 teaspoon salt and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.",False,target_ORG_not_plus_one,
+gate_0004,recipes,0,0,537,> Salt & Pepper,"One 4 lb turkey, cooked and diced or shredded
+> 8 tomatos (or equivalent amount frozen tomatoes)
+> 2 tsp dried rosemary
+> 2 bay leaves
+> Salt & Pepper to taste
+> Corn meal noodles: combine in food processer mix 1 cup cornmeal, 1 teaspoon salt, and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.","- 8-1/2 cups water, divided - 4 small carrots, chopped - 3 stalks celery, diced - 4 cloves garlic, minced - 2 leeks (white part only) cut into pieces - 6 (6 oz.) packages fresh baby spinach leaves - One 4 lb turkey, cooked and diced or shredded - 8 tomatos (or equivalent amount frozen tomatoes) - 2 tsp dried rosemary - 2 bay leaves - Salt & Pepper to taste - Corn meal noodles combine in food processor mix 1 cup cornmeal, 1 teaspoon salt and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.",0.5714285714285714,2,"> 8 tomatos (or equivalent amount frozen tomatoes)
+> 2 tsp dried rosemary
+> 2 bay leaves
+> Salt & Pepper to taste
+> Corn meal noodles: combine in food processor mix 1 cup cornmeal, 1 teaspoon salt, and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.",False,old_entity_lost,
+gate_0004,recipes,0,0,537,> Salt & Pepper,"One 4 lb turkey, cooked and diced or shredded
+> 8 tomatos (or equivalent amount frozen tomatoes)
+> 2 tsp dried rosemary
+> 2 bay leaves
+> Salt & Pepper to taste
+> Corn meal noodles: combine in food processer mix 1 cup cornmeal, 1 teaspoon salt, and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.","- 8-1/2 cups water, divided - 4 small carrots, chopped - 3 stalks celery, diced - 4 cloves garlic, minced - 2 leeks (white part only) cut into pieces - 6 (6 oz.) packages fresh baby spinach leaves - One 4 lb turkey, cooked and diced or shredded - 8 tomatos (or equivalent amount frozen tomatoes) - 2 tsp dried rosemary - 2 bay leaves - Salt & Pepper to taste - Corn meal noodles combine in food processor mix 1 cup cornmeal, 1 teaspoon salt and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.",0.5714285714285714,3,NO_CHANGE,False,no_change,
+gate_0004,recipes,0,0,537,> Salt & Pepper,"One 4 lb turkey, cooked and diced or shredded
+> 8 tomatos (or equivalent amount frozen tomatoes)
+> 2 tsp dried rosemary
+> 2 bay leaves
+> Salt & Pepper to taste
+> Corn meal noodles: combine in food processer mix 1 cup cornmeal, 1 teaspoon salt, and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.","- 8-1/2 cups water, divided - 4 small carrots, chopped - 3 stalks celery, diced - 4 cloves garlic, minced - 2 leeks (white part only) cut into pieces - 6 (6 oz.) packages fresh baby spinach leaves - One 4 lb turkey, cooked and diced or shredded - 8 tomatos (or equivalent amount frozen tomatoes) - 2 tsp dried rosemary - 2 bay leaves - Salt & Pepper to taste - Corn meal noodles combine in food processor mix 1 cup cornmeal, 1 teaspoon salt and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.",0.5714285714285714,4,"> 8 tomatos (or equivalent amount frozen tomatoes)
+> 2 tsp dried rosemary
+> 2 bay leaves
+> Salt & Pepper to taste",False,old_entity_lost,
+gate_0004,recipes,0,0,537,> Salt & Pepper,"One 4 lb turkey, cooked and diced or shredded
+> 8 tomatos (or equivalent amount frozen tomatoes)
+> 2 tsp dried rosemary
+> 2 bay leaves
+> Salt & Pepper to taste
+> Corn meal noodles: combine in food processer mix 1 cup cornmeal, 1 teaspoon salt, and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.","- 8-1/2 cups water, divided - 4 small carrots, chopped - 3 stalks celery, diced - 4 cloves garlic, minced - 2 leeks (white part only) cut into pieces - 6 (6 oz.) packages fresh baby spinach leaves - One 4 lb turkey, cooked and diced or shredded - 8 tomatos (or equivalent amount frozen tomatoes) - 2 tsp dried rosemary - 2 bay leaves - Salt & Pepper to taste - Corn meal noodles combine in food processor mix 1 cup cornmeal, 1 teaspoon salt and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.",0.5714285714285714,5,"The original sentence contained the organization ""> Salt & Pepper"".",False,target_ORG_not_plus_one,
+gate_0004,recipes,0,0,537,> Salt & Pepper,"One 4 lb turkey, cooked and diced or shredded
+> 8 tomatos (or equivalent amount frozen tomatoes)
+> 2 tsp dried rosemary
+> 2 bay leaves
+> Salt & Pepper to taste
+> Corn meal noodles: combine in food processer mix 1 cup cornmeal, 1 teaspoon salt, and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.","- 8-1/2 cups water, divided - 4 small carrots, chopped - 3 stalks celery, diced - 4 cloves garlic, minced - 2 leeks (white part only) cut into pieces - 6 (6 oz.) packages fresh baby spinach leaves - One 4 lb turkey, cooked and diced or shredded - 8 tomatos (or equivalent amount frozen tomatoes) - 2 tsp dried rosemary - 2 bay leaves - Salt & Pepper to taste - Corn meal noodles combine in food processor mix 1 cup cornmeal, 1 teaspoon salt and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.",0.5714285714285714,6,> 8 tomatos (or equivalent amount frozen tomatoes),False,target_ORG_not_plus_one,
+gate_0004,recipes,0,0,537,> Salt & Pepper,"One 4 lb turkey, cooked and diced or shredded
+> 8 tomatos (or equivalent amount frozen tomatoes)
+> 2 tsp dried rosemary
+> 2 bay leaves
+> Salt & Pepper to taste
+> Corn meal noodles: combine in food processer mix 1 cup cornmeal, 1 teaspoon salt, and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.","- 8-1/2 cups water, divided - 4 small carrots, chopped - 3 stalks celery, diced - 4 cloves garlic, minced - 2 leeks (white part only) cut into pieces - 6 (6 oz.) packages fresh baby spinach leaves - One 4 lb turkey, cooked and diced or shredded - 8 tomatos (or equivalent amount frozen tomatoes) - 2 tsp dried rosemary - 2 bay leaves - Salt & Pepper to taste - Corn meal noodles combine in food processor mix 1 cup cornmeal, 1 teaspoon salt and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.",0.5714285714285714,7,Salt & Pepper to taste,False,target_ORG_not_plus_one,
+gate_0004,recipes,0,0,537,> Salt & Pepper,"One 4 lb turkey, cooked and diced or shredded
+> 8 tomatos (or equivalent amount frozen tomatoes)
+> 2 tsp dried rosemary
+> 2 bay leaves
+> Salt & Pepper to taste
+> Corn meal noodles: combine in food processer mix 1 cup cornmeal, 1 teaspoon salt, and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.","- 8-1/2 cups water, divided - 4 small carrots, chopped - 3 stalks celery, diced - 4 cloves garlic, minced - 2 leeks (white part only) cut into pieces - 6 (6 oz.) packages fresh baby spinach leaves - One 4 lb turkey, cooked and diced or shredded - 8 tomatos (or equivalent amount frozen tomatoes) - 2 tsp dried rosemary - 2 bay leaves - Salt & Pepper to taste - Corn meal noodles combine in food processor mix 1 cup cornmeal, 1 teaspoon salt and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.",0.5714285714285714,8,No change.,False,target_ORG_not_plus_one,
+gate_0007,wiki,3,461,632,the Union of 1603,"He was also a prominent advocate for the Union of the Crowns of Scotland and England, and played a key role in the negotiations leading to the Union of 1603.
+
+","He played a key role in negotiations leading to the Union of the Crowns of Scotland and England in one thousand six hundred three, and the Union of the Crowns of Scotland.",0.7272727272727273,1,NO_CHANGE,False,no_change,
+gate_0007,wiki,3,461,632,the Union of 1603,"He was also a prominent advocate for the Union of the Crowns of Scotland and England, and played a key role in the negotiations leading to the Union of 1603.
+
+","He played a key role in negotiations leading to the Union of the Crowns of Scotland and England in one thousand six hundred three, and the Union of the Crowns of Scotland.",0.7272727272727273,2,"The original sentence contained the organization ""the Union of 1603"".",False,target_ORG_not_plus_one,
+gate_0007,wiki,3,461,632,the Union of 1603,"He was also a prominent advocate for the Union of the Crowns of Scotland and England, and played a key role in the negotiations leading to the Union of 1603.
+
+","He played a key role in negotiations leading to the Union of the Crowns of Scotland and England in one thousand six hundred three, and the Union of the Crowns of Scotland.",0.7272727272727273,3,He was also a prominent advocate for the Union of 1603.,False,old_entity_lost,
+gate_0007,wiki,3,461,632,the Union of 1603,"He was also a prominent advocate for the Union of the Crowns of Scotland and England, and played a key role in the negotiations leading to the Union of 1603.
+
+","He played a key role in negotiations leading to the Union of the Crowns of Scotland and England in one thousand six hundred three, and the Union of the Crowns of Scotland.",0.7272727272727273,4,"The original sentence contained the organization ""the Union of 1603"".
+NO_CHANGE",False,not_one_sentence,
+gate_0007,wiki,3,461,632,the Union of 1603,"He was also a prominent advocate for the Union of the Crowns of Scotland and England, and played a key role in the negotiations leading to the Union of 1603.
+
+","He played a key role in negotiations leading to the Union of the Crowns of Scotland and England in one thousand six hundred three, and the Union of the Crowns of Scotland.",0.7272727272727273,5,He was a prominent advocate for the Union of 1603.,False,old_entity_lost,
+gate_0007,wiki,3,461,632,the Union of 1603,"He was also a prominent advocate for the Union of the Crowns of Scotland and England, and played a key role in the negotiations leading to the Union of 1603.
+
+","He played a key role in negotiations leading to the Union of the Crowns of Scotland and England in one thousand six hundred three, and the Union of the Crowns of Scotland.",0.7272727272727273,6,The Union of 1603.,False,old_entity_lost,
+gate_0007,wiki,3,461,632,the Union of 1603,"He was also a prominent advocate for the Union of the Crowns of Scotland and England, and played a key role in the negotiations leading to the Union of 1603.
+
+","He played a key role in negotiations leading to the Union of the Crowns of Scotland and England in one thousand six hundred three, and the Union of the Crowns of Scotland.",0.7272727272727273,7,The Union of 1603 was restored.,False,old_entity_lost,
+gate_0007,wiki,3,461,632,the Union of 1603,"He was also a prominent advocate for the Union of the Crowns of Scotland and England, and played a key role in the negotiations leading to the Union of 1603.
+
+","He played a key role in negotiations leading to the Union of the Crowns of Scotland and England in one thousand six hundred three, and the Union of the Crowns of Scotland.",0.7272727272727273,8,No change.,False,target_ORG_not_plus_one,
+gate_0007,wiki,5,822,976,the British Army,"The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and served as a General in the British Army during the War of the Spanish Succession.
+
+","The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and General during the War of the Spanish Succession.  ",0.9230769230769231,1,"The original sentence contained the organization ""the British Army"".",False,old_entity_lost,
+gate_0007,wiki,5,822,976,the British Army,"The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and served as a General in the British Army during the War of the Spanish Succession.
+
+","The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and General during the War of the Spanish Succession.  ",0.9230769230769231,2,NO_CHANGE,False,no_change,
+gate_0007,wiki,5,822,976,the British Army,"The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and served as a General in the British Army during the War of the Spanish Succession.
+
+","The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and General during the War of the Spanish Succession.  ",0.9230769230769231,3,"The original sentence contained the organization ""the British Army.",False,old_entity_lost,
+gate_0007,wiki,5,822,976,the British Army,"The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and served as a General in the British Army during the War of the Spanish Succession.
+
+","The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and General during the War of the Spanish Succession.  ",0.9230769230769231,4,"The original sentence contains the organization ""the British Army"".",False,old_entity_lost,
+gate_0007,wiki,5,822,976,the British Army,"The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and served as a General in the British Army during the War of the Spanish Succession.
+
+","The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and General during the War of the Spanish Succession.  ",0.9230769230769231,5,"The original sentence contains the organization ""the British Army.",False,old_entity_lost,
+gate_0007,wiki,5,822,976,the British Army,"The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and served as a General in the British Army during the War of the Spanish Succession.
+
+","The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and General during the War of the Spanish Succession.  ",0.9230769230769231,6,The British Army,False,old_entity_lost,
+gate_0007,wiki,5,822,976,the British Army,"The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and served as a General in the British Army during the War of the Spanish Succession.
+
+","The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and General during the War of the Spanish Succession.  ",0.9230769230769231,7,The British Army.,False,old_entity_lost,
+gate_0007,wiki,5,822,976,the British Army,"The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and served as a General in the British Army during the War of the Spanish Succession.
+
+","The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and General during the War of the Spanish Succession.  ",0.9230769230769231,8,No change.,False,target_ORG_not_plus_one,
+gate_0054,news,4,509,724,Academy Award,"The yet untitled project will be directed by David Koepp, who previously collaborated with Hanks on 1998's ""Jurassic Park"" and 2012's ""Lincoln,"" which earned him another Academy Award nomination.","The yet untitled project will be directed by David Koepp, who has directed ""Jurassic Park"" (one thousand nine hundred ninety-eight) and ""Lincoln"" (two thousand twelve) for which he received another Oscar nomination.",0.6,1,NO_CHANGE,False,no_change,
+gate_0054,news,4,509,724,Academy Award,"The yet untitled project will be directed by David Koepp, who previously collaborated with Hanks on 1998's ""Jurassic Park"" and 2012's ""Lincoln,"" which earned him another Academy Award nomination.","The yet untitled project will be directed by David Koepp, who has directed ""Jurassic Park"" (one thousand nine hundred ninety-eight) and ""Lincoln"" (two thousand twelve) for which he received another Oscar nomination.",0.6,2,"The yet untitled project will be directed by David Koepp, who previously collaborated with Hanks on ""Jurassic Park"" (1998) and ""Lincoln"" (2012).",False,target_ORG_not_plus_one,
+gate_0054,news,4,509,724,Academy Award,"The yet untitled project will be directed by David Koepp, who previously collaborated with Hanks on 1998's ""Jurassic Park"" and 2012's ""Lincoln,"" which earned him another Academy Award nomination.","The yet untitled project will be directed by David Koepp, who has directed ""Jurassic Park"" (one thousand nine hundred ninety-eight) and ""Lincoln"" (two thousand twelve) for which he received another Oscar nomination.",0.6,3,"The original sentence contained the organization ""Academy Award"".",False,target_ORG_not_plus_one,
+gate_0054,news,4,509,724,Academy Award,"The yet untitled project will be directed by David Koepp, who previously collaborated with Hanks on 1998's ""Jurassic Park"" and 2012's ""Lincoln,"" which earned him another Academy Award nomination.","The yet untitled project will be directed by David Koepp, who has directed ""Jurassic Park"" (one thousand nine hundred ninety-eight) and ""Lincoln"" (two thousand twelve) for which he received another Oscar nomination.",0.6,4,"The original sentence contained the organization ""Academy Award.",False,target_ORG_not_plus_one,
+gate_0054,news,4,509,724,Academy Award,"The yet untitled project will be directed by David Koepp, who previously collaborated with Hanks on 1998's ""Jurassic Park"" and 2012's ""Lincoln,"" which earned him another Academy Award nomination.","The yet untitled project will be directed by David Koepp, who has directed ""Jurassic Park"" (one thousand nine hundred ninety-eight) and ""Lincoln"" (two thousand twelve) for which he received another Oscar nomination.",0.6,5,"The current sentence does not restore the exact organization name ""Academy Award.",False,target_ORG_not_plus_one,
+gate_0054,news,4,509,724,Academy Award,"The yet untitled project will be directed by David Koepp, who previously collaborated with Hanks on 1998's ""Jurassic Park"" and 2012's ""Lincoln,"" which earned him another Academy Award nomination.","The yet untitled project will be directed by David Koepp, who has directed ""Jurassic Park"" (one thousand nine hundred ninety-eight) and ""Lincoln"" (two thousand twelve) for which he received another Oscar nomination.",0.6,6,No change.,False,target_ORG_not_plus_one,
+gate_0054,news,4,509,724,Academy Award,"The yet untitled project will be directed by David Koepp, who previously collaborated with Hanks on 1998's ""Jurassic Park"" and 2012's ""Lincoln,"" which earned him another Academy Award nomination.","The yet untitled project will be directed by David Koepp, who has directed ""Jurassic Park"" (one thousand nine hundred ninety-eight) and ""Lincoln"" (two thousand twelve) for which he received another Oscar nomination.",0.6,7,Academy Award,False,target_ORG_not_plus_one,
+gate_0054,news,4,509,724,Academy Award,"The yet untitled project will be directed by David Koepp, who previously collaborated with Hanks on 1998's ""Jurassic Park"" and 2012's ""Lincoln,"" which earned him another Academy Award nomination.","The yet untitled project will be directed by David Koepp, who has directed ""Jurassic Park"" (one thousand nine hundred ninety-eight) and ""Lincoln"" (two thousand twelve) for which he received another Oscar nomination.",0.6,8,No change,False,target_ORG_not_plus_one,
+gate_0062,reddit,7,693,785,dis,im really upset about ths whole situation rn especially cuz ive never felt alone quite lk dis b4 n need sum1,"I'm really upset about this situation, especially because I've never felt this alone before.",0.5,1,"I'm really upset about this situation, especially because I've never felt this alone before.",False,target_ORG_not_plus_one,
+gate_0062,reddit,7,693,785,dis,im really upset about ths whole situation rn especially cuz ive never felt alone quite lk dis b4 n need sum1,"I'm really upset about this situation, especially because I've never felt this alone before.",0.5,2,"I'm really upset about this situation, especially because I've never felt alone quite like this before.",False,target_ORG_not_plus_one,
+gate_0062,reddit,7,693,785,dis,im really upset about ths whole situation rn especially cuz ive never felt alone quite lk dis b4 n need sum1,"I'm really upset about this situation, especially because I've never felt this alone before.",0.5,3,NO_CHANGE,False,no_change,
+gate_0062,reddit,7,693,785,dis,im really upset about ths whole situation rn especially cuz ive never felt alone quite lk dis b4 n need sum1,"I'm really upset about this situation, especially because I've never felt this alone before.",0.5,4,"The original sentence contained the organization ""dis"".",False,target_ORG_not_plus_one,
+gate_0062,reddit,7,693,785,dis,im really upset about ths whole situation rn especially cuz ive never felt alone quite lk dis b4 n need sum1,"I'm really upset about this situation, especially because I've never felt this alone before.",0.5,5,"The original sentence contained the organization ""dis"".
+NO_CHANGE",False,target_ORG_not_plus_one,
+gate_0062,reddit,7,693,785,dis,im really upset about ths whole situation rn especially cuz ive never felt alone quite lk dis b4 n need sum1,"I'm really upset about this situation, especially because I've never felt this alone before.",0.5,6,No change.,False,target_ORG_not_plus_one,
+gate_0062,reddit,7,693,785,dis,im really upset about ths whole situation rn especially cuz ive never felt alone quite lk dis b4 n need sum1,"I'm really upset about this situation, especially because I've never felt this alone before.",0.5,7,No change needed.,False,target_ORG_not_plus_one,
+gate_0062,reddit,7,693,785,dis,im really upset about ths whole situation rn especially cuz ive never felt alone quite lk dis b4 n need sum1,"I'm really upset about this situation, especially because I've never felt this alone before.",0.5,8,No change,False,target_ORG_not_plus_one,
+gate_0069,abstracts,0,0,111,Multiple-Input Multiple-Output,This paper investigates resource allocation in Multiple-Input Multiple-Output (MIMO) radar systems with multiple targets for non-coherent localization.,This paper explores resource allocation in MIMO radar systems with multiple targets for non-lucid localization.,0.6428571428571429,1,NO_CHANGE,False,no_change,
+gate_0069,abstracts,0,0,111,Multiple-Input Multiple-Output,This paper investigates resource allocation in Multiple-Input Multiple-Output (MIMO) radar systems with multiple targets for non-coherent localization.,This paper explores resource allocation in MIMO radar systems with multiple targets for non-lucid localization.,0.6428571428571429,2,Multiple-Input Multiple-Output (MIMO),False,verb_lost,
+gate_0069,abstracts,0,0,111,Multiple-Input Multiple-Output,This paper investigates resource allocation in Multiple-Input Multiple-Output (MIMO) radar systems with multiple targets for non-coherent localization.,This paper explores resource allocation in MIMO radar systems with multiple targets for non-lucid localization.,0.6428571428571429,3,Multiple-Input Multiple-Output (MIMO) Radar System,False,old_entity_lost,
+gate_0069,abstracts,0,0,111,Multiple-Input Multiple-Output,This paper investigates resource allocation in Multiple-Input Multiple-Output (MIMO) radar systems with multiple targets for non-coherent localization.,This paper explores resource allocation in MIMO radar systems with multiple targets for non-lucid localization.,0.6428571428571429,4,Multiple-Input Multiple-Output (MIMO) Radar,False,old_entity_lost,
+gate_0069,abstracts,0,0,111,Multiple-Input Multiple-Output,This paper investigates resource allocation in Multiple-Input Multiple-Output (MIMO) radar systems with multiple targets for non-coherent localization.,This paper explores resource allocation in MIMO radar systems with multiple targets for non-lucid localization.,0.6428571428571429,5,Multiple-Input Multiple-Output,False,old_entity_lost,
+gate_0069,abstracts,0,0,111,Multiple-Input Multiple-Output,This paper investigates resource allocation in Multiple-Input Multiple-Output (MIMO) radar systems with multiple targets for non-coherent localization.,This paper explores resource allocation in MIMO radar systems with multiple targets for non-lucid localization.,0.6428571428571429,6,No change.,False,target_ORG_not_plus_one,
+gate_0069,abstracts,0,0,111,Multiple-Input Multiple-Output,This paper investigates resource allocation in Multiple-Input Multiple-Output (MIMO) radar systems with multiple targets for non-coherent localization.,This paper explores resource allocation in MIMO radar systems with multiple targets for non-lucid localization.,0.6428571428571429,7,No change needed.,False,target_ORG_not_plus_one,
+gate_0069,abstracts,0,0,111,Multiple-Input Multiple-Output,This paper investigates resource allocation in Multiple-Input Multiple-Output (MIMO) radar systems with multiple targets for non-coherent localization.,This paper explores resource allocation in MIMO radar systems with multiple targets for non-lucid localization.,0.6428571428571429,8,No change,False,target_ORG_not_plus_one,
+gate_0081,recipes,0,0,567,-1 cup,"Lavish Lemon Cake Recipe
+
+Ingredients: 
+-2 cups all purpose flour 
+-1 ½ teaspoons baking powder 
+-¼ teaspoon salt 
+-3 large eggs, room temperature 
+-1 cup granulated sugar 
+-2 tablespoons lemon zest 
+-¾ cup fresh lemon juice 
+-1 cup buttermilk, room temperature 
+-½ cup unsalted butter, melted and cooled 
+-2 teaspoons vanilla extract 
+
+For the glaze:
+-1 cup powdered sugar 
+-2-3 tablespoons fresh lemon juice 
+
+Instructions:
+
+1.","Delightful Lemon Cake Recipe  Ingredients  2 cups all purpose flour  1 ½ teaspoons baking powder ¼ teaspoon salt -3 large eggs, room temperature  1 cup granulated sugar  2 tablespoons lemon zest, and ¾ cup fresh lemon juice  1 cup buttermilk, room temperature, ½ cup unsalted butter, melted and cooled  2 teaspoons vanilla extract  For the glaze  1 cup powdered sugar -2-3 tablespoons fresh lemon juice  Instructions, Step 1 Preheat your oven to 350°F (175°C) and prepare a 9x13 inch baking pan by greasing it with cooking spray or butter and coating it with flour.  ",0.6222222222222222,1,"Lavish Lemon Cake Recipe
+
+Ingredients: 
+-2 cups all purpose flour 
+-1 ½ teaspoons baking powder 
+-¼ teaspoon salt 
+-3 large eggs, room temperature 
+-1 cup granulated sugar 
+-2 tablespoons lemon zest 
+-¾ cup fresh lemon juice 
+-1 cup buttermilk, room temperature 
+-½ cup unsalted butter, melted and cooled 
+-2 teaspoons vanilla extract 
+
+For the glaze:
+-1 cup powdered sugar 
+-2-3 tablespoons fresh lemon juice 
+
+Instructions:
+
+1.
+NO_CHANGE",False,not_one_sentence,
+gate_0081,recipes,0,0,567,-1 cup,"Lavish Lemon Cake Recipe
+
+Ingredients: 
+-2 cups all purpose flour 
+-1 ½ teaspoons baking powder 
+-¼ teaspoon salt 
+-3 large eggs, room temperature 
+-1 cup granulated sugar 
+-2 tablespoons lemon zest 
+-¾ cup fresh lemon juice 
+-1 cup buttermilk, room temperature 
+-½ cup unsalted butter, melted and cooled 
+-2 teaspoons vanilla extract 
+
+For the glaze:
+-1 cup powdered sugar 
+-2-3 tablespoons fresh lemon juice 
+
+Instructions:
+
+1.","Delightful Lemon Cake Recipe  Ingredients  2 cups all purpose flour  1 ½ teaspoons baking powder ¼ teaspoon salt -3 large eggs, room temperature  1 cup granulated sugar  2 tablespoons lemon zest, and ¾ cup fresh lemon juice  1 cup buttermilk, room temperature, ½ cup unsalted butter, melted and cooled  2 teaspoons vanilla extract  For the glaze  1 cup powdered sugar -2-3 tablespoons fresh lemon juice  Instructions, Step 1 Preheat your oven to 350°F (175°C) and prepare a 9x13 inch baking pan by greasing it with cooking spray or butter and coating it with flour.  ",0.6222222222222222,2,"Ingredients: 
+-2 cups all purpose flour 
+-1 ½ teaspoons baking powder 
+-¼ teaspoon salt 
+-3 large eggs, room temperature 
+-1 cup granulated sugar 
+-2 tablespoons lemon zest 
+-¾ cup fresh lemon juice 
+-1 cup buttermilk, room temperature 
+-½ cup unsalted butter, melted and cooled 
+-2 teaspoons vanilla extract 
+
+For the glaze:
+-1 cup powdered sugar 
+-2-3 tablespoons fresh lemon juice",False,old_entity_lost,
+gate_0081,recipes,0,0,567,-1 cup,"Lavish Lemon Cake Recipe
+
+Ingredients: 
+-2 cups all purpose flour 
+-1 ½ teaspoons baking powder 
+-¼ teaspoon salt 
+-3 large eggs, room temperature 
+-1 cup granulated sugar 
+-2 tablespoons lemon zest 
+-¾ cup fresh lemon juice 
+-1 cup buttermilk, room temperature 
+-½ cup unsalted butter, melted and cooled 
+-2 teaspoons vanilla extract 
+
+For the glaze:
+-1 cup powdered sugar 
+-2-3 tablespoons fresh lemon juice 
+
+Instructions:
+
+1.","Delightful Lemon Cake Recipe  Ingredients  2 cups all purpose flour  1 ½ teaspoons baking powder ¼ teaspoon salt -3 large eggs, room temperature  1 cup granulated sugar  2 tablespoons lemon zest, and ¾ cup fresh lemon juice  1 cup buttermilk, room temperature, ½ cup unsalted butter, melted and cooled  2 teaspoons vanilla extract  For the glaze  1 cup powdered sugar -2-3 tablespoons fresh lemon juice  Instructions, Step 1 Preheat your oven to 350°F (175°C) and prepare a 9x13 inch baking pan by greasing it with cooking spray or butter and coating it with flour.  ",0.6222222222222222,3,NO_CHANGE,False,no_change,
+gate_0081,recipes,0,0,567,-1 cup,"Lavish Lemon Cake Recipe
+
+Ingredients: 
+-2 cups all purpose flour 
+-1 ½ teaspoons baking powder 
+-¼ teaspoon salt 
+-3 large eggs, room temperature 
+-1 cup granulated sugar 
+-2 tablespoons lemon zest 
+-¾ cup fresh lemon juice 
+-1 cup buttermilk, room temperature 
+-½ cup unsalted butter, melted and cooled 
+-2 teaspoons vanilla extract 
+
+For the glaze:
+-1 cup powdered sugar 
+-2-3 tablespoons fresh lemon juice 
+
+Instructions:
+
+1.","Delightful Lemon Cake Recipe  Ingredients  2 cups all purpose flour  1 ½ teaspoons baking powder ¼ teaspoon salt -3 large eggs, room temperature  1 cup granulated sugar  2 tablespoons lemon zest, and ¾ cup fresh lemon juice  1 cup buttermilk, room temperature, ½ cup unsalted butter, melted and cooled  2 teaspoons vanilla extract  For the glaze  1 cup powdered sugar -2-3 tablespoons fresh lemon juice  Instructions, Step 1 Preheat your oven to 350°F (175°C) and prepare a 9x13 inch baking pan by greasing it with cooking spray or butter and coating it with flour.  ",0.6222222222222222,4,"Ingredients: 
+-2 cups all purpose flour 
+-1 ½ teaspoons baking powder 
+-¼ teaspoon salt 
+-3 large eggs, room temperature 
+-1 cup granulated sugar 
+-2 tablespoons lemon zest 
+-¾ cup fresh lemon juice 
+-1 cup buttermilk, room temperature 
+-½ cup unsalted butter, melted and cooled 
+-2 teaspoons vanilla extract 
+
+For the glaze: 
+-1 cup powdered sugar 
+-2-3 tablespoons fresh lemon juice",False,old_entity_lost,
+gate_0081,recipes,0,0,567,-1 cup,"Lavish Lemon Cake Recipe
+
+Ingredients: 
+-2 cups all purpose flour 
+-1 ½ teaspoons baking powder 
+-¼ teaspoon salt 
+-3 large eggs, room temperature 
+-1 cup granulated sugar 
+-2 tablespoons lemon zest 
+-¾ cup fresh lemon juice 
+-1 cup buttermilk, room temperature 
+-½ cup unsalted butter, melted and cooled 
+-2 teaspoons vanilla extract 
+
+For the glaze:
+-1 cup powdered sugar 
+-2-3 tablespoons fresh lemon juice 
+
+Instructions:
+
+1.","Delightful Lemon Cake Recipe  Ingredients  2 cups all purpose flour  1 ½ teaspoons baking powder ¼ teaspoon salt -3 large eggs, room temperature  1 cup granulated sugar  2 tablespoons lemon zest, and ¾ cup fresh lemon juice  1 cup buttermilk, room temperature, ½ cup unsalted butter, melted and cooled  2 teaspoons vanilla extract  For the glaze  1 cup powdered sugar -2-3 tablespoons fresh lemon juice  Instructions, Step 1 Preheat your oven to 350°F (175°C) and prepare a 9x13 inch baking pan by greasing it with cooking spray or butter and coating it with flour.  ",0.6222222222222222,5,"Ingredients: 
+-2 cups all purpose flour 
+-1 ½ teaspoons baking powder 
+-¼ teaspoon salt 
+-3 large eggs, room temperature 
+-1 cup granulated sugar 
+-2 tablespoons lemon zest 
+-¾ cup fresh lemon juice 
+-1 cup buttermilk, room temperature 
+-½ cup unsalted butter, melted and cooled 
+-2 teaspoons vanilla extract 
+
+For the glaze:
+-1 cup powdered sugar 
+-2-3 tablespoons fresh lemon juice 
+
+Instructions:",False,old_entity_lost,
+gate_0081,recipes,0,0,567,-1 cup,"Lavish Lemon Cake Recipe
+
+Ingredients: 
+-2 cups all purpose flour 
+-1 ½ teaspoons baking powder 
+-¼ teaspoon salt 
+-3 large eggs, room temperature 
+-1 cup granulated sugar 
+-2 tablespoons lemon zest 
+-¾ cup fresh lemon juice 
+-1 cup buttermilk, room temperature 
+-½ cup unsalted butter, melted and cooled 
+-2 teaspoons vanilla extract 
+
+For the glaze:
+-1 cup powdered sugar 
+-2-3 tablespoons fresh lemon juice 
+
+Instructions:
+
+1.","Delightful Lemon Cake Recipe  Ingredients  2 cups all purpose flour  1 ½ teaspoons baking powder ¼ teaspoon salt -3 large eggs, room temperature  1 cup granulated sugar  2 tablespoons lemon zest, and ¾ cup fresh lemon juice  1 cup buttermilk, room temperature, ½ cup unsalted butter, melted and cooled  2 teaspoons vanilla extract  For the glaze  1 cup powdered sugar -2-3 tablespoons fresh lemon juice  Instructions, Step 1 Preheat your oven to 350°F (175°C) and prepare a 9x13 inch baking pan by greasing it with cooking spray or butter and coating it with flour.  ",0.6222222222222222,6,Lavish Lemon Cake Recipe,False,target_ORG_not_plus_one,
+gate_0081,recipes,0,0,567,-1 cup,"Lavish Lemon Cake Recipe
+
+Ingredients: 
+-2 cups all purpose flour 
+-1 ½ teaspoons baking powder 
+-¼ teaspoon salt 
+-3 large eggs, room temperature 
+-1 cup granulated sugar 
+-2 tablespoons lemon zest 
+-¾ cup fresh lemon juice 
+-1 cup buttermilk, room temperature 
+-½ cup unsalted butter, melted and cooled 
+-2 teaspoons vanilla extract 
+
+For the glaze:
+-1 cup powdered sugar 
+-2-3 tablespoons fresh lemon juice 
+
+Instructions:
+
+1.","Delightful Lemon Cake Recipe  Ingredients  2 cups all purpose flour  1 ½ teaspoons baking powder ¼ teaspoon salt -3 large eggs, room temperature  1 cup granulated sugar  2 tablespoons lemon zest, and ¾ cup fresh lemon juice  1 cup buttermilk, room temperature, ½ cup unsalted butter, melted and cooled  2 teaspoons vanilla extract  For the glaze  1 cup powdered sugar -2-3 tablespoons fresh lemon juice  Instructions, Step 1 Preheat your oven to 350°F (175°C) and prepare a 9x13 inch baking pan by greasing it with cooking spray or butter and coating it with flour.  ",0.6222222222222222,7,"The original sentence contained the organization ""-1 cup"".",False,target_ORG_not_plus_one,
+gate_0081,recipes,0,0,567,-1 cup,"Lavish Lemon Cake Recipe
+
+Ingredients: 
+-2 cups all purpose flour 
+-1 ½ teaspoons baking powder 
+-¼ teaspoon salt 
+-3 large eggs, room temperature 
+-1 cup granulated sugar 
+-2 tablespoons lemon zest 
+-¾ cup fresh lemon juice 
+-1 cup buttermilk, room temperature 
+-½ cup unsalted butter, melted and cooled 
+-2 teaspoons vanilla extract 
+
+For the glaze:
+-1 cup powdered sugar 
+-2-3 tablespoons fresh lemon juice 
+
+Instructions:
+
+1.","Delightful Lemon Cake Recipe  Ingredients  2 cups all purpose flour  1 ½ teaspoons baking powder ¼ teaspoon salt -3 large eggs, room temperature  1 cup granulated sugar  2 tablespoons lemon zest, and ¾ cup fresh lemon juice  1 cup buttermilk, room temperature, ½ cup unsalted butter, melted and cooled  2 teaspoons vanilla extract  For the glaze  1 cup powdered sugar -2-3 tablespoons fresh lemon juice  Instructions, Step 1 Preheat your oven to 350°F (175°C) and prepare a 9x13 inch baking pan by greasing it with cooking spray or butter and coating it with flour.  ",0.6222222222222222,8,No change.,False,target_ORG_not_plus_one,
+gate_0085,recipes,10,1087,1183,Garlic-Ricotta Toasts,9. Serve immediately and enjoy your delicious Broccoli and Garlic-Ricotta Toasts with Hot Honey!,Step 9 Serve immediately and enjoy your yummy Broccoli and Garlic Ricotta Toasts with Hot Honey.,0.5,1,NO_CHANGE,False,no_change,
+gate_0085,recipes,10,1087,1183,Garlic-Ricotta Toasts,9. Serve immediately and enjoy your delicious Broccoli and Garlic-Ricotta Toasts with Hot Honey!,Step 9 Serve immediately and enjoy your yummy Broccoli and Garlic Ricotta Toasts with Hot Honey.,0.5,2,9. Serve immediately and enjoy your delicious Garlic-Ricotta Toasts with Hot Honey!,False,old_entity_lost,
+gate_0085,recipes,10,1087,1183,Garlic-Ricotta Toasts,9. Serve immediately and enjoy your delicious Broccoli and Garlic-Ricotta Toasts with Hot Honey!,Step 9 Serve immediately and enjoy your yummy Broccoli and Garlic Ricotta Toasts with Hot Honey.,0.5,3,Serve immediately and enjoy your delicious Garlic-Ricotta Toasts with Hot Honey!,False,old_entity_lost,
+gate_0085,recipes,10,1087,1183,Garlic-Ricotta Toasts,9. Serve immediately and enjoy your delicious Broccoli and Garlic-Ricotta Toasts with Hot Honey!,Step 9 Serve immediately and enjoy your yummy Broccoli and Garlic Ricotta Toasts with Hot Honey.,0.5,4,"The original sentence contained the organization ""Garlic-Ricotta Toasts"".",False,old_entity_lost,
+gate_0085,recipes,10,1087,1183,Garlic-Ricotta Toasts,9. Serve immediately and enjoy your delicious Broccoli and Garlic-Ricotta Toasts with Hot Honey!,Step 9 Serve immediately and enjoy your yummy Broccoli and Garlic Ricotta Toasts with Hot Honey.,0.5,5,No change.,False,target_ORG_not_plus_one,
+gate_0085,recipes,10,1087,1183,Garlic-Ricotta Toasts,9. Serve immediately and enjoy your delicious Broccoli and Garlic-Ricotta Toasts with Hot Honey!,Step 9 Serve immediately and enjoy your yummy Broccoli and Garlic Ricotta Toasts with Hot Honey.,0.5,6,No change needed.,False,target_ORG_not_plus_one,
+gate_0085,recipes,10,1087,1183,Garlic-Ricotta Toasts,9. Serve immediately and enjoy your delicious Broccoli and Garlic-Ricotta Toasts with Hot Honey!,Step 9 Serve immediately and enjoy your yummy Broccoli and Garlic Ricotta Toasts with Hot Honey.,0.5,7,No change,False,target_ORG_not_plus_one,
+gate_0085,recipes,10,1087,1183,Garlic-Ricotta Toasts,9. Serve immediately and enjoy your delicious Broccoli and Garlic-Ricotta Toasts with Hot Honey!,Step 9 Serve immediately and enjoy your yummy Broccoli and Garlic Ricotta Toasts with Hot Honey.,0.5,8,YES_CHANGE,False,target_ORG_not_plus_one,
+gate_0086,wiki,0,0,190,גבי‎,"Avi Gabbay (Hebrew: אבי גבי‎; born August 16, 1968) is an Israeli politician who served as the leader of the Labor Party from 2016 to 2019.","Avi Gabbay, born on August 16, one thousand nine hundred sixty-eight, is an Israeli politician who served as the leader of the Labor Party from two thousand sixteen to two thousand nineteen.",0.8333333333333334,1,NO_CHANGE,False,no_change,
+gate_0086,wiki,0,0,190,גבי‎,"Avi Gabbay (Hebrew: אבי גבי‎; born August 16, 1968) is an Israeli politician who served as the leader of the Labor Party from 2016 to 2019.","Avi Gabbay, born on August 16, one thousand nine hundred sixty-eight, is an Israeli politician who served as the leader of the Labor Party from two thousand sixteen to two thousand nineteen.",0.8333333333333334,2,"Avi Gabbay, born on August 16, 1968, is an Israeli politician who served as the leader of the Labor Party from 2016 to 2019.",False,target_ORG_not_plus_one,
+gate_0086,wiki,0,0,190,גבי‎,"Avi Gabbay (Hebrew: אבי גבי‎; born August 16, 1968) is an Israeli politician who served as the leader of the Labor Party from 2016 to 2019.","Avi Gabbay, born on August 16, one thousand nine hundred sixty-eight, is an Israeli politician who served as the leader of the Labor Party from two thousand sixteen to two thousand nineteen.",0.8333333333333334,3,"Avi Gabbay, born August 16, 1968, is an Israeli politician who served as the leader of the Labor Party from 2016 to 2019.",False,target_ORG_not_plus_one,
+gate_0086,wiki,0,0,190,גבי‎,"Avi Gabbay (Hebrew: אבי גבי‎; born August 16, 1968) is an Israeli politician who served as the leader of the Labor Party from 2016 to 2019.","Avi Gabbay, born on August 16, one thousand nine hundred sixty-eight, is an Israeli politician who served as the leader of the Labor Party from two thousand sixteen to two thousand nineteen.",0.8333333333333334,4,"Avi Gabbay, born on August 16, one thousand nine hundred sixty-eight, is an Israeli politician who served as the leader of the Labor Party from 2016 to 2019.",False,target_ORG_not_plus_one,
+gate_0086,wiki,0,0,190,גבי‎,"Avi Gabbay (Hebrew: אבי גבי‎; born August 16, 1968) is an Israeli politician who served as the leader of the Labor Party from 2016 to 2019.","Avi Gabbay, born on August 16, one thousand nine hundred sixty-eight, is an Israeli politician who served as the leader of the Labor Party from two thousand sixteen to two thousand nineteen.",0.8333333333333334,5,"Avi Gabbay, born August 16, one thousand nine hundred sixty-eight, is an Israeli politician who served as the leader of the Labor Party from 2016 to 2019.",False,target_ORG_not_plus_one,
+gate_0086,wiki,0,0,190,גבי‎,"Avi Gabbay (Hebrew: אבי גבי‎; born August 16, 1968) is an Israeli politician who served as the leader of the Labor Party from 2016 to 2019.","Avi Gabbay, born on August 16, one thousand nine hundred sixty-eight, is an Israeli politician who served as the leader of the Labor Party from two thousand sixteen to two thousand nineteen.",0.8333333333333334,6,"The original sentence contained the organization ""גבי‎"".",False,old_entity_lost,
+gate_0086,wiki,0,0,190,גבי‎,"Avi Gabbay (Hebrew: אבי גבי‎; born August 16, 1968) is an Israeli politician who served as the leader of the Labor Party from 2016 to 2019.","Avi Gabbay, born on August 16, one thousand nine hundred sixty-eight, is an Israeli politician who served as the leader of the Labor Party from two thousand sixteen to two thousand nineteen.",0.8333333333333334,7,No change.,False,target_ORG_not_plus_one,
+gate_0086,wiki,0,0,190,גבי‎,"Avi Gabbay (Hebrew: אבי גבי‎; born August 16, 1968) is an Israeli politician who served as the leader of the Labor Party from 2016 to 2019.","Avi Gabbay, born on August 16, one thousand nine hundred sixty-eight, is an Israeli politician who served as the leader of the Labor Party from two thousand sixteen to two thousand nineteen.",0.8333333333333334,8,No change,False,target_ORG_not_plus_one,

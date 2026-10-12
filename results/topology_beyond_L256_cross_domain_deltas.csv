@@ -1,0 +1,7 @@
+heldout_domain,heldout_domain_label,comparison,delta_auroc,delta_balanced_accuracy,delta_f1
+essay,Essay,Bstrong+L256+T vs Bstrong+L256,0.0048000000000000265,-0.010000000000000009,-0.03494060097833682
+essay,Essay,Bstrong+L256+T vs Bstrong+T,0.006400000000000072,0.0,0.0
+reuter,Reuters,Bstrong+L256+T vs Bstrong+L256,-0.011836734693877582,0.020000000000000018,0.019315188762072055
+reuter,Reuters,Bstrong+L256+T vs Bstrong+T,0.013877551020408219,0.02061224489795921,0.005882352941176561
+wp,Wikipedia,Bstrong+L256+T vs Bstrong+L256,0.019480519480519543,0.0,0.0
+wp,Wikipedia,Bstrong+L256+T vs Bstrong+T,0.02087198515769939,-0.045454545454545414,-0.02643678160919538

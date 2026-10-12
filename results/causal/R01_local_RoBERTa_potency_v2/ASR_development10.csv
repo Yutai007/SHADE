@@ -1,0 +1,10 @@
+detector,arm,originally_detected,escaped,ASR
+Frozen,RAFT,10,1,0.1
+Frozen,TEXTFOOLER,10,2,0.2
+Frozen,EVOLUTION,10,1,0.1
+RAID-only,RAFT,10,1,0.1
+RAID-only,TEXTFOOLER,10,1,0.1
+RAID-only,EVOLUTION,10,1,0.1
+Adapted,RAFT,10,1,0.1
+Adapted,TEXTFOOLER,10,1,0.1
+Adapted,EVOLUTION,10,1,0.1

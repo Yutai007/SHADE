@@ -1,0 +1,3 @@
+case_id,alarm_number,alarm_output_token,danger_start_output_token,raw_rewind_target_token,actual_rewind_target_token,alarm_word,actual_rewind_target_word,tokens_removed,last_H_roll16,danger_run,unique_active_at_alarm,mode_at_alarm,secondary_policy_at_alarm,reference_supported_at_alarm,already_in_recovery
+gate_0016,1,363,355,331,330,284,258,33,7.562423676252365,8,True,decrease,sample_fallback_equivalent,True,False
+gate_0016,2,391,383,359,359,307,284,34,7.832102835178375,8,False,normal,sample_inactive,False,False

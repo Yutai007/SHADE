@@ -1,0 +1,4 @@
+detector,cases,AUROC
+Frozen ratio,34,0.6842595462378428
+RAID-only readout,34,0.6720842651234676
+Adapted readout,34,0.6781591173284498

@@ -1,0 +1,2 @@
+metric,observed,null_mean,null_sd,null_min,null_max,identity_rank_of_720,p_exact_one_sided
+tokenizer_efficiency,0.010633870763970099,6.47630097698008e-18,0.11074099070398606,-0.20222724604087708,0.27352519797062164,225,0.3125

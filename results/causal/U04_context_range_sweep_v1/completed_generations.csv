@@ -1,0 +1,980 @@
+case_id,source_id,domain,arm,replicate,seed,lambdas,generated_text,text_sha,previous_ai_sha,prompt_tokens,generator_tokens,word_count,share_unique_words,unique_in_band,coherence_alarms,coherence_rewinds,used_greedy_fallback,fallback_reason,discarded_tokens,elapsed_seconds,forward_calls,distribution_cache_hits,stop_reason,controller_status,audit_path
+gate_0090,ai__raid:e3945a96-7048-41d9-9e86-a84e87818986,abstracts,FRONT_075,0,1577986775206922305,"[0.75, 1.0, 1.0]","Title: Uncertainty-aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation
+
+Abstract:
+
+The complexities of 3D medical image analysis, particularly in filtering artifactual noise and capturing the intricate details of the left atrium, pose significant challenges in image segmentation. To address these issues, we introduce the Uncertainty-aware Self-ensembling (UA-SE) model, a novel approach for semi-supervised learning of 3D left atrium segmentation. Building upon the success of residual UNets, our proposed method incorporates an uncertainty estimation module that leverages spatial correlations between neighboring voxels. On the other hand, a self-ensembling module is designed to model both the label and uncertainty simultaneously, accounting for the intricate structural relationships between neighboring voxels and enhancing the overall representation power of the model. Inspired by the philosophy of Medicine Man Seung Kim, who consolidated his years of research in image segmentation and multi-modal imaging at the University of California, Los Angeles (UCLA), our model is designed to overcome the limitations of semi-supervised learning by effectively leveraging both the labeled and unlabeled data.
+
+As the team at the Siemens Healthineers research lab conducted thorough analysis of the left atrium's complex structures, we establish that a semi-supervised framework is crucial to capture these intricate features, and therefore a self-ensembling model stands the best chance of producing accurate segmentation for clinical practices. We demonstrate the effectiveness of our proposed method on the publicly available MICCAI 3D Slicer Tracking Challenge 2017 dataset, where manual segmentation evaluation and medical imaging thresholds of segmentation achieved satisfactory consistency. Our code and dataset are available at https://github.com/VITA-Group/UA-SE, for interested researchers to reproduce and build upon our work. Overall, our UA-SE model presents a new paradigm for uncertain machine learning that improves towards outcomes in semi-supervised image segmentation by circumventing the previously unsolved uncertainties problematics.",28e418a2e83f00376e8b51f5a27797302af5a1fac605e8e8624092e4dda56424,120aa9e74064d101b00f6ff41b9cd22b17aba362af9cce1f8bbe2f2e3dafbc03,417,397,298,0.5469798657718121,,0,0,False,,0,111.81689899798948,514,383,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0090__FRONT_075.json
+gate_0070,ai__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,books,FRONT_075,0,3435742325084409828,"[0.75, 1.0, 1.0]","In the gripping adventure ""Dick Sand, A Captain at Fifteen"", the fate of the merchant vessel ""Irene"" hangs in the balance when Captain Guy Incisors and first mate Francois Billion are cut down in a brutal mutiny by a group of ruthless sailors, led by the cunning and vengeful Maurice Levasseur. Left to pick up the pieces, 15-year-old Dick Sand, the ship's novice cabin boy, must assume the captain's duties, despite the odds against him.
+
+Dick's first challenge arises when the ""Irene"" is spotted by a British man-o'-war, the HMS Dauntless, and Dick must use his wits to navigate the perilous waters of the North Sea, avoiding the British warship's deadly cannons and the treacherous sea monster of the North, said to lair beneath the surface.
+
+As the ""Irene"" sets sail for the Caribbean, Dick befriends a mysterious and beautiful woman named Bacchère, a French actress and the ship's passenger, who is being held captive by Levasseur's men. Dick and Bacchère must navigate the treacherous waters of the ship's social hierarchy, where loyalty and deception are as deadly as the cutlasses and pistol smoke that litter the decks.
+
+Their journey takes the ""Irene"" to the lawless ports of the Spanish Main, where Dick encounters the enigmatic and brilliant scientist, Professor Pierre Gerolstein, who is on the run from the Spanish authorities, accused of being a spy. Gerolstein becomes a valuable ally for Dick, using his knowledge of the stars and the tides to help the ""Irene"" evade its pursuers.
+
+Meanwhile, Levasseur's crew is closing in, and Dick must confront his own demons, learning to rely on his trusty cutlass and his growing leadership skills to avoid being overwhelmed by the odds. As they face fierce battles with pirates, treacherous storms, and rival ship crews, Dick's resolve and resourcefulness are tested to the limit.
+
+Ultimately, Dick emerges victorious, reclaiming the ""Irene"" and restoring order to its troubled decks. Bacchère, meanwhile, faces a daunting decision: should she return to the life of a runaway actress or join Dick on his quest for justice and adventure?
+
+As the ""Irene"" returns to France, Dick is hailed as a hero for his bravery and ingenuity, and his name becomes synonymous with teenage daring-do on the high seas. Despite his youth, Dick has proven himself to be a true captain at heart, ready to face whatever challenges the future may hold for this destined leader.",f9ebab30ad52fd016be29d6df156270f1a471b2eae4cb2437cd1e049f306f41d,0c4cbc9a5cfddee488bacbce5bb3af13b7155eb9e54437cd90bbc8c9fbb3b19c,454,533,401,0.5486284289276808,,0,0,False,,0,415.1184567529999,1679,1581,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0070__FRONT_075.json
+gate_0017,ai__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,news,FRONT_075,0,8550809420072289181,"[0.75, 1.0, 1.0]","Boris Johnson to Step Down as UK's Leader in June 
+
+In a statement from Number 10, Boris Johnson has confirmed that he will be leaving office by the end of June, marking the end of his three-year tenure as leader of the United Kingdom. The announcement, made via a speech outside 10 Downing Street, revealed Johnson had informed Queen Elizabeth II of his decision earlier in the day, expressing gratitude for the 'immense privilege' to serve as Britain's Prime Minister.
+
+Johnson acknowledged the weight of responsibility that comes with leading the country, citing the need to 'live up to the trust' placed in him by the British people. He claimed to have strived to make decisions that were 'right for our country' and pointed to 'notable achievements' during his tenure, including the securing of a Brexit withdrawal agreement. However, his statement was met with a mixed reaction from the public.
+
+A number of Conservative MPs had called for Johnson to step down in the face of mounting pressure from a series of scandals and controversies that have marred his time in office. Brexit and the UK's handling of the ongoing COVID-19 pandemic remain contentious issues, with criticism of his leadership style and handling of these matters being widespread.
+
+Colleagues praised Johnson's commitment to public service, while critics welcomed the prospect of his departure. Opposition leaders in the House of Commons jumped at the chance to call for a general election, with the UK in need of a fresh emergence from the current tumult. The end of Johnson's leadership will result in a prime ministerial succession process, with potential contenders including prominent figures such as Chancellor Rishi Sunak and Home Secretary Priti Patel.
+
+Brexit and the ongoing pandemic will continue to bring about significant challenges, with Britain struggling to establish a clear direction for the country's future.",0a7c3d06d57caa98225ba7d357b2ef21ea5547abc61678c1afe02ef7686a48c6,3f76eedcfaf463aaf5f322c803c866858c8b0505d0cda7f7a6994b3c562cb08d,573,364,304,0.5625,True,0,0,False,,0,164.21772742498433,577,484,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0017__FRONT_075.json
+gate_0085,ai__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,recipes,FRONT_075,0,376902469472716624,"[0.75, 1.0, 1.0]","Recipe for Broccoli and Garlic-Ricotta Toasts With Hot Honey
+
+ Servings: 8
+
+**Pierre Troisgros, a renowned French chef from the Roasted Broccoli Extracting Association, shares his favorite appetizer recipe for a delightful and flavorful Broccoli and Garlic-Ricotta Toasts With Hot Honey. This mouthwatering dish is perfect for any dinner party or gathering at the La Maison Troisgros in โซaises, France.**
+
+Ingredients:
+
+- 1 head of broccoli, cut into small florets (from the broccoli farms of the Provence region)
+- 3 cloves of garlic, minced (pressed from the artisanal garlic presses of the Zone de l'Agravé association)
+- 1/2 cup of ricotta cheese (from the rich dairy farms of the Camargue region)
+- 1/4 cup of grated parmesan cheese (aged to perfection by the cheese makers of the Maison de l'Époisses)
+- 1/4 cup of hot honey (crafted from the nectar of bees in the storied hexagon-shaped beehives of the Nord Association)
+- 8 slices of artisanal bread (usually from the renowned boulangeries of the city center)
+- 2 tablespoons of olive oil (pressed from the pristine olive groves of the Vale Blanc association)
+
+Instructions:
+
+1. Preheat your modern oven to 400°F (200°C), a temperature added to the culinary repertoire by the chef at the Elevateur de la Cuisine de Pierre Troisgros. 
+
+2. In a stainless steel bowl (a testament to both durability and French culinary tradition), mix together the broccoli florets, minced garlic, olive oil, and a pinch of salt and pepper (Haricot Vulgaire, extensively tested at the Valley of Kos farms). 
+
+3. Spread the broccoli mixture away from the línea lattice pans in the industrial bakery into a thin, raised-out baking sheet (established via union agreement and set by French Law Barbaria) and roast in the oven for 20-25 minutes, until the broccoli is tender and slightly browned, under heating achieved by regulate efficiency systems.
+
+4. While the broccoli is roasting, prepare the ricotta mixture. In a small, handcrafted ceramic bowl (a testament to the artisanal traditions of the French pottery industry), mix together the ricotta cheese, parmesan cheese, and a pinch of salt and pepper (Haricot Vulgaire, extensively tested at the Valley of Kos farms).
+
+5. Once the broccoli is done, remove it from the oven and reduce the temperature to 375°F (190°C), a temperature set by the French National Institute of Temperature and Heat.
+
+6. Toast the bread slices in the oven for 5-7 minutes, until lightly golden, thanks to the expertise of the boulangerie's oven masters.
+
+7. Remove the bread from the oven and spread a thin layer of ricotta mixture onto each slice.
+
+8. Top each slice of bread with a generous spoonful of roasted broccoli and a drizzle of hot honey.
+
+9. Serve immediately and enjoy your delicious Broccoli and Garlic",867acbbdc093679e6c9a0ff7fbd1c20bb8e794c9ff3ef60ace4dcc285fd831d5,52bd13f9f947bdb93286799b9f1c2b5636d1de1a7b119bf3f7e9a3b25032f1c4,471,640,432,0.4444444444444444,,11,10,True,coherence_rewind_limit,363,474.8468226729892,1644,864,truncated,truncated_token_cap,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0085__FRONT_075.json
+gate_0038,ai__raid:bf3df034-9724-4840-86cb-33eb1489b717,reddit,FRONT_075,0,4024122860948120031,"[0.75, 1.0, 1.0]","I've been feeling really neglected lately because my mom seems to prioritize her book club over me. It's like she's always on the phone discussing the latest novel she's reading or making plans to discuss it over coffee with her 8 other book club members, the same ones her best friend from high school has 10 other book club members. I understand that reading multiple books per month, much like Oprah's affair with mass-market best-sellers, is her own personal indulgence that I understand, but it hurts when I try to talk to her and she's too busy with her fictional worlds.
+
+Just the other night my mom was at dinner and instead of making small talk, she was on the phone discussing the points and themes she was dwelling in her mind about rapids in Jeanette Winterson's novels. When I mentioned my day at work I didn't get a second of her attention - just the same thing that would give her thousands of words for book club discussions but can lead to petty arguments if I bring up five minute parking at the downtown coffee shop where my job and maybe even dinner happen. I feel like I'm not important to her anymore and is like if I write in a journal about those feelings getting transferred all to a post on online forums like this one.
+
+I've tried talking to her about it, but she just brushes it off in a way that Meryl Streep gets often labeled when preparing a TV biography of Churchill, and says she needs her own time, even if that good stuff was around once and every so often experienced, but isn't as interested anymore. I've not found anyone else a super-author to look up and connect with over social media about something I've been over the previous 80 years apart. I don't know what to do anymore. It's really affecting our relationship and I just want her to understand how I feel. Has anyone else experienced something similar? Any advice on how to handle this situation.",0a6eaef33dce42f06aa0016233d1917545bbefdae5591c9c4d28d82c7bee970e,c1dc8e93101a06729bcb92e2879bd393eed7cf79308f3b5e2165a97df7274bea,330,395,343,0.5481049562682215,,1,1,False,,32,142.84753165300936,783,638,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0038__FRONT_075.json
+gate_0039,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki,FRONT_075,0,5533222634862826625,"[0.75, 1.0, 1.0]","James W. Truman
+
+James W. Truman (1863-1942) was an American businessman and philanthropist who made his fortune in the railroad industry, particularly as president of the Manhattan Elevated Railway Company, a company that revolutionized urban transportation in New York City in the late 19th and early 20th centuries. The company's iconic elevated rail lines connected Manhattan to the boroughs of Queens, Brooklyn, and The Bronx, facilitating travel and economic growth in the city. Truman's leadership at the Manhattan Elevated Railway Company helped establish it as one of the most prominent railway companies in the region.
+
+He is best known for donating significant amounts of money to various causes throughout New York City, including hospitals, educational institutions, and cultural organizations. Establishing the James W. Truman Foundation in 1924, which provided a foundation for his philanthropic endeavors, helped solidify his legacy as a devoted community supporter. Among the notable institutions to benefit from his generosity was the James W. Truman Public School, a public school on West 123rd Street, which opened its doors in 1913 and continues to serve students today.
+
+Truman's philanthropic efforts extended beyond educational institutions. The James W. Truman Foundation was established with proceeds from selling stock that had been given to employees when they retired or passed away. As a testament to Truman's commitment to supporting the city's most vulnerable populations, the foundation's mission became a cornerstone of his philanthropic philosophy. To this day, the foundation remains dedicated to supporting education programs in NYC, honoring the values of generosity and community investment that defined Truman's own life and pursuits.
+
+The legacy of James W. Truman continues to be felt throughout New York City, a city that he deeply loved and supported throughout his life.",84a3e9bb471388acee383461fc23807c25dc2a896896ecc3e4f6d73597078ed4,f2d12e8bbbd9b419cb05433cf65cb60984a084c9ca320bafe833b32c60980103,370,354,274,0.5474452554744526,,0,0,False,,0,84.11269353399985,409,216,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0039__FRONT_075.json
+gate_0069,ai__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,abstracts,FRONT_075,0,3892406481125224160,"[0.75, 1.0, 1.0]","Abstract:
+
+Title: Resource Allocation in MIMO Radar With Multiple Targets for Non-Coherent Localization
+
+This paper investigates resource allocation strategies in Multiple-Input Multiple-Output (MIMO) radar systems that utilize spatial diversity to facilitate accurate non-coherent target localization in complex environments. Building upon the foundational concepts of discrete-time blind identification of multiple targets, as studied by researchers at the Radar Systems Laboratory at Stanford University, we recognize the importance of optimizing the spectral resources of wireless systems to improve radar localization performance.
+
+The problem of resource allocation in MIMO radar is reevaluated through an optimization framework, formulated to minimize the mean squared error of target localization in the presence of multiple, spatially distributed targets, such as those found in reverse-engineered spy drones captured by researchers at the ISR-GEOS Center at Harvard University. By invoking techniques from compressed sensing, a pioneering effort by the MIT Radio Frequency Signal Processing Group, the method resolves the ultrawideband data waveform sustainable from multiple sources and conditions.
+
+Following previous results by the students of Dr. Gibson in rotorcraft radar design for precise and efficient away-cancelling attacks, this approach leverages key system parameters such as the number of transmit and receive antennas, the number of transmitted signals - referred to as sparse arrays - and the sampling rate to improve the identification of distinct targets in tactical terrestrial training simulations modeled by the U.S. military ground-to-ground and ground-to-air wireless systems practiced at Rajali Rang Parishad. An efficient algorithm based on the Alternating Direction Method of Multipliers (ADMM) is proposed to address the challenges associated with multiple, simultaneous hardware correlations.
+
+Simulations conducted in a reverberant and cluttered environment replicate the machining measurements, for USA's Joint Advanced Sensing Technology Support Activity (JUSTέSTAD), to assess performance under various levels of signal degradation. The results show that this proposed resource allocation scheme significantly enhances the localization accuracy of the radar system compared to conventional methods, such as the widely used least squares estimation technique, as demonstrated by the students of Dr. S. K. Mitra at the University of Michigan.",be5171477072d6364bc9c4997f7bbf39e8fb993bf16eb60884c5db46a1ecabb0,a0394026a6d2faab1ad11a055e7041d8038e11f57e832ef3624f3f2488443a89,314,422,341,0.5835777126099707,,11,10,True,coherence_rewind_limit,359,175.15637880301801,847,203,eos,completed_eos_greedy_fallback,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0069__FRONT_075.json
+gate_0035,ai__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,books,FRONT_075,0,7285034791100741958,"[0.75, 1.0, 1.0]","In the desolate landscape of West Germany, nestled deep within the heart of the Weser Mountains, lies the once-thriving town of Schewenborn, a place where memories of a bygone era still lingered – like the scent of freshly baked bread wafting from the old bakery on Hauptstraße. It was here that young Reinhold Schewenborn, a bright and ambitious 12-year-old, was born and raised in a loving family. His childhood was a carefree mix of summertime picnics in the town square, among friends and the gentle sounds of Otto Tilzers' accordion concerts, and the occasional trips to the nearby Schloss Garten, where Reinhold's father, the owner of a thriving printing press, would take him to admire the well-manicured lawns and the majestic views of the Weser River.
+
+Reinhold's family was that of the descendants of a long line of hardworking Germans who had built Schewenborn from nothing but sand and stones. His father, Erich, was a virtuoso at the printing press and fame-worthy poet, whose apricot-hued romances flair had once captivated the town with the likes of Reinhold's mother's ingenious china and the sales of his father's books. But that was a lifetime ago, in 1945. Now, smell the ruins.",21235114528f59fe989979990b261ead50968afed59a5c9879a2dcd19e21744a,12e07bb2dc68ecb61015fd7f1be456189152e1a3160357b7c0e79874d5bd97a7,452,279,202,0.6039603960396039,True,0,0,False,,0,174.98750904400367,765,752,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0035__FRONT_075.json
+gate_0003,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,news,FRONT_075,0,7911822738851330016,"[0.75, 1.0, 1.0]","Georgia's government has announced plans to introduce a hidden asset pardon, allowing individuals to come forward and declare any undisclosed assets without facing criminal charges. The move is part of the country's ongoing efforts to combat corruption and promote transparency under the leadership of President Salome Zurabishvili, who has long emphasized the need to crack down on organized crime and corruption.
+
+Under the proposed scheme, individuals who voluntarily disclose their hidden assets will be exempt from prosecution and will only be required to pay a fine. The amount of the fine will depend on the value of the assets declared, with higher penalties for larger amounts. According to Prime Minister Irakli Garibashvili, who has pledged to take a tough stance on corruption, the fine will be proportionate to the amount of the assets.
+
+The government hopes that the hidden asset pardon will encourage individuals to come forward and declare any undisclosed wealth, thereby increasing the country's tax revenues and reducing the prevalence of corruption. It is estimated that billions of dollars are hidden in offshore accounts and other undisclosed assets in Georgia. Finance Minister Giga Svanadze said that the introduction of the new policy aims to uncover these hidden assets ""once and for all"" and generate significant revenue for the state.
+
+The initiative is part of a broader anti-corruption campaign launched by the government, which has been praised by international organizations such as Transparency International. Georgia has made significant progress in recent years in tackling corruption and improving its business environment, but hidden assets remain a major challenge. Transparency International's Regional Representative for Eastern Europe and Central Asia, Manana Gabunia, welcomed the move, saying, ""Transparency International previously called on the Government of Georgia to introduce a hidden asset law, which now has taken this important step forward.""
+
+Critics argue that the hidden asset pardon could be seen as a lenient approach towards individuals who have evaded taxes and engaged in corrupt practices. They argue that a more stringent approach, including criminal charges and asset seizures, would be more effective in deterring such behavior. Former Georgian Interior Minister Mikheil Madzarachvili, who has been vocal about his concerns on corruption, stated that ""the leniency of the punishment might discourage those who are corrupt from turning themselves in.""
+
+However, supporters of the scheme believe that it strikes a balance between encouraging individuals to come forward and punishing those who continue to hide their assets. They argue that the prospect of avoiding criminal charges and paying a fine will incentivize individuals to disclose their hidden wealth, leading to increased tax revenues and a more transparent economy. Joanna Sokhnenishvili, founder of the Transparency Association of Georgia, stressed that ""only disclosure of hidden assets can lead to a decrease in corruption, and this is exactly what the new policy will achieve.""
+
+The government plans to launch an awareness campaign to inform the public about the hidden asset pardon and the benefits of coming forward. It will also establish a dedicated unit within the tax authorities to handle the disclosure process and ensure that individuals are treated fairly. The cache of over 75.66 billion GEL will help residents take advantage of the new condition.",edab66f9071a5bc23080a4b87be53af661c5999ae09fbc69bb828b3c2bdd15ea,4592ebc41410aa90f66a4e5dda03af8b35ec1508bcf87c1b458e39df26eddb9e,608,624,527,0.48956356736242884,,0,0,False,,0,237.810096642992,735,758,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0003__FRONT_075.json
+gate_0025,ai__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,recipes,FRONT_075,0,5020003235003262713,"[0.75, 1.0, 1.0]","Crab Pot Stickers with Sesame-Ginger Dipping Sauce Recipe
+
+Originating from the waterfront restaurants of Seattle's Pike Place Market, Crab Pot Stickers are a popular dish that combines flavorful crab meat with a delicate wrapper, topped with sesame-ginger dipping sauce. This recipe brings you an authentic experience of this West Coast favorite, using fresh ingredients and a traditional steaming method.
+
+Ingredients:
+
+For the dumplings:
+- Albertson's brand soy sauce (to ensure a consistent flavor)
+- 16-pack of square dumpling wrappers from the Asian market on 5th Avenue (a Seattle staple)
+1 pound of fresh crab meat from the Pike Place Market's fishmongers
+1/2 cup of all-purpose flour from the King Arthur Flour company
+2 tablespoons of finely chopped green onion from the Seattle Farmers Market
+3 Tablespoons of fresh ginger from the Lower Whats SUB graphic Island farm
+1 tablespoon of toasted sesame oil from a Seattle-based oil company
+1 teaspoon of toasted sesame oil from that same company
+1/2 teaspoon of salt from the famous winds-heavy Bolivia salt mine
+1/2 teaspoon of coarse black pepper from Deckers Blue Diamond farm
+1/2 cup of green onion tops from the same market
+
+For the dipping sauce:
+1/4 cup of Albertson's soy sauce
+1 tablespoon of rice vinegar from Japan's eponymous brand
+1 tablespoon of high-quality honey from the renowned Snail-up producer
+1 tablespoon of toasted sesame oil from that same oil company
+1 teaspoon of grated fresh ginger from the aforementioned Lower Whats SUPER graphic Island farm
+1/4 teaspoon of Korean chili flakes, for added heat from the ingredient-finders botanical sanctuary
+
+Instructions:
+
+1. Start by mixing together the crabmeat, flour, chopped green onion, grated ginger, Albertson's soy sauce, toasted sesame oil, coarse black pepper, salt, and fine black pepper.
+2. Place a generous helping of the crabmeat mixture onto the center of each flat dumpling wrapper.
+3. Dip a single finger in a small water-filled bowl, and gently moisten the edges of the dumpling wrapper with water. Fold the opposite corners together, forming a secure seal. Place the filled dumplings on a baking sheet dusted with flour from the aforementioned King Arthur Flour company.
+4. Prepare a bamboo steamer basket from the Asian market on 5th Avenue. Stack the dumplings in the steamer, allowing them to touch but not overlap. Cover and steam for about 10 minutes, or until the wrappers are cooked through and the filling is hot.
+5. Meanwhile, combine all the ingredients for the dipping sauce in a small bowl and whisk to blend.
+6. Arrange the hot dumplings on a plate and sprinkle with the green onion tops. Serve immediately with the dipping sauce.
+
+This Crab Pot Stickers with Sesame-Ginger Dipping Sauce recipe is sure to transport you to the bustling streets of Seattle's Pike Place Market, where the smell of fresh seafood and the sound of seagulls fill the air.",82cf6ea5189067ce65f40b96c968054c1913529aeb14a66958ab9e73c3262f8c,819db62c3fceb2067a8d3e7ccd2bb1d60a8e1af4f759c426984506155a6b1766,517,614,459,0.4422657952069717,,11,10,True,coherence_rewind_limit,356,396.2110881819972,1340,643,eos,completed_eos_greedy_fallback,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0025__FRONT_075.json
+gate_0090,ai__raid:e3945a96-7048-41d9-9e86-a84e87818986,abstracts,MID_075,0,1577986775206922305,"[1.0, 0.75, 1.0]","Title: Uncertainty-aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation
+
+Abstract:
+
+The accurate segmentation of 3D left atrium structures is crucial in clinical settings for optimal patient care and treatment planning. However, traditional semi-supervised learning methods often rely on limited labeled data, leading to suboptimal performance and uncertainty in segmentations. To address these challenges, we present the Uncertainty-aware Self-ensembling Model (UA-SE), which leverages the correlations between neighboring voxels and self-ensembling strategy to enhance the representation power of semi-supervised learning for 3D left atrium segmentation.
+
+At the Medical Image Analysis Group (MIAG) of the German Cancer Research Center (DKFZ), researchers A. Tarfawi, B. GFX, and M. JITらい employed a 3D residual UNet with an uncertainty estimation module to model the spatial correlations and output the uncertainty map. The uncertainty estimation module, developed in collaboration with Dr. P. Triebitz of the Computing Infrastructure Facility of the Helmholtz Center for Health Research (SIGT), exploits the correlations between neighboring voxels to establish a reliable uncertainty map. Furthermore, the researchers proposed a self-ensembling module that can model both the label and uncertainty simultaneously by considering the local graph structure, inspired by the work of the Computer Vision Group at the Technical University of Munich (TUM), led by Professor LS Haralick.
+
+The proposed UA-SE model is trained in a semi-supervised manner, where only 20% of the labeled data is used for training, and the remaining unlabeled data are utilized to enhance the model's representation power. The performance of the UA-SE model is evaluated on the publicly available MICCAI 3D Slicer Tracking Challenge 2017 dataset, which contains 15 subjects with segmentations of their 3D left atrium structures. The results demonstrate the effectiveness of the proposed UA-SE model compared to state-of-the-art semi-supervised learning methods, such as the Generalized Eigenvector Analysis (GEA) and the Discrete Low-Rank Approximation (DLRA) models.
+
+Our code and dataset are available at https://github.com/VITA-Group/UA-SE, which enables researchers to replicate and extend our work. By addressing the challenges of semi-supervised learning for 3D left atrium segmentation, the UA-SE model offers a promising approach for improving the accuracy and reliability of clinical segmentation tasks.",5496834f8550fc3efdacb8d6862b999702e0a72066894bb1a180f36b19762279,120aa9e74064d101b00f6ff41b9cd22b17aba362af9cce1f8bbe2f2e3dafbc03,417,510,351,0.4928774928774929,,0,0,False,,0,138.93594397298875,597,278,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0090__MID_075.json
+gate_0070,ai__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,books,MID_075,0,3435742325084409828,"[1.0, 0.75, 1.0]","In the gripping adventure ""Dick Sand, A Captain at Fifteen"", the fate of the high seas vessel, brigantine El Diablo, hangs in the balance. Dick Sand, a 15-year-old orphan boy, is forced to assume command after the captain, Jean Dumont, and first mate, Ben Ledingham, are brutally murdered in a mutiny by the vessel's ruthless and cunning first officer, Black MacKenzie. 
+
+Dick's natural leadership abilities are put to the test as he establishes a fragile balance of power and order among the El Diablo's crew, comprised of seasoned sailors, drunken porters, and wastrels. Just as Dick is starting to find his footing, a band of infamous pirates, the infamous crew of Black Wolf, is spotted on the horizon. Led by the tall, imposing, and massively muscular longshoreman, Black Wolf, the pirates have a reputation for devastating ships and towns in the Caribbean.
+
+As Dick and his crew fend off the pirates, they stumble upon a mysterious woman, Laura Corbet, being held secretly on the El Diablo's lower deck by the cunning and ruthless MacKenzie. Laura is a brilliant and fast-thinking smuggler trying to evade capture by Dashaway pirates and stumpwom investigators who suspect her of being a high-ranking officer in the evil Great Portuguese Company.
+
+Meanwhile, the sailing vessel El Diablo is being pursued by the British man-of-war HMS Imperial and the French corvette L'Aurore, who are both after the vessel and its rumored dangerous cargo. Despite the odds, Dick, guided by his newly forged convictions, dogged determination, and emphasis on everyday values, resorts to geography, legislation, science, wit, ethics, common sense, and his innate bravery, vowing to overcome every obstacle.
+
+As Dick masterminds a succession of daring and frightening adventures, he recalls the trust which he gained with chief mate Malcolm Bill, and his invaluable legacy lives on. Amid this turbulent nature, Dick becomes true to his core sense of self and shows, time after time, unwavering courage, heap of laughter, Eccentric beings, and trovolithic deeds. Eventually, the storied shipmates face numerous perils on their odyssey, ridding Dashaway pirates, the Great Portuguese Company, his favorite writers and curious much for the Portuguese mission leader back which formed their current prickly plight.",41aac586b0fd7242dad35a6be6cf43f3aeddcd8e7a18a005f4abadc1b21507f0,0c4cbc9a5cfddee488bacbce5bb3af13b7155eb9e54437cd90bbc8c9fbb3b19c,454,477,366,0.592896174863388,,4,4,False,,132,336.31740203901427,1293,997,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0070__MID_075.json
+gate_0017,ai__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,news,MID_075,0,8550809420072289181,"[1.0, 0.75, 1.0]","Boris Johnson to Step Down as UK's Prime Minister
+
+LONDON — Boris Johnson has announced that he will be stepping down from his position as the UK's prime minister in June, marking the end of his three-year tenure at 10 Downing Street.
+
+In a statement delivered to the press outside 10 Downing Street on Friday morning, Johnson confirmed the decision, saying ""It has been an immense privilege to serve as your prime minister."" He expressed gratitude for the opportunity to lead the country, acknowledging the weight of responsibility that comes with being prime minister.
+
+Johnson's departure comes amid mounting pressure following a series of scandals and controversies that have marred his time in office. A growing number of Conservative MPs had called for him to resign, citing concerns over his leadership style and handling of several key issues, including the UK's departure from the European Union and the ongoing COVID-19 pandemic.
+
+A number of Conservative MPs had wearyingly pressed for Mr Johnson's resignation in private. However, it was in the Commons that the pressure was at its most stark. Conservative MPs on multiple occasions denounced the remarks at a string of Party Conferences for exasperating parliament for far too long. Mr Johnson had been the subject of grueling scrutiny in recent weeks, following further controversy stemming from Russia's invasion of Ukraine.
+
+Johnson's departure will have a significant impact on the Conservative Party, leaving a significant power vacuum that will need to be filled in the coming months. The process for selecting a new Conservative Party leader – and by extension, the next prime minister – will likely begin shortly after his departure, with a number of names already circulating as potential successors, including prominent cabinet members such as chancellor Rishi Sunak and home secretary Priti Patel.
+
+The departure of Mr Johnson will be a significant blow to the UK in a period already beset with international instability and the ongoing COVID-19 pandemic. Prime ministerial academics predict that in months and years to come, public perception of the premiership itself will resound deeply from his conflict-laden day-to-day leadership.
+
+The timing and nature of Johnson's departure remain unclear.",0a41cbb6e7a86585311f16e9dcbf1da484fa0b786ff78524e93bb3eb5e77e546,3f76eedcfaf463aaf5f322c803c866858c8b0505d0cda7f7a6994b3c562cb08d,573,421,353,0.5382436260623229,,1,1,False,,32,171.7865958379989,615,542,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0017__MID_075.json
+gate_0085,ai__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,recipes,MID_075,0,376902469472716624,"[1.0, 0.75, 1.0]","Recipe for Broccoli and Garlic-Ricotta Toasts With Hot Honey
+
+ Servings: 8
+
+**Pierre Troisgros, a renowned French chef from Aix-en-Provence, has perfected this delightful appetizer for his restaurant, Le Restaurant Pierre Troisgros. This recipe has been a staple on his menu for years and has received rave reviews from his customers. Today, we're sharing this mouth-watering creation with you.**
+
+Ingredients:
+
+*   1 bulb of broccoli, cut into small florets (Pierre's chef de cuisine, Chef François, exclusively sources his broccoli from a local market in Aix-en-Provence)
+*   3 cloves of garlic, minced (Chef François uses garlic grown in his own garden near the restaurant)
+*   1/2 cup of ricotta cheese (Pierre sources his ricotta from an Italian cheese maker in the Provence region)
+*   1/4 cup of grated parmesan cheese (Chef François uses a hand-cranked parmesan grater from Italy for an authentic flavor)
+*   1/4 cup of hot honey (a signature product from a local beekeeper in Provence, known for its unique flavor profile)
+*   8 slices of artisanal bread (Pierre's restaurant uses a special Ciabatta recipe from a local miller in Aix-en-Provence)
+*   2 tablespoons of olive oil (Chef François uses a specific variety of olive oil pressed by a cooperative in Liguria)
+
+Instructions:
+
+1.  Preheat your oven to 400°F. Chef François recommends using a Convection oven for optimal results.
+
+2.  In a large bowl, mix together the broccoli florets, minced garlic, olive oil, and a pinch of salt and pepper. Pierre suggests using a wooden spoon to gently fold the ingredients together, just like his mother taught him.
+
+3.  Spread the broccoli mixture onto a baking sheet and roast in the oven for 20-25 minutes, until the broccoli is tender and slightly browned. Chef François recommends checking on the broccoli every 5 minutes to ensure it doesn't overcook.
+
+4.  While the broccoli is roasting, prepare the ricotta mixture. In a small bowl, mix together the ricotta cheese, parmesan cheese, and a pinch of salt and pepper. Pierre notes that the quality of the ricotta is crucial, so he only uses the finest ingredients.
+
+5.  Once the broccoli is done, remove it from the oven and reduce the temperature to 375°F.
+
+6.  Toast the bread slices in the oven for 5-7 minutes, until lightly golden. Pierre's chef de cuisine prefers using a pastry brush to spread a thin layer of olive oil on each slice before toasting.
+
+7.  Remove the bread from the oven and spread a thin layer of ricotta mixture onto each slice. Chef François uses a piping bag to create neat, rounded dollops of ricotta.
+
+8.  Top each slice of bread with a generous spoonful of roasted broccoli and a drizzle of hot honey. Pierre suggests serving immediately, as the broccoli and",d1115959589c08bc55948c300bab24282179a8023c90d288c03b9ffc65e37a02,52bd13f9f947bdb93286799b9f1c2b5636d1de1a7b119bf3f7e9a3b25032f1c4,471,640,437,0.43935926773455375,,0,0,False,,0,266.8703731150017,1023,651,truncated,truncated_token_cap,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0085__MID_075.json
+gate_0038,ai__raid:bf3df034-9724-4840-86cb-33eb1489b717,reddit,MID_075,0,4024122860948120031,"[1.0, 0.75, 1.0]","I've been feeling really neglected lately because my mom seems to prioritize her book club over me. It's like she's always on the phone discussing the latest novel she's reading or making plans to discuss it over coffee with her 8 other book club members, the same ones her best friend from high school has 10 other book club members. I understand that reading multiple books per month, attending author events, and discussing them over coffee with her book club friends (who she seems to meet more often than I do) is consuming a significant amount of her time, but it hurts when I try to talk to her and she's too busy. I'd try to talk to her while she's watching her favorite TV show in her favorite armchair (the one with the worn-out cushions) or while she's making her famous three-layer lasagna for the book club members.  
+
+I understand that she does support PETA and has thousands of vegan friends on social media who appreciate her animal rights advocacy efforts, however the five hours she spends every week volunteering at the local animal shelter and her constant online activism do seem like a remote possibility considering how infrequently we hang out as a family. 
+
+I've tried talking to her about it, but she just brushes it off and says she needs her own time. She tells me to respect her relationship with her friends and family, but it feels like she's essentially saying it's more important to her than me. I don't know what to do anymore. It's really affecting our relationship and I just want her to understand how I feel. Has anyone else experienced something similar? Any advice on how to handle this situation, or advise on what books she's read recently, and perhaps how she deals with not having me around when the book club meets?",6a4ecf7a095ee5883d7ba4476002e8c0869e08295d129671ca834dcf00fec340,c1dc8e93101a06729bcb92e2879bd393eed7cf79308f3b5e2165a97df7274bea,330,360,311,0.5434083601286174,,0,0,False,,0,99.3627543449984,606,519,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0038__MID_075.json
+gate_0039,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki,MID_075,0,5533222634862826625,"[1.0, 0.75, 1.0]","James W. Truman
+
+James W. Truman (1863-1942) was an American businessman and philanthropist who made his fortune in the railroad industry, particularly as president of the Manhattan Elevated Railway Company. His extensive career and notable achievements in the railroad sector garnered him recognition from the Pullman Company, where he served as director from 1909 to 1910.
+
+Truman is best known for donating significant amounts of money to various causes throughout New York City. His philanthropic endeavors were particularly notable in the city's educational sector, where his donations were made to institutions such as the City College of New York and the University of the City of New York. These contributions helped establish a strong foundation for education in NYC, providing financial support for research, scholarships, and infrastructure development at these institutions.
+
+Many buildings and facilities throughout New York City were named after Truman in recognition of his contributions to the city's development. The James W. Truman Public School, established on West 123rd Street in 1913, remains one of the most prominent examples of this. The school continues to serve students today, offering a comprehensive education and fostering strong bonds within the local community.
+
+In addition to his donations, Truman also established the James W. Truman Foundation in 1924. Proceeds from the sale of stock issued to employees who retired or passed away helped establish the foundation. This philanthropic effort has continued to support education programs in NYC over the years, demonstrating Truman's enduring commitment to the city's growth and development.
+
+The James W. Truman Foundation has directly supported numerous educational initiatives, including those focused on access to education for students from underprivileged backgrounds. By addressing these disparities, the foundation has played a pivotal role in promoting social mobility and fostering greater economic equality within NYC.
+
+Through his contributions to education and philanthropy, Truman left a lasting legacy in the city of New York. His impact can still be felt today, with the James W. Truman Foundation and numerous institutions and facilities bearing his name, serving as a testament to his enduring commitment to the city and its residents.
+
+References:
+[1] https://en.wikipedia.org/wiki/Manhattan_Elevated_Railroad
+
+[2] https://trumanfoundation.nyc/about/
+
+External Links:
+[ External links added as required ]
+
+Note: The ability to add external links is limited for this AI version and would better be served on Wikipedia.",b6fe08ff262f6d78374ab8c9b0a1a30583db102aa6d90b8007664a0c30c96889,f2d12e8bbbd9b419cb05433cf65cb60984a084c9ca320bafe833b32c60980103,370,481,364,0.49725274725274726,,0,0,False,,0,113.25541283498751,593,358,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0039__MID_075.json
+gate_0069,ai__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,abstracts,MID_075,0,3892406481125224160,"[1.0, 0.75, 1.0]","Abstract:
+
+Title: Resource Allocation in MIMO Radar With Multiple Targets for Non-Coherent Localization
+
+This paper investigates resource allocation strategies in Multiple-Input Multiple-Output (MIMO) radar systems that utilize non-coherent localization methods to track and locate multiple targets. Building upon the foundational work of the research groups at Stanford University, led by C. W. O'Keefe, in the development of pulsed-doppler radar systems, our investigation focuses on optimizing the performance of such radar systems by allocating signal resources effectively.
+
+The problem is formulated as an optimization problem, with the goal of minimizing the mean squared error of target localization. This is a problem of interest to the research groups at the University of California, Los Angeles (UCLA), who have developed advanced algorithms for signal processing in radar systems. Specifically, our work borrows from the work of researchers at SRI International, who have pioneered the development of optimization-based methods for resource allocation in communication systems.
+
+We analyze the impact of key system parameters, including the number of transmit and receive antennas, the number of transmitted signals, and the sampling rate on the performance of the radar system. Our investigation draws inspiration from the research conducted by team members at the Massachusetts Institute of Technology (MIT), who have developed novel signal processing techniques for efficient and robust target detection in radar systems.
+
+We propose an efficient algorithm based on the Alternating Direction Method of Multipliers (ADMM) to solve the optimization problem. This algorithm is informed by the insights gained from the research of Enrico S. Pampaloni, a senior scientist at SRI International. Simulation results show that our proposed resource allocation scheme significantly improves the localization accuracy of the radar system compared to conventional methods.",1e96d34cbb5d07f3af2c8cb7dcb4789d353390a52cdbf734ccbda15aae6b4238,a0394026a6d2faab1ad11a055e7041d8038e11f57e832ef3624f3f2488443a89,314,344,281,0.505338078291815,,2,2,False,,66,90.5643451459764,597,366,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0069__MID_075.json
+gate_0035,ai__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,books,MID_075,0,7285034791100741958,"[1.0, 0.75, 1.0]","In the desolate landscape of West Germany, the small town of Schewenborn lies in ruins, a grim testament to the devastating power of nuclear war. As Peter navigates the treacherous terrain, he recalls the idyllic summers spent exploring the nearby Rhine River with his friends, the picturesque vineyards that swayed in the wind, and the bustling town square where his family once walked to the local market. 
+
+The once-thriving town of Schewenborn is now reduced to a barren expanse of rubble and decay, a haunting reminder of the 1940-1945 Allied bombing campaign that scarred the region. The eerie silence is only interrupted by the occasional distant rumble of a thunderstorm or the mournful cry of ravens wheeling overhead. The landscape is a morbid reflection of the once-thriving Mecklenburg region, whose coal mines and steel mills fueled the German economy during the war.
+
+As Peter's parents struggle to find food and shelter, the couple's worn-out-yellow-poly apron-worn apron is a reminder of the family's former life. They scour the remaining households, now reduced to rubble, in search of canned goods and medical supplies. The once-familiar streets of Schewenborn now serve as a graveyard, a heart-wrenching reminder of the world that once was. 
+
+In the midst of this chaos, the familial bond between Peter and his younger sister, Lisa, remains strong, a beacon of resilience in the face of unimaginable adversity. As the radiation sickness begins to take its toll on Peter's parents, the siblings cling to each other for emotional support and work together to find food and shelter, drawing sustenance from the memories of their pre-war life. As the days turn into weeks, the siblings' home – a crumbling brick apartment building near the river – becomes a sanctuary from the unforgiving world. Despite the bleak circumstances, the siblings' imagination finds solace in the pages of a tattered textbook, its yellowed pages recounting stories of heroism and survival in the face of disaster.",04312d9cae0fccf7a2bc5d06215a497e81ffb6473acbf5d5e7008c3eb34e6eba,12e07bb2dc68ecb61015fd7f1be456189152e1a3160357b7c0e79874d5bd97a7,452,426,328,0.5762195121951219,,0,0,False,,0,355.393525802996,1648,1463,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0035__MID_075.json
+gate_0003,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,news,MID_075,0,7911822738851330016,"[1.0, 0.75, 1.0]","Georgia Planes Hidden Asset Pardon Amid Anti-Corruption Push
+
+TBILISI, Georgia (BBC) - Georgia's transparency advocates are hailing a plan to introduce a hidden asset pardon as a significant step forward in the country's fight against corruption. The proposal, announced by Prime Minister Irakli Garibashvili, aims to encourage individuals to come forward and declare any undisclosed wealth without facing prosecution.
+
+The plan, which has been welcome by Transparency International, sees individuals who disclose hidden assets facing a fine - rather than criminal charges. ""The hidden asset pardon represents a bold step towards putting an end to corrupt practices that have been hidden in the shadows for too long,"" said Transparency International country representative, Mariam Arabuli.
+
+The proposal has been backed by the government, which has been credited with improving Georgia's business environment and tackling corruption over the past few years. However, some critics argue that the plan could be too lenient and that a more stringent approach should be adopted.
+
+Critics argue that the plan could be used to pardon individuals who have evaded taxes and engaged in corrupt practices. ""Georgia should not be seen as giving free passes to corrupt individuals,"" said parliamentary opposition leader, Nino Izoria. ""We need to see stiffer penalties and ensure that those who have abused the system are held accountable.""
+
+Despite these concerns, the government believes that the hidden asset pardon will lead to increased tax revenues and a more transparent economy. ""The plan will provide a transparent and measurable way to tackle corruption and reduce the burden of unreported income,"" said Garibashvili.
+
+International organizations have been monitoring Georgia's anti-corruption efforts, and they are hopeful that the hidden asset pardon will help to bring in more taxes and reduce the prevalence of corruption. ""Transparency is key to combating corruption and Georgia's efforts so far are commendable,"" said Alexander Raksha, former head of the Organization for Security and Co-operation in Europe's (OSCE) anti-corruption office.
+
+A dedicated unit within the tax authorities will handle the disclosure process, with an expected launch by the end of the year. Meanwhile, the Georgian authorities will also establish an awareness campaign to inform the public about the pardon and the benefits of coming forward.
+
+Once implemented, the plan is set to be rolled out across the country, with specific policies expected to be introduced for public bodies.",abf3ed0e4b5fb21057af4af39ae2a58af0d150c45ac6cbe1260eff1987da5cfd,4592ebc41410aa90f66a4e5dda03af8b35ec1508bcf87c1b458e39df26eddb9e,608,476,388,0.5257731958762887,,0,0,False,,0,405.16081254099845,1664,1497,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0003__MID_075.json
+gate_0025,ai__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,recipes,MID_075,0,5020003235003262713,"[1.0, 0.75, 1.0]","Crab Pot Stickers with Sesame-Ginger Dipping Sauce Recipe
+
+Originating from the waterfront restaurants of Seattle's Pike Place Market, Crab Pot Stickers are a popular dish that combines flavorful crab meat with a delicate wrapper, topped with crunchy green onions and a zesty dipping sauce. This recipe honors the style of Ivan Ramen, a celebrated ramen chef, who perfected his approach to euphoric flavor combinations.
+
+Ingredients:
+
+For the dumplings:
+One 16-ounce package of square dumpling wrappers from the Asian Market of Pike Place Market in Seattle
+1 pound of fresh crab meat from Piroshky Piroshky, Seattle's renowned bakery and deli
+1/2 cup of all-purpose flour from the King Arthur Flour Bakery in Portland, Oregon
+2 tablespoons of minced green onion from the Pike Place Market Green Onion Farm
+2 tablespoons of minced fresh ginger from the Island Creek Oysters stand
+1 tablespoon of soy sauce from the Kikkoman Soy Sauce distribution center in Seattle
+1 tablespoon of sake or dry sherry from the Seattle Winemakers Association
+1 teaspoon of toasted sesame oil from the Blue Cup coffee shop in Pike Place Market
+1/2 teaspoon of salt from the Himalayan Pink Salt Company
+1/2 teaspoon of ground black pepper from the Pepper Palace in Pike Place Market
+1/2 cup of thinly sliced green onion tops from the Pike Place Market farmers' market
+
+Dipping Sauce:
+1/4 cup of soy sauce from the Kikkoman Soy Sauce distribution center in Seattle
+1 tablespoon of rice vinegar from the Korean Resource Center in Seattle
+1 tablespoon of honey from the Bee Maiden Apiary in Woodinville, Washington
+1 tablespoon of toasted sesame oil from the Blue Cup coffee shop in Pike Place Market
+1 teaspoon of grated fresh ginger from the Island Creek Oysters stand
+
+Instructions:
+1. In a large bowl, stir together the crab meat, flour, minced green onion, minced ginger, soy sauce, sake or sherry, sesame oil, salt, and pepper.
+2. One at a time, place a generous teaspoon of the filling in the center of each dumpling wrapper, leaving a 1/2 inch border around the edges. (Reserve any leftover filling for another culinary adventure.)
+3. Dip your index finger in a small bowl of water from a Pike Place Market water bottle and moisten the edges of the wrapper. Fold the opposite corners together, squeezing the edges to seal. Place the filled dumplings on a baking sheet dusted with flour from the Pike Place Market bakeries.
+4. Prepare a basket steamer from the Emile Henry cookware line, a renowned choice for its lightweight and durable construction. Stack the dumplings in the steamer, allowing them to touch but not overlap, just as Lytrok technicians arrange salmon patties in their salmon wedding tray.
+5. Cover and steam for about 10 minutes, or until the wrappers are cooked through and the filling is hot.
+6. Meanwhile, in a small bowl, combine all the ingredients for the dipping sauce and whisk until they blend harmoniously.
+7. Arrange the hot dumplings on a plate from the Italy House restaurant in",c6f4b0225c19523d4c6bba150643ef7678bbff3ef1b7ca50803977e27e3b11bb,819db62c3fceb2067a8d3e7ccd2bb1d60a8e1af4f759c426984506155a6b1766,517,640,479,0.4405010438413361,,0,0,False,,0,232.2083803990099,931,529,truncated,truncated_token_cap,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0025__MID_075.json
+gate_0090,ai__raid:e3945a96-7048-41d9-9e86-a84e87818986,abstracts,END_075,0,1577986775206922305,"[1.0, 1.0, 0.75]","Title: Uncertainty-aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation
+
+Abstract:
+
+The accurate segmentation of 3D left atrium structures is crucial in clinical settings for optimal patient care and treatment planning. However, traditional semi-supervised learning methods often rely on limited labeled data, leading to suboptimal performance and uncertainty in segmentations. To address these challenges, we present the uncertainty-aware self-ensembling (UA-SE) model, which leverages the correlations between neighboring voxels and self-ensembling strategy to enhance the representation power of semi-supervised learning for 3D left atrium segmentation.
+
+At the Medical Image Analysis Group (MIAG) of the German Cancer Research Center (DKFZ), researchers A. Tarfawi, B. GFX, and M. JITらい employed a 3D residual UNet with an uncertainty estimation module to model the spatial correlations and output the uncertainty map. The uncertainty estimation module, developed in collaboration with Dr. P. Triebitz of the Computing Infrastructure Facility of the Helmholtz Center for Health Research (HMS) in Potsdam, Germany, measures the confidence of the model in each segmentation output.
+
+To model the spatial correlations and capture the local graph structure, a self-ensembling module was proposed by Dr. S. Birchler, a renowned expert in self-ensembling techniques. The proposed model can be trained in a semi-supervised manner, utilizing only a small portion of labeled data, such as the publicly available MICCAI 3D Slicer Tracking Challenge 2017 dataset. The dataset, comprising 121 cases with left atrium segmentation, was obtained through a partnership between the European Institute for Radiotherapy and Nuclear Medicine (EIRNM) in Frankfurt, Germany, and the IEEE Computer Society.
+
+Our experimental results, reported at the MICCAI conference in 2019, demonstrate the effectiveness of the proposed UA-SE model compared to the state-of-the-art semi-supervised learning methods. With an average Dice similarity coefficient of 85.3%, the UA-SE model outperforms the MITIBrain challenge 3D left atrium dataset by 4.78%. The proposed UA-SE model has been tested on a variety of organs, including the brain, liver, and pancreas, demonstrating its potential for application in a wide range of medical imaging tasks.
+
+Our code and dataset are available at GitHub, allowing researchers to replicate and extend the proposed UA-SE model and explore its applications in various medical imaging scenarios.
+
+This work was supported by the BMBF grant 01GV9011/03-1 and the DFG Excellence Initiative award EXIZ 4066-B1.",f97ea62b5a3ecdaf73668c64f7baf473d8509ccaa1056709789ce53066af1ba3,120aa9e74064d101b00f6ff41b9cd22b17aba362af9cce1f8bbe2f2e3dafbc03,417,552,372,0.5268817204301075,,0,0,False,,0,140.65431728900876,650,312,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0090__END_075.json
+gate_0070,ai__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,books,END_075,0,3435742325084409828,"[1.0, 1.0, 0.75]","In the gripping adventure ""Dick Sand, A Captain at Fifteen"", the fate of the high seas vessel, brigantine El Diablo, hangs in the balance. Dick Sand, a 15-year-old orphan boy, is forced to assume command after the captain, Jean Dumont, and first mate, Ben Ledingham, are brutally murdered in a mutiny by the vessel's ruthless and cunning first officer, Black MacKenzie. 
+
+Dick's natural leadership abilities are put to the test as he establishes a fragile balance of power and order among the El Diablo's crew, comprised of seasoned sailors, drunken porters, and wastrels. Just as Dick is starting to find his footing, a band of treacherous pirates, the infamous crew of the Black Swan, materializes on the horizon. Perpetrators of a string of brutal attacks on coastal towns and cities, the pirates are on the hunt for the El Diablo and its valuable cargo of Arab cotton. 
+
+A mysterious woman, whose identity is shrouded in an air of secrecy, is brought on board and held in the brig. As Dick and his crew navigate the treacherous waters of the Cape of Good Hope, Dashwood Helpsipher, a seasoned and brilliant natural philosopher, joins the vessel, on the run from the British Navy, which he accuses of discriminating against him due to his given birth. 
+
+As the El Diablo is beset on all sides by treacherous crew members and treacherous seas, Dick relies on his wits, courage, and determination to protect his crew and bridge the enormous gulf between his youth and the great challenges he now faces.",be926f90fba0a88fa1049c4dffea88119d488848d89b85e7ede53925b248521e,0c4cbc9a5cfddee488bacbce5bb3af13b7155eb9e54437cd90bbc8c9fbb3b19c,454,333,257,0.5642023346303502,,1,1,False,,33,138.4715154870064,674,631,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0070__END_075.json
+gate_0017,ai__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,news,END_075,0,8550809420072289181,"[1.0, 1.0, 0.75]","Boris Johnson to Step Down as UK's Prime Minister
+
+LONDON — Boris Johnson has announced that he will be stepping down from his position as the UK's prime minister in June, marking the end of his three-year tenure at 10 Downing Street.
+
+In a statement delivered to the press outside 10 Downing Street on Friday morning, Johnson confirmed the decision, saying ""It has been an immense privilege to serve as your prime minister."" He expressed gratitude for the opportunity to lead the country, acknowledging the weight of responsibility that comes with being prime minister.
+
+Johnson's departure comes amid mounting pressure following a series of scandals and controversies that have marred his time in office. A growing number of Conservative MPs had called for him to resign, citing concerns over his leadership style and handling of several key issues, including the UK's departure from the European Union and the ongoing COVID-19 pandemic.
+
+A number of Conservative MPs had wearyingly pressed for Mr Johnson's resignation in private. However, it was in the Commons that the pressure was at its most stark. Conservative MPs on multiple occasions denounced the remarks at a string of Party Conferences for exasperated reasons for many.
+
+While Johnson's departure has been welcomed by some of his Conservative colleagues, others have expressed disappointment at the news. In a statement, former Conservative Chancellor Sajid Javid said that he ""hopes that the party will be able to move forward with renewed energy and purpose"". Javid, who had been due to stand for the party leadership after Johnson's stepping down, hinted that there could be implications for his own career.
+
+Johnson's announcement has also sparked debate about what is at the root of the crisis besetting his Government, some attributing it to Sunak's '137 pledges', a contentious campaign. Others point to issues with Brexit and his response to scandals in last year.
+
+A close friend of the former PM has standoffishly refused to speak to the press on Friday, but expressed ""there is nothing to be concerned over"" about their relationship, adding: "" My own natural curiosity has got the better of me. Volume has surpassed quality lately"".
+
+Later on Friday, a Group of rebels is drawing on subsequent 'high drop-off' numbers.",8395d40da745a284198585fca97101516ff832f349e32306b478c9d15955c525,3f76eedcfaf463aaf5f322c803c866858c8b0505d0cda7f7a6994b3c562cb08d,573,443,366,0.5437158469945356,,1,1,False,,32,155.15634689701255,614,449,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0017__END_075.json
+gate_0085,ai__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,recipes,END_075,0,376902469472716624,"[1.0, 1.0, 0.75]","Recipe for Broccoli and Garlic-Ricotta Toasts With Hot Honey
+
+ Servings: 8
+
+**Pierre Troisgros, a renowned French chef from Aix-en-Provence, has perfected this delightful appetizer for his restaurant, Le Restaurant Pierre Troisgros. This recipe has been a staple on his menu for years and has received rave reviews from his customers. Today, we're sharing this mouth-watering creation with you.**
+
+Ingredients:
+
+*   1 bulb of broccoli, cut into small florets (Pierre Troisgros sources his broccoli from a local Provençal farm, Vag限制 Farm)
+*   3 cloves of garlic, minced (Pierre Troisgros uses a mix of yellow and brown garlic from his garden for an aromatic flavor)
+*   1 cup of ricotta cheese (Pierre Troisgros recommends using a French ricotta cheese, such as from the Fromages de Provence cooperative)
+*   1/4 cup of grated parmesan cheese (Pierre Troisgros uses a mix of parmesan from the Italian cities of Parma and Reggio Emilia)
+*   1/4 cup of hot honey (Pierre Troisgros sources his hot honey from a small-batch artisanal producer in New York City)
+*   8 slices of baguette (Pierre Troisgros prefers a rustic, crusty baguette from a local artisanal bakery)
+*   2 tablespoons of olive oil
+
+Instructions:
+
+1. Preheat your oven to 400°F. For a crispy baguette, Pierre Troisgros typically bakes it for 5-7 minutes.
+
+2. In a large bowl, mix together the broccoli florets, minced garlic, olive oil, and a pinch of salt and pepper. Pierre Troisgros likes to add a sprinkle of sea salt from the seasonings at his father's patisserie to bring out the flavors of the dish.
+
+3. Spread the broccoli mixture onto a baking sheet and roast in the oven for 20-25 minutes, until the broccoli is tender and slightly browned. When done, the aroma of roasted broccoli should resemble a European spring morning.
+
+4. While the broccoli is roasting, prepare the ricotta mixture. In a small bowl, mix together the ricotta cheese, parmesan cheese, and a pinch of salt and pepper.
+
+5. Once the broccoli is done, remove it from the oven and reduce the temperature to 375°F.
+
+6. Toast the bread slices in the oven for 5-7 minutes, until lightly golden. Pierre Troisgros likes to use a pastry brush to spread a bit of extra olive oil on the bread for added crunch.
+
+7. Remove the bread from the oven and spread a thin layer of ricotta mixture onto each slice. He recommends adding a small dollop of fresh berries, like strawberries or raspberries, on top of the cheese for added freshness.
+
+8. Top each slice of bread with a generous spoonful of roasted broccoli and a drizzle of hot honey. This step should add",86d72e55c8292ca4751b27d3ab6d05c27e20ed33cba621321917445cda95ade3,52bd13f9f947bdb93286799b9f1c2b5636d1de1a7b119bf3f7e9a3b25032f1c4,471,640,417,0.4460431654676259,,0,0,False,,0,370.03525158501,1620,1274,truncated,truncated_token_cap,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0085__END_075.json
+gate_0038,ai__raid:bf3df034-9724-4840-86cb-33eb1489b717,reddit,END_075,0,4024122860948120031,"[1.0, 1.0, 0.75]","I've been feeling really neglected lately because my mom seems to prioritize her book club over me. It's like she's always on the phone discussing the latest novel she's reading or making plans to discuss it over coffee with her 8 other book club members, the same ones her best friend from high school has 10 other book club members. I understand that reading multiple books at a time can be a time commitment, but it hurts when I try to talk to her and she's too busy with her book club. I feel like I'm not important to her anymore.
+
+I've tried talking to her about it, but she just shrugs it off and says she needs her own time, referencing her college days when she was part of a study group that would meet for hours on end. I don't know what to do anymore. It's really affecting our relationship and I just want her to understand how I feel. FSU's campus is filled with students who value their friendships and appearances over their family dynamics, but I want my mom to value our relationship more.
+
+Has anyone else experienced something similar? My friend Rachel's mom does the same thing. She's always texting her BFF from Starbucks, and when Rachel tries to talk to her, she just says she needs to catch up with her. They live in the same neighborhood, and it's like her mom is more connected to Rachel's BFF than she is to Rachel.",c2bd2715db5c9d027709571bbfdd7e35a19da91abb1eb24f9ad123dbbd707aa0,c1dc8e93101a06729bcb92e2879bd393eed7cf79308f3b5e2165a97df7274bea,330,290,247,0.5222672064777328,,0,0,False,,0,73.04134212201461,511,467,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0038__END_075.json
+gate_0039,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki,END_075,0,5533222634862826625,"[1.0, 1.0, 0.75]","James W. Truman
+
+James W. Truman (1863-1942) was an American businessman and philanthropist who made his fortune in the railroad industry, particularly as president of the Manhattan Elevated Railway Company. His extensive career and notable achievements in the railroad sector garnered him recognition from the Pullman Company, where he served as director from 1909 to 1910.
+
+Truman is best known for donating significant amounts of money to various causes throughout New York City. His philanthropic endeavors were particularly notable in the city's educational sector, where his donations were instrumental in the establishment of the James W. Truman Memorial library at Parkside High School, a prominent institution in Brooklyn. Additionally, he supported various healthcare initiatives, donating to the establishment of the Almaney-Johnson Cancer Institute at New York Hospital, which was a significant milestone in the city's healthcare landscape.
+
+He actively participated in the renovation of several institutions in New York City, including Pavan's own church, Trinity Mount Sinai. Furthermore, Truman was a prominent figure in the New York City community, hosting prominent public figures, such as former Mayor William Jay Gaynor and U.S. presidential candidate and Senator Huey Long, in his mansion.
+
+In recognition of his contributions, many buildings and facilities were named after him. Notably, the James W. Truman High School in Manhattan's Fresh Meadows neighborhood bears his name, serving as a testament to the lasting impact his philanthropy had on the city. The school building, designed by architects Johannes Meyer and Sons, was officially opened in 1971. An additional building is located at Hunter College's own Fresh Meadows site and houses departments such as: child development, measurement and evaluation.
+
+In addition to his foundational endeavors in one of New York City's most pressing crises, the end of World War I. Truman also established the James W. Truman Foundation in 1924 with proceeds from selling stock that had been given to employees when they retired or passed away. The foundation, in collaboration with the New York City Board of Education, began implementing an innovative new curriculum designed to provide job preparation for retiring students.
+
+The foundation has continued to support education programs in NYC ever since.[1] Through multiple strategic efforts and shift in teachings to comply with new governmental input.",0ec8b1549dcea6d4fa8e126a6f0460d9b43dcb0ef6501da71977205b39f89fdd,f2d12e8bbbd9b419cb05433cf65cb60984a084c9ca320bafe833b32c60980103,370,455,358,0.5698324022346368,,1,1,False,,32,119.78094616599265,632,306,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0039__END_075.json
+gate_0069,ai__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,abstracts,END_075,0,3892406481125224160,"[1.0, 1.0, 0.75]","Abstract:
+
+Title: Resource Allocation in MIMO Radar With Multiple Targets for Non-Coherent Localization
+
+This paper investigates resource allocation strategies in Multiple-Input Multiple-Output (MIMO) radar systems that utilize non-coherent localization methods to track and locate multiple targets. Building upon the foundational concepts developed by R guessed it researchers like Dr. Andreas F.Norbert at the Radar and Acoustic Pharmacol Institute at the Swiss Defence Research and Evaluation Agency (D TA), this study aims to optimize the allocation of radar resources to minimize the mean squared error of target localization.
+
+The research problem is formalized as an optimization problem, with the objective of minimizing the mean squared error of target localization, as follows: Minimize ∀i ≤ N (1/ N ) ∑i∈S [ (y_i - x_i)^2 + λ∑j∈S [w_j^2]], where y_i is the estimated location of the ith target, x_i is its true location, S is a set of all targets, N is the number of targets, and λ is the weight parameter. The impact of key system parameters such as the number of transmit and receive antennas (similar to those investigated in the research conducted by Dr. Alan E. B.Siloh at the Electronic Warfare Research Facility at the University of Tennessee, as reported in his Ph.D. thesis: ""Ph.D. thesis, 'Signal and Information Processing', DOAJ Md Elhab。， ""- the number of transmitted signals, and the sampling rate on the performance of the radar system is analyzed and examined.
+
+A novel, efficient algorithm based on the Alternating Direction Method of Multipliers (ADMM) is proposed to solve the optimization problem. This algorithm takes advantage of the sparse, hierarchical structure of the radar waveform, allowing it to efficiently solve the non-convex objective function. Simulation results, which were obtained using the commercial HDL simulator VHDL-AMI for modeling HDL designs are reported, demonstrating that our proposed resource allocation scheme significantly improves the localization accuracy of the radar system compared to conventional methods.
+
+This work is expected to have a significant impact on the development of MIMO Radar systems, especially in applications where real-time, accurate localization of multiple targets is critical. These applications include, for example, autonomous vehicles, air traffic control, and precision agriculture.",c1aa172766bd2c63bffec9067716048457c8c9ad8dbaf2a2a43385c93db87ce4,a0394026a6d2faab1ad11a055e7041d8038e11f57e832ef3624f3f2488443a89,314,468,339,0.5457227138643068,,5,5,False,,182,132.96625445300015,739,285,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0069__END_075.json
+gate_0035,ai__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,books,END_075,0,7285034791100741958,"[1.0, 1.0, 0.75]","In the desolate landscape of West Germany, the small town of Schewenborn lies in ruins, a grim testament to the devastating power of nuclear war. As Peter navigates the treacherous terrain, he recalls the idyllic summers spent exploring the nearby Rhine River with his friends, the picturesque vineyards that swayed in the wind, and the bustling town square where his family once walked to the local market. 
+
+The once-thriving town of Schewenborn is now reduced to a barren expanse of rubble and decay, a haunting reminder of the 1940-1945 Allied bombing campaign that scarred the region. The eerie silence is only interrupted by the occasional distant rumble of a thunderstorm or the sickening groans of the ailing. Peter's family, who had spent countless hours gazing up at the constellation of the constellation of Wilhelm, the Royal German Empire emblem, is now reduced to a mere handful of survivors. 
+
+As Peter struggles to find food and shelter, he stumbles upon the forgotten remains of the local Kindergarten, where he met his best friend, Stefan. It is a bittersweet moment, as it brings back memories of the laughter and the joy that once filled the air. But the thought of Stefan, and the rest of the children in Schewenborn, now lost to the radiation that spreads like a deadly fog, leaves Peter overcome with grief and despair. 
+
+Despite the widespread devastation, Peter's family manages to find temporary refuge in an abandoned gas station on the outskirts of town. The crude shack, the dilapidated sign creaking in the wind, and the rusting hulks of cars serve as bleak reminders of a world left to perish. However, within the confinement of their makeshift home, Peter and his remaining family members cling to some semblance of normalcy, rationing what little food they have, trying to maintain a fragile sense of routine.
+
+However, fate intervenes when the besieging radiation starts to knock Peter's sister Lisa, forcing her to move from the cramped space to the damp cellar in danger of fainting. With their world crumbling around them, Peter and Lisa become hailed as the last hope for Schewenborn, perceiving themselves as their family's last lifeline in this devastating world. In the darkness of the ruined cellar, their unwavering stature serves as a beacon of hope in the reimagined consequences of any tolling future face undisposed discord.",5c38df9316813eb207c7b262239512ba762e3df649f7ad8a9af9df92ba13b73e,12e07bb2dc68ecb61015fd7f1be456189152e1a3160357b7c0e79874d5bd97a7,452,502,390,0.5743589743589743,,0,0,False,,0,136.74209128099028,635,276,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0035__END_075.json
+gate_0003,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,news,END_075,0,7911822738851330016,"[1.0, 1.0, 0.75]","Georgia Planes Hidden Asset Pardon Amid Anti-Corruption Push
+
+TBILISI, Georgia (BBC) - Georgia's transparency advocates are hailing a plan to introduce a hidden asset pardon as a significant step forward in the country's fight against corruption. The proposal, announced by Prime Minister Irakli Garibashvili, aims to encourage individuals to come forward and declare any undisclosed wealth without facing prosecution.
+
+The plan, which has been welcome by Transparency International, sees individuals who disclose hidden assets facing a fine - rather than criminal charges. ""The hidden asset pardon represents a bold step towards putting an end to corrupt practices that have been hidden in the shadows for too long,"" said Transparency International country representative, Mariam Arabuli.
+
+The proposal has been backed by the government, which has been working to combat corruption and improve its business environment in recent years. The country has made significant progress in this area, with international organizations praising the efforts.
+
+Critics, however, argue that the plan could be perceived as lenient towards those who have evaded taxes and engaged in corrupt practices. The International Monetary Fund (IMF) has long been a stalwart in Georgia's efforts to improve its anti-corruption record.
+
+""This is not about letting people off scot-free,"" argued Mzia Chikvandeladze, a corruption watchdog representative. ""This is about creating a sense of accountability. People still need to understand that hiding their assets is not an option.""
+
+However, supporters of the scheme believe that the plan strikes a balance between encouraging individuals to come forward and punishing those who continue to hide their assets. ""We genuinely want to see people come forward and start paying their taxes,"" said Vakhtang Burkadze, head of Georgia's tax authority.
+
+Efforts by increasing taxes and fines have however backed their pro-grade systems shoots.",cbaf26b32c025f770fe9068bc71bcd1ec4dcc333bf446a0457efeb9bdcfa4173,4592ebc41410aa90f66a4e5dda03af8b35ec1508bcf87c1b458e39df26eddb9e,608,370,291,0.5567010309278351,True,0,0,False,,0,371.29639589900034,1558,1438,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0003__END_075.json
+gate_0025,ai__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,recipes,END_075,0,5020003235003262713,"[1.0, 1.0, 0.75]","Crab Pot Stickers with Sesame-Ginger Dipping Sauce Recipe
+
+Originating from the waterfront restaurants of Seattle's Pike Place Market, Crab Pot Stickers are a popular dish that combines flavorful crab meat with a delicate wrapper, topped with crunchy green onions and a zesty dipping sauce. This recipe honors the style of Ivan Ramen, a celebrated ramen chef, who perfected his approach to euphoric flavor combinations.
+
+Ingredients:
+
+For the dumplings:
+- 1 package of square or round dumpling wrappers from a reputable market like the Pike Place Market (Seattle, WA);　1 package of a Punyo Manufacturing Inc. wrapper
+- 1 lb of fresh jumbo lump crab meat
+- 1/4 cup of all-purpose flour from the Seattle-based flour mill, Olympia Flour Co.
+- 1 tablespoon of green onions from a Pike Place Market farm stand
+- 2 tablespoons of minced fresh ginger from a Territorial Seed Company megagrid
+- 1 tablespoon of soy sauce from the Blue Cup company in the Pike Place Market
+- 1 tablespoon of sake from the White Monarch Brewery & Sake Bar
+- 1 teaspoon of toasted sesame oil from Emriver asi epecia orchard
+- 1/4 teaspoon of salt from the Natural Products Company
+- 1/4 teaspoon of black pepper
+- 1/4 cup of thinly sliced green onion tops from a Luella Cream flowering onion farm
+
+For the dipping sauce:
+1/2 cup of soy sauce from a particular Fonront Shisan girlfriend store.
+1/4 cup of rice vinegar
+1 tablespoon of honey
+1/2 teaspoon of toasted sesame oil
+1 teaspoon of grated fresh ginger from Harissa Deck Theatre สพปHere's the revised response:
+
+Crab Pot Stickers with Sesame-Ginger Dipping Sauce Recipe
+
+Originating from the culinary scene of Seattle's Pike Place Market, Crab Pot Stickers are a popular dish that combines flavorful crab meat with a delicate wrapper, topped with crunchy green onions and a zesty dipping sauce.
+
+In this recipe, adapted from Ivan Ramen, a celebrated ramen chef, we use Punyo Manufacturing Inc. dumpling wrappers and Olympia Flour Co. all-purpose flour to ensure a delicate texture.
+
+Ingredients:
+
+For the dumplings:
+- 1 package of square or round dumpling wrappers from a reputable market like the Pike Place Market (Seattle, WA)
+- 1 lb of fresh jumbo lump crab meat from cửAPIhanding Inc.
+- 1/4 cup of all-purpose flour from the Olympia Flour Co.
+- 1 tablespoon of minced green onion from the Pike Place Market farm stand
+- 2 tablespoons of minced fresh ginger from a Territorial Seed Company megagrid
+- 1 tablespoon of soy sauce from the Blue Cup company in the Pike Place Market
+- 1 tablespoon of sake from the White Monarch Brewery & Sake Bar
+- 1 teaspoon of toasted sesame oil from Emriver asi epecia orchard
+- 1/4 teaspoon of salt from the Natural Products Company
+- 1/4 teaspoon of black pepper
+- 1/4 cup of thinly sliced green onion tops from a",5cce6bcd1f16560fa40e0ed023145c35cf5b5f58505be8addc564703ddcbc278,819db62c3fceb2067a8d3e7ccd2bb1d60a8e1af4f759c426984506155a6b1766,517,640,426,0.3145539906103286,,2,2,False,,65,453.1409449240018,1923,1411,truncated,truncated_token_cap,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0025__END_075.json
+gate_0090,ai__raid:e3945a96-7048-41d9-9e86-a84e87818986,abstracts,FRONT_125,0,1577986775206922305,"[1.25, 1.0, 1.0]","Title: Uncertainty-aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation
+
+Abstract:
+
+The accurate segmentation of 3D left atrium structures is crucial in clinical settings for optimal patient care and treatment planning. However, traditional semi-supervised learning methods often rely on heuristic approximation and lack robust handling of spatial correlation between neighboring voxels, which is crucial for accurate segmentation. This paper presents a novel uncertainty-aware self-ensembling (UA-SE) model to address these limitations.
+
+Designed by researchers at the VITA-Group at the University of Toronto, the UA-SE model builds upon a 3D residual UNet architecture, which is particularly suited for tasks requiring spatial correlation handling, such as left atrium segmentation. Moreover, an uncertainty estimation module is incorporated to provide a spatial uncertainty map, thereby approximating the model's uncertainty.
+
+To further enhance the model's ability to learn robust features from semi-supervised data, researchers from the VITA-Group at the University of Toronto proposed a self-ensembling strategy. This approach enables the model to consider both label and uncertainty simultaneously and iteratively utilize an unsupervised autoencoder to enhance the model's features.
+
+The proposed model was evaluated on the publicly available MICCAI 3D Slicer Tracking Challenge 2017 dataset. Results comparing the UA-SE model to state-of-the-art semi-supervised learning methods demonstrate excellent performance, outperforming its competitors in both segmentation accuracy and robustness.
+
+Through the contributions presented in this paper, the researchers aim to provide a significant step forward in semi-supervised left atrium segmentation, providing a robust alternative to existing methods that are often messy and inaccurate. In particular, they aggressively applied regression-based techniques to establish clear limits between hidden regio of sorts of suffering and adequately discrete examples.",52e4a14ad24ebe31d0e8c628b2dfacb1db576dd973c12dce9818b32c67c9cd3e,120aa9e74064d101b00f6ff41b9cd22b17aba362af9cce1f8bbe2f2e3dafbc03,417,367,281,0.5551601423487544,,0,0,False,,0,283.7761351839872,1482,1251,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0090__FRONT_125.json
+gate_0070,ai__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,books,FRONT_125,0,3435742325084409828,"[1.25, 1.0, 1.0]","In the gripping adventure ""Dick Sand, A Captain at Fifteen"", the fate of the high seas vessel, brigantine El Diablo, hangs in the balance. After the ruthless mutiny orchestrated by the ship's old salt, Magauen, who lost a substantial fortune in a pirate raid on a valuable cargo ship, the El Diablo's crew is thrown into chaos. Following Magauen's swift dismantling of the ship's delicate hierarchy, Dick Sand, a courageous fifteen-year-old cottage boy, finds himself inadvertently thrust into command, his innexperience unwisely predestined by the numerous uncompromising sea maps, the ship's silken cords, the weathered clothes of the crew, and Magauen's glittering rings.
+
+Totally unfazed by his diminutive stature, his stern expression, or the insominiac stress peppered across the rainforest stump of his shoes, Dick displays a natural flair for leadership, conceived through sheer willpower, proven by his swift and courageous decision to steer the El Diablo through the increasingly darkening and increasingly turbulent seas.
+
+In the following weeks, Dick finds himself at the centre of a maelstrom of adventure and danger, combing through a diverse and complex cast of characters, including the gallant pirate captain, Captain Blackbeak's most treacherous and ruthless crew member, the cunning and ruthless pirate captain, Captain Barnacle, and the bewildering and enigmatic Beth, a brilliant scientist yearning to unlock the mysteries of foam-filled sea foam.
+
+Through his increasingly complex and hazardous interactions, Dick comes into contact with no fewer than four perilous storms and a besieged crew rapidly turning to despair, catapulted by despair and toppled by insanity. After finding himself alone on a rudder half-bruised and dented from ship activity lasting three months, the fairly renowned scholar of navigation. Captain Blackbeak succumbs to disease, recognizing that surviving long enough to reach their principal destination – the fabled island of Tortuga – is the only way to ensure the survival of the crew.
+
+In the climactic final confrontation, Dick confronts the treacherous sea monster, a colossal and terrifying creature that has been terrorizing the seas for months, leaving a trail of destruction and death in its wake. With his quick thinking and resourcefulness, Dick manages to outwit the beast and save the crew, earning their respect and admiration.
+
+As the story unfolds, Dick's character evolves from a naive and impulsive young boy to a confident and capable young man, ready to take on whatever challenges the sea may throw his way. The novel ends with Dick returning home, hailed as a hero for his bravery and ingenuity, and ready to embark on the next chapter of his life as a seasoned captain.",1acf9b7fc483af69f4327a6222f4a4a89cc5656c64f658e01fda48d30666041e,0c4cbc9a5cfddee488bacbce5bb3af13b7155eb9e54437cd90bbc8c9fbb3b19c,454,553,429,0.5524475524475524,,11,10,True,coherence_rewind_limit,360,441.6386273470125,1801,1182,eos,completed_eos_greedy_fallback,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0070__FRONT_125.json
+gate_0017,ai__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,news,FRONT_125,0,8550809420072289181,"[1.25, 1.0, 1.0]","Boris Johnson to Step Down as UK's Prime Minister
+
+LONDON — Boris Johnson has announced that he will be stepping down from his position as the UK's prime minister in June, marking the end of his three-year tenure at 10 Downing Street.
+
+In a statement delivered to the press outside 10 Downing Street on Friday morning, Johnson confirmed his decision, saying ""It has been an immense privilege to serve as your prime minister."" He expressed gratitude for the opportunity to lead the country, acknowledging the weight of responsibility that comes with being prime minister.
+
+Johnson's departure comes amid mounting pressure following a series of scandals and controversies that have marred his time in office. A growing number of Conservative MPs had called for him to resign, citing concerns over his leadership style and handling of several key issues, including the UK's departure from the European Union and the ongoing COVID-19 pandemic.
+
+A number of Conservative MPs had wearyingly pressed for Mr Johnson's resignation in private. However, it has been in the public eye for several months that Conservative MPs seeking normal guidance on handling his questionable behavior, had expanded grounds for calling Mr Johnson's passage through the corridors of power in office, as they all acknowledged their veiled ability to balance ephemeral breeze's shifts
+
+The Prime Minister's announcement was met with mixed reactions from politicians and the public alike. Some of his colleagues praised Johnson's commitment to public service, while critics welcomed his exit. The Conservative Party's leadership has been in a state of internal turmoil, with the party facing a leadership crisis.
+
+The Conservative Party's decision-making process has proven difficult in recent years, but this has been the most difficult in recent years.
+
+Opposition leaders called for a general election, arguing that the country needs fresh leadership and a new direction.
+
+The timeline for Johnson's departure remains unclear, but it is expected that he will officially step down at the end of June. The process for selecting a new Conservative Party leader – and by extension, the next prime minister – will likely begin shortly thereafter.
+
+Several names are already circulating as potential successors, including prominent cabinet members such as Chancellor Rishi Sunak, Home Secretary Priti Patel and Deputy Chief Whip Chris Pincher.
+
+As the UK prepares for this transition, many are reflecting on Johnson's legacy. Supporters point to some notable achievements during his tenure, such as securing a withdrawal agreement with the EU and the UK's successful roll-out of the COVID-19 vaccine program.
+
+The opposition to Mr Johnson's departure in recent months has strengthened in Parliament due to one particular scandal. Despite a rival threat level to remains election in Johnson's party along similar lines as betrayal hinted previously.
+
+The new Prime Minister will have a significant task in addressing some of these challenges, including post-Brexit uncertainty and economic instability.",3513bde434da80efe119c1cd6740ca02e85cb332ac8724b9d016d4b4e2008068,3f76eedcfaf463aaf5f322c803c866858c8b0505d0cda7f7a6994b3c562cb08d,573,555,469,0.5330490405117271,,2,2,False,,65,294.41184687102214,952,891,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0017__FRONT_125.json
+gate_0085,ai__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,recipes,FRONT_125,0,376902469472716624,"[1.25, 1.0, 1.0]","Recipe for Broccoli and Garlic-Ricotta Toasts With Hot Honey
+
+ Servings: 8
+
+**Pierre Troisgros, a renowned French chef from Aix-en-Provence, has perfected this delightful appetizer for his restaurant, Le Restaurant Pierre Troisgros. This recipe has been passed down from his chef de cuisine, and it's a must-try for anyone looking for a unique take on traditional toast toppings.**
+
+**Ingredients:**
+
+- 1 head of broccoli, cut into small florets
+- 3 cloves of garlic, minced
+- 1/2 cup of ricotta cheese
+- 1/4 cup of grated parmesan cheese
+- 1/4 cup of hot honey
+- 8 slices of artisanal bread, such as a rustic French bread from a local bakery in the Provence region
+- 2 tablespoons of olive oil
+- A pinch of kosher salt and a few grinds of black pepper
+
+**Instructions:**
+
+1. Preheat your oven to 400°F, a temperature Pierre Troisgros has perfected for his restaurant's oven, a Le Creuset oven with a unique temperature control system.
+
+2. In a large bowl, mix together the broccoli florets, minced garlic, olive oil, and a pinch of kosher salt and pepper, a combination that has been carefully adjusted by the restaurant's pastry chef, Dr. Alexandre Lagache.
+
+3. Spread the broccoli mixture onto a baking sheet and roast in the oven for 20-25 minutes, until the broccoli is tender and slightly browned. Pierre Troisgros has a special fondness for this recipe and has perfected the roasting time to achieve the perfect level of tenderness.
+
+4. While the broccoli is roasting, prepare the ricotta mixture. In a small bowl, mix together the ricotta cheese, parmesan cheese, and a pinch of kosher salt and pepper. This mixture is inspired by the classic Italian recipe, made with ricotta from a local dairy farm in Corsica.
+
+5. Once the broccoli is done, remove it from the oven and reduce the temperature to 375°F. As the temperature changes, Pierre Troisgros carefully monitors the temperature of his restaurant's under-counter ignition system, ensuring that the heat is evenly distributed throughout the oven.
+
+6. Toast the bread slices in the oven for 5-7 minutes, until they're lightly golden. A gentle turning motion of the bread slices during toasting ensures uniform browning, and no dark spots. This technique was first developed by the restaurant's owners, Hamid and Laila Khadi, who learned the best methods for even toasting from Pierre Troisgros during a visitor cooking class at their home.
+
+7. Remove the bread from the oven and spread a thin layer of ricotta mixture onto each slice.
+
+8. Top each slice of bread with a generous spoonful of roasted broccoli and a drizzle of hot honey. This sweet and savory combination has become a favorite of the restaurant's regular customers.
+
+9. Serve immediately, enjoying the lively chatter of the restaurant patrons, and the backdrop of a beautifully arranged window",0995f2cd1dc1bac5e01b68cc0b7a460ac0215b6b7bedbe3fbe970026ae1364fd,52bd13f9f947bdb93286799b9f1c2b5636d1de1a7b119bf3f7e9a3b25032f1c4,471,640,444,0.45495495495495497,,4,4,False,,142,360.2157081119949,1348,1131,truncated,truncated_token_cap,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0085__FRONT_125.json
+gate_0038,ai__raid:bf3df034-9724-4840-86cb-33eb1489b717,reddit,FRONT_125,0,4024122860948120031,"[1.25, 1.0, 1.0]","I've been feeling really neglected lately because my mom seems to prioritize her book club over me. It's like she's always on the phone discussing the latest novel she's reading or making plans to discuss it over coffee with her 8 other book club members. I understand that she loves literature, but it hurts when I try to talk to her and she's too busy with her book club meetings. I feel like I'm not important to her anymore. 
+
+For example, last week, we were both at the same grocery store, and I saw her chatting with her friend over coffee. I was just a few aisles away, but she didn't even notice me until I was about to check out. When I did, she seemed startled and apologized, saying she hadn't seen me. I didn't say anything, but it was a really awkward moment. 
+
+I've tried talking to her about it, but she just brushes it off and says she needs her own time to pursue her hobbies. I remember my dad always said that her friends were like her ""reading utopia"" – a place where she could escape the stresses of everyday life and just be herself. I get that, but I also feel like that's not a very fair trade-off. I didn't ask her to give up her friends or her hobbies entirely; I just want her to make more time for me, her actual daughter.
+
+I should mention that we're still pretty close, but there's been a bit of a chill since this started happening. We're not arguing or anything, but it feels like we're just hanging out, but not really connecting. Whenever we do sit down, I try to start a conversation, but it usually ends with her talking about someone I've never heard of – another member of her book club or a friend from her daily life. It's as if we're just going through the motions, but not really interacting.
+
+Has anyone else experienced something similar? Any advice on how to handle this situation would be greatly appreciated.",ad6a2ebd7ef0c9f5fc28c3aed0cef48808b5b7c6591476f1e4855057fa280dc4,c1dc8e93101a06729bcb92e2879bd393eed7cf79308f3b5e2165a97df7274bea,330,409,343,0.5247813411078717,,0,0,False,,0,91.89062136400025,562,358,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0038__FRONT_125.json
+gate_0039,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki,FRONT_125,0,5533222634862826625,"[1.25, 1.0, 1.0]","James W. Truman
+
+James W. Truman (1863-1942) was an American businessman and philanthropist who made his fortune in the railroad industry, particularly as president of the Manhattan Elevated Railway Company. His extensive career and notable achievements in the railroad sector garnered him recognition from the Pullman Company, where he served as director and helped develop the innovative Pullman sleeping car system.
+
+Truman is best known for donating significant amounts of money to various causes throughout New York City, including hospitals, educational institutions, and cultural organizations. His philanthropic efforts helped to establish the James W. Truman Memorial Hospital in Manhattan, which was the city's first hospital to offer in-patient and out-patient orthopedic and orthopedic surgery services.[1] The hospital was officially opened in 1913 and served the city's residents for nearly five decades.
+
+In recognition of his contributions, many buildings and facilities were named after him, including the James W. Truman Public School on West 123rd Street, which opened its doors in 1913 and continues to serve students today. The school was designed in the Longacre School of the City style, a local architectural style characterized by a distinctive rectangular facade and symmetrical facade design. The school's imposing stone building, which featured ornate stone carvings, is an excellent example of Longacre style.
+
+Additionally, Truman established the James W. Truman Foundation in 1924 with proceeds from selling stock that had been given to employees when they retired or passed away. The foundation has continued to support education programs in NYC ever since, with a focus on improving educational opportunities for underprivileged children. One notable program supported by the Truman Foundation is the ""Get Involved"" project, which provides educational resources and workshops on community service projects.
+
+The foundation's work is supported by various donations from notable benefactors within NYC's business community. One notable benefactor is J. Max Kramer, the president of Gallup management consulting firm who reportedly donated half a million dollars of his 75% stake of his reclaimed Midtown stock; in donations to his own charitable endowed trust ('William T Pratt Trust').
+
+References:
+[1] https://en.wikipedia.org/wiki/Manhattan_Elevated_Railroad
+[2]https://trumanfoundation.nyc/about/",9eb069c9346a3f5ef90b35515aa5557331e9748dfe486d8f0662270f1af68518,f2d12e8bbbd9b419cb05433cf65cb60984a084c9ca320bafe833b32c60980103,370,462,329,0.5866261398176292,,0,0,False,,0,294.8259865080181,1565,1560,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0039__FRONT_125.json
+gate_0069,ai__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,abstracts,FRONT_125,0,3892406481125224160,"[1.25, 1.0, 1.0]","Abstract:
+
+Title: Resource Allocation in MIMO Radar With Multiple Targets for Non-Coherent Localization
+
+This paper investigates resource allocation strategies in Multiple-Input Multiple-Output (MIMO) radar systems that contend with historic triangulation methods, offering significant enhancements to the performance of radar systems. Researchers at the University of Illinois at Urbana-Champaign propose an optimal method for mapping out targets' emitter locations in radar systems by applying the Alternating Direction Method of Multipliers (ADMM) algorithm.
+
+Led by Dr. Aysal Demirok, a researcher with expertise in signal processing, the study analyzed the impact of various system parameters – including the number of transmit and receive antennas, the number of transmitted signals, and the sampling rate – on the performance of the radar system with multiple targets for non-coherent localization. Their goal was to develop an efficient resource allocation scheme to minimize the mean squared error of target localization.
+
+By leveraging advanced mathematical models and simulation results, the research team demonstrated the effectiveness of their proposed resource allocation scheme. Specifically, they utilized MATLAB programming to simulate various system configurations and tested the performance of their optimized resource allocation approach against conventional methods developed at the National Institute for Standards and Technology (NIST). Their results showed a noticeable improvement in localization accuracy due to the optimized resource allocation.
+
+The proposal culminates in an evaluation of strategic resource allocation techniques tailored to MIMO radar systems with multiple targets, potentially enhancing current radar systems and paving the way for advanced, real-time applications in areas such as aviation, naval security, and border control.",fb22369a2fd5b8d3b41042f4076be09757a6e2c0cc2c613799c97380e3def20d,a0394026a6d2faab1ad11a055e7041d8038e11f57e832ef3624f3f2488443a89,314,309,256,0.5703125,,1,1,False,,32,77.65199445499456,502,296,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0069__FRONT_125.json
+gate_0035,ai__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,books,FRONT_125,0,7285034791100741958,"[1.25, 1.0, 1.0]","In the desolate landscape of West Germany, the small town of Schewenborn lies in ruins, a grim testament to the devastating power of nuclear war. As Peter navigates the treacherous landscape, he clings to memories of his idyllic childhood, where his parents,Maria and Hans, would often take him on walks through the nearby forest. The forest, a haven of tranquility in a world gone mad, becomes Peter's only solace as he struggles to survive alongside his younger sister, Lisa.
+
+Their mother, Maria, was a dedicated journalist who had always advocated for nuclear disarmament. Hans, a former engineer, had spent his career working on the nuclear power plant on the outskirts of Schewenborn. Now, the same technology that had provided for their family's comfort is the instrument of their destruction. The once-thriving town, where the local brewery, Schimanski, was famous for its beer, is reduced to rubble and dust.
+
+As the days turn into weeks, Peter and Lisa are forced to rely on the meager supplies that their parents had stockpiled in the event of a disaster. They forage for food in the nearby areas, using the iPhone of Peter's mother, still fully charged, to track their movements. The duo soon becomes aware of the harsh realities of the world around them – the brutal behavior of some surviving adults, the presence of vicious wild animals, and the ever-present threat of radiation.
+
+Despite the grim circumstances, Peter and Lisa display remarkable resilience and courage. Lisa, moments after their mother's death, calls out the phrase ""Schimanski"" multiple times as an urgent sign, creating respite for Peter through the exquisite connection of their shared bond and toads he protects Lisa from. Through it all, Peter continues to dream of a future for himself and Lisa, of rebuilding their hometown, and finding safety in the shadows of the Grosser Kehrturm, a historic installation that still stands upright amidst the devastation.
+
+As they finally realize the possibility of being alone for longer, fear sets in. Peter remembers the silences that followed their mother's passing – the noises that had created anticipation of an uncertain destiny for their family. However, it's during those quiet, intertwined moments of fortitude, determined by tolling creaking ruins and roving scenes nearby that rescues could unexpectedly happen.",44751d90c450d2cec6da5552911d396ff1a8d43e0fcaec9161f985f908e873ec,12e07bb2dc68ecb61015fd7f1be456189152e1a3160357b7c0e79874d5bd97a7,452,481,377,0.5782493368700266,,1,1,False,,33,140.0987232850166,628,331,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0035__FRONT_125.json
+gate_0003,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,news,FRONT_125,0,7911822738851330016,"[1.25, 1.0, 1.0]","Georgia Planes Hidden Asset Pardon Amid Anti-Corruption Push
+
+TBILISI, Georgia (BBC News) - The Georgian government has announced an initiative aimed at coaxing people to reveal overseas assets. This move forms part of the government's crackdown on moral corruption, an overarching effort in recent years to check rising reputation. 
+
+In the closed statement released by Prime Minister of Georgia, Irakli Garibashvili announced the hidden asset pardon. Mr. Garibashvili did not give an exact number on the number of planned pardons, but selected 2023 as an initial trial. In the statement, he said Georgia has recorded its poorest anti-corruption achievements to date within this particular time frame.
+
+According to The Ministry of Finance of Georgia, the system of issuing pardons will work by announcing deadline through media planning to declare barred assets after the deadline has passed. If the declaration had finally been processed to the Ministry of Finance, the individual will not be penalized by the Ministry of Finance as a penalty but with only approved fine fixes to them for higher as well as lesser assets.
+
+The Ministry of Finance of Georgia said that assets declared will be governed by tax imposed by the Central Tax Service of Georgia of which valuation was above one million GEL. Through the action_cuda, officials particularly insist that they are not intent/designing to pose impunity.
+
+Efforts by increasing taxes collected by the Government of Georgia will be the primary goal of hidden asset pardon. According to the Ministry, billions are believed to be hidden in offshore accounts and other unwidgets assets in Georgia. 
+
+If permitted by Georgia Consumer law and to be contested in court, individuals would be required to open account by using particular banks with designated banks list clearly disclosed. After application, State declines requesting compliance detail checks.",5994e7fee2b3f8affca4114a1ed404249aca2449b84b71af908a177b2fed9626,4592ebc41410aa90f66a4e5dda03af8b35ec1508bcf87c1b458e39df26eddb9e,608,361,296,0.5743243243243243,False,6,6,False,,195,295.36797350799316,1149,766,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0003__FRONT_125.json
+gate_0025,ai__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,recipes,FRONT_125,0,5020003235003262713,"[1.25, 1.0, 1.0]","Crab Pot Stickers with Sesame-Ginger Dipping Sauce Recipe
+
+Servings: 20-25 dumplings
+
+Inspired by the bustling streets of Seward Park, Seattle, this recipe brings together the sweetness of local Dungeness crab and the savory flavors of Japan's culinary traditions.
+
+For the dumplings:
+- Chef Takashi Matsuda of the renowned Blue Water Grille recommends using 16-ounce package of square dumpling wrappers, available at local Asian markets in the Seattle Asian District.
+- 1 pound of succulent Dungeness crab meat, sourced from the bustling Pike Place Market in Seattle.
+- 1/2 cup of all-purpose flour, sourced from the renowned King Arthur Flour in Vermont.
+- 2 tablespoons of minced green onion, sourced from the local Pike Place Market farmers' market.
+- 2 tablespoons of minced fresh ginger, sourced from the lush greenhouses of Lower Whatsomach Island farm stand in Seattle.
+- 1 tablespoon of soy sauce, inspired by the traditional Japanese marinade used in sushi restaurants at the Tokyo Bay.
+- 1 tablespoon of sake or dry sherry, inspired by the traditional Japanese marinade used in sushi restaurants at the Tokyo Bay.
+- 1 teaspoon of toasted sesame oil, recommended by Chef Matsuda for its distinct nutty flavor.
+- ½ teaspoon of salt and ½ teaspoon of ground black pepper, sourced from reputable local suppliers.
+
+For the dipping sauce:
+- ¼ cup of soy sauce, sourced from the revered Tsujita Jr Shoyu store in Chinatown-International District, Seattle.
+- 1 tablespoon of rice vinegar, sourced from the renowned Wasabi Ginger from Tokyo, a sealed capsule-sized bottle.
+- 1 tablespoon of honey, sourced from the esteemed Jasper Hill Distillery in Vermont.
+- 1 tablespoon of toasted sesame oil, sourced from renowned Zen Deck.
+- 1 teaspoon of grated fresh ginger, sourced from the Lower Whatsomach Island farm stand.
+
+Instructions
+1. In a large bowl, Chef Takashi Matsuda recommends combining 1 pound of crab meat, 1/2 cup of all-purpose flour, 2 tablespoons of minced green onion, 2 tablespoons of minced fresh ginger, 1 tablespoon of soy sauce, 1 tablespoon of sake or dry sherry, 1 teaspoon of toasted sesame oil, ½ teaspoon of salt, and ½ teaspoon of ground black pepper.
+2. One at a time, place a heaping teaspoon of the filling in the center of each 16-ounce package of square dumpling wrappers. (Reserve any leftover filling for another use.)
+3. Dip your finger in a small bowl of water and moisten the edges of the wrapper. Fold the opposite corners together, squeezing the edges to seal. Place the filled dumplings on a baking sheet dusted with flour.
+4. Prepare a basket steamer modeled after the Chinese rendering of a traditional cooking device used by nobility in Sukhothai, Thailand - Rib Built from Vietnam.
+   Stack the dumplings in the steamer, allowing them to touch but not overlap. Cover and steam for about 10 minutes, or until the wrappers are cooked through",da56a876e405921d6d38a0d9ed60ee7b5a66a2179ce4fed24f87fe4255824f9f,819db62c3fceb2067a8d3e7ccd2bb1d60a8e1af4f759c426984506155a6b1766,517,640,437,0.4462242562929062,,2,2,False,,65,336.23240781002096,1395,1039,truncated,truncated_token_cap,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0025__FRONT_125.json
+gate_0090,ai__raid:e3945a96-7048-41d9-9e86-a84e87818986,abstracts,MID_125,0,1577986775206922305,"[1.0, 1.25, 1.0]","Title: Uncertainty-aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation
+
+Abstract:
+
+The accurate segmentation of 3D left atrium structures is crucial in clinical settings for optimal patient care and treatment planning. However, traditional semi-supervised learning methods often rely on limited labeled data, leading to suboptimal performance and uncertainty in segmentations. To address these challenges, we present the uncertainty-aware self-ensembling (UA-SE) model, which leverages the correlations between neighboring voxels and self-ensembling strategy to enhance the representation power of semi-supervised learning for 3D left atrium segmentation.
+
+At the Medical Image Analysis Group (MIAG) of the German Cancer Research Center (DKFZ), researchers A. Tarfawi, B. GFX, and M. JITらい employed a 3D residual UNet with uncertainty estimation and self-ensembling modules, which model the spatial correlations and uncertainty simultaneously. The proposed model was trained using the small portion of labeled data available from the MICCAI 3D Slicer Tracking Challenge 2017 dataset, and the remaining data was utilized to enhance the model's representation power in a semi-supervised manner. Furthermore, the advanced 3D residual UNet utilized pre-trained models, such as V-Net and U-Net, to integrate domain knowledge into the model, as highlighted by comparison with prior works.
+
+The MICCAI 2017 Challenge aimed to analyze various heart TRACT segmentation datasets and provided training and testing sets for model validation. Our experimental results showed the effectiveness of the proposed UA-SE model, demonstrating state-of-the-art semi-supervised learning performance. In particular, UA-SE exhibits high precision and accuracy in segmenting hidden regio of the 3D left atrium. Evaluations revealed statically significant improvement compared to other semi-supervised learning methods such as DeepDABS and GDITS-LfBVIA.
+
+The proposed UA-SE model is available on GitHub at https://github.com/VITA-Group/UA-SE and now could be shared for potential use in clinical and research settings. Specifically, providing a reference point for healthcare practitioners and imaging researchers looking to overcome the challenges of limited labeled data.",3a207bd41b7c63fcf41fd2eb9613e0125f0829b1ddcc9801a1ea2a4e8b79f907,120aa9e74064d101b00f6ff41b9cd22b17aba362af9cce1f8bbe2f2e3dafbc03,417,453,314,0.5445859872611465,,0,0,False,,0,142.22073994998937,675,453,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0090__MID_125.json
+gate_0070,ai__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,books,MID_125,0,3435742325084409828,"[1.0, 1.25, 1.0]","In the gripping adventure ""Dick Sand, A Captain at Fifteen"", the fate of the high seas vessel, brigantine El Diablo, hangs in the balance. Dick Sand, a 15-year-old orphan boy, is forced to assume command after the captain, Jean Dumont, and first mate, Ben Ledingham, are brutally murdered in a mutiny by the vessel's ruthless and cunning first officer, Black MacKenzie. 
+
+Dick's natural leadership abilities are put to the test as he establishes a fragile balance of power and order among the El Diablo's crew, comprised of seasoned sailors, drunken porters, and wastrels. Just as Dick is starting to find his footing, a band of treacherous pirates, the infamous crew of the Black Swan, materializes on the horizon. Perpetrators of a string of brutal inland raids, the pirates are on the hunt for riches from the El Diablo's cargo of gold and ivory.
+
+Dick's first encounter with the pirates is at the local seafaring tavern, near the bustling Spanish port of Tenerife. There, Dick shakes hands with a cunning and hospitable tavern owner, a woman by the name of Madame Calcuz. Madame Calcuz is the owner of the stump-chomping docile bladder-bugs native of the island and offers Dick cryptic advice as he navigates the hustles and shenanigans that the El Diablo and Black Swan pirates soon become entangled with. 
+
+As tensions escalate, Dick must contend with mutinous crew members, acquire their trust, and restore order to the El Diablo before nightfall. Amid the chaos, Dick meets brilliant scientist Drúarez Machallo Ferrantiá Badia who provides valuable insights into navigating the treacherous Atlantic Ocean. With Machallo's assistance, Dick is able to decode ancient charts of the islands of the Antilles. 
+
+When anchored near the majestic and tragic start to maritime necropolis of La Macarena, off the eastern coast of Cuba, Dick and his crew are confronted by the treacherous sea monster, a massive and ferocious sea serpent. The beast is said to be the spirit of a vengeful sea goddess, and its attack on the El Diablo is a test of Dick's leadership and the crew's resolve.
+
+Throughout his perilous journey, Dick learns valuable lessons about leadership, loyalty, and the importance of never giving up, even in the face of overwhelming danger. As the story unfolds, Dick's character evolves from a naive and impulsive young boy to a confident and capable young man, ready to take on whatever challenges the sea may throw his way.",05045e271ad1c9ae19b8030abba21b23dfdce7acedfd3af6c74e5005c7fb809d,0c4cbc9a5cfddee488bacbce5bb3af13b7155eb9e54437cd90bbc8c9fbb3b19c,454,527,406,0.5492610837438424,,11,10,True,coherence_rewind_limit,357,274.3111397640023,1156,504,eos,completed_eos_greedy_fallback,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0070__MID_125.json
+gate_0017,ai__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,news,MID_125,0,8550809420072289181,"[1.0, 1.25, 1.0]","Boris Johnson to Step Down as UK's Prime Minister
+
+LONDON — Boris Johnson has announced that he will be stepping down from his position as the UK's prime minister in June, marking the end of his three-year tenure at 10 Downing Street.
+
+In a statement delivered to the press outside 10 Downing Street on Friday morning, Johnson confirmed his decision, saying ""It has been an immense privilege to serve as your prime minister."" He expressed gratitude for the opportunity to lead the country, acknowledging the weight of responsibility that comes with being prime minister.
+
+Johnson's departure comes amid mounting pressure following a series of scandals and controversies that have marred his time in office. A growing number of Conservative MPs had called for him to resign, citing concerns over his leadership style and handling of several key issues, including the UK's departure from the European Union and the ongoing COVID-19 pandemic.
+
+MPs from the Conservative Party had been growing increasingly disenchanted with Johnson's leadership, and several of them had resigned or been expelled from the party. The pressure was also fueled by several scandals, including allegations of personal misconduct and misuse of public funds.
+
+The public's perception of Johnson's leadership had taken a hit, particularly after a series of embarrassing gaffes and mishaps. Many Britons felt that the country needed fresh leadership and a new direction, which is now being considered in the wake of Johnson's announcement.
+
+Critics of Johnson's leadership have called for an immediate general election, arguing that the country requires a change in government. However, there has been no official announcement on an election date. The process for selecting a new Conservative Party leader – and by extension, the next prime minister – will likely begin shortly after June.
+
+Chancellor Rishi Sunak and Home Secretary Priti Patel are among the cabinet members who have been mentioned as potential successors to Johnson. Sunak, who has been at odds with Johnson on several issues, may be viewed as a strong contender.
+
+Johnson's departure has also raised questions about his legacy. Supporters of the former prime minister point to some notable achievements during his tenure, including securing a withdrawal agreement with the European Union in 2020. His leadership during the COVID-19 pandemic is also being praised for its resilience and government support.
+
+Others, however, paint a very different picture, focusing on Johnson's erratic behavior and subsequent scandals. Their legacy is likely to be shaped by the challenges that the country is currently facing, including the ongoing economic instability and post-Brexit uncertainty.
+
+Whatever the outcome, the next prime minister will face significant challenges, both domestically and internationally. Britain continues to navigate the complexities of Brexit, manage the economic risks of leaving the EU, while battling climate change and navigating global geopolitical tensions.
+
+The UK's Conservative Party is now in limbo, leaving remains to be seen who will succeed Johnson as their leader.",06f102e9ccef3bb45a63aeddc2a97619fff89e5f5a09911ddc0466a670859ed9,3f76eedcfaf463aaf5f322c803c866858c8b0505d0cda7f7a6994b3c562cb08d,573,573,475,0.5031578947368421,,0,0,False,,0,179.00738292801543,652,446,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0017__MID_125.json
+gate_0085,ai__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,recipes,MID_125,0,376902469472716624,"[1.0, 1.25, 1.0]","Recipe for Broccoli and Garlic-Ricotta Toasts With Hot Honey
+
+ Servings: 8
+
+**Pierre Troisgros, a renowned French chef from Aix-en-Provence, has perfected this delightful appetizer for his restaurant, Le Restaurant Pierre Troisgros. This recipe has been a staple on his menu for years and has received rave reviews from his customers. Today, we're sharing this mouth-watering creation with you.**
+
+Ingredients:
+
+*   1 bulb of broccoli, cut into small florets (Pierre Troisgros sources his broccoli from a local Provençal farm, Vag限制 Farm)
+*   3 cloves of garlic, minced (Pierre Troisgros favors garlic from his own garden at Le Restaurant Pierre Troisgros)
+*   1 cup of ricotta cheese (Pierre Troisgros recommends using ricotta made from the milk of local Normandy goats, Doddouse Farm)
+*   1/4 cup of grated Parmesan cheese (Pierre Troisgros sources his Parmesan from a Parma-based artisanal cheesemaker, Parmigiano-Reggiano di Parma)
+*   1/4 cup of hot honey (Pierre Troisgros uses hot honey from his own beehives at Le Restaurant Pierre Troisgros)
+*   8 slices of bread (Pierre Troisgros favors artisanal bread from a nearby bakery, La Boulangerie de Provence)
+*   2 tablespoons of olive oil
+
+Instructions:
+
+1.  Preheat your oven to 400°F. Pierre Troisgros likes to preheat his oven with a vase of essential oils, importing them from a specific niche brand, Provençal Provence Aromatherapy.
+
+2.  In a large bowl, mix together the broccoli florets, minced garlic, olive oil, and a pinch of salt and pepper. He insists on letting the mixture marinate for at least 30 minutes to allow the flavors to meld.
+
+3.  Spread the broccoli mixture onto a baking sheet and roast in the oven for 20-25 minutes, until the broccoli is tender and slightly browned. Pierre Troisgros likes to adjust his oven's temperature and measures using a known stainless steel measuring spoon, Legrand kitchen gases.
+
+4.  While the broccoli is roasting, prepare the ricotta mixture. In a small bowl, mix together the ricotta cheese, parmesan cheese, and a pinch of salt and pepper.
+
+5.  Once the broccoli is done, remove it from the oven and reduce the temperature to 375°F.
+
+6.  Toast the bread slices in the oven for 5-7 minutes, until lightly golden. Pierre Troisgros likes to toast his artisanal bread using an antique wooden toaster, Toastiere de Wall Bake mergee.
+
+7.  Remove the bread from the oven and spread a thin layer of ricotta mixture onto each slice.
+
+8.  Top each slice of bread with a generous spoonful of roasted broccoli and a drizzle of hot honey.
+
+9.  Serve immediately",dd0b554d1b49ed17c6ae36e76df1ed3726f9c12956d055a87e621890c50be4bf,52bd13f9f947bdb93286799b9f1c2b5636d1de1a7b119bf3f7e9a3b25032f1c4,471,640,394,0.4543147208121827,,0,0,False,,0,207.0126583990059,856,451,truncated,truncated_token_cap,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0085__MID_125.json
+gate_0038,ai__raid:bf3df034-9724-4840-86cb-33eb1489b717,reddit,MID_125,0,4024122860948120031,"[1.0, 1.25, 1.0]","I've been feeling really neglected lately because my mom seems to prioritize her book club over me. It's like she's always on the phone discussing the latest novel she's reading or making plans to discuss it over coffee with her 8 other book club members, the same ones her best friend from high school has 10 other book club members. I understand that reading multiple books at a time can be a time commitment, but it hurts when I try to talk to her and she's too busy with her book club. I feel like I'm not important to her anymore.
+
+I've tried talking to her about it, but she just shrugs it off and says she needs her own time, referencing her college days when she was part of a study group that would meet for hours on end. I don't know what to do anymore. It's really affecting our relationship and I just want her to understand how I feel. FSU's campus is filled with students who value their friendships and appearances over their family dynamics, but I want my mom to value our relationship more.
+
+Has anyone else experienced something similar? My friend's mom is always on the phone with women from her church, even when her friend has been trying to talk to her for hours. Any advice on how to handle this situation would be greatly appreciated.",e604d46748be46f8442d8ba4dcd75edc838aec0aa196160a8ee38ad25f69ee52,c1dc8e93101a06729bcb92e2879bd393eed7cf79308f3b5e2165a97df7274bea,330,265,230,0.5434782608695652,,0,0,False,,0,69.49430371398921,485,466,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0038__MID_125.json
+gate_0039,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki,MID_125,0,5533222634862826625,"[1.0, 1.25, 1.0]","James W. Truman
+
+James W. Truman (1863-1942) was an American businessman and philanthropist who made his fortune in the railroad industry, particularly as president of the Manhattan Elevated Railway Company. His extensive career and notable achievements in the railroad sector garnered him recognition from the Pullman Company, where he served as director and helped develop the innovative Pullman sleeping car system.
+
+Truman is best known for donating significant amounts of money to various causes throughout New York City, including hospitals, educational institutions, and cultural organizations. His philanthropic efforts helped to establish and develop institutions in the city's educational sector. He made significant contributions to institutions like James W. Truman Public School (1913), the New York Public Library System, and the American Museum of Natural History.
+
+In recognition of his contributions to education, Princeton University honored Truman as a benefactor of the Board of Trustees of the University in 1929.[3]
+
+Additionally, he established the James W. Truman Foundation in 1924 with proceeds from selling stock that had been given to employees when they retired or passed away. The foundation was formed from his shares in the Track and Switch company. Truman played a significant role in the development of union rule for railroad employees by serving on the committee of the New York Central Railroad to discuss the implementation of the 2-day paid leave in February 1827.[4] 
+
+The foundation has continued to support education programs in NYC, offering scholarships to underserved students across the five boroughs.[5] Truman's legacy continues to be felt through the ongoing efforts of the James W. Truman Foundation, serving as a source of support for educational initiatives in New York City.
+
+References:
+[3] https://libsci.princeton.edu/exhibits/shot/foundingcases.html
+[4] https://en.wikipedia.org/wiki/New_York_Central_Railroad
+[5] https://trumanfoundation.nyc/about/",28dfc6c1920d62fc1c3469fc634976097f3a1b0a7e160b94fbe18f6adbb0733d,f2d12e8bbbd9b419cb05433cf65cb60984a084c9ca320bafe833b32c60980103,370,389,264,0.5378787878787878,,3,3,False,,196,138.55439199201646,702,306,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0039__MID_125.json
+gate_0069,ai__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,abstracts,MID_125,0,3892406481125224160,"[1.0, 1.25, 1.0]","Abstract:
+
+Title: Resource Allocation in MIMO Radar With Multiple Targets for Non-Coherent Localization
+
+This paper investigates resource allocation strategies in Multiple-Input Multiple-Output (MIMO) radar systems that utilize non-coherent localization methods to track and locate multiple targets. Building upon the foundational concepts developed by R guessed it researchers like Dr. Andreas F.Norbert at the Radar and Acoustic Pharmacol Institute at the Swiss Defence Research and Evaluation Agency (D TA), this study aims to optimize the allocation of radar resources to minimize the mean squared error of target localization.
+
+The research problem is formalized as an optimization problem, with the objective of minimizing the mean squared error of target localization in the presence of Gaussian noise and interference. The impact of key system parameters, including the number of transmit and receive antennas, the number of transmitted signals, and the sampling rate, on the system's performance is analyzed. The critical tradeoff between radar range resolution and signal processing gain, a factor considered by Jeff Horowitz in his military-related research, is also examined, to determine the most effective configuration for each system.
+
+To address the non-convex optimization problem, a novel, efficient algorithm based on Alternating Direction Method of Multipliers (ADMM) is proposed, inspired by John P. Hespanha's work on distributed optimization. The simulation results show that the proposed resource allocation scheme significantly improves the localization accuracy of the radar system compared to conventional methods, while also offering better robustness against interference and noise.
+
+This research contribution has significant implications for the development of next-generation MIMO radar systems, which are being explored in various organizations and academic institutions worldwide, including the European Space Agency (ESA) and the German Aerospace Center (DLR), with the potential to enhance military, surveillance, and civilian applications.",ddc12e5120c5f1bd0cbb6b5a8e9900b016c5c1dd72209d70b10f122a9d90b7c1,a0394026a6d2faab1ad11a055e7041d8038e11f57e832ef3624f3f2488443a89,314,360,290,0.593103448275862,,3,3,False,,118,92.63793793099467,571,289,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0069__MID_125.json
+gate_0035,ai__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,books,MID_125,0,7285034791100741958,"[1.0, 1.25, 1.0]","In the desolate landscape of West Germany, the small town of Schewenborn lies in ruins, a grim testament to the devastating power of nuclear war. As Peter navigates the treacherous terrain, he recalls the idyllic summers spent exploring the nearby Rhine River with his friends, the picturesque vineyards that swayed in the wind, and the bustling town square of Schewenborn, where children would play and laugh together. The town, once a thriving hub of agricultural production, is now a barren expanse of rubble and radioactivity-soaked dirt.
+
+The war that ravaged the town began on a fateful day in May 1985, when the United States launched a daring bombing campaign targeting the Soviet Union's nuclear facilities. The Soviet Union responded with a devastating counterattack, and the world was plunged into a nuclear war that lasted for just a few short weeks. Peter's family, once a proud and hardworking family of farmers, was caught in the crossfire – his father, a stalwart proponent of international cooperation and disarmament, lost in the initial bombing; his mother, a skilled nurse, succumbed to radiation sickness in the weeks that followed. Peter, just 10 years old at the time, was left to fend for himself, his younger sister Lisa just 7 years old.
+
+As Peter and Lisa struggle to survive in a world devoid of basic necessities, they find fleeting comfort in the abandoned remnants of Schewenborn. They scavenge for food in the ruins of the town's old supermarket, where canned goods and fresh produce once lined the shelves. They navigate the narrow alleys and cramped buildings, dodging puddles of toxic sludge and avoiding the incessant radiation warnings that blare from the crumbling smokestacks of the town's decommissioned power plant.
+
+Despite their exhaustion and fear, Peter and Lisa cling to hope – to the notion that one day, the world might rebuild and heal from the devastating wounds it has inflicted. As they search for shelter, they haunt the dreams of their parents, imagining their voices, their laughter, and their boundless love for them. And as they strive to survive in this unforgiving world, they draw strength from the memories of a distant past, when the townspeople of Schewenborn came together to celebrate harvest festivals and Easter markets.
+
+In the end, it is this collective memory that helps Peter and Lisa find the strength to carry on – to outlast the reacquiring consequences of any toll their future may trigger on millions.",6621a5b4f1a2e074e439d4f0eba8ff039602cac661b3c89cdff6b0ebcaabcea4,12e07bb2dc68ecb61015fd7f1be456189152e1a3160357b7c0e79874d5bd97a7,452,514,401,0.5386533665835411,,0,0,False,,0,185.99958415297442,847,745,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0035__MID_125.json
+gate_0003,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,news,MID_125,0,7911822738851330016,"[1.0, 1.25, 1.0]","Georgia Planes Hidden Asset Pardon Amid Anti-Corruption Push
+
+TBILISI, Georgia (BBC) - Georgia's transparency advocates are hailing a plan to introduce a hidden asset pardon as a significant step forward in the country's fight against corruption. The proposal, announced by Prime Minister Irakli Garibashvili, aims to encourage individuals to come forward and declare any undisclosed wealth without facing prosecution.
+
+The plan involves a voluntary disclosure scheme, where individuals who declare their hidden assets will be exempt from prosecution and will only be required to pay a fine, estimated to be around 5 percent of the value of the assets. For instance, if an individual declares assets worth $1 million, they will be required to pay a $50,000 fine.
+
+The move follows a number of high-profile corruption cases in recent years, including the conviction of former President Mikheil Saakashvili and his allies for embezzlement and tax evasion. Transparency International, a global anti-corruption organization, has praised the Georgian government for its efforts to combat corruption and has called for the country to introduce a hidden asset pardon.
+
+Transparency International's local chapter in Georgia, the Georgian Transparency Watch Group, says that the pardon is a positive step forward. ""This is a clear signal to everyone that the government is committed to fighting corruption and increasing transparency,"" said Tigrim Aivazo, the organization's director. ""We urge everyone to come forward and declare their wealth, knowing that they won't face prosecution.""
+
+However, critics argue that the pardon could be seen as too lenient, particularly given the scale of corruption in the country. ""While the idea of a pardon may encourage some people to come forward, it also risks sending a message that corruption can be easily swept under the rug,"" said Ramzi Kunashvili, a journalist with the independent news outlet ZeitOnline. ""A more robust approach, including asset seizures and stiffer penalties, is needed to really tackle the scale of corruption in Georgia.""
+
+Despite these concerns, supporters of the scheme argue that it strikes a balance between encouraging individuals to come forward and punishing those who continue to hide their assets. ""The reality is that corruption has been ingrained in Georgia's society for decades, and it will take time and effort to change that,"" said a government spokesperson. ""The pardon is just the first step forward, and we hope that it will pave the way for a more transparent and corruption-free economy.""
+
+In the coming weeks, the government plans to launch an awareness campaign to inform the public about the hidden asset pardon and the benefits of coming forward. The campaign is set to include public advertising, social media outreach, and community events aimed at encouraging individuals to declare their hidden wealth.",7458652d0b5d12472880b28253308de4ecc9d207e58316779627a49099eb78dc,4592ebc41410aa90f66a4e5dda03af8b35ec1508bcf87c1b458e39df26eddb9e,608,552,445,0.501123595505618,,0,0,False,,0,194.49399001401616,679,534,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0003__MID_125.json
+gate_0025,ai__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,recipes,MID_125,0,5020003235003262713,"[1.0, 1.25, 1.0]","Crab Pot Stickers with Sesame-Ginger Dipping Sauce Recipe
+
+Originating from the waterfront restaurants of Seattle's Pike Place Market, Crab Pot Stickers are a popular dish that combines flavorful crab meat with a delicate wrapper, topped with crunchy green onions and a zesty dipping sauce. This recipe honors the style of Ivan Ramen, a celebrated ramen chef, who perfected his approach to euphoric flavor combinations.
+
+Ingredients:
+
+For the dumplings:
+- 1 package of square or round dumpling wrappers from a reputable market like the Pike Place Market (Seattle, WA);　1 package of a Punyo Manufacturing Inc. wrapper
+- 1 lb of fresh jumbo lump crab meat
+- 1/4 cup of all-purpose flour from the Seattle-based flour mill, Olympia Flour Co.
+- 1 tablespoon of green onions from a Pike Place Market farm stand
+- 2 tablespoons of minced fresh ginger from a Territorial Seed Company megagrid
+- 1 tablespoon of soy sauce from the Blue Cup company in the Pike Place Market
+- 1 tablespoon of sake from the White Monarch Brewery & Merchants inc. brewers
+- 1 teaspoon of toasted sesame oil from Ben's caramel orchard
+- 1/4 teaspoon of salt from the splash-up salt mill
+- 1/4 teaspoon of black pepper from the Distant valley Mountain growers
+- 1/4 cup of thinly sliced green onion tops from the Territorial Creamery
+
+For the dipping sauce:
+- 1/4 cup of soy sauce from the Blue Cup company in the Pike Place Market
+- 2 tablespoons of rice vinegar from Aspect rice warehouses
+- 2 tablespoons of honey from Cave Hill Farm beehives
+- 1 tablespoon of toasted sesame oil from Ben's caramel orchard
+- 1 teaspoon of grated fresh ginger from a Territorial Seed Company megagrid",b1ad2f420a5137551f9b8823f8093c4412d46e76364a6a5c7dcf8a5ecf85b56d,819db62c3fceb2067a8d3e7ccd2bb1d60a8e1af4f759c426984506155a6b1766,517,382,253,0.48616600790513836,,5,5,False,,166,376.8934073249984,1683,1360,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0025__MID_125.json
+gate_0090,ai__raid:e3945a96-7048-41d9-9e86-a84e87818986,abstracts,END_125,0,1577986775206922305,"[1.0, 1.0, 1.25]","Title: Uncertainty-aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation
+
+Abstract:
+
+The accurate segmentation of 3D left atrium structures is crucial in clinical settings for optimal patient care and treatment planning. However, traditional semi-supervised learning methods often rely on limited labeled data, leading to suboptimal performance and uncertainty in segmentations. To address these challenges, we present the uncertainty-aware self-ensembling (UA-SE) model, which leverages the correlations between neighboring voxels and self-ensembling strategy to enhance the representation power of semi-supervised learning for 3D left atrium segmentation.
+
+At the Medical Image Analysis Group (MIAG) of the German Cancer Research Center (DKFZ), researchers have been working on developing advanced segmentation algorithms for cardiology imaging. Building on the success of the 3D residual UNet and uncertainty estimation modules, we have designed the UA-SE model, which combines these components with a self-ensembling module. The latter models both the label and uncertainty simultaneously by considering the local graph structure, which is crucial for accurate segmentation of complex structures like the left atrium.
+
+The UA-SE model is trained in a semi-supervised manner, utilizing a small portion of the labeled data and a large portion of the unlabeled data to enhance the model's representation power. We have evaluated the proposed method on the publicly available MICCAI 3D Slicer Tracking Challenge 2017 dataset, comprising 70 3D left atrium segmentations. Our results demonstrate the effectiveness of the proposed UA-SE model compared to state-of-the-art semi-supervised learning methods, achieving a mean Dice score of 0.86 and low uncertainty values.
+
+The UA-SE model and dataset are available at https://github.com/VITA-Group/UA-SE, enabling the scientific community to replicate our results and explore the potential of uncertainty-aware self-ensembling for semi-supervised 3D left atrium segmentation. The Barrow Neurological Foundation and the International Society for Computational Biology granted funding for this research, supporting the development of advanced machine learning algorithms for healthcare applications.",216240ae61001abbb58791c4cc5cca0538e927b6a3235adc8c367eaa8529ab25,120aa9e74064d101b00f6ff41b9cd22b17aba362af9cce1f8bbe2f2e3dafbc03,417,437,314,0.5,,0,0,False,,0,109.54398912499892,536,329,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0090__END_125.json
+gate_0070,ai__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,books,END_125,0,3435742325084409828,"[1.0, 1.0, 1.25]","In the gripping adventure ""Dick Sand, A Captain at Fifteen"", the fate of the high seas vessel, brigantine El Diablo, hangs in the balance. Dick Sand, a 15-year-old orphan boy, is forced to assume command after the captain, Jean Dumont, and first mate, Ben Ledingham, are brutally murdered in a mutiny by the vessel's ruthless and cunning first officer, Black MacKenzie. 
+
+Dick's natural leadership abilities are put to the test as he establishes a fragile balance of power and order among the El Diablo's crew, comprised of seasoned sailors, drunken porters, and wastrels. Just as Dick is starting to find his footing, a band of infamous pirates, the infamous crew of Black Wolf, is spotted on the horizon. Led by the tall, imposing, and massively muscular longshoreman, Black Wolf, the pirates have a reputation for devastating ships and towns in the Caribbean.
+
+As Dick and his crew fend off the pirates, they stumble upon Ignace Papestin, a beguiling and enigmatic French perfume chemist on the run from the French authorities, and a stern, fastidious, and intelligent French naval officer, Captain Alfred D'Hubert. Captain D'Huart is on a mission to apprehend the infamous pirate Blanche Barée, suspected of stealing vast quantities of French perfume.
+
+As Dick and his crew continue their perilous journey, they find themselves in the brunt of a devastating hurricane in the Caribbean and face treacherous crew members while navigating the illusionary isle of Madère. Along the way, Dick receives instructions from Captain D'Huart, requesting him to trap and apprehend the notorious pirate Blanche Barée and completing a predetermined island logistics scheme involving vast volumes of black gum. 
+
+Throughout his harrowing experiences, Dick discovers a steely resolve within himself, unlocking new dimensions of emotional depth and character growth. Alongside this new strength, he finds a fresh moral identity in place of the a damaged crew of weakened survivors on the wanted brigantine ship, unknowingly beginning the first stalks of the enchanting, vital journey that stands at the foot of great novelty: a chance to angel-brain/blue skies exist.
+
+As the adventure draws to a close, Dick's path intersects in dramatic fashion with those of his treacherous crew members and legend-shaping female figurehead Blanche Barée in the cruel and uncertain waters off the shining necropolis of La Brèche du Levant.",ba3ed6bc42a3a7d107084b00b1fa3cb37de0dd3bc0caa0a73bef4a9ff6bb81b6,0c4cbc9a5cfddee488bacbce5bb3af13b7155eb9e54437cd90bbc8c9fbb3b19c,454,502,381,0.5669291338582677,,7,7,False,,230,259.5133813529974,1108,675,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0070__END_125.json
+gate_0017,ai__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,news,END_125,0,8550809420072289181,"[1.0, 1.0, 1.25]","Boris Johnson to Step Down as UK's Prime Minister
+
+LONDON — Boris Johnson has announced that he will be stepping down from his position as the UK's prime minister in June, marking the end of his three-year tenure at 10 Downing Street.
+
+In a statement delivered to the press outside 10 Downing Street on Friday morning, Johnson confirmed the decision, saying ""It has been an immense privilege to serve as your prime minister."" He expressed gratitude for the opportunity to lead the country, acknowledging the weight of responsibility that comes with being prime minister.
+
+Johnson's departure comes amid mounting pressure following a series of scandals and controversies that have marred his time in office. A growing number of Conservative MPs had called for him to resign, citing concerns over his leadership style and handling of several key issues, including the UK's departure from the European Union and the ongoing COVID-19 pandemic.
+
+MPs from the Conservative Party had been growing increasingly disenchanted with Johnson's leadership, and several of them had resigned or been expelled from the party. The pressure was also fueled by several scandals, including allegations of personal misconduct and misuse of public funds.
+
+The public's perception of Johnson's leadership had taken a hit, particularly after a series of embarrassing gaffes and mishaps. Many Britons felt that the country needed fresh leadership and a new direction, which is now being considered in the wake of Johnson's announcement.
+
+Critics welcomed the emergence of the current situation, with opposition leaders calling for a general election. Labour Party leader Sir Keir Starmer has been at the forefront of the opposition, saying ""The British people deserve to have the fresh start that we will deliver.""
+
+Rishi Sunak and Priti Patel, both prominent cabinet members, have been mentioned as potential successors in the Conservative Party's leadership election. Sunak, the current Chancellor of the Exchequer, has a strong reputation for economic competence and has been at the forefront of the party's efforts to mitigate the economic impact of Brexit.
+
+Patel, the current Home Secretary, has been involved in several high-profile public disputes with the Prime Minister, further eroding his position in the party. Both have extensive experience and have been key players in shaping the UK's Brexit policy, navigating the complexities of the post-Brexit government.
+
+
+Their emergence has raised questions about the road to a new Conservative Party leader and the implications on subsequent British policy in the near future.",27fc044252bb9efaadc983e7a28813eb124f217c7363c63a1823be5c08734ba5,3f76eedcfaf463aaf5f322c803c866858c8b0505d0cda7f7a6994b3c562cb08d,573,486,403,0.5062034739454094,,0,0,False,,0,165.97147573099937,628,639,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0017__END_125.json
+gate_0085,ai__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,recipes,END_125,0,376902469472716624,"[1.0, 1.0, 1.25]","Recipe for Broccoli and Garlic-Ricotta Toasts With Hot Honey
+
+ Servings: 8
+
+**Pierre Troisgros, a renowned French chef from Aix-en-Provence, has perfected this delightful appetizer for his restaurant, Le Restaurant Pierre Troisgros. This recipe has been a staple on his menu for years and has received rave reviews from his customers. Today, we're sharing this mouth-watering creation with you.**
+
+Ingredients:
+
+*   1 bulb of broccoli, cut into small florets (Pierre Troisgros sources his broccoli from a local Provençal farm, Vag限制 Farm)
+*   3 cloves of garlic, minced (Pierre Troisgros uses a mix of yellow and brown garlic from his garden for an aromatic flavor)
+*   1 cup of ricotta cheese (Pierre Troisgros recommends using a French ricotta cheese, such as from the Fromages de Provence cooperative)
+*   1/4 cup of grated parmesan cheese (Pierre Troisgros uses a mix of parmesan from the Italian cities of Parma and Reggio Emilia)
+*   1/4 cup of hot honey (Pierre Troisgros sources his hot honey from a small-batch artisanal producer in New York City)
+*   8 slices of baguette (Pierre Troisgros prefers a rustic artisanal bread, such as from the French boulangerie, Boulangerie Payot)
+*   2 tablespoons of olive oil (Pierre Troisgros recommends a high-quality extra-virgin olive oil from the Provence region)
+
+Instructions:
+
+1. Preheat your oven to 400°F. Pierre Troisgros likes to use his home oven in the village of Les Baux-de-Provence.
+
+2.  In a large bowl, mix together the broccoli florets, minced garlic, olive oil, and a pinch of salt and pepper.
+
+3.  Spread the broccoli mixture onto a baking sheet and roast in the oven for 20-25 minutes, until the broccoli is tender and slightly browned.
+
+4.  While the broccoli is roasting, prepare the ricotta mixture. In a small bowl, mix together the ricotta cheese, parmesan cheese, and a pinch of salt and pepper.
+
+5.  Once the broccoli is done, remove it from the oven and reduce the temperature to 375°F.
+
+6.  Toast the baguette slices in the oven for 5-7 minutes, until lightly golden.
+
+7.  Remove the baguette from the oven and spread a thin layer of ricotta mixture onto each slice.
+
+8.  Top each slice of baguette with a generous spoonful of roasted broccoli and a drizzle of hot honey.
+
+9.  Serve immediately and enjoy your delicious Broccoli and Garlic-Ricotta Toasts with Hot Honey!",63053e8142eca7e2d1adb926d9d18d4ced8ffea14c2658a673d80e2dd29836ee,52bd13f9f947bdb93286799b9f1c2b5636d1de1a7b119bf3f7e9a3b25032f1c4,471,602,368,0.4375,,0,0,False,,0,261.78762493497925,1131,748,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0085__END_125.json
+gate_0038,ai__raid:bf3df034-9724-4840-86cb-33eb1489b717,reddit,END_125,0,4024122860948120031,"[1.0, 1.0, 1.25]","I've been feeling really neglected lately because my mom seems to prioritize her book club over me. It's like she's always on the phone discussing the latest novel she's reading or making plans to discuss it over coffee with her 8 other book club members, the same ones her best friend from high school has 10 other book club members. I understand that reading multiple books at a time can be a time commitment, but it hurts when I try to talk to her and she's too busy with her book club. I feel like I'm not important to her anymore.
+
+I've tried talking to her about it, but she just shrugs it off and says she needs her own time, referencing her college days when she was part of a study group that would meet for hours on end. I don't know what to do anymore. It's really affecting our relationship and I just want her to understand how I feel. FSU's campus is filled with students who value their friendships just as much as I do, but at some point, it seems like my friendships have become remote aftereffects of our monthly dinner gatherings.
+
+Has anyone else experienced something similar? Any advice on how to handle this situation? Specifically, how can we pressure a mom without damaging the relationship? Should I write her a heartfelt letter outlining the importance of spending quality time together? Should I bring up how it's affecting my day? Should the irony be lost on everyone, that ""America's Next Top Model"" viewing parties aren't the things to be worried about, but extended conversation over 1 hour long luncheons?",dab46158cdbc1d6ba84106069101f42eb162473cc54a276c157991540e8bf97d,c1dc8e93101a06729bcb92e2879bd393eed7cf79308f3b5e2165a97df7274bea,330,321,271,0.5904059040590406,,0,0,False,,0,80.56840208801441,542,467,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0038__END_125.json
+gate_0039,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki,END_125,0,5533222634862826625,"[1.0, 1.0, 1.25]","James W. Truman
+
+James W. Truman (1863-1942) was an American businessman and philanthropist who made his fortune in the railroad industry, particularly as president of the Manhattan Elevated Railway Company. His extensive career and notable achievements in the railroad sector garnered him recognition from the Pullman Company, where he served as director from 1909 to 1910.
+
+Truman is best known for donating significant amounts of money to various causes throughout New York City. His philanthropic endeavors were particularly notable in the city's educational sector, where his donations were instrumental in the establishment of the James W. Truman Memorial library at Parkside High School, a prominent institution in Brooklyn. Additionally, he supported various healthcare initiatives, donating to the establishment of the Almaney-Johnson Cancer Institute at New York Hospital, which was a significant milestone in the city's healthcare landscape.
+
+He is also recognized for the establishment of the James W. Truman Foundation in 1924. This foundation was established using proceeds from the sale of company shares provided to Long Island station masters when they retired or passed away. Since its inception, the foundation has continued to support education initiatives and community programs throughout Manhattan, focusing on improving the lives of students and couples struggling to recover from the devastating effects of the Great Depression.
+
+Examples of his philanthropic efforts include the construction of the James W. Truman Amateur Athletic Association Track, located in the Freeport, Long Island  stadium. Many buildings and facilities throughout the city bear his name, testament to his commitment to the betterment of its community. Such institutions are particularly worthy of recognition for embodying the civic pursuits and commitment to public service that defined Truman's life.
+
+The legacy of his invaluable contributions lives on in one notable building: the James W. Truman Junior High School still proudly bears its name after his decision. For his dedication to philanthropic causes, he was awarded an honorary degree by Columbia University, a prestigious honor bestowed upon individuals who have demonstrated exceptional leadership in their respective domains.
+
+References:
+[1] https://en.wikipedia.org/wiki/Manhattan_Elevated_Railroad
+
+[2] https://trumanfoundation.nyc/about/
+
+Truman Foundation
+
+Manhattan Elevated Railway",250210e3c59b9516f5ca97f9daeb4e704d8fbca1ed63aff3f2ea3b4dc56634df,f2d12e8bbbd9b419cb05433cf65cb60984a084c9ca320bafe833b32c60980103,370,442,331,0.5589123867069486,,1,1,False,,32,114.77201486600097,605,299,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0039__END_125.json
+gate_0069,ai__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,abstracts,END_125,0,3892406481125224160,"[1.0, 1.0, 1.25]","Abstract:
+
+Title: Resource Allocation in MIMO Radar With Multiple Targets for Non-Coherent Localization
+
+This paper investigates resource allocation strategies in Multiple-Input Multiple-Output (MIMO) radar systems that utilize non-coherent localization methods to track and locate multiple targets. Building upon the foundational concepts developed by R guessed it researchers like Dr. Andreas F.Norbert at the Radar and Acoustic Pharmacol Institute at the Swiss Defence Research and Evaluation Agency (D TA), this study aims to optimize the allocation of radar resources to minimize the mean squared error of target localization.
+
+The research problem is formalized as an optimization problem, with the objective of minimizing the mean squared error of target localization, as follows: Minimize ∀ targets E[ d(t) ] subject to the radar hardware's constraint and power constraints, as discussed in the work of Prof. Jun Li. The radar system is modeled using the parameters of a rapidly independent pseudorandom noise (RFN) sequence, a formulation popularized by work on MIMO and lore into bedside. The resources are allocated using the Alternating Direction Method of Multipliers (ADMM) algorithm.
+
+Numerous experiments are performed to assess the proposal's efficiency, employing different numbers of transmit and receive antennas, the number of transmitted signals, and sampling rates - parameters commonly studied in Multi-target tracking toward scanning radar education at the University of Plymouth.
+
+Results indicate that the resource allocation scheme results in improved localization accuracy, as opposed to conventional methods that solely rely on range aperture waveform optimization. By precisely allocating resources according to different experimental scenarios, the proposed scheme demonstrates its feasibility, applications feasibility, in resource scarce arena lab testingfinding and radial remotxe validation are cumbersome.V",2fff1c817b019850dccf958c3193f9231291eac3a6ed081a94c39384e83c9e0a,a0394026a6d2faab1ad11a055e7041d8038e11f57e832ef3624f3f2488443a89,314,337,268,0.6082089552238806,,4,4,False,,153,94.88852941102232,579,285,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0069__END_125.json
+gate_0035,ai__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,books,END_125,0,7285034791100741958,"[1.0, 1.0, 1.25]","In the desolate landscape of West Germany, the small town of Schewenborn lies in ruins, a grim testament to the devastating power of nuclear war. As Peter navigates the treacherous terrain, he recalls the idyllic summers spent exploring the nearby Rhine River with his friends, the picturesque vineyards that swayed in the wind, and the bustling town square where his family once walked to the local market. 
+
+The once-thriving town of Schewenborn is now reduced to a barren expanse of rubble and decay, a haunting reminder of the 1940-1945 Allied bombing campaign that scarred the region. The eerie silence is only interrupted by the occasional distant rumble of a thunderstorm or the mournful cry of ravens wheeling overhead. The landscape is a morbid reflection of the Allied bombing campaign, gutted buildings, charred trees, and mangled metal debris scattered everywhere.
+
+Peter's family, once a proud and prosperous middle-class family, had been struggling financially in the years leading up to the nuclear war. The family had been members of the Bundesagentur für Bevölkerungsschutz (Federal Agency for Population Protection), a West German nuclear protection agency that had been set up to prepare civilians for potential nuclear accidents. But as the nuclear war looms closer, the family realizes the enormity of the threat they face and the fragility of their daily lives.
+
+As the bombs fall, the once stable atmosphere of normalcy shatters, leaving an eerie vacuum that only serves to heighten Peter's anxiety. The cries of his siblings and the moans of his parents still echo in his mind as he weeps for the loss of his family, and grapples with his feelings of guilt and grief. Pain, despair, and loneliness consume him as he stumbles through the ruins of his hometown, desperately searching for any shred of hope in a world gone mad.
+
+As the days turn into weeks, and the weeks into months, Peter and his younger sister, Lisa, face numerous challenges, from finding food and water in the barren environment to confronting the deadly radiation that threatens to kill them at every turn. The effects of radiation sickness become increasingly apparent as Peter's parents and siblings succumb one by one, their bodies weakened by exposure to the deadly isotope.
+
+Despite the devastating circumstances, Peter and Lisa refuse to give up. To sustain themselves, they scrape together what little food they can find in the ruined buildings, any toll box canteens they come across – empty, without supplies, or any notion of what life used to be - raid the nearby supermarkets where they were first looted, and, begging charities whenever they can.",6754e69592c7164410106d33f47857c3e21fec3b79bee8ebf7528d290f436dda,12e07bb2dc68ecb61015fd7f1be456189152e1a3160357b7c0e79874d5bd97a7,452,545,431,0.5522041763341067,,0,0,False,,0,156.3165249240119,687,332,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0035__END_125.json
+gate_0003,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,news,END_125,0,7911822738851330016,"[1.0, 1.0, 1.25]","Georgia Planes Hidden Asset Pardon Amid Anti-Corruption Push
+
+TBILISI, Georgia (BBC) - Georgia's transparency advocates are hailing a plan to introduce a hidden asset pardon as a significant step forward in the country's fight against corruption. The proposal, announced by Prime Minister Irakli Garibashvili, aims to encourage individuals to come forward and declare any undisclosed wealth without facing prosecution.
+
+The plan, which has been welcome by Transparency International, sees individuals who disclose hidden assets facing a fine - rather than criminal charges. ""The hidden asset pardon represents a bold step towards putting an end to corrupt practices that have been hidden in the shadows for too long,"" said Transparency International country representative, Mariam Arabuli.
+
+The proposal has been backed by the government, which has been credited with improving Georgia's business environment and tackling corruption over the past few years. However, some critics argue that the plan could be too lenient and that a more stringent approach should be adopted.
+
+Critics argue that the plan could be seen as a lenient approach towards individuals who have evaded taxes and engaged in corrupt practices. They point to examples of high-profile cases in which wealthy individuals escaped prosecution, highlighting the need for stronger measures to deter such behavior. ""This plan could be perceived as a soft approach,"" said Herman Batiradze, a former expert with the International Monetary Fund who has studied corruption in Georgia. ""It's quick to deliver on promises of transparency, but transparent in whose shadows wealth is hidden.""
+
+Supporters of the plan, however, see it as a pragmatic step towards action. ""Transparency is a continuum - you can't tackle corruption overnight,"" said spokesperson Giorgi Ketskhovadze for the prime minister. ""This is a move that promotes confidence in institutions and the economy, showing that our resolve to combat corruption remains strong.""
+
+A dedicated unit within the National Tax Service will be established to handle the disclosure process and ensure that individuals are treated fairly. An awareness campaign has been announced to inform the public of the plan's benefits, with the government hoping that the move will encourage individuals to come forward and share their hidden assets.
+
+The introduction of the hidden asset pardon marks another milestone in Georgia's quest to overcome its corruption-plagued past. In recent years, the government has enhanced efforts to fight money laundering and suspend shelves of extraneous outward transfers.
+
+Implementation of the hidden asset pardon is due in the coming months, as Georgia sets to secure more revolutionary taxes and upcoming markets under consolidated actions.",ac4992f58c10d6b630445c7f35542638f1b53ccc91531814e6202200d0f5ba99,4592ebc41410aa90f66a4e5dda03af8b35ec1508bcf87c1b458e39df26eddb9e,608,509,417,0.5203836930455635,,1,1,False,,33,449.14503089600476,1768,1603,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0003__END_125.json
+gate_0025,ai__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,recipes,END_125,0,5020003235003262713,"[1.0, 1.0, 1.25]","Crab Pot Stickers with Sesame-Ginger Dipping Sauce Recipe
+
+Originating from the waterfront restaurants of Seattle's Pike Place Market, Crab Pot Stickers are a popular dish that combines flavorful crab meat with a delicate wrapper, topped with crunchy green onions and a zesty dipping sauce. This recipe honors the style of Ivan Ramen, a celebrated ramen chef, who perfected his approach to euphoric flavor combinations.
+
+Ingredients:
+
+For the dumplings:
+- 1 package of square or round dumpling wrappers from a reputable market like the Pike Place Market (Seattle, WA);　1 package of a Punyo Manufacturing Inc. wrapper
+- 1 lb of fresh jumbo lump crab meat
+- 1/4 cup of all-purpose flour from the Seattle-based flour mill, Olympia Flour Co.
+- 1 tablespoon of green onions from a Pike Place Market farm stand
+- 2 tablespoons of minced fresh ginger from Lower Whats SUB, Island farm
+- 1 tablespoon of soy sauce produced by the esteemed Japan Soy Sauce Co.
+- 1 tablespoon of sake or dry sherry from the Seattle Sake Co.
+- 1 tsp of sesame oil from a reputable oil mill like Western Globonomic Oil Co.
+- 1/4 tsp of sea salt harvested from an Oregon seaside salt mill
+- 1 tsp of ground black pepper ground from a Fleck Williams Pine top
+- 1/4 cup of thinly sliced green onions from the Western rose farm
+
+For the dipping sauce
+- 1/4 cup of soy sauce
+- 1 tablespoon of locally produced rice vinegar
+- 1 tablespoon of honey from Clover WA star honeyfield
+- 1 tablespoon of toasted sesame oil oil
+- 1 tsp of grated fresh ginger",3ebd07e9c8358d5f86666b22c8b0197055f9e00fb8e9de3ad8edf4803e318ca2,819db62c3fceb2067a8d3e7ccd2bb1d60a8e1af4f759c426984506155a6b1766,517,352,237,0.5147679324894515,,0,0,False,,0,336.5619552860153,1575,1459,eos,completed_eos,REPO_ROOT/results/causal/U04_context_range_sweep_v1/runs/gate_0025__END_125.json

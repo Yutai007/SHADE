@@ -1,0 +1,11 @@
+arm,cases,prefix_truncated
+OG,54,0
+NS10,54,0
+HIP_limited,54,6
+MASH_limited,54,0
+UTS_SYNTH_limited,54,2
+UTS_STREAM_limited,54,0
+HIP_released4B,54,0
+StealthRL_released4B,54,0
+OG_RAFT,54,1
+NS11,54,0

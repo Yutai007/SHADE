@@ -1,0 +1,9 @@
+metric,generator,scorer,n,delta_mean,recovery_mean
+delta_U_long,Qwen2.5-1.5B-Instruct,Qwen3-1.7B,44,-0.258764550620536,0.258764550620536
+delta_U_long,Qwen2.5-1.5B-Instruct,Falcon3-3B,44,-0.10535898063532882,0.10535898063532882
+delta_U_long,Falcon3-3B,Qwen3-1.7B,44,-0.36856779908534504,0.36856779908534504
+delta_U_long,Falcon3-3B,Falcon3-3B,44,-0.16866240322958959,0.16866240322958959
+selectivity_long_minus_short,Qwen2.5-1.5B-Instruct,Qwen3-1.7B,44,-0.31060222567545087,0.31060222567545087
+selectivity_long_minus_short,Qwen2.5-1.5B-Instruct,Falcon3-3B,44,-0.45204601657685956,0.45204601657685956
+selectivity_long_minus_short,Falcon3-3B,Qwen3-1.7B,44,-0.35284245679982706,0.35284245679982706
+selectivity_long_minus_short,Falcon3-3B,Falcon3-3B,44,-0.41243765365928325,0.41243765365928325

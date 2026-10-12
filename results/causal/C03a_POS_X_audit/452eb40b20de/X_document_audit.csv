@@ -1,0 +1,237 @@
+group,case_id,source_id,domain,n_tokens,n_X,pos_X_token_share,pos_X_sentence_mean,pos_X_sentence_std,pos_X_sentence_max
+Fixed AI,gate_0001,ai__raid:af383c6d-11c9-4169-a2fa-58280f83ca96,abstracts,156,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0003,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,news,414,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0004,ai__raid:f5f280b6-e8c1-4f10-9d16-0e6297e8c730,recipes,308,12,0.03896103896103896,0.631578947368421,2.6795625392332334,12.0
+Fixed AI,gate_0005,ai__raid:7bd2da2a-4f21-4b84-91a7-2cb37fd80071,reddit,124,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0007,ai__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,wiki,378,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0015,ai__raid:cfb5728e-c896-4ed5-8173-f39be5ff5f97,abstracts,207,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0016,ai__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,books,300,1,0.0033333333333333335,0.08333333333333333,0.2763853991962833,1.0
+Fixed AI,gate_0017,ai__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,news,336,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0018,ai__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,recipes,423,3,0.0070921985815602835,0.13043478260869565,0.33678116053977536,1.0
+Fixed AI,gate_0019,ai__raid:dc315335-0314-49c5-96b1-3211dc072983,reddit,152,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0020,ai__raid:eb76307e-f969-4523-9943-52da0e3f78a8,reviews,354,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0021,ai__raid:cf67eb69-444d-4e5f-a88b-da82d19f89a9,wiki,353,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0022,ai__raid:4c4676d5-c143-448c-b058-9c360b04d900,abstracts,146,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0023,ai__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,books,312,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0024,ai__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,news,247,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0025,ai__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,recipes,260,9,0.03461538461538462,0.5294117647058824,0.848365005991527,2.0
+Fixed AI,gate_0026,ai__raid:603b6d03-c745-4378-a2db-5b0705bddd34,reddit,189,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0027,ai__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,wiki,191,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0028,ai__raid:1780eb3e-7c44-4355-a331-e175e5c8c198,abstracts,174,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0030,ai__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,news,245,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0035,ai__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,books,237,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0037,ai__raid:966ff429-7e5b-409c-b301-181197592544,recipes,249,12,0.04819277108433735,0.631578947368421,0.929659038560826,2.0
+Fixed AI,gate_0038,ai__raid:bf3df034-9724-4840-86cb-33eb1489b717,reddit,137,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0039,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki,128,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0046,ai__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,abstracts,129,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0047,ai__raid:70764dd8-197a-415b-8c5f-2ebd022e0fd7,books,177,5,0.02824858757062147,0.7142857142857143,0.8806305718527109,2.0
+Fixed AI,gate_0048,ai__raid:b0d2e4eb-3c43-49ce-bfe1-9a6eafef8b02,news,136,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0049,ai__raid:a77e8e92-8af5-4e1d-ab67-65bf52a8d5d7,recipes,376,7,0.018617021276595744,0.28,0.6645299090334459,2.0
+Fixed AI,gate_0050,ai__raid:c435eb9e-f80e-4ac6-9526-e1282c5c1266,reddit,285,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0051,ai__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,wiki,265,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0054,ai__raid:8598c9e2-8e28-46b2-a6da-a22b767aae49,news,224,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0062,ai__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,reddit,192,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0065,ai__raid:7a2f76a2-30e0-4d30-b9bf-6bb7b6f82c1e,books,384,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0066,ai__raid:a40984f5-f447-464b-8a6a-eaa8d6f76d12,news,188,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0067,ai__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,recipes,335,9,0.026865671641791045,0.391304347826087,0.7655137765938701,2.0
+Fixed AI,gate_0069,ai__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,abstracts,115,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0070,ai__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,books,235,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0073,ai__raid:c9d4b9c3-20c6-4527-8838-6cbc2263bb00,wiki,176,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0074,ai__raid:31c9da8a-8533-4763-b0ce-b1e54082b6f8,abstracts,105,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0075,ai__raid:0a9dc4af-7338-49c0-b3d9-3a1a3cf1606f,books,212,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0076,ai__raid:90cd9493-2714-47d7-b052-f3c621294322,news,332,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0078,ai__raid:39839ad8-9b55-46f1-bfa9-16cd1c961cce,wiki,254,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0079,ai__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,abstracts,153,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0081,ai__raid:723a39e2-9540-4faa-b682-d608457dfde1,recipes,304,6,0.019736842105263157,0.3,0.45825756949558394,1.0
+Fixed AI,gate_0082,ai__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,wiki,205,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0085,ai__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,recipes,247,7,0.02834008097165992,0.4117647058823529,0.49215295678475035,1.0
+Fixed AI,gate_0086,ai__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,wiki,228,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0088,ai__raid:6d37b523-501f-412e-a18b-645d8e3653a6,news,324,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0089,ai__raid:788e4594-960c-4621-8b5e-6f82b7552d7b,recipes,243,4,0.01646090534979424,0.2857142857142857,0.45175395145262565,1.0
+Fixed AI,gate_0090,ai__raid:e3945a96-7048-41d9-9e86-a84e87818986,abstracts,179,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0092,ai__raid:b146a6b9-b531-4709-ac99-6a3852b3c619,abstracts,162,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0093,ai__raid:6cb1edfa-92ac-4618-9084-7d84a4193bc4,news,161,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0094,ai__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,news,331,0,0.0,0.0,0.0,0.0
+Fixed AI,gate_0095,ai__raid:91bb1e48-f280-46f3-9fd3-b7c7d9cb7e1a,news,371,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0001,ai__raid:af383c6d-11c9-4169-a2fa-58280f83ca96,abstracts,155,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0003,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,news,422,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0004,ai__raid:f5f280b6-e8c1-4f10-9d16-0e6297e8c730,recipes,292,12,0.0410958904109589,0.8571428571428571,3.0904725218262765,12.0
+Original AI source,gate_0005,ai__raid:7bd2da2a-4f21-4b84-91a7-2cb37fd80071,reddit,208,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0007,ai__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,wiki,362,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0015,ai__raid:cfb5728e-c896-4ed5-8173-f39be5ff5f97,abstracts,288,1,0.003472222222222222,0.09090909090909091,0.2874797872880344,1.0
+Original AI source,gate_0016,ai__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,books,363,1,0.0027548209366391185,0.08333333333333333,0.2763853991962833,1.0
+Original AI source,gate_0017,ai__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,news,385,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0018,ai__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,recipes,429,4,0.009324009324009324,0.18181818181818182,0.48956043701222757,2.0
+Original AI source,gate_0019,ai__raid:dc315335-0314-49c5-96b1-3211dc072983,reddit,161,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0020,ai__raid:eb76307e-f969-4523-9943-52da0e3f78a8,reviews,367,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0021,ai__raid:cf67eb69-444d-4e5f-a88b-da82d19f89a9,wiki,350,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0022,ai__raid:4c4676d5-c143-448c-b058-9c360b04d900,abstracts,214,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0023,ai__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,books,354,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0024,ai__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,news,280,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0025,ai__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,recipes,294,8,0.027210884353741496,0.5333333333333333,0.8055363982396383,2.0
+Original AI source,gate_0026,ai__raid:603b6d03-c745-4378-a2db-5b0705bddd34,reddit,196,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0027,ai__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,wiki,229,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0028,ai__raid:1780eb3e-7c44-4355-a331-e175e5c8c198,abstracts,244,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0030,ai__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,news,244,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0035,ai__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,books,243,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0037,ai__raid:966ff429-7e5b-409c-b301-181197592544,recipes,302,12,0.039735099337748346,0.6666666666666666,0.8819171036881969,2.0
+Original AI source,gate_0038,ai__raid:bf3df034-9724-4840-86cb-33eb1489b717,reddit,142,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0039,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki,159,6,0.03773584905660377,0.8571428571428571,1.7261494247992246,5.0
+Original AI source,gate_0046,ai__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,abstracts,140,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0047,ai__raid:70764dd8-197a-415b-8c5f-2ebd022e0fd7,books,172,1,0.005813953488372093,0.14285714285714285,0.3499271061118826,1.0
+Original AI source,gate_0048,ai__raid:b0d2e4eb-3c43-49ce-bfe1-9a6eafef8b02,news,396,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0049,ai__raid:a77e8e92-8af5-4e1d-ab67-65bf52a8d5d7,recipes,386,7,0.018134715025906734,0.28,0.6645299090334459,2.0
+Original AI source,gate_0050,ai__raid:c435eb9e-f80e-4ac6-9526-e1282c5c1266,reddit,305,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0051,ai__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,wiki,269,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0054,ai__raid:8598c9e2-8e28-46b2-a6da-a22b767aae49,news,243,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0062,ai__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,reddit,234,2,0.008547008547008548,0.16666666666666666,0.5527707983925666,2.0
+Original AI source,gate_0065,ai__raid:7a2f76a2-30e0-4d30-b9bf-6bb7b6f82c1e,books,466,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0066,ai__raid:a40984f5-f447-464b-8a6a-eaa8d6f76d12,news,386,1,0.0025906735751295338,0.07142857142857142,0.25753937681885636,1.0
+Original AI source,gate_0067,ai__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,recipes,447,16,0.035794183445190156,0.48484848484848486,0.8209828596450949,2.0
+Original AI source,gate_0069,ai__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,abstracts,125,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0070,ai__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,books,256,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0073,ai__raid:c9d4b9c3-20c6-4527-8838-6cbc2263bb00,wiki,225,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0074,ai__raid:31c9da8a-8533-4763-b0ce-b1e54082b6f8,abstracts,281,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0075,ai__raid:0a9dc4af-7338-49c0-b3d9-3a1a3cf1606f,books,292,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0076,ai__raid:90cd9493-2714-47d7-b052-f3c621294322,news,382,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0078,ai__raid:39839ad8-9b55-46f1-bfa9-16cd1c961cce,wiki,263,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0079,ai__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,abstracts,225,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0081,ai__raid:723a39e2-9540-4faa-b682-d608457dfde1,recipes,303,7,0.0231023102310231,0.3684210526315789,0.48237638894272,1.0
+Original AI source,gate_0082,ai__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,wiki,209,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0085,ai__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,recipes,253,8,0.03162055335968379,0.5714285714285714,0.4948716593053935,1.0
+Original AI source,gate_0086,ai__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,wiki,237,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0088,ai__raid:6d37b523-501f-412e-a18b-645d8e3653a6,news,327,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0089,ai__raid:788e4594-960c-4621-8b5e-6f82b7552d7b,recipes,260,5,0.019230769230769232,0.35714285714285715,0.47915742374995485,1.0
+Original AI source,gate_0090,ai__raid:e3945a96-7048-41d9-9e86-a84e87818986,abstracts,203,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0092,ai__raid:b146a6b9-b531-4709-ac99-6a3852b3c619,abstracts,178,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0093,ai__raid:6cb1edfa-92ac-4618-9084-7d84a4193bc4,news,290,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0094,ai__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,news,350,0,0.0,0.0,0.0,0.0
+Original AI source,gate_0095,ai__raid:91bb1e48-f280-46f3-9fd3-b7c7d9cb7e1a,news,369,0,0.0,0.0,0.0,0.0
+Human test,human__raid:0216216b-fd4f-403b-87f3-b1c52f29a3f1,human__raid:0216216b-fd4f-403b-87f3-b1c52f29a3f1,books,271,0,0.0,0.0,0.0,0.0
+Human test,human__raid:070db71f-3f44-4ebf-b9dc-cf780644667c,human__raid:070db71f-3f44-4ebf-b9dc-cf780644667c,abstracts,267,0,0.0,0.0,0.0,0.0
+Human test,human__raid:092aa2bc-f8b6-4a7b-8bac-40b62e0dbb25,human__raid:092aa2bc-f8b6-4a7b-8bac-40b62e0dbb25,news,323,0,0.0,0.0,0.0,0.0
+Human test,human__raid:0932165c-37b5-4c07-a15d-ded908d7dc32,human__raid:0932165c-37b5-4c07-a15d-ded908d7dc32,books,193,3,0.015544041450777202,0.42857142857142855,0.49487165930539345,1.0
+Human test,human__raid:0a9dc4af-7338-49c0-b3d9-3a1a3cf1606f,human__raid:0a9dc4af-7338-49c0-b3d9-3a1a3cf1606f,books,294,0,0.0,0.0,0.0,0.0
+Human test,human__raid:119d954e-9a2c-4ad6-bd1b-b03ed29034f0,human__raid:119d954e-9a2c-4ad6-bd1b-b03ed29034f0,abstracts,251,0,0.0,0.0,0.0,0.0
+Human test,human__raid:140bcdd4-cb85-49b7-ad40-483a21380193,human__raid:140bcdd4-cb85-49b7-ad40-483a21380193,news,426,1,0.002347417840375587,0.05555555555555555,0.2290614236454256,1.0
+Human test,human__raid:167102f2-a17b-4860-9984-67709aab5d53,human__raid:167102f2-a17b-4860-9984-67709aab5d53,wiki,282,0,0.0,0.0,0.0,0.0
+Human test,human__raid:1780eb3e-7c44-4355-a331-e175e5c8c198,human__raid:1780eb3e-7c44-4355-a331-e175e5c8c198,abstracts,245,2,0.00816326530612245,0.25,0.4330127018922193,1.0
+Human test,human__raid:1d8ef537-eff4-4324-ae39-02b5caecb61c,human__raid:1d8ef537-eff4-4324-ae39-02b5caecb61c,news,348,0,0.0,0.0,0.0,0.0
+Human test,human__raid:1de9f910-c6a9-4bf8-8a2d-1f9c07390417,human__raid:1de9f910-c6a9-4bf8-8a2d-1f9c07390417,books,422,0,0.0,0.0,0.0,0.0
+Human test,human__raid:25689644-8159-4de0-8167-2efea735f75b,human__raid:25689644-8159-4de0-8167-2efea735f75b,reddit,140,0,0.0,0.0,0.0,0.0
+Human test,human__raid:26d2f09e-1b32-4e0b-acc6-fbca10b7051a,human__raid:26d2f09e-1b32-4e0b-acc6-fbca10b7051a,reviews,155,0,0.0,0.0,0.0,0.0
+Human test,human__raid:2737d3fd-1ed6-40ae-acb9-d1af0baf5b7c,human__raid:2737d3fd-1ed6-40ae-acb9-d1af0baf5b7c,wiki,334,0,0.0,0.0,0.0,0.0
+Human test,human__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,human__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,books,386,1,0.0025906735751295338,0.07692307692307693,0.26646935501059654,1.0
+Human test,human__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,human__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,news,391,1,0.0025575447570332483,0.05555555555555555,0.2290614236454256,1.0
+Human test,human__raid:2b6630cd-9256-497f-83b2-366131834f3a,human__raid:2b6630cd-9256-497f-83b2-366131834f3a,wiki,286,0,0.0,0.0,0.0,0.0
+Human test,human__raid:2f47f011-2a2a-47fb-8380-81bbfd3aea9f,human__raid:2f47f011-2a2a-47fb-8380-81bbfd3aea9f,reddit,194,0,0.0,0.0,0.0,0.0
+Human test,human__raid:2faf4463-e954-4388-a603-ae85c31b8c00,human__raid:2faf4463-e954-4388-a603-ae85c31b8c00,abstracts,310,0,0.0,0.0,0.0,0.0
+Human test,human__raid:31c9da8a-8533-4763-b0ce-b1e54082b6f8,human__raid:31c9da8a-8533-4763-b0ce-b1e54082b6f8,abstracts,228,0,0.0,0.0,0.0,0.0
+Human test,human__raid:34071d29-fbbf-4230-9ee4-55f1c54b2b5e,human__raid:34071d29-fbbf-4230-9ee4-55f1c54b2b5e,abstracts,277,1,0.0036101083032490976,0.09090909090909091,0.2874797872880344,1.0
+Human test,human__raid:347fcffd-ce79-4b6f-9e45-cb1cf0ba60a9,human__raid:347fcffd-ce79-4b6f-9e45-cb1cf0ba60a9,reddit,176,0,0.0,0.0,0.0,0.0
+Human test,human__raid:37897e56-78e7-4aaa-a974-a9ec4f8facb3,human__raid:37897e56-78e7-4aaa-a974-a9ec4f8facb3,reddit,161,0,0.0,0.0,0.0,0.0
+Human test,human__raid:39839ad8-9b55-46f1-bfa9-16cd1c961cce,human__raid:39839ad8-9b55-46f1-bfa9-16cd1c961cce,wiki,325,0,0.0,0.0,0.0,0.0
+Human test,human__raid:3a75780e-80cf-4695-b297-bb5c7edd5de3,human__raid:3a75780e-80cf-4695-b297-bb5c7edd5de3,books,302,0,0.0,0.0,0.0,0.0
+Human test,human__raid:3bc610dd-010e-480c-8af3-1c5da8728644,human__raid:3bc610dd-010e-480c-8af3-1c5da8728644,abstracts,127,0,0.0,0.0,0.0,0.0
+Human test,human__raid:3c44b645-d716-4865-b596-7c4e6f24fe06,human__raid:3c44b645-d716-4865-b596-7c4e6f24fe06,reddit,203,0,0.0,0.0,0.0,0.0
+Human test,human__raid:3e7fb3a2-3d32-43b1-ba60-c4689d38caee,human__raid:3e7fb3a2-3d32-43b1-ba60-c4689d38caee,recipes,294,0,0.0,0.0,0.0,0.0
+Human test,human__raid:3f88fbdd-9dde-4766-a8db-05b0f2e0957e,human__raid:3f88fbdd-9dde-4766-a8db-05b0f2e0957e,recipes,320,0,0.0,0.0,0.0,0.0
+Human test,human__raid:401abcef-a6a6-41c9-bb25-766e6609d835,human__raid:401abcef-a6a6-41c9-bb25-766e6609d835,books,258,0,0.0,0.0,0.0,0.0
+Human test,human__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,human__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,abstracts,240,3,0.0125,0.375,0.4841229182759271,1.0
+Human test,human__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,human__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,reddit,212,0,0.0,0.0,0.0,0.0
+Human test,human__raid:4c4676d5-c143-448c-b058-9c360b04d900,human__raid:4c4676d5-c143-448c-b058-9c360b04d900,abstracts,189,1,0.005291005291005291,0.125,0.33071891388307384,1.0
+Human test,human__raid:4e41049d-f855-47f9-8e31-1e1a8aebd832,human__raid:4e41049d-f855-47f9-8e31-1e1a8aebd832,reddit,169,0,0.0,0.0,0.0,0.0
+Human test,human__raid:4e8d2b69-fd42-4cc4-8f94-e52400e1e1b6,human__raid:4e8d2b69-fd42-4cc4-8f94-e52400e1e1b6,books,220,0,0.0,0.0,0.0,0.0
+Human test,human__raid:50d75674-15c7-4c9a-a9d4-9589bfd2c16d,human__raid:50d75674-15c7-4c9a-a9d4-9589bfd2c16d,wiki,252,0,0.0,0.0,0.0,0.0
+Human test,human__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,human__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,abstracts,137,0,0.0,0.0,0.0,0.0
+Human test,human__raid:5e96071b-cd3e-4461-9948-96d041e63767,human__raid:5e96071b-cd3e-4461-9948-96d041e63767,recipes,296,0,0.0,0.0,0.0,0.0
+Human test,human__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,human__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,recipes,431,1,0.002320185614849188,0.037037037037037035,0.18885257457751053,1.0
+Human test,human__raid:603b6d03-c745-4378-a2db-5b0705bddd34,human__raid:603b6d03-c745-4378-a2db-5b0705bddd34,reddit,226,0,0.0,0.0,0.0,0.0
+Human test,human__raid:63020fe1-645b-4dbb-988a-3bb080f2d56e,human__raid:63020fe1-645b-4dbb-988a-3bb080f2d56e,news,488,0,0.0,0.0,0.0,0.0
+Human test,human__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,human__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,news,421,0,0.0,0.0,0.0,0.0
+Human test,human__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,human__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,recipes,351,0,0.0,0.0,0.0,0.0
+Human test,human__raid:6cb1edfa-92ac-4618-9084-7d84a4193bc4,human__raid:6cb1edfa-92ac-4618-9084-7d84a4193bc4,news,347,0,0.0,0.0,0.0,0.0
+Human test,human__raid:6d37b523-501f-412e-a18b-645d8e3653a6,human__raid:6d37b523-501f-412e-a18b-645d8e3653a6,news,256,0,0.0,0.0,0.0,0.0
+Human test,human__raid:70764dd8-197a-415b-8c5f-2ebd022e0fd7,human__raid:70764dd8-197a-415b-8c5f-2ebd022e0fd7,books,206,0,0.0,0.0,0.0,0.0
+Human test,human__raid:723a39e2-9540-4faa-b682-d608457dfde1,human__raid:723a39e2-9540-4faa-b682-d608457dfde1,recipes,312,0,0.0,0.0,0.0,0.0
+Human test,human__raid:731ae711-8582-44b0-be0d-583188e43781,human__raid:731ae711-8582-44b0-be0d-583188e43781,recipes,264,12,0.045454545454545456,0.6666666666666666,0.881917103688197,2.0
+Human test,human__raid:788e4594-960c-4621-8b5e-6f82b7552d7b,human__raid:788e4594-960c-4621-8b5e-6f82b7552d7b,recipes,329,0,0.0,0.0,0.0,0.0
+Human test,human__raid:7896a7b3-fe69-4bde-98a2-1e295f9550d2,human__raid:7896a7b3-fe69-4bde-98a2-1e295f9550d2,reddit,348,2,0.005747126436781609,0.08695652173913043,0.4078622399846461,2.0
+Human test,human__raid:79171045-dc71-449b-acd4-8265ffefa6ca,human__raid:79171045-dc71-449b-acd4-8265ffefa6ca,abstracts,262,1,0.003816793893129771,0.125,0.33071891388307384,1.0
+Human test,human__raid:7a2f76a2-30e0-4d30-b9bf-6bb7b6f82c1e,human__raid:7a2f76a2-30e0-4d30-b9bf-6bb7b6f82c1e,books,492,1,0.0020325203252032522,0.06666666666666667,0.24944382578492943,1.0
+Human test,human__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,human__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,books,253,0,0.0,0.0,0.0,0.0
+Human test,human__raid:7a5de8ac-c1d0-45c4-ae1f-cda8899b4b9c,human__raid:7a5de8ac-c1d0-45c4-ae1f-cda8899b4b9c,news,400,0,0.0,0.0,0.0,0.0
+Human test,human__raid:7adad01b-ff5c-4c95-be22-aa936adb7eed,human__raid:7adad01b-ff5c-4c95-be22-aa936adb7eed,news,452,0,0.0,0.0,0.0,0.0
+Human test,human__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,human__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,books,303,0,0.0,0.0,0.0,0.0
+Human test,human__raid:7bd2da2a-4f21-4b84-91a7-2cb37fd80071,human__raid:7bd2da2a-4f21-4b84-91a7-2cb37fd80071,reddit,190,0,0.0,0.0,0.0,0.0
+Human test,human__raid:7c9e5e4d-3046-440f-a9d0-3cc164eb3844,human__raid:7c9e5e4d-3046-440f-a9d0-3cc164eb3844,books,188,0,0.0,0.0,0.0,0.0
+Human test,human__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,human__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,wiki,234,0,0.0,0.0,0.0,0.0
+Human test,human__raid:8598c9e2-8e28-46b2-a6da-a22b767aae49,human__raid:8598c9e2-8e28-46b2-a6da-a22b767aae49,news,224,0,0.0,0.0,0.0,0.0
+Human test,human__raid:8760103e-729a-4bab-b799-5775ac2468b1,human__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki,169,0,0.0,0.0,0.0,0.0
+Human test,human__raid:892580ca-0b4d-4920-8137-d3285fdd878b,human__raid:892580ca-0b4d-4920-8137-d3285fdd878b,wiki,231,0,0.0,0.0,0.0,0.0
+Human test,human__raid:89ad70e0-cac0-4bfa-a0a4-f5ae74aa18cc,human__raid:89ad70e0-cac0-4bfa-a0a4-f5ae74aa18cc,news,517,0,0.0,0.0,0.0,0.0
+Human test,human__raid:8b0085fa-411d-4fc1-bbc1-d0d97bca2ebb,human__raid:8b0085fa-411d-4fc1-bbc1-d0d97bca2ebb,news,399,0,0.0,0.0,0.0,0.0
+Human test,human__raid:8b24d3c9-051b-4d8d-b88b-ddac08f4e80f,human__raid:8b24d3c9-051b-4d8d-b88b-ddac08f4e80f,reviews,261,1,0.0038314176245210726,0.09090909090909091,0.28747978728803447,1.0
+Human test,human__raid:90cd9493-2714-47d7-b052-f3c621294322,human__raid:90cd9493-2714-47d7-b052-f3c621294322,news,384,2,0.005208333333333333,0.14285714285714285,0.5150787536377127,2.0
+Human test,human__raid:91bb1e48-f280-46f3-9fd3-b7c7d9cb7e1a,human__raid:91bb1e48-f280-46f3-9fd3-b7c7d9cb7e1a,news,421,0,0.0,0.0,0.0,0.0
+Human test,human__raid:960a2cba-576a-4097-bee5-60042988d6ba,human__raid:960a2cba-576a-4097-bee5-60042988d6ba,reddit,310,0,0.0,0.0,0.0,0.0
+Human test,human__raid:966ff429-7e5b-409c-b301-181197592544,human__raid:966ff429-7e5b-409c-b301-181197592544,recipes,301,0,0.0,0.0,0.0,0.0
+Human test,human__raid:971d96f8-bc01-4ccc-be38-ec05af40151c,human__raid:971d96f8-bc01-4ccc-be38-ec05af40151c,abstracts,185,0,0.0,0.0,0.0,0.0
+Human test,human__raid:989ab1d1-5a4d-4e9d-b767-ca3023f3f207,human__raid:989ab1d1-5a4d-4e9d-b767-ca3023f3f207,recipes,266,0,0.0,0.0,0.0,0.0
+Human test,human__raid:9b304701-be3e-43a7-9b8c-ad33ca18bfcd,human__raid:9b304701-be3e-43a7-9b8c-ad33ca18bfcd,news,449,0,0.0,0.0,0.0,0.0
+Human test,human__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,human__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,wiki,246,0,0.0,0.0,0.0,0.0
+Human test,human__raid:9c52d90c-846a-4479-8484-bd21e658f787,human__raid:9c52d90c-846a-4479-8484-bd21e658f787,reddit,190,0,0.0,0.0,0.0,0.0
+Human test,human__raid:9c57c4d7-75d9-48d2-a758-75ccb88aa272,human__raid:9c57c4d7-75d9-48d2-a758-75ccb88aa272,wiki,267,0,0.0,0.0,0.0,0.0
+Human test,human__raid:9de11be0-bc27-4b41-8844-1f4d91abac60,human__raid:9de11be0-bc27-4b41-8844-1f4d91abac60,recipes,282,0,0.0,0.0,0.0,0.0
+Human test,human__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,human__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,wiki,218,0,0.0,0.0,0.0,0.0
+Human test,human__raid:a2b8f3d1-1bc0-4b62-8bc5-003e55b2f7b5,human__raid:a2b8f3d1-1bc0-4b62-8bc5-003e55b2f7b5,abstracts,208,1,0.004807692307692308,0.14285714285714285,0.3499271061118826,1.0
+Human test,human__raid:a37e28be-98b1-4e8b-a568-5ee3503de484,human__raid:a37e28be-98b1-4e8b-a568-5ee3503de484,abstracts,129,1,0.007751937984496124,0.2,0.4,1.0
+Human test,human__raid:a40984f5-f447-464b-8a6a-eaa8d6f76d12,human__raid:a40984f5-f447-464b-8a6a-eaa8d6f76d12,news,394,0,0.0,0.0,0.0,0.0
+Human test,human__raid:a4fd071e-41e7-48bc-a95c-829d6b86dff4,human__raid:a4fd071e-41e7-48bc-a95c-829d6b86dff4,news,155,0,0.0,0.0,0.0,0.0
+Human test,human__raid:a6e2d7dc-e158-4c10-8e84-d17b2a48ba5a,human__raid:a6e2d7dc-e158-4c10-8e84-d17b2a48ba5a,news,237,0,0.0,0.0,0.0,0.0
+Human test,human__raid:a77e8e92-8af5-4e1d-ab67-65bf52a8d5d7,human__raid:a77e8e92-8af5-4e1d-ab67-65bf52a8d5d7,recipes,366,1,0.00273224043715847,0.045454545454545456,0.2082988952252655,1.0
+Human test,human__raid:aa295f63-383e-4a23-9c41-1108391ff777,human__raid:aa295f63-383e-4a23-9c41-1108391ff777,books,190,0,0.0,0.0,0.0,0.0
+Human test,human__raid:adcce3e8-16bb-4c93-8884-4af827f6dc61,human__raid:adcce3e8-16bb-4c93-8884-4af827f6dc61,books,304,0,0.0,0.0,0.0,0.0
+Human test,human__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,human__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,wiki,300,1,0.0033333333333333335,0.1,0.30000000000000004,1.0
+Human test,human__raid:af383c6d-11c9-4169-a2fa-58280f83ca96,human__raid:af383c6d-11c9-4169-a2fa-58280f83ca96,abstracts,176,0,0.0,0.0,0.0,0.0
+Human test,human__raid:b0d2e4eb-3c43-49ce-bfe1-9a6eafef8b02,human__raid:b0d2e4eb-3c43-49ce-bfe1-9a6eafef8b02,news,383,0,0.0,0.0,0.0,0.0
+Human test,human__raid:b146a6b9-b531-4709-ac99-6a3852b3c619,human__raid:b146a6b9-b531-4709-ac99-6a3852b3c619,abstracts,147,0,0.0,0.0,0.0,0.0
+Human test,human__raid:b33bfbfe-9837-4588-903a-4bdd3f2470f7,human__raid:b33bfbfe-9837-4588-903a-4bdd3f2470f7,recipes,265,0,0.0,0.0,0.0,0.0
+Human test,human__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,human__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,news,463,0,0.0,0.0,0.0,0.0
+Human test,human__raid:b4c2bfc5-c80d-44c2-8a8e-9bbcc458ac00,human__raid:b4c2bfc5-c80d-44c2-8a8e-9bbcc458ac00,wiki,233,15,0.06437768240343347,1.5,1.6881943016134133,5.0
+Human test,human__raid:b6bf4100-050e-4389-a49c-35b5fc02dd9e,human__raid:b6bf4100-050e-4389-a49c-35b5fc02dd9e,recipes,335,0,0.0,0.0,0.0,0.0
+Human test,human__raid:bb27d6eb-f06d-424b-bbbc-630d720a44eb,human__raid:bb27d6eb-f06d-424b-bbbc-630d720a44eb,recipes,336,0,0.0,0.0,0.0,0.0
+Human test,human__raid:bf053559-120d-4ac8-8cd3-c0eda1df5861,human__raid:bf053559-120d-4ac8-8cd3-c0eda1df5861,wiki,206,0,0.0,0.0,0.0,0.0
+Human test,human__raid:bf3df034-9724-4840-86cb-33eb1489b717,human__raid:bf3df034-9724-4840-86cb-33eb1489b717,reddit,171,0,0.0,0.0,0.0,0.0
+Human test,human__raid:c0009c67-d594-4da3-af81-a06984e70ab5,human__raid:c0009c67-d594-4da3-af81-a06984e70ab5,abstracts,340,3,0.008823529411764706,0.2727272727272727,0.4453617714151233,1.0
+Human test,human__raid:c0d15e54-b490-428c-a5c0-540099ae4eeb,human__raid:c0d15e54-b490-428c-a5c0-540099ae4eeb,wiki,185,0,0.0,0.0,0.0,0.0
+Human test,human__raid:c2384d62-5400-4651-8cdb-b83c4a8bdf43,human__raid:c2384d62-5400-4651-8cdb-b83c4a8bdf43,recipes,284,0,0.0,0.0,0.0,0.0
+Human test,human__raid:c435eb9e-f80e-4ac6-9526-e1282c5c1266,human__raid:c435eb9e-f80e-4ac6-9526-e1282c5c1266,reddit,288,2,0.006944444444444444,0.15384615384615385,0.36080121229410994,1.0
+Human test,human__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,human__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,abstracts,128,0,0.0,0.0,0.0,0.0
+Human test,human__raid:c9d4b9c3-20c6-4527-8838-6cbc2263bb00,human__raid:c9d4b9c3-20c6-4527-8838-6cbc2263bb00,wiki,220,0,0.0,0.0,0.0,0.0
+Human test,human__raid:cbccc75e-54f7-4132-8b9e-5617b55caff3,human__raid:cbccc75e-54f7-4132-8b9e-5617b55caff3,abstracts,247,0,0.0,0.0,0.0,0.0
+Human test,human__raid:cf67eb69-444d-4e5f-a88b-da82d19f89a9,human__raid:cf67eb69-444d-4e5f-a88b-da82d19f89a9,wiki,301,0,0.0,0.0,0.0,0.0
+Human test,human__raid:cfb5728e-c896-4ed5-8173-f39be5ff5f97,human__raid:cfb5728e-c896-4ed5-8173-f39be5ff5f97,abstracts,258,0,0.0,0.0,0.0,0.0
+Human test,human__raid:d80f6ba2-1916-4c19-b74c-8e9f77b7a066,human__raid:d80f6ba2-1916-4c19-b74c-8e9f77b7a066,news,475,0,0.0,0.0,0.0,0.0
+Human test,human__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,human__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,recipes,327,0,0.0,0.0,0.0,0.0
+Human test,human__raid:dc315335-0314-49c5-96b1-3211dc072983,human__raid:dc315335-0314-49c5-96b1-3211dc072983,reddit,175,0,0.0,0.0,0.0,0.0
+Human test,human__raid:dc5c62f4-87cf-409b-9aea-dbb023230f7c,human__raid:dc5c62f4-87cf-409b-9aea-dbb023230f7c,news,377,0,0.0,0.0,0.0,0.0
+Human test,human__raid:de2cbdee-92fd-4c6e-aea1-2c1baa24eb70,human__raid:de2cbdee-92fd-4c6e-aea1-2c1baa24eb70,abstracts,216,0,0.0,0.0,0.0,0.0
+Human test,human__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,human__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,books,274,0,0.0,0.0,0.0,0.0
+Human test,human__raid:e3945a96-7048-41d9-9e86-a84e87818986,human__raid:e3945a96-7048-41d9-9e86-a84e87818986,abstracts,191,0,0.0,0.0,0.0,0.0
+Human test,human__raid:e9f78f95-8a2d-4a0a-a47a-044c9c6c5c22,human__raid:e9f78f95-8a2d-4a0a-a47a-044c9c6c5c22,reddit,179,0,0.0,0.0,0.0,0.0
+Human test,human__raid:ead211a3-a649-4022-be2d-63fb8536f78d,human__raid:ead211a3-a649-4022-be2d-63fb8536f78d,reviews,264,0,0.0,0.0,0.0,0.0
+Human test,human__raid:eb76307e-f969-4523-9943-52da0e3f78a8,human__raid:eb76307e-f969-4523-9943-52da0e3f78a8,reviews,438,0,0.0,0.0,0.0,0.0
+Human test,human__raid:eb80caa7-c8a1-42d5-85f0-d0563e707eb6,human__raid:eb80caa7-c8a1-42d5-85f0-d0563e707eb6,reviews,523,0,0.0,0.0,0.0,0.0
+Human test,human__raid:efc8537a-8575-4af0-aae5-a06bc4bccc04,human__raid:efc8537a-8575-4af0-aae5-a06bc4bccc04,books,269,0,0.0,0.0,0.0,0.0
+Human test,human__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,human__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,news,277,0,0.0,0.0,0.0,0.0
+Human test,human__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,human__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,wiki,224,0,0.0,0.0,0.0,0.0
+Human test,human__raid:f5f280b6-e8c1-4f10-9d16-0e6297e8c730,human__raid:f5f280b6-e8c1-4f10-9d16-0e6297e8c730,recipes,316,0,0.0,0.0,0.0,0.0
+Human test,human__raid:f806b684-fa7f-41c5-a4a6-8692be841cea,human__raid:f806b684-fa7f-41c5-a4a6-8692be841cea,abstracts,221,0,0.0,0.0,0.0,0.0
+Human test,human__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,human__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,recipes,291,0,0.0,0.0,0.0,0.0
+Human test,human__raid:fae6fce3-fb87-469f-a655-e52447a8cd39,human__raid:fae6fce3-fb87-469f-a655-e52447a8cd39,wiki,257,0,0.0,0.0,0.0,0.0
+Human test,human__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,human__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,news,295,0,0.0,0.0,0.0,0.0
+Human test,human__raid:fcd2c78e-c388-46be-9a2d-7a9cb77381ea,human__raid:fcd2c78e-c388-46be-9a2d-7a9cb77381ea,recipes,362,0,0.0,0.0,0.0,0.0
+Human test,human__raid:fd5a753d-9d93-4b93-84a0-d0a65e45cdda,human__raid:fd5a753d-9d93-4b93-84a0-d0a65e45cdda,reviews,477,0,0.0,0.0,0.0,0.0
+Human test,human__raid:fe252deb-2d6b-4ed6-bac4-315e1dc40e94,human__raid:fe252deb-2d6b-4ed6-bac4-315e1dc40e94,books,377,0,0.0,0.0,0.0,0.0
+Human test,human__raid:fe4f15ee-af83-41e8-9772-b00be067b996,human__raid:fe4f15ee-af83-41e8-9772-b00be067b996,recipes,349,0,0.0,0.0,0.0,0.0

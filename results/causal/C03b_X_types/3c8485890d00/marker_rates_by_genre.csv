@@ -1,0 +1,106 @@
+group,domain,marker_type,documents,document_prevalence,mean_per_1000_tokens
+Fixed AI,abstracts,greater_than,10,0.0,0.0
+Fixed AI,abstracts,hyphen,10,1.0,22.584971171137347
+Fixed AI,abstracts,en_dash,10,0.1,0.6410256410256411
+Fixed AI,abstracts,em_dash,10,0.0,0.0
+Fixed AI,abstracts,bullet,10,0.0,0.0
+Fixed AI,books,greater_than,7,0.14285714285714285,0.8071025020177564
+Fixed AI,books,hyphen,7,0.5714285714285714,2.601031964015604
+Fixed AI,books,en_dash,7,0.0,0.0
+Fixed AI,books,em_dash,7,0.0,0.0
+Fixed AI,books,bullet,7,0.0,0.0
+Fixed AI,news,greater_than,12,0.0,0.0
+Fixed AI,news,hyphen,12,1.0,8.114412419067767
+Fixed AI,news,en_dash,12,0.08333333333333333,0.49603174603174605
+Fixed AI,news,em_dash,12,0.0,0.0
+Fixed AI,news,bullet,12,0.0,0.0
+Fixed AI,recipes,greater_than,9,0.1111111111111111,4.329004329004329
+Fixed AI,recipes,hyphen,9,1.0,8.414400218880566
+Fixed AI,recipes,en_dash,9,0.0,0.0
+Fixed AI,recipes,em_dash,9,0.0,0.0
+Fixed AI,recipes,bullet,9,0.0,0.0
+Fixed AI,reddit,greater_than,6,0.0,0.0
+Fixed AI,reddit,hyphen,6,0.16666666666666666,0.5847953216374269
+Fixed AI,reddit,en_dash,6,0.0,0.0
+Fixed AI,reddit,em_dash,6,0.0,0.0
+Fixed AI,reddit,bullet,6,0.0,0.0
+Fixed AI,reviews,greater_than,1,0.0,0.0
+Fixed AI,reviews,hyphen,1,1.0,5.649717514124294
+Fixed AI,reviews,en_dash,1,0.0,0.0
+Fixed AI,reviews,em_dash,1,0.0,0.0
+Fixed AI,reviews,bullet,1,0.0,0.0
+Fixed AI,wiki,greater_than,9,0.0,0.0
+Fixed AI,wiki,hyphen,9,0.7777777777777778,6.215790521790283
+Fixed AI,wiki,en_dash,9,0.0,0.0
+Fixed AI,wiki,em_dash,9,0.0,0.0
+Fixed AI,wiki,bullet,9,0.0,0.0
+Human test,abstracts,greater_than,23,0.0,0.0
+Human test,abstracts,hyphen,23,0.8695652173913043,29.4983350524343
+Human test,abstracts,en_dash,23,0.0,0.0
+Human test,abstracts,em_dash,23,0.0,0.0
+Human test,abstracts,bullet,23,0.0,0.0
+Human test,books,greater_than,18,0.0,0.0
+Human test,books,hyphen,18,0.7222222222222222,7.289984120526018
+Human test,books,en_dash,18,0.05555555555555555,0.18274853801169588
+Human test,books,em_dash,18,0.16666666666666666,0.9961145503966523
+Human test,books,bullet,18,0.0,0.0
+Human test,news,greater_than,25,0.0,0.0
+Human test,news,hyphen,25,0.92,11.714128715342845
+Human test,news,en_dash,25,0.0,0.0
+Human test,news,em_dash,25,0.0,0.0
+Human test,news,bullet,25,0.0,0.0
+Human test,recipes,greater_than,21,0.0,0.0
+Human test,recipes,hyphen,21,0.9523809523809523,9.478209017225131
+Human test,recipes,en_dash,21,0.0,0.0
+Human test,recipes,em_dash,21,0.0,0.0
+Human test,recipes,bullet,21,0.0,0.0
+Human test,reddit,greater_than,16,0.0,0.0
+Human test,reddit,hyphen,16,0.375,2.721906780346753
+Human test,reddit,en_dash,16,0.0,0.0
+Human test,reddit,em_dash,16,0.0625,0.2170138888888889
+Human test,reddit,bullet,16,0.0,0.0
+Human test,reviews,greater_than,6,0.5,8.538711591889358
+Human test,reviews,hyphen,6,0.8333333333333334,10.201036988886552
+Human test,reviews,en_dash,6,0.16666666666666666,1.1415525114155252
+Human test,reviews,em_dash,6,0.0,0.0
+Human test,reviews,bullet,6,0.0,0.0
+Human test,wiki,greater_than,19,0.0,0.0
+Human test,wiki,hyphen,19,0.7368421052631579,9.528774684271118
+Human test,wiki,en_dash,19,0.3157894736842105,3.1642032769798303
+Human test,wiki,em_dash,19,0.05263157894736842,0.24142926122646066
+Human test,wiki,bullet,19,0.0,0.0
+Original AI source,abstracts,greater_than,10,0.0,0.0
+Original AI source,abstracts,hyphen,10,0.9,30.566755480187464
+Original AI source,abstracts,en_dash,10,0.1,0.6451612903225806
+Original AI source,abstracts,em_dash,10,0.0,0.0
+Original AI source,abstracts,bullet,10,0.0,0.0
+Original AI source,books,greater_than,7,0.14285714285714285,0.8305647840531561
+Original AI source,books,hyphen,7,0.7142857142857143,3.686223475408024
+Original AI source,books,en_dash,7,0.0,0.0
+Original AI source,books,em_dash,7,0.0,0.0
+Original AI source,books,bullet,7,0.0,0.0
+Original AI source,news,greater_than,12,0.0,0.0
+Original AI source,news,hyphen,12,0.9166666666666666,6.276815952051028
+Original AI source,news,en_dash,12,0.08333333333333333,0.4329004329004329
+Original AI source,news,em_dash,12,0.0,0.0
+Original AI source,news,bullet,12,0.0,0.0
+Original AI source,recipes,greater_than,9,0.1111111111111111,4.5662100456621
+Original AI source,recipes,hyphen,9,1.0,25.82816222502163
+Original AI source,recipes,en_dash,9,0.0,0.0
+Original AI source,recipes,em_dash,9,0.0,0.0
+Original AI source,recipes,bullet,9,0.0,0.0
+Original AI source,reddit,greater_than,6,0.0,0.0
+Original AI source,reddit,hyphen,6,0.6666666666666666,5.087471934025238
+Original AI source,reddit,en_dash,6,0.0,0.0
+Original AI source,reddit,em_dash,6,0.0,0.0
+Original AI source,reddit,bullet,6,0.0,0.0
+Original AI source,reviews,greater_than,1,0.0,0.0
+Original AI source,reviews,hyphen,1,1.0,5.449591280653951
+Original AI source,reviews,en_dash,1,0.0,0.0
+Original AI source,reviews,em_dash,1,0.0,0.0
+Original AI source,reviews,bullet,1,0.0,0.0
+Original AI source,wiki,greater_than,9,0.1111111111111111,0.6988120195667366
+Original AI source,wiki,hyphen,9,0.6666666666666666,6.803811483039784
+Original AI source,wiki,en_dash,9,0.0,0.0
+Original AI source,wiki,em_dash,9,0.0,0.0
+Original AI source,wiki,bullet,9,0.0,0.0

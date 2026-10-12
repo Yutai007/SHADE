@@ -1,0 +1,7 @@
+case_id,source_id,domain,prompt
+gate_0001,ai__raid:af383c6d-11c9-4169-a2fa-58280f83ca96,abstracts,"Write the abstract for the academic paper titled ""Inverse Power Flow Problem""."
+gate_0023,ai__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,books,"Write the body of a plot summary for a novel titled ""The Lost City"". Do not give it a title."
+gate_0030,ai__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,news,"Write the body of a BBC news article titled ""SA return to Mauritius"". Do not repeat the title."
+gate_0049,ai__raid:a77e8e92-8af5-4e1d-ab67-65bf52a8d5d7,recipes,"Write a recipe for ""Asparagus With Prosciutto Di Parma, Pecorino Pepato, And Poached Eggs ""."
+gate_0026,ai__raid:603b6d03-c745-4378-a2db-5b0705bddd34,reddit,"Write just the body of a Reddit post titled ""DAISAN NO BAKUDAN BITES ZA DUST"". Do not repeat the title."
+gate_0086,ai__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,wiki,"Write the body of a Wikipedia article titled ""Avi Gabbay""."

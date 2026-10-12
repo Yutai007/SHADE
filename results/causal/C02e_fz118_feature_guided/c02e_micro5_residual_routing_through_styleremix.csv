@@ -1,0 +1,6 @@
+source_id,metric_rank,metric,feature_block,outside_severity,recommended_next_method
+chatgpt_00343,1,n_characters,basic_absolute,0.1266735324407827,styleremix
+chatgpt_01706,1,n_characters,basic_absolute,0.3903192584963955,styleremix
+chatgpt_02293,1,n_characters,basic_absolute,0.12873326467559218,styleremix
+chatgpt_04162,1,n_characters,basic_absolute,0.015447991761071062,styleremix
+chatgpt_04245,20,punct_relative_comma,punctuation_relative,0.6167925553203555,punctuation

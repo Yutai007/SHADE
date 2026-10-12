@@ -1,0 +1,11 @@
+case_id,branch,seed,stop_reason,rewinds,sample_attempts,final_output_tokens,final_words,ever_rewound_before_original_anchor,manual_sanity,manual_first_slip,manual_notes
+gate_0070,0,8176611651966259916,eos,0,42,306,258,False,,,
+gate_0070,1,722517118019175751,eos,2,151,351,295,False,,,
+gate_0070,2,5203780828484837544,eos,8,408,416,345,False,,,
+gate_0070,3,6498828529397848261,eos,1,99,331,278,True,,,
+gate_0070,4,1716007072162254828,eos,0,42,306,256,False,,,
+gate_0070,5,2249151216007744938,eos,4,187,323,267,False,,,
+gate_0070,6,5179737697741647980,eos,9,374,350,293,False,,,
+gate_0070,7,8462983173842268860,eos,0,166,430,361,False,,,
+gate_0070,8,7925442771783366340,eos,1,106,338,278,False,,,
+gate_0070,9,2591884333686800860,eos,4,279,415,340,True,,,

@@ -1,0 +1,6 @@
+source_id,metric_rank,metric,feature_block,ai_score_contribution_gap,recommended_next_method
+chatgpt_00343,1,n_characters,basic_absolute,0.10997589471088319,styleremix
+chatgpt_01706,1,n_characters,basic_absolute,0.1037165589877981,styleremix
+chatgpt_02293,1,n_characters,basic_absolute,0.11459613403054733,styleremix
+chatgpt_04162,1,n_characters,basic_absolute,0.10688216018585309,styleremix
+chatgpt_04245,1,n_characters,basic_absolute,0.11012203237201859,styleremix

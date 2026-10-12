@@ -1,0 +1,11 @@
+case_id,cap,cut_loss_index,matched_last_target,post_cut_positions,included
+gate_0090,1024,46,215,169,True
+gate_0070,1024,54,266,212,True
+gate_0017,1024,79,365,286,True
+gate_0085,1024,60,298,238,True
+gate_0038,1024,29,141,112,True
+gate_0039,1024,42,197,155,True
+gate_0069,1024,26,128,102,True
+gate_0035,1024,53,264,211,True
+gate_0003,1024,86,361,275,True
+gate_0025,1024,69,340,271,True

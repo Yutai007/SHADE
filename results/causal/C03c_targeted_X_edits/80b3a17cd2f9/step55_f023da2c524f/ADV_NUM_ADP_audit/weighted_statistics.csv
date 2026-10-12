@@ -1,0 +1,25 @@
+group,tag,statistic,weighted_mean
+Fixed AI,ADP,sentence_max,4.685185185185185
+Fixed AI,ADP,sentence_mean,2.3108464839637533
+Fixed AI,ADP,sentence_std,1.2943584807556827
+Fixed AI,ADP,token_share,0.1013230133316376
+Fixed AI,ADV,sentence_max,1.9259259259259258
+Fixed AI,ADV,sentence_mean,0.576444311317967
+Fixed AI,ADV,sentence_std,0.6661922539012757
+Fixed AI,ADV,token_share,0.026415247457162054
+Fixed AI,NUM,sentence_max,3.1666666666666665
+Fixed AI,NUM,sentence_mean,0.5157454665483449
+Fixed AI,NUM,sentence_std,0.8992514481917662
+Fixed AI,NUM,token_share,0.024510943966756384
+Human,ADP,sentence_max,6.188318952238353
+Human,ADP,sentence_mean,2.634033349635769
+Human,ADP,sentence_std,1.6944175228273095
+Human,ADP,token_share,0.1076055534058884
+Human,ADV,sentence_max,2.800128827839863
+Human,ADV,sentence_mean,0.8145712031292254
+Human,ADV,sentence_std,0.9040171073276895
+Human,ADV,token_share,0.03469177446514586
+Human,NUM,sentence_max,4.0970318206950544
+Human,NUM,sentence_mean,0.652283398344842
+Human,NUM,sentence_std,1.1290745357702776
+Human,NUM,token_share,0.02919244527302731

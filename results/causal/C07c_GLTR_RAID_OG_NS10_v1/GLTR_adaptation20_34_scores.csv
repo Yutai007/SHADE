@@ -1,0 +1,393 @@
+detector,arm,case_id,AI_log_odds
+Frozen / RAID-only,OG,gate_0001,-0.6796567497560561
+Frozen / RAID-only,OG,gate_0005,0.9227155837234502
+Frozen / RAID-only,OG,gate_0007,1.6049684139636597
+Frozen / RAID-only,OG,gate_0015,0.7702334110119862
+Frozen / RAID-only,OG,gate_0017,1.0220198041228414
+Frozen / RAID-only,OG,gate_0018,-0.4324350136515514
+Frozen / RAID-only,OG,gate_0020,0.7173585800311058
+Frozen / RAID-only,OG,gate_0021,1.7491244474793894
+Frozen / RAID-only,OG,gate_0022,-1.4847228054814101
+Frozen / RAID-only,OG,gate_0025,1.2662057447524482
+Frozen / RAID-only,OG,gate_0027,1.5119650995241376
+Frozen / RAID-only,OG,gate_0028,-3.8660620545278768
+Frozen / RAID-only,OG,gate_0035,0.8313550946716868
+Frozen / RAID-only,OG,gate_0037,2.165242425097223
+Frozen / RAID-only,OG,gate_0038,1.724860825391367
+Frozen / RAID-only,OG,gate_0046,-0.06783110443243866
+Frozen / RAID-only,OG,gate_0047,-0.8454896954741238
+Frozen / RAID-only,OG,gate_0048,1.0876103904141423
+Frozen / RAID-only,OG,gate_0049,1.2713796312709167
+Frozen / RAID-only,OG,gate_0050,0.671863914720834
+Frozen / RAID-only,OG,gate_0051,1.000482671038135
+Frozen / RAID-only,OG,gate_0054,1.0223107710229093
+Frozen / RAID-only,OG,gate_0062,-2.316630822528672
+Frozen / RAID-only,OG,gate_0065,1.3924138599009062
+Frozen / RAID-only,OG,gate_0070,1.0229642235425245
+Frozen / RAID-only,OG,gate_0073,0.7903807408473478
+Frozen / RAID-only,OG,gate_0075,1.4401879773496127
+Frozen / RAID-only,OG,gate_0078,1.16861520393569
+Frozen / RAID-only,OG,gate_0082,0.8384497116939227
+Frozen / RAID-only,OG,gate_0088,0.8530065241401541
+Frozen / RAID-only,OG,gate_0089,2.6734683246391246
+Frozen / RAID-only,OG,gate_0090,-1.3417272816098793
+Frozen / RAID-only,OG,gate_0092,-0.01962235097022813
+Frozen / RAID-only,OG,gate_0094,1.3019410481993623
+Frozen / RAID-only,NS10,gate_0001,-1.346936090161963
+Frozen / RAID-only,NS10,gate_0005,-0.31406976786823887
+Frozen / RAID-only,NS10,gate_0007,0.9182802114417798
+Frozen / RAID-only,NS10,gate_0015,-1.9112858165684266
+Frozen / RAID-only,NS10,gate_0017,0.14130662761435736
+Frozen / RAID-only,NS10,gate_0018,-0.5538642499271312
+Frozen / RAID-only,NS10,gate_0020,-0.6566134328279358
+Frozen / RAID-only,NS10,gate_0021,-0.7653137740902232
+Frozen / RAID-only,NS10,gate_0022,-2.982709920227397
+Frozen / RAID-only,NS10,gate_0025,-0.46907362493224575
+Frozen / RAID-only,NS10,gate_0027,-1.8750131024164394
+Frozen / RAID-only,NS10,gate_0028,-2.339026070895215
+Frozen / RAID-only,NS10,gate_0035,-0.9345058914344595
+Frozen / RAID-only,NS10,gate_0037,0.3634300325303806
+Frozen / RAID-only,NS10,gate_0038,0.39896380962859057
+Frozen / RAID-only,NS10,gate_0046,-1.7533806331585762
+Frozen / RAID-only,NS10,gate_0047,-0.7331076653014614
+Frozen / RAID-only,NS10,gate_0048,0.09916756472978787
+Frozen / RAID-only,NS10,gate_0049,-0.8172696640944483
+Frozen / RAID-only,NS10,gate_0050,-1.401916556815652
+Frozen / RAID-only,NS10,gate_0051,-0.0888665241491505
+Frozen / RAID-only,NS10,gate_0054,-0.3729176860964329
+Frozen / RAID-only,NS10,gate_0062,-1.1232602614234595
+Frozen / RAID-only,NS10,gate_0065,-1.2193654968470151
+Frozen / RAID-only,NS10,gate_0070,-3.500812284870741
+Frozen / RAID-only,NS10,gate_0073,1.1328441936388307
+Frozen / RAID-only,NS10,gate_0075,0.8250531970373276
+Frozen / RAID-only,NS10,gate_0078,-0.3463021211653404
+Frozen / RAID-only,NS10,gate_0082,0.6954489564223578
+Frozen / RAID-only,NS10,gate_0088,-1.504409663628821
+Frozen / RAID-only,NS10,gate_0089,-0.5342056615934797
+Frozen / RAID-only,NS10,gate_0090,-1.6026805827088324
+Frozen / RAID-only,NS10,gate_0092,-1.998256201384693
+Frozen / RAID-only,NS10,gate_0094,-0.1767415462002075
+Frozen / RAID-only,Human,human__raid:0216216b-fd4f-403b-87f3-b1c52f29a3f1,-0.45401222222391974
+Frozen / RAID-only,Human,human__raid:070db71f-3f44-4ebf-b9dc-cf780644667c,-0.338377977738577
+Frozen / RAID-only,Human,human__raid:092aa2bc-f8b6-4a7b-8bac-40b62e0dbb25,-0.5655274554589198
+Frozen / RAID-only,Human,human__raid:0932165c-37b5-4c07-a15d-ded908d7dc32,-1.7855228277585329
+Frozen / RAID-only,Human,human__raid:0a9dc4af-7338-49c0-b3d9-3a1a3cf1606f,-2.18106228368443
+Frozen / RAID-only,Human,human__raid:119d954e-9a2c-4ad6-bd1b-b03ed29034f0,-1.5193679166766867
+Frozen / RAID-only,Human,human__raid:140bcdd4-cb85-49b7-ad40-483a21380193,0.39613532163994997
+Frozen / RAID-only,Human,human__raid:167102f2-a17b-4860-9984-67709aab5d53,0.42623448602397646
+Frozen / RAID-only,Human,human__raid:1780eb3e-7c44-4355-a331-e175e5c8c198,-2.1792751562563093
+Frozen / RAID-only,Human,human__raid:1d8ef537-eff4-4324-ae39-02b5caecb61c,0.07561953473852055
+Frozen / RAID-only,Human,human__raid:1de9f910-c6a9-4bf8-8a2d-1f9c07390417,-1.217783970575754
+Frozen / RAID-only,Human,human__raid:25689644-8159-4de0-8167-2efea735f75b,-2.120483823374118
+Frozen / RAID-only,Human,human__raid:26d2f09e-1b32-4e0b-acc6-fbca10b7051a,-2.943586522426951
+Frozen / RAID-only,Human,human__raid:2737d3fd-1ed6-40ae-acb9-d1af0baf5b7c,-1.056805021259035
+Frozen / RAID-only,Human,human__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,-0.44655533593834357
+Frozen / RAID-only,Human,human__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,0.24832850971229514
+Frozen / RAID-only,Human,human__raid:2b6630cd-9256-497f-83b2-366131834f3a,-1.06433761025336
+Frozen / RAID-only,Human,human__raid:2f47f011-2a2a-47fb-8380-81bbfd3aea9f,-0.5700976938220943
+Frozen / RAID-only,Human,human__raid:2faf4463-e954-4388-a603-ae85c31b8c00,-1.2194168025111864
+Frozen / RAID-only,Human,human__raid:31c9da8a-8533-4763-b0ce-b1e54082b6f8,-1.9513697794161022
+Frozen / RAID-only,Human,human__raid:34071d29-fbbf-4230-9ee4-55f1c54b2b5e,-1.661520471234083
+Frozen / RAID-only,Human,human__raid:347fcffd-ce79-4b6f-9e45-cb1cf0ba60a9,-0.6349959707279738
+Frozen / RAID-only,Human,human__raid:37897e56-78e7-4aaa-a974-a9ec4f8facb3,-0.38576009003778033
+Frozen / RAID-only,Human,human__raid:39839ad8-9b55-46f1-bfa9-16cd1c961cce,-0.6070055188443597
+Frozen / RAID-only,Human,human__raid:3a75780e-80cf-4695-b297-bb5c7edd5de3,-1.248848490343074
+Frozen / RAID-only,Human,human__raid:3bc610dd-010e-480c-8af3-1c5da8728644,-2.038466088543038
+Frozen / RAID-only,Human,human__raid:3c44b645-d716-4865-b596-7c4e6f24fe06,-0.9660583290855872
+Frozen / RAID-only,Human,human__raid:3e7fb3a2-3d32-43b1-ba60-c4689d38caee,0.431487122491726
+Frozen / RAID-only,Human,human__raid:3f88fbdd-9dde-4766-a8db-05b0f2e0957e,0.5436062952293012
+Frozen / RAID-only,Human,human__raid:401abcef-a6a6-41c9-bb25-766e6609d835,-1.6492625038623994
+Frozen / RAID-only,Human,human__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,-2.9918143754497044
+Frozen / RAID-only,Human,human__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,-0.3540690021279489
+Frozen / RAID-only,Human,human__raid:4c4676d5-c143-448c-b058-9c360b04d900,-2.607901587929854
+Frozen / RAID-only,Human,human__raid:4e41049d-f855-47f9-8e31-1e1a8aebd832,0.24041497659238442
+Frozen / RAID-only,Human,human__raid:4e8d2b69-fd42-4cc4-8f94-e52400e1e1b6,-1.3165614793867515
+Frozen / RAID-only,Human,human__raid:50d75674-15c7-4c9a-a9d4-9589bfd2c16d,0.42949279846667426
+Frozen / RAID-only,Human,human__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,-2.2461295923890345
+Frozen / RAID-only,Human,human__raid:5e96071b-cd3e-4461-9948-96d041e63767,0.3459841262745217
+Frozen / RAID-only,Human,human__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,0.414804159114918
+Frozen / RAID-only,Human,human__raid:603b6d03-c745-4378-a2db-5b0705bddd34,0.1970683264112308
+Frozen / RAID-only,Human,human__raid:63020fe1-645b-4dbb-988a-3bb080f2d56e,-0.6831057660525481
+Frozen / RAID-only,Human,human__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,0.06403103928771804
+Frozen / RAID-only,Human,human__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,0.9567583189957292
+Frozen / RAID-only,Human,human__raid:6cb1edfa-92ac-4618-9084-7d84a4193bc4,0.1599567910078582
+Frozen / RAID-only,Human,human__raid:6d37b523-501f-412e-a18b-645d8e3653a6,-0.8787565432654085
+Frozen / RAID-only,Human,human__raid:70764dd8-197a-415b-8c5f-2ebd022e0fd7,-1.1944343142874352
+Frozen / RAID-only,Human,human__raid:723a39e2-9540-4faa-b682-d608457dfde1,1.6924848152593273
+Frozen / RAID-only,Human,human__raid:731ae711-8582-44b0-be0d-583188e43781,0.618797280944078
+Frozen / RAID-only,Human,human__raid:788e4594-960c-4621-8b5e-6f82b7552d7b,1.5190287738544186
+Frozen / RAID-only,Human,human__raid:7896a7b3-fe69-4bde-98a2-1e295f9550d2,-0.969112780456898
+Frozen / RAID-only,Human,human__raid:79171045-dc71-449b-acd4-8265ffefa6ca,-1.0519324863053106
+Frozen / RAID-only,Human,human__raid:7a2f76a2-30e0-4d30-b9bf-6bb7b6f82c1e,-3.1170859658598693
+Frozen / RAID-only,Human,human__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,-2.127417754252183
+Frozen / RAID-only,Human,human__raid:7a5de8ac-c1d0-45c4-ae1f-cda8899b4b9c,-0.07693981542069504
+Frozen / RAID-only,Human,human__raid:7adad01b-ff5c-4c95-be22-aa936adb7eed,-0.77183404742516
+Frozen / RAID-only,Human,human__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,-0.4476614953268652
+Frozen / RAID-only,Human,human__raid:7bd2da2a-4f21-4b84-91a7-2cb37fd80071,-0.3253386110526896
+Frozen / RAID-only,Human,human__raid:7c9e5e4d-3046-440f-a9d0-3cc164eb3844,-1.3496561163157648
+Frozen / RAID-only,Human,human__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,0.2653541778066086
+Frozen / RAID-only,Human,human__raid:8598c9e2-8e28-46b2-a6da-a22b767aae49,-0.9343034230774426
+Frozen / RAID-only,Human,human__raid:8760103e-729a-4bab-b799-5775ac2468b1,-1.0812726180991206
+Frozen / RAID-only,Human,human__raid:892580ca-0b4d-4920-8137-d3285fdd878b,-0.40151689924147266
+Frozen / RAID-only,Human,human__raid:89ad70e0-cac0-4bfa-a0a4-f5ae74aa18cc,0.9344484189006399
+Frozen / RAID-only,Human,human__raid:8b0085fa-411d-4fc1-bbc1-d0d97bca2ebb,0.6308569780581068
+Frozen / RAID-only,Human,human__raid:8b24d3c9-051b-4d8d-b88b-ddac08f4e80f,-1.3296054795097991
+Frozen / RAID-only,Human,human__raid:90cd9493-2714-47d7-b052-f3c621294322,0.489437839063484
+Frozen / RAID-only,Human,human__raid:91bb1e48-f280-46f3-9fd3-b7c7d9cb7e1a,-0.1449539768945039
+Frozen / RAID-only,Human,human__raid:960a2cba-576a-4097-bee5-60042988d6ba,-2.1161629894408205
+Frozen / RAID-only,Human,human__raid:966ff429-7e5b-409c-b301-181197592544,0.2795787953566026
+Frozen / RAID-only,Human,human__raid:971d96f8-bc01-4ccc-be38-ec05af40151c,-1.64263830881233
+Frozen / RAID-only,Human,human__raid:989ab1d1-5a4d-4e9d-b767-ca3023f3f207,-1.725069502465897
+Frozen / RAID-only,Human,human__raid:9b304701-be3e-43a7-9b8c-ad33ca18bfcd,0.3347966208917349
+Frozen / RAID-only,Human,human__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,-0.5126654657536049
+Frozen / RAID-only,Human,human__raid:9c52d90c-846a-4479-8484-bd21e658f787,-0.8091981814794073
+Frozen / RAID-only,Human,human__raid:9c57c4d7-75d9-48d2-a758-75ccb88aa272,0.20217766102792084
+Frozen / RAID-only,Human,human__raid:9de11be0-bc27-4b41-8844-1f4d91abac60,0.18188019614991124
+Frozen / RAID-only,Human,human__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,-0.9892944481905843
+Frozen / RAID-only,Human,human__raid:a2b8f3d1-1bc0-4b62-8bc5-003e55b2f7b5,-2.2749357190274
+Frozen / RAID-only,Human,human__raid:a37e28be-98b1-4e8b-a568-5ee3503de484,-3.8960612427407635
+Frozen / RAID-only,Human,human__raid:a40984f5-f447-464b-8a6a-eaa8d6f76d12,0.16040026059478946
+Frozen / RAID-only,Human,human__raid:a4fd071e-41e7-48bc-a95c-829d6b86dff4,0.16292706565994375
+Frozen / RAID-only,Human,human__raid:a6e2d7dc-e158-4c10-8e84-d17b2a48ba5a,-0.21617619317365366
+Frozen / RAID-only,Human,human__raid:a77e8e92-8af5-4e1d-ab67-65bf52a8d5d7,0.34138459188048353
+Frozen / RAID-only,Human,human__raid:aa295f63-383e-4a23-9c41-1108391ff777,-1.4957394623747395
+Frozen / RAID-only,Human,human__raid:adcce3e8-16bb-4c93-8884-4af827f6dc61,-2.1236430602098895
+Frozen / RAID-only,Human,human__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,-0.821308879538161
+Frozen / RAID-only,Human,human__raid:af383c6d-11c9-4169-a2fa-58280f83ca96,-2.1376605761788583
+Frozen / RAID-only,Human,human__raid:b0d2e4eb-3c43-49ce-bfe1-9a6eafef8b02,-0.9905883606348278
+Frozen / RAID-only,Human,human__raid:b146a6b9-b531-4709-ac99-6a3852b3c619,-3.6366770501992813
+Frozen / RAID-only,Human,human__raid:b33bfbfe-9837-4588-903a-4bdd3f2470f7,1.3858342008319358
+Frozen / RAID-only,Human,human__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,0.8613760359449836
+Frozen / RAID-only,Human,human__raid:b4c2bfc5-c80d-44c2-8a8e-9bbcc458ac00,-1.2155630036573555
+Frozen / RAID-only,Human,human__raid:b6bf4100-050e-4389-a49c-35b5fc02dd9e,0.8928437741611204
+Frozen / RAID-only,Human,human__raid:bb27d6eb-f06d-424b-bbbc-630d720a44eb,0.21031961519267733
+Frozen / RAID-only,Human,human__raid:bf053559-120d-4ac8-8cd3-c0eda1df5861,-0.35275816704206986
+Frozen / RAID-only,Human,human__raid:bf3df034-9724-4840-86cb-33eb1489b717,0.3024566988625223
+Frozen / RAID-only,Human,human__raid:c0009c67-d594-4da3-af81-a06984e70ab5,-2.144951630344667
+Frozen / RAID-only,Human,human__raid:c0d15e54-b490-428c-a5c0-540099ae4eeb,-0.2658188600368877
+Frozen / RAID-only,Human,human__raid:c2384d62-5400-4651-8cdb-b83c4a8bdf43,0.2401708380381466
+Frozen / RAID-only,Human,human__raid:c435eb9e-f80e-4ac6-9526-e1282c5c1266,-2.082946370954379
+Frozen / RAID-only,Human,human__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,-3.6146190376901033
+Frozen / RAID-only,Human,human__raid:c9d4b9c3-20c6-4527-8838-6cbc2263bb00,-1.4392889386670407
+Frozen / RAID-only,Human,human__raid:cbccc75e-54f7-4132-8b9e-5617b55caff3,-2.3725884766925893
+Frozen / RAID-only,Human,human__raid:cf67eb69-444d-4e5f-a88b-da82d19f89a9,-1.0522251736003367
+Frozen / RAID-only,Human,human__raid:cfb5728e-c896-4ed5-8173-f39be5ff5f97,-1.6811487177388496
+Frozen / RAID-only,Human,human__raid:d80f6ba2-1916-4c19-b74c-8e9f77b7a066,-0.19585823527612695
+Frozen / RAID-only,Human,human__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,0.11915865346015518
+Frozen / RAID-only,Human,human__raid:dc315335-0314-49c5-96b1-3211dc072983,-2.2218053252293366
+Frozen / RAID-only,Human,human__raid:dc5c62f4-87cf-409b-9aea-dbb023230f7c,-0.2636135254262377
+Frozen / RAID-only,Human,human__raid:de2cbdee-92fd-4c6e-aea1-2c1baa24eb70,-1.276574937867858
+Frozen / RAID-only,Human,human__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,-0.389576905830714
+Frozen / RAID-only,Human,human__raid:e3945a96-7048-41d9-9e86-a84e87818986,-1.1188207654280293
+Frozen / RAID-only,Human,human__raid:e9f78f95-8a2d-4a0a-a47a-044c9c6c5c22,-0.5884715373009008
+Frozen / RAID-only,Human,human__raid:ead211a3-a649-4022-be2d-63fb8536f78d,-0.6686252844653706
+Frozen / RAID-only,Human,human__raid:eb76307e-f969-4523-9943-52da0e3f78a8,-2.0899141535008314
+Frozen / RAID-only,Human,human__raid:eb80caa7-c8a1-42d5-85f0-d0563e707eb6,-1.5470263226978538
+Frozen / RAID-only,Human,human__raid:efc8537a-8575-4af0-aae5-a06bc4bccc04,-0.5405795578245048
+Frozen / RAID-only,Human,human__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,-0.021294132769397192
+Frozen / RAID-only,Human,human__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,-1.1942425715723726
+Frozen / RAID-only,Human,human__raid:f5f280b6-e8c1-4f10-9d16-0e6297e8c730,1.4632800838436733
+Frozen / RAID-only,Human,human__raid:f806b684-fa7f-41c5-a4a6-8692be841cea,-1.5636850138707048
+Frozen / RAID-only,Human,human__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,1.234492303457298
+Frozen / RAID-only,Human,human__raid:fae6fce3-fb87-469f-a655-e52447a8cd39,-0.839006034248845
+Frozen / RAID-only,Human,human__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,0.047473327507765825
+Frozen / RAID-only,Human,human__raid:fcd2c78e-c388-46be-9a2d-7a9cb77381ea,0.5779867616181503
+Frozen / RAID-only,Human,human__raid:fd5a753d-9d93-4b93-84a0-d0a65e45cdda,-0.14310004240452895
+Frozen / RAID-only,Human,human__raid:fe252deb-2d6b-4ed6-bac4-315e1dc40e94,-1.8794201226908194
+Frozen / RAID-only,Human,human__raid:fe4f15ee-af83-41e8-9772-b00be067b996,0.9141487729476836
+NS10-adapted,OG,gate_0001,-0.7504861227201424
+NS10-adapted,OG,gate_0005,0.8238787087183937
+NS10-adapted,OG,gate_0007,1.6143296338863509
+NS10-adapted,OG,gate_0015,0.6802833560375529
+NS10-adapted,OG,gate_0017,0.9999951828577144
+NS10-adapted,OG,gate_0018,-0.418938095266787
+NS10-adapted,OG,gate_0020,0.7150860023126118
+NS10-adapted,OG,gate_0021,1.7535197635043975
+NS10-adapted,OG,gate_0022,-1.3579045929050937
+NS10-adapted,OG,gate_0025,1.2449856271097113
+NS10-adapted,OG,gate_0027,1.5187465353525627
+NS10-adapted,OG,gate_0028,-3.6980879104247726
+NS10-adapted,OG,gate_0035,0.8112158874178046
+NS10-adapted,OG,gate_0037,2.175995149487701
+NS10-adapted,OG,gate_0038,1.680449752274498
+NS10-adapted,OG,gate_0046,0.057690898463666165
+NS10-adapted,OG,gate_0047,-0.9431294241978694
+NS10-adapted,OG,gate_0048,1.0669005873906854
+NS10-adapted,OG,gate_0049,1.2512924959631144
+NS10-adapted,OG,gate_0050,0.6163671177673746
+NS10-adapted,OG,gate_0051,1.0271308751955939
+NS10-adapted,OG,gate_0054,0.993822786188593
+NS10-adapted,OG,gate_0062,-2.416992101909471
+NS10-adapted,OG,gate_0065,1.3346657253607896
+NS10-adapted,OG,gate_0070,1.0071314650801404
+NS10-adapted,OG,gate_0073,0.7881902580789687
+NS10-adapted,OG,gate_0075,1.4152579786716262
+NS10-adapted,OG,gate_0078,1.1332514238469342
+NS10-adapted,OG,gate_0082,0.8704282266436846
+NS10-adapted,OG,gate_0088,0.8470128876502362
+NS10-adapted,OG,gate_0089,2.6786121123302316
+NS10-adapted,OG,gate_0090,-1.229649965472745
+NS10-adapted,OG,gate_0092,0.06740474457236637
+NS10-adapted,OG,gate_0094,1.2984231256345833
+NS10-adapted,NS10,gate_0001,-1.295753391775314
+NS10-adapted,NS10,gate_0005,-0.33346211511876717
+NS10-adapted,NS10,gate_0007,0.9301017576001003
+NS10-adapted,NS10,gate_0015,-1.8330136554391747
+NS10-adapted,NS10,gate_0017,0.179299635626616
+NS10-adapted,NS10,gate_0018,-0.48545033130546805
+NS10-adapted,NS10,gate_0020,-0.579205723036582
+NS10-adapted,NS10,gate_0021,-0.6967164235586348
+NS10-adapted,NS10,gate_0022,-2.8208843494471174
+NS10-adapted,NS10,gate_0025,-0.4004435556967345
+NS10-adapted,NS10,gate_0027,-1.7449214700132256
+NS10-adapted,NS10,gate_0028,-2.170609615316061
+NS10-adapted,NS10,gate_0035,-0.8687886725354251
+NS10-adapted,NS10,gate_0037,0.3886993567764495
+NS10-adapted,NS10,gate_0038,0.36145439936347
+NS10-adapted,NS10,gate_0046,-1.65608421110211
+NS10-adapted,NS10,gate_0047,-0.7355905887608443
+NS10-adapted,NS10,gate_0048,0.12149130899084613
+NS10-adapted,NS10,gate_0049,-0.7181743048492779
+NS10-adapted,NS10,gate_0050,-1.3137939245200214
+NS10-adapted,NS10,gate_0051,-0.02875344456963046
+NS10-adapted,NS10,gate_0054,-0.3314013162608979
+NS10-adapted,NS10,gate_0062,-1.0350523093738035
+NS10-adapted,NS10,gate_0065,-1.1012175173221224
+NS10-adapted,NS10,gate_0070,-3.250164837450668
+NS10-adapted,NS10,gate_0073,1.1278568767533002
+NS10-adapted,NS10,gate_0075,0.7993954439495293
+NS10-adapted,NS10,gate_0078,-0.32720671500729914
+NS10-adapted,NS10,gate_0082,0.720528830725797
+NS10-adapted,NS10,gate_0088,-1.3953138878787479
+NS10-adapted,NS10,gate_0089,-0.3897899118368094
+NS10-adapted,NS10,gate_0090,-1.4496645471756495
+NS10-adapted,NS10,gate_0092,-1.8185055168428432
+NS10-adapted,NS10,gate_0094,-0.17926125016388017
+NS10-adapted,Human,human__raid:0216216b-fd4f-403b-87f3-b1c52f29a3f1,-0.4551996413541329
+NS10-adapted,Human,human__raid:070db71f-3f44-4ebf-b9dc-cf780644667c,-0.33013188890987566
+NS10-adapted,Human,human__raid:092aa2bc-f8b6-4a7b-8bac-40b62e0dbb25,-0.597960779478235
+NS10-adapted,Human,human__raid:0932165c-37b5-4c07-a15d-ded908d7dc32,-1.6136022734698567
+NS10-adapted,Human,human__raid:0a9dc4af-7338-49c0-b3d9-3a1a3cf1606f,-2.0760730208093556
+NS10-adapted,Human,human__raid:119d954e-9a2c-4ad6-bd1b-b03ed29034f0,-1.3666497752237465
+NS10-adapted,Human,human__raid:140bcdd4-cb85-49b7-ad40-483a21380193,0.3689586999485823
+NS10-adapted,Human,human__raid:167102f2-a17b-4860-9984-67709aab5d53,0.42428873303372855
+NS10-adapted,Human,human__raid:1780eb3e-7c44-4355-a331-e175e5c8c198,-2.026276336859317
+NS10-adapted,Human,human__raid:1d8ef537-eff4-4324-ae39-02b5caecb61c,0.07024473792153126
+NS10-adapted,Human,human__raid:1de9f910-c6a9-4bf8-8a2d-1f9c07390417,-1.13779345484099
+NS10-adapted,Human,human__raid:25689644-8159-4de0-8167-2efea735f75b,-1.9939290776408705
+NS10-adapted,Human,human__raid:26d2f09e-1b32-4e0b-acc6-fbca10b7051a,-2.76395219236522
+NS10-adapted,Human,human__raid:2737d3fd-1ed6-40ae-acb9-d1af0baf5b7c,-0.9953143971336663
+NS10-adapted,Human,human__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,-0.4128496158860031
+NS10-adapted,Human,human__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,0.22408669510743578
+NS10-adapted,Human,human__raid:2b6630cd-9256-497f-83b2-366131834f3a,-1.0207918488513086
+NS10-adapted,Human,human__raid:2f47f011-2a2a-47fb-8380-81bbfd3aea9f,-0.5860568071838245
+NS10-adapted,Human,human__raid:2faf4463-e954-4388-a603-ae85c31b8c00,-1.1222270093754798
+NS10-adapted,Human,human__raid:31c9da8a-8533-4763-b0ce-b1e54082b6f8,-1.8080247042050395
+NS10-adapted,Human,human__raid:34071d29-fbbf-4230-9ee4-55f1c54b2b5e,-1.5832721645250645
+NS10-adapted,Human,human__raid:347fcffd-ce79-4b6f-9e45-cb1cf0ba60a9,-0.5991860699067614
+NS10-adapted,Human,human__raid:37897e56-78e7-4aaa-a974-a9ec4f8facb3,-0.3346564527502797
+NS10-adapted,Human,human__raid:39839ad8-9b55-46f1-bfa9-16cd1c961cce,-0.5474833867530833
+NS10-adapted,Human,human__raid:3a75780e-80cf-4695-b297-bb5c7edd5de3,-1.1802637818209942
+NS10-adapted,Human,human__raid:3bc610dd-010e-480c-8af3-1c5da8728644,-1.8518611060388723
+NS10-adapted,Human,human__raid:3c44b645-d716-4865-b596-7c4e6f24fe06,-0.9258596924768697
+NS10-adapted,Human,human__raid:3e7fb3a2-3d32-43b1-ba60-c4689d38caee,0.45328574143743783
+NS10-adapted,Human,human__raid:3f88fbdd-9dde-4766-a8db-05b0f2e0957e,0.5011762522718233
+NS10-adapted,Human,human__raid:401abcef-a6a6-41c9-bb25-766e6609d835,-1.4470494410777632
+NS10-adapted,Human,human__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,-2.743895004565371
+NS10-adapted,Human,human__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,-0.3168035221978056
+NS10-adapted,Human,human__raid:4c4676d5-c143-448c-b058-9c360b04d900,-2.491266246905931
+NS10-adapted,Human,human__raid:4e41049d-f855-47f9-8e31-1e1a8aebd832,0.24660593487153643
+NS10-adapted,Human,human__raid:4e8d2b69-fd42-4cc4-8f94-e52400e1e1b6,-1.2054086407932096
+NS10-adapted,Human,human__raid:50d75674-15c7-4c9a-a9d4-9589bfd2c16d,0.48229477843241475
+NS10-adapted,Human,human__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,-2.0134403064141497
+NS10-adapted,Human,human__raid:5e96071b-cd3e-4461-9948-96d041e63767,0.3168490230363794
+NS10-adapted,Human,human__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,0.48370368449021883
+NS10-adapted,Human,human__raid:603b6d03-c745-4378-a2db-5b0705bddd34,0.12379605629172248
+NS10-adapted,Human,human__raid:63020fe1-645b-4dbb-988a-3bb080f2d56e,-0.6399038860726532
+NS10-adapted,Human,human__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,0.0867885668354275
+NS10-adapted,Human,human__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,0.9740368328662926
+NS10-adapted,Human,human__raid:6cb1edfa-92ac-4618-9084-7d84a4193bc4,0.1314788073609625
+NS10-adapted,Human,human__raid:6d37b523-501f-412e-a18b-645d8e3653a6,-0.81923386291822
+NS10-adapted,Human,human__raid:70764dd8-197a-415b-8c5f-2ebd022e0fd7,-1.1381582495847025
+NS10-adapted,Human,human__raid:723a39e2-9540-4faa-b682-d608457dfde1,1.667994544155929
+NS10-adapted,Human,human__raid:731ae711-8582-44b0-be0d-583188e43781,0.5537149195197472
+NS10-adapted,Human,human__raid:788e4594-960c-4621-8b5e-6f82b7552d7b,1.5348365420184398
+NS10-adapted,Human,human__raid:7896a7b3-fe69-4bde-98a2-1e295f9550d2,-0.9361652774684831
+NS10-adapted,Human,human__raid:79171045-dc71-449b-acd4-8265ffefa6ca,-0.9715171401730399
+NS10-adapted,Human,human__raid:7a2f76a2-30e0-4d30-b9bf-6bb7b6f82c1e,-2.8332727349636206
+NS10-adapted,Human,human__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,-2.027292177699039
+NS10-adapted,Human,human__raid:7a5de8ac-c1d0-45c4-ae1f-cda8899b4b9c,-0.12989122685184762
+NS10-adapted,Human,human__raid:7adad01b-ff5c-4c95-be22-aa936adb7eed,-0.7121006176501666
+NS10-adapted,Human,human__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,-0.3990436877714435
+NS10-adapted,Human,human__raid:7bd2da2a-4f21-4b84-91a7-2cb37fd80071,-0.35513263421901153
+NS10-adapted,Human,human__raid:7c9e5e4d-3046-440f-a9d0-3cc164eb3844,-1.2584522478832432
+NS10-adapted,Human,human__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,0.2852307834928186
+NS10-adapted,Human,human__raid:8598c9e2-8e28-46b2-a6da-a22b767aae49,-0.8014545259908693
+NS10-adapted,Human,human__raid:8760103e-729a-4bab-b799-5775ac2468b1,-0.9584058478226042
+NS10-adapted,Human,human__raid:892580ca-0b4d-4920-8137-d3285fdd878b,-0.3634750400354997
+NS10-adapted,Human,human__raid:89ad70e0-cac0-4bfa-a0a4-f5ae74aa18cc,0.8819745170833749
+NS10-adapted,Human,human__raid:8b0085fa-411d-4fc1-bbc1-d0d97bca2ebb,0.6041546184953436
+NS10-adapted,Human,human__raid:8b24d3c9-051b-4d8d-b88b-ddac08f4e80f,-1.2323249750982777
+NS10-adapted,Human,human__raid:90cd9493-2714-47d7-b052-f3c621294322,0.4807368152865906
+NS10-adapted,Human,human__raid:91bb1e48-f280-46f3-9fd3-b7c7d9cb7e1a,-0.1823225528712371
+NS10-adapted,Human,human__raid:960a2cba-576a-4097-bee5-60042988d6ba,-1.9815703072557453
+NS10-adapted,Human,human__raid:966ff429-7e5b-409c-b301-181197592544,0.2713085650637863
+NS10-adapted,Human,human__raid:971d96f8-bc01-4ccc-be38-ec05af40151c,-1.5742278744831864
+NS10-adapted,Human,human__raid:989ab1d1-5a4d-4e9d-b767-ca3023f3f207,-1.6035743231246387
+NS10-adapted,Human,human__raid:9b304701-be3e-43a7-9b8c-ad33ca18bfcd,0.3180448258410614
+NS10-adapted,Human,human__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,-0.46644531356106944
+NS10-adapted,Human,human__raid:9c52d90c-846a-4479-8484-bd21e658f787,-0.8377871732966276
+NS10-adapted,Human,human__raid:9c57c4d7-75d9-48d2-a758-75ccb88aa272,0.1973913597160552
+NS10-adapted,Human,human__raid:9de11be0-bc27-4b41-8844-1f4d91abac60,0.2058215619762494
+NS10-adapted,Human,human__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,-0.9228873903463374
+NS10-adapted,Human,human__raid:a2b8f3d1-1bc0-4b62-8bc5-003e55b2f7b5,-2.183850106691866
+NS10-adapted,Human,human__raid:a37e28be-98b1-4e8b-a568-5ee3503de484,-3.565425164754022
+NS10-adapted,Human,human__raid:a40984f5-f447-464b-8a6a-eaa8d6f76d12,0.16480720896022671
+NS10-adapted,Human,human__raid:a4fd071e-41e7-48bc-a95c-829d6b86dff4,0.2118811754206576
+NS10-adapted,Human,human__raid:a6e2d7dc-e158-4c10-8e84-d17b2a48ba5a,-0.17513462111296035
+NS10-adapted,Human,human__raid:a77e8e92-8af5-4e1d-ab67-65bf52a8d5d7,0.3426041447261521
+NS10-adapted,Human,human__raid:aa295f63-383e-4a23-9c41-1108391ff777,-1.432289591735396
+NS10-adapted,Human,human__raid:adcce3e8-16bb-4c93-8884-4af827f6dc61,-1.981183834593074
+NS10-adapted,Human,human__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,-0.708941382625314
+NS10-adapted,Human,human__raid:af383c6d-11c9-4169-a2fa-58280f83ca96,-1.970455725221695
+NS10-adapted,Human,human__raid:b0d2e4eb-3c43-49ce-bfe1-9a6eafef8b02,-0.9253881190249945
+NS10-adapted,Human,human__raid:b146a6b9-b531-4709-ac99-6a3852b3c619,-3.385427443077742
+NS10-adapted,Human,human__raid:b33bfbfe-9837-4588-903a-4bdd3f2470f7,1.3817669287970016
+NS10-adapted,Human,human__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,0.8313145086414321
+NS10-adapted,Human,human__raid:b4c2bfc5-c80d-44c2-8a8e-9bbcc458ac00,-1.1330714286371661
+NS10-adapted,Human,human__raid:b6bf4100-050e-4389-a49c-35b5fc02dd9e,0.8651931642894707
+NS10-adapted,Human,human__raid:bb27d6eb-f06d-424b-bbbc-630d720a44eb,0.19300762177495212
+NS10-adapted,Human,human__raid:bf053559-120d-4ac8-8cd3-c0eda1df5861,-0.25302537234537337
+NS10-adapted,Human,human__raid:bf3df034-9724-4840-86cb-33eb1489b717,0.2913094055562868
+NS10-adapted,Human,human__raid:c0009c67-d594-4da3-af81-a06984e70ab5,-1.9962663390547748
+NS10-adapted,Human,human__raid:c0d15e54-b490-428c-a5c0-540099ae4eeb,-0.2402954726427991
+NS10-adapted,Human,human__raid:c2384d62-5400-4651-8cdb-b83c4a8bdf43,0.2094421930451238
+NS10-adapted,Human,human__raid:c435eb9e-f80e-4ac6-9526-e1282c5c1266,-1.9275120572060085
+NS10-adapted,Human,human__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,-3.410820429349083
+NS10-adapted,Human,human__raid:c9d4b9c3-20c6-4527-8838-6cbc2263bb00,-1.3377470073075806
+NS10-adapted,Human,human__raid:cbccc75e-54f7-4132-8b9e-5617b55caff3,-2.2173729170619003
+NS10-adapted,Human,human__raid:cf67eb69-444d-4e5f-a88b-da82d19f89a9,-0.9341151836659553
+NS10-adapted,Human,human__raid:cfb5728e-c896-4ed5-8173-f39be5ff5f97,-1.6139937601035155
+NS10-adapted,Human,human__raid:d80f6ba2-1916-4c19-b74c-8e9f77b7a066,-0.15448563452412278
+NS10-adapted,Human,human__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,0.09782809118540294
+NS10-adapted,Human,human__raid:dc315335-0314-49c5-96b1-3211dc072983,-2.121904449168497
+NS10-adapted,Human,human__raid:dc5c62f4-87cf-409b-9aea-dbb023230f7c,-0.2388183906392231
+NS10-adapted,Human,human__raid:de2cbdee-92fd-4c6e-aea1-2c1baa24eb70,-1.1835274818210744
+NS10-adapted,Human,human__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,-0.3594575149427834
+NS10-adapted,Human,human__raid:e3945a96-7048-41d9-9e86-a84e87818986,-0.9961272481911748
+NS10-adapted,Human,human__raid:e9f78f95-8a2d-4a0a-a47a-044c9c6c5c22,-0.5146215568013336
+NS10-adapted,Human,human__raid:ead211a3-a649-4022-be2d-63fb8536f78d,-0.6587264179257699
+NS10-adapted,Human,human__raid:eb76307e-f969-4523-9943-52da0e3f78a8,-1.940957317297448
+NS10-adapted,Human,human__raid:eb80caa7-c8a1-42d5-85f0-d0563e707eb6,-1.4345055170780405
+NS10-adapted,Human,human__raid:efc8537a-8575-4af0-aae5-a06bc4bccc04,-0.5186699578789097
+NS10-adapted,Human,human__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,0.04725674428708239
+NS10-adapted,Human,human__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,-1.0974436223746178
+NS10-adapted,Human,human__raid:f5f280b6-e8c1-4f10-9d16-0e6297e8c730,1.4143043380869118
+NS10-adapted,Human,human__raid:f806b684-fa7f-41c5-a4a6-8692be841cea,-1.5375659073623997
+NS10-adapted,Human,human__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,1.1934580811456619
+NS10-adapted,Human,human__raid:fae6fce3-fb87-469f-a655-e52447a8cd39,-0.7276354445070347
+NS10-adapted,Human,human__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,0.12478599995500357
+NS10-adapted,Human,human__raid:fcd2c78e-c388-46be-9a2d-7a9cb77381ea,0.5633165790018416
+NS10-adapted,Human,human__raid:fd5a753d-9d93-4b93-84a0-d0a65e45cdda,-0.14229307872991537
+NS10-adapted,Human,human__raid:fe252deb-2d6b-4ed6-bac4-315e1dc40e94,-1.7491391291968674
+NS10-adapted,Human,human__raid:fe4f15ee-af83-41e8-9772-b00be067b996,0.917295349785156

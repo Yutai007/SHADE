@@ -1,0 +1,3 @@
+generator,new_scorers_negative,independent_modern_resolved_negative,passes_predeclared_modern_generalization_criterion
+Qwen2.5-1.5B-Instruct,3,0,False
+SmolLM2,3,1,True

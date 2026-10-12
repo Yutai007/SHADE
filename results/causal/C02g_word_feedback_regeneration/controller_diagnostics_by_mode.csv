@@ -1,0 +1,4 @@
+mode,generated_words,searches,replacements,fallbacks,fallbacks_no_completed_word,fallbacks_wrong_novelty,expanded_nodes,completed_candidates,replacement_rate,fallback_rate
+decrease,1032,643,90,553,0,553,2227,2206,0.13996889580093314,0.8600311041990669
+increase,99,57,1,56,0,56,119,60,0.017543859649122806,0.9824561403508771
+normal,378,0,0,0,0,0,0,0,,

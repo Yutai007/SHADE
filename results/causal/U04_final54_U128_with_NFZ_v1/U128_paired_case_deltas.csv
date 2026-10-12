@@ -1,0 +1,189 @@
+sample,comparison,case_id,delta_U
+Four-group matched,NFZ minus OG,gate_0003,2.42512013419946
+Four-group matched,NFZ minus OG,gate_0004,1.6970339380204678
+Four-group matched,NFZ minus OG,gate_0007,0.41545109478465747
+Four-group matched,NFZ minus OG,gate_0016,-0.2912813885750438
+Four-group matched,NFZ minus OG,gate_0017,-0.706750764788012
+Four-group matched,NFZ minus OG,gate_0018,0.1748632217058912
+Four-group matched,NFZ minus OG,gate_0020,0.8723776705248838
+Four-group matched,NFZ minus OG,gate_0021,1.4010217319080311
+Four-group matched,NFZ minus OG,gate_0023,-0.5104792569036363
+Four-group matched,NFZ minus OG,gate_0024,0.42935612751170993
+Four-group matched,NFZ minus OG,gate_0025,-0.502554050879553
+Four-group matched,NFZ minus OG,gate_0030,-0.6468563785601873
+Four-group matched,NFZ minus OG,gate_0035,-1.0278790561133064
+Four-group matched,NFZ minus OG,gate_0037,0.3060057807560952
+Four-group matched,NFZ minus OG,gate_0049,-0.33972281124442816
+Four-group matched,NFZ minus OG,gate_0050,-0.5213409799616784
+Four-group matched,NFZ minus OG,gate_0051,-1.4021832086145878
+Four-group matched,NFZ minus OG,gate_0065,0.18775170296430588
+Four-group matched,NFZ minus OG,gate_0067,1.1020526670326944
+Four-group matched,NFZ minus OG,gate_0075,-0.7146417471030873
+Four-group matched,NFZ minus OG,gate_0076,0.23006736114621162
+Four-group matched,NFZ minus OG,gate_0078,-0.0093061819934519
+Four-group matched,NFZ minus OG,gate_0081,0.5605011034640484
+Four-group matched,NFZ minus OG,gate_0085,0.5320173839572817
+Four-group matched,NFZ minus OG,gate_0086,0.8313834618893452
+Four-group matched,NFZ minus OG,gate_0088,-1.4428752995299874
+Four-group matched,NFZ minus OG,gate_0089,1.0808809784939513
+Four-group matched,NFZ minus OG,gate_0094,1.8265231656841934
+Four-group matched,NFZ minus OG,gate_0095,-0.5581415997585282
+Four-group matched,MID_075 minus OG,gate_0003,0.60530458980611
+Four-group matched,MID_075 minus OG,gate_0004,0.5559525490680244
+Four-group matched,MID_075 minus OG,gate_0007,-0.03676234574231785
+Four-group matched,MID_075 minus OG,gate_0016,-0.13202089564310882
+Four-group matched,MID_075 minus OG,gate_0017,-0.3077849779947428
+Four-group matched,MID_075 minus OG,gate_0018,0.9299820694286609
+Four-group matched,MID_075 minus OG,gate_0020,-0.1769543375412468
+Four-group matched,MID_075 minus OG,gate_0021,1.191285555490822
+Four-group matched,MID_075 minus OG,gate_0023,-0.61996887823625
+Four-group matched,MID_075 minus OG,gate_0024,-0.06390050845220685
+Four-group matched,MID_075 minus OG,gate_0025,1.1935686216456816
+Four-group matched,MID_075 minus OG,gate_0030,0.09208018507342786
+Four-group matched,MID_075 minus OG,gate_0035,-0.17335224877751898
+Four-group matched,MID_075 minus OG,gate_0037,0.12268149143710616
+Four-group matched,MID_075 minus OG,gate_0049,0.7453405056148767
+Four-group matched,MID_075 minus OG,gate_0050,1.3187224811408669
+Four-group matched,MID_075 minus OG,gate_0051,-0.0579221376683563
+Four-group matched,MID_075 minus OG,gate_0065,-0.029374089324846864
+Four-group matched,MID_075 minus OG,gate_0067,-0.057179051960702054
+Four-group matched,MID_075 minus OG,gate_0075,0.1180060843253159
+Four-group matched,MID_075 minus OG,gate_0076,0.9506683815270662
+Four-group matched,MID_075 minus OG,gate_0078,0.9291268886736361
+Four-group matched,MID_075 minus OG,gate_0081,1.8830327813047916
+Four-group matched,MID_075 minus OG,gate_0085,2.79744044697145
+Four-group matched,MID_075 minus OG,gate_0086,-0.4432029080362554
+Four-group matched,MID_075 minus OG,gate_0088,-1.0839683995582163
+Four-group matched,MID_075 minus OG,gate_0089,0.6816761924419552
+Four-group matched,MID_075 minus OG,gate_0094,0.7923727966845036
+Four-group matched,MID_075 minus OG,gate_0095,0.846414077677764
+Four-group matched,MID_075 minus NFZ,gate_0003,-1.8198155443933501
+Four-group matched,MID_075 minus NFZ,gate_0004,-1.1410813889524434
+Four-group matched,MID_075 minus NFZ,gate_0007,-0.4522134405269753
+Four-group matched,MID_075 minus NFZ,gate_0016,0.159260492931935
+Four-group matched,MID_075 minus NFZ,gate_0017,0.3989657867932692
+Four-group matched,MID_075 minus NFZ,gate_0018,0.7551188477227697
+Four-group matched,MID_075 minus NFZ,gate_0020,-1.0493320080661306
+Four-group matched,MID_075 minus NFZ,gate_0021,-0.2097361764172092
+Four-group matched,MID_075 minus NFZ,gate_0023,-0.10948962133261375
+Four-group matched,MID_075 minus NFZ,gate_0024,-0.4932566359639168
+Four-group matched,MID_075 minus NFZ,gate_0025,1.6961226725252345
+Four-group matched,MID_075 minus NFZ,gate_0030,0.7389365636336152
+Four-group matched,MID_075 minus NFZ,gate_0035,0.8545268073357875
+Four-group matched,MID_075 minus NFZ,gate_0037,-0.18332428931898903
+Four-group matched,MID_075 minus NFZ,gate_0049,1.085063316859305
+Four-group matched,MID_075 minus NFZ,gate_0050,1.8400634611025453
+Four-group matched,MID_075 minus NFZ,gate_0051,1.3442610709462315
+Four-group matched,MID_075 minus NFZ,gate_0065,-0.21712579228915274
+Four-group matched,MID_075 minus NFZ,gate_0067,-1.1592317189933965
+Four-group matched,MID_075 minus NFZ,gate_0075,0.8326478314284032
+Four-group matched,MID_075 minus NFZ,gate_0076,0.7206010203808546
+Four-group matched,MID_075 minus NFZ,gate_0078,0.938433070667088
+Four-group matched,MID_075 minus NFZ,gate_0081,1.3225316778407432
+Four-group matched,MID_075 minus NFZ,gate_0085,2.2654230630141683
+Four-group matched,MID_075 minus NFZ,gate_0086,-1.2745863699256006
+Four-group matched,MID_075 minus NFZ,gate_0088,0.35890689997177105
+Four-group matched,MID_075 minus NFZ,gate_0089,-0.39920478605199605
+Four-group matched,MID_075 minus NFZ,gate_0094,-1.0341503689996898
+Four-group matched,MID_075 minus NFZ,gate_0095,1.4045556774362922
+All eligible pairs,NFZ minus OG,gate_0003,2.42512013419946
+All eligible pairs,NFZ minus OG,gate_0004,1.6970339380204678
+All eligible pairs,NFZ minus OG,gate_0007,0.41545109478465747
+All eligible pairs,NFZ minus OG,gate_0016,-0.2912813885750438
+All eligible pairs,NFZ minus OG,gate_0017,-0.706750764788012
+All eligible pairs,NFZ minus OG,gate_0018,0.1748632217058912
+All eligible pairs,NFZ minus OG,gate_0020,0.8723776705248838
+All eligible pairs,NFZ minus OG,gate_0021,1.4010217319080311
+All eligible pairs,NFZ minus OG,gate_0023,-0.5104792569036363
+All eligible pairs,NFZ minus OG,gate_0024,0.42935612751170993
+All eligible pairs,NFZ minus OG,gate_0025,-0.502554050879553
+All eligible pairs,NFZ minus OG,gate_0030,-0.6468563785601873
+All eligible pairs,NFZ minus OG,gate_0035,-1.0278790561133064
+All eligible pairs,NFZ minus OG,gate_0037,0.3060057807560952
+All eligible pairs,NFZ minus OG,gate_0049,-0.33972281124442816
+All eligible pairs,NFZ minus OG,gate_0050,-0.5213409799616784
+All eligible pairs,NFZ minus OG,gate_0051,-1.4021832086145878
+All eligible pairs,NFZ minus OG,gate_0054,-0.00415668566711247
+All eligible pairs,NFZ minus OG,gate_0065,0.18775170296430588
+All eligible pairs,NFZ minus OG,gate_0067,1.1020526670326944
+All eligible pairs,NFZ minus OG,gate_0075,-0.7146417471030873
+All eligible pairs,NFZ minus OG,gate_0076,0.23006736114621162
+All eligible pairs,NFZ minus OG,gate_0078,-0.0093061819934519
+All eligible pairs,NFZ minus OG,gate_0081,0.5605011034640484
+All eligible pairs,NFZ minus OG,gate_0085,0.5320173839572817
+All eligible pairs,NFZ minus OG,gate_0086,0.8313834618893452
+All eligible pairs,NFZ minus OG,gate_0088,-1.4428752995299874
+All eligible pairs,NFZ minus OG,gate_0089,1.0808809784939513
+All eligible pairs,NFZ minus OG,gate_0094,1.8265231656841934
+All eligible pairs,NFZ minus OG,gate_0095,-0.5581415997585282
+All eligible pairs,MID_075 minus OG,gate_0003,0.60530458980611
+All eligible pairs,MID_075 minus OG,gate_0004,0.5559525490680244
+All eligible pairs,MID_075 minus OG,gate_0007,-0.03676234574231785
+All eligible pairs,MID_075 minus OG,gate_0015,-0.606680968310684
+All eligible pairs,MID_075 minus OG,gate_0016,-0.13202089564310882
+All eligible pairs,MID_075 minus OG,gate_0017,-0.3077849779947428
+All eligible pairs,MID_075 minus OG,gate_0018,0.9299820694286609
+All eligible pairs,MID_075 minus OG,gate_0020,-0.1769543375412468
+All eligible pairs,MID_075 minus OG,gate_0021,1.191285555490822
+All eligible pairs,MID_075 minus OG,gate_0023,-0.61996887823625
+All eligible pairs,MID_075 minus OG,gate_0024,-0.06390050845220685
+All eligible pairs,MID_075 minus OG,gate_0025,1.1935686216456816
+All eligible pairs,MID_075 minus OG,gate_0027,-1.6863951617269777
+All eligible pairs,MID_075 minus OG,gate_0028,0.11447142995893955
+All eligible pairs,MID_075 minus OG,gate_0030,0.09208018507342786
+All eligible pairs,MID_075 minus OG,gate_0035,-0.17335224877751898
+All eligible pairs,MID_075 minus OG,gate_0037,0.12268149143710616
+All eligible pairs,MID_075 minus OG,gate_0048,-0.6870279593858868
+All eligible pairs,MID_075 minus OG,gate_0049,0.7453405056148767
+All eligible pairs,MID_075 minus OG,gate_0050,1.3187224811408669
+All eligible pairs,MID_075 minus OG,gate_0051,-0.0579221376683563
+All eligible pairs,MID_075 minus OG,gate_0054,-1.7206502860572073
+All eligible pairs,MID_075 minus OG,gate_0065,-0.029374089324846864
+All eligible pairs,MID_075 minus OG,gate_0066,-0.9950430914759636
+All eligible pairs,MID_075 minus OG,gate_0067,-0.057179051960702054
+All eligible pairs,MID_075 minus OG,gate_0070,-0.3429318895214237
+All eligible pairs,MID_075 minus OG,gate_0073,0.9050813836511225
+All eligible pairs,MID_075 minus OG,gate_0074,-0.5159606838278705
+All eligible pairs,MID_075 minus OG,gate_0075,0.1180060843253159
+All eligible pairs,MID_075 minus OG,gate_0076,0.9506683815270662
+All eligible pairs,MID_075 minus OG,gate_0078,0.9291268886736361
+All eligible pairs,MID_075 minus OG,gate_0079,0.5899677519919351
+All eligible pairs,MID_075 minus OG,gate_0081,1.8830327813047916
+All eligible pairs,MID_075 minus OG,gate_0085,2.79744044697145
+All eligible pairs,MID_075 minus OG,gate_0086,-0.4432029080362554
+All eligible pairs,MID_075 minus OG,gate_0088,-1.0839683995582163
+All eligible pairs,MID_075 minus OG,gate_0089,0.6816761924419552
+All eligible pairs,MID_075 minus OG,gate_0093,0.08811071421951056
+All eligible pairs,MID_075 minus OG,gate_0094,0.7923727966845036
+All eligible pairs,MID_075 minus OG,gate_0095,0.846414077677764
+All eligible pairs,MID_075 minus NFZ,gate_0003,-1.8198155443933501
+All eligible pairs,MID_075 minus NFZ,gate_0004,-1.1410813889524434
+All eligible pairs,MID_075 minus NFZ,gate_0007,-0.4522134405269753
+All eligible pairs,MID_075 minus NFZ,gate_0016,0.159260492931935
+All eligible pairs,MID_075 minus NFZ,gate_0017,0.3989657867932692
+All eligible pairs,MID_075 minus NFZ,gate_0018,0.7551188477227697
+All eligible pairs,MID_075 minus NFZ,gate_0020,-1.0493320080661306
+All eligible pairs,MID_075 minus NFZ,gate_0021,-0.2097361764172092
+All eligible pairs,MID_075 minus NFZ,gate_0023,-0.10948962133261375
+All eligible pairs,MID_075 minus NFZ,gate_0024,-0.4932566359639168
+All eligible pairs,MID_075 minus NFZ,gate_0025,1.6961226725252345
+All eligible pairs,MID_075 minus NFZ,gate_0030,0.7389365636336152
+All eligible pairs,MID_075 minus NFZ,gate_0035,0.8545268073357875
+All eligible pairs,MID_075 minus NFZ,gate_0037,-0.18332428931898903
+All eligible pairs,MID_075 minus NFZ,gate_0049,1.085063316859305
+All eligible pairs,MID_075 minus NFZ,gate_0050,1.8400634611025453
+All eligible pairs,MID_075 minus NFZ,gate_0051,1.3442610709462315
+All eligible pairs,MID_075 minus NFZ,gate_0054,-1.7164936003900948
+All eligible pairs,MID_075 minus NFZ,gate_0065,-0.21712579228915274
+All eligible pairs,MID_075 minus NFZ,gate_0067,-1.1592317189933965
+All eligible pairs,MID_075 minus NFZ,gate_0075,0.8326478314284032
+All eligible pairs,MID_075 minus NFZ,gate_0076,0.7206010203808546
+All eligible pairs,MID_075 minus NFZ,gate_0078,0.938433070667088
+All eligible pairs,MID_075 minus NFZ,gate_0081,1.3225316778407432
+All eligible pairs,MID_075 minus NFZ,gate_0082,-0.9801495112678822
+All eligible pairs,MID_075 minus NFZ,gate_0085,2.2654230630141683
+All eligible pairs,MID_075 minus NFZ,gate_0086,-1.2745863699256006
+All eligible pairs,MID_075 minus NFZ,gate_0088,0.35890689997177105
+All eligible pairs,MID_075 minus NFZ,gate_0089,-0.39920478605199605
+All eligible pairs,MID_075 minus NFZ,gate_0094,-1.0341503689996898
+All eligible pairs,MID_075 minus NFZ,gate_0095,1.4045556774362922

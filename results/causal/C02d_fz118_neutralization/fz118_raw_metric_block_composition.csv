@@ -1,0 +1,17 @@
+explanation_level,feature_block,n_selected_metrics,fraction_of_selected_metrics
+95_percent,pos_sentence_overlap,2,0.25
+95_percent,basic_absolute,1,0.125
+95_percent,word_sentence_overlap,1,0.125
+95_percent,basic_relative,1,0.125
+95_percent,punctuation_per_sentence,1,0.125
+95_percent,lexical_diversity,1,0.125
+95_percent,punctuation_relative,1,0.125
+99_percent,word_sentence_overlap,6,0.2
+99_percent,pos_sentence_overlap,6,0.2
+99_percent,basic_absolute,4,0.13333333333333333
+99_percent,punctuation_relative,4,0.13333333333333333
+99_percent,lexical_diversity,3,0.1
+99_percent,basic_relative,2,0.06666666666666667
+99_percent,punctuation_per_sentence,2,0.06666666666666667
+99_percent,readability,2,0.06666666666666667
+99_percent,conjunction_overlap,1,0.03333333333333333

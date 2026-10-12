@@ -1,0 +1,828 @@
+case_id,start,end,replacement,old,rule,mutability,score_before,score_after,mark,threshold,Q,stage,before_rates,after_rates,unique_before,unique_after,text_before,text_after
+raid_residual_01,94,100, and this,. This,period_to_coordination,0.8494057770367008,-2.570577383041382,-2.733795642852783,period,0.5644344662030564,0.9279107505070993,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0066518847006651885, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.004434589800443459, 'period': 0.008869179600886918}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.006607929515418502, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.004405286343612335, 'period': 0.006607929515418502}",0.7391304347826086,0.7285714285714285,"We introduce a new method for finding the best solution in a Markov Random Field (MRF) problem. This method uses a smooth, non-convex, and non-convex-convex optimization algorithm based on the smooth Riemannian optimization problem. We also demonstrate that the optimal solution can be achieved through another approach using the same algorithmic framework. Our findings suggest that the proposed methods are effective in solving complex MRF problems.","We introduce a new method for finding the best solution in a Markov Random Field (MRF) problem and this method uses a smooth, non-convex, and non-convex-convex optimization algorithm based on the smooth Riemannian optimization problem. We also demonstrate that the optimal solution can be achieved through another approach using the same algorithmic framework. Our findings suggest that the proposed methods are effective in solving complex MRF problems."
+raid_residual_02,410,421,Meanwhile ,"Meanwhile, ",initial_adverb_comma_toggle,0.8719065397451973,-3.9055609703063965,-4.042634010314941,comma,0.05000001909690383,5.417094770319753,1,"{'semicolon': 0.0, 'colon': 0.0014084507042253522, 'hyphen': 0.0028169014084507044, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.014084507042253521, 'period': 0.005633802816901409}","{'semicolon': 0.0, 'colon': 0.0014104372355430183, 'hyphen': 0.0028208744710860366, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.012693935119887164, 'period': 0.005641748942172073}",0.6761904761904762,0.6761904761904762,"The Science of Discworld blends two parallel storylines: one in the fantastical Discworld, a flat planet with four elephants and a giant turtle, and the other in the real world, focusing on a science experiment at the Unseen University in Ankh-Morpork. In Discworld, wizards accidentally create universes within bottles, leading to revelations about their own universe's principles and the power of narrative. Meanwhile, science writers Ian Stewart and Jack Cohen explore Discworld's landscapes, explaining complex science in accessible ways with real-world examples. The novel weaves science and fiction, challenging common paradigms and exploring the role of imagination, stories, and belief in the universe.","The Science of Discworld blends two parallel storylines: one in the fantastical Discworld, a flat planet with four elephants and a giant turtle, and the other in the real world, focusing on a science experiment at the Unseen University in Ankh-Morpork. In Discworld, wizards accidentally create universes within bottles, leading to revelations about their own universe's principles and the power of narrative. Meanwhile science writers Ian Stewart and Jack Cohen explore Discworld's landscapes, explaining complex science in accessible ways with real-world examples. The novel weaves science and fiction, challenging common paradigms and exploring the role of imagination, stories, and belief in the universe."
+raid_residual_03,534,536,", that is, ",: ,separator_to_connective,0.675805158539874,-2.44073486328125,-2.832585334777832,colon,0.49999999999999994,1.0,0,"{'semicolon': 0.0, 'colon': 0.0007782101167315176, 'hyphen': 0.0007782101167315176, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.004669260700389105, 'period': 0.008560311284046693}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0007727975270479134, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.0061823802163833074, 'period': 0.008500772797527048}",0.5779816513761468,0.5727272727272728,"The BBC should not be complacent about its future and must not allow its standards to slip, Business Secretary Peter Mandelson has warned.
+
+In a speech to the Royal Television Society, he said the BBC was ""the envy of the world"" but it must not take its success for granted.
+
+He also said the BBC must not be seen as ""on the side of government"" and should be ""fearless"" in journalism.
+
+Mr Mandelson told the RTS Cambridge Convention that the BBC is ""envious of the world"" and ""an important British institution"".
+
+However, he cautioned: ""The BBC cannot rest on its laurels or let down its journalistic integrity.""
+
+Criticism from some quarters, including MPs, over the BBC's handling of the MPs' expenses scandal.
+
+Mr Mandelson defended the BBC's role in exposing the scandal and called it ""right"" that they did so.
+
+He also defended the decision to screen footage of Queen storming out of a photoshoot with Annie Leibovitz, saying it was in the public interest.
+
+Mr Mandelson used his speech to defend the government's plans to fund super-fast broadband rollout across the UK.
+
+He said the government was not trying to ""pick winners"" but wanted ""diversity and choice"" in the market.
+
+Critics have accused the government of ""micromanaging"" the BBC and favouring BT over other providers.","The BBC should not be complacent about its future and must not allow its standards to slip, Business Secretary Peter Mandelson has warned.
+
+In a speech to the Royal Television Society, he said the BBC was ""the envy of the world"" but it must not take its success for granted.
+
+He also said the BBC must not be seen as ""on the side of government"" and should be ""fearless"" in journalism.
+
+Mr Mandelson told the RTS Cambridge Convention that the BBC is ""envious of the world"" and ""an important British institution"".
+
+However, he cautioned, that is, ""The BBC cannot rest on its laurels or let down its journalistic integrity.""
+
+Criticism from some quarters, including MPs, over the BBC's handling of the MPs' expenses scandal.
+
+Mr Mandelson defended the BBC's role in exposing the scandal and called it ""right"" that they did so.
+
+He also defended the decision to screen footage of Queen storming out of a photoshoot with Annie Leibovitz, saying it was in the public interest.
+
+Mr Mandelson used his speech to defend the government's plans to fund super-fast broadband rollout across the UK.
+
+He said the government was not trying to ""pick winners"" but wanted ""diversity and choice"" in the market.
+
+Critics have accused the government of ""micromanaging"" the BBC and favouring BT over other providers."
+raid_residual_03,49,54,", and ", and ,coordination_comma_toggle,0.9980594890666693,-2.4519448280334473,-2.4538872241973877,comma,0.18962843966292403,1.4237055792242468,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0007727975270479134, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.0061823802163833074, 'period': 0.008500772797527048}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0007722007722007722, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.0069498069498069494, 'period': 0.008494208494208495}",0.5727272727272728,0.5727272727272728,"The BBC should not be complacent about its future and must not allow its standards to slip, Business Secretary Peter Mandelson has warned.
+
+In a speech to the Royal Television Society, he said the BBC was ""the envy of the world"" but it must not take its success for granted.
+
+He also said the BBC must not be seen as ""on the side of government"" and should be ""fearless"" in journalism.
+
+Mr Mandelson told the RTS Cambridge Convention that the BBC is ""envious of the world"" and ""an important British institution"".
+
+However, he cautioned, that is, ""The BBC cannot rest on its laurels or let down its journalistic integrity.""
+
+Criticism from some quarters, including MPs, over the BBC's handling of the MPs' expenses scandal.
+
+Mr Mandelson defended the BBC's role in exposing the scandal and called it ""right"" that they did so.
+
+He also defended the decision to screen footage of Queen storming out of a photoshoot with Annie Leibovitz, saying it was in the public interest.
+
+Mr Mandelson used his speech to defend the government's plans to fund super-fast broadband rollout across the UK.
+
+He said the government was not trying to ""pick winners"" but wanted ""diversity and choice"" in the market.
+
+Critics have accused the government of ""micromanaging"" the BBC and favouring BT over other providers.","The BBC should not be complacent about its future, and must not allow its standards to slip, Business Secretary Peter Mandelson has warned.
+
+In a speech to the Royal Television Society, he said the BBC was ""the envy of the world"" but it must not take its success for granted.
+
+He also said the BBC must not be seen as ""on the side of government"" and should be ""fearless"" in journalism.
+
+Mr Mandelson told the RTS Cambridge Convention that the BBC is ""envious of the world"" and ""an important British institution"".
+
+However, he cautioned, that is, ""The BBC cannot rest on its laurels or let down its journalistic integrity.""
+
+Criticism from some quarters, including MPs, over the BBC's handling of the MPs' expenses scandal.
+
+Mr Mandelson defended the BBC's role in exposing the scandal and called it ""right"" that they did so.
+
+He also defended the decision to screen footage of Queen storming out of a photoshoot with Annie Leibovitz, saying it was in the public interest.
+
+Mr Mandelson used his speech to defend the government's plans to fund super-fast broadband rollout across the UK.
+
+He said the government was not trying to ""pick winners"" but wanted ""diversity and choice"" in the market.
+
+Critics have accused the government of ""micromanaging"" the BBC and favouring BT over other providers."
+raid_residual_06,386,388,", and ",; ,separator_to_connective,1.0,-3.1808204650878906,-3.136414051055908,semicolon,0.49999999999999994,1.0,0,"{'semicolon': 0.0015772870662460567, 'colon': 0.0, 'hyphen': 0.0015772870662460567, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.006309148264984227, 'period': 0.00946372239747634}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.001567398119122257, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.007836990595611285, 'period': 0.009404388714733543}",0.6868686868686869,0.68,"Hello fellow Redditors,
+
+I recall watching a whimsical cartoon movie on Netflix around 2017-2018. The main characters were colorful, furry creatures with distinct personalities. They lived in a colorful, imaginative world with a variety of bizarre creatures and structures.
+
+The movie had a charming storyline about friendship and overcoming challenges. It wasn't a typical kiddie movie; it had deeper layers and themes that might resonate more with the adult audience. I'm curious if anyone remembers the film and can tell me the name.
+
+If anyone remembers the movie and can help me, I would greatly appreciate it! Thanks in advance!","Hello fellow Redditors,
+
+I recall watching a whimsical cartoon movie on Netflix around 2017-2018. The main characters were colorful, furry creatures with distinct personalities. They lived in a colorful, imaginative world with a variety of bizarre creatures and structures.
+
+The movie had a charming storyline about friendship and overcoming challenges. It wasn't a typical kiddie movie, and it had deeper layers and themes that might resonate more with the adult audience. I'm curious if anyone remembers the film and can tell me the name.
+
+If anyone remembers the movie and can help me, I would greatly appreciate it! Thanks in advance!"
+raid_residual_06,386,392, and ,", and ",coordination_comma_toggle,0.9442275744648572,-3.136414051055908,-3.1938021183013916,comma,0.4943356055567691,1.0062941040433517,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.001567398119122257, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.007836990595611285, 'period': 0.009404388714733543}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0015698587127158557, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.006279434850863423, 'period': 0.009419152276295133}",0.68,0.68,"Hello fellow Redditors,
+
+I recall watching a whimsical cartoon movie on Netflix around 2017-2018. The main characters were colorful, furry creatures with distinct personalities. They lived in a colorful, imaginative world with a variety of bizarre creatures and structures.
+
+The movie had a charming storyline about friendship and overcoming challenges. It wasn't a typical kiddie movie, and it had deeper layers and themes that might resonate more with the adult audience. I'm curious if anyone remembers the film and can tell me the name.
+
+If anyone remembers the movie and can help me, I would greatly appreciate it! Thanks in advance!","Hello fellow Redditors,
+
+I recall watching a whimsical cartoon movie on Netflix around 2017-2018. The main characters were colorful, furry creatures with distinct personalities. They lived in a colorful, imaginative world with a variety of bizarre creatures and structures.
+
+The movie had a charming storyline about friendship and overcoming challenges. It wasn't a typical kiddie movie and it had deeper layers and themes that might resonate more with the adult audience. I'm curious if anyone remembers the film and can tell me the name.
+
+If anyone remembers the movie and can help me, I would greatly appreciate it! Thanks in advance!"
+raid_residual_06,176,182, and they,. They,period_to_coordination,0.913047460456112,-3.0282771587371826,-3.1192445755004883,period,0.1097395568962296,1.6609293748847493,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0015698587127158557, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.006279434850863423, 'period': 0.009419152276295133}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0015625, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.00625, 'period': 0.0078125}",0.68,0.6732673267326733,"Hello fellow Redditors,
+
+I recall watching a whimsical cartoon movie on Netflix around 2017-2018. The main characters were colorful, furry creatures with distinct personalities. They lived in a colorful, imaginative world with a variety of bizarre creatures and structures.
+
+The movie had a charming storyline about friendship and overcoming challenges. It wasn't a typical kiddie movie and it had deeper layers and themes that might resonate more with the adult audience. I'm curious if anyone remembers the film and can tell me the name.
+
+If anyone remembers the movie and can help me, I would greatly appreciate it! Thanks in advance!","Hello fellow Redditors,
+
+I recall watching a whimsical cartoon movie on Netflix around 2017-2018. The main characters were colorful, furry creatures with distinct personalities and they lived in a colorful, imaginative world with a variety of bizarre creatures and structures.
+
+The movie had a charming storyline about friendship and overcoming challenges. It wasn't a typical kiddie movie and it had deeper layers and themes that might resonate more with the adult audience. I'm curious if anyone remembers the film and can tell me the name.
+
+If anyone remembers the movie and can help me, I would greatly appreciate it! Thanks in advance!"
+raid_residual_06,355,359, and it,. It,period_to_coordination,0.9141339315021961,-3.1982312202453613,-3.2880094051361084,period,0.7773335161642754,0.6404941914069701,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0015625, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.00625, 'period': 0.0078125}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0015552099533437014, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.006220839813374806, 'period': 0.006220839813374806}",0.6732673267326733,0.6666666666666666,"Hello fellow Redditors,
+
+I recall watching a whimsical cartoon movie on Netflix around 2017-2018. The main characters were colorful, furry creatures with distinct personalities and they lived in a colorful, imaginative world with a variety of bizarre creatures and structures.
+
+The movie had a charming storyline about friendship and overcoming challenges. It wasn't a typical kiddie movie and it had deeper layers and themes that might resonate more with the adult audience. I'm curious if anyone remembers the film and can tell me the name.
+
+If anyone remembers the movie and can help me, I would greatly appreciate it! Thanks in advance!","Hello fellow Redditors,
+
+I recall watching a whimsical cartoon movie on Netflix around 2017-2018. The main characters were colorful, furry creatures with distinct personalities and they lived in a colorful, imaginative world with a variety of bizarre creatures and structures.
+
+The movie had a charming storyline about friendship and overcoming challenges and it wasn't a typical kiddie movie and it had deeper layers and themes that might resonate more with the adult audience. I'm curious if anyone remembers the film and can tell me the name.
+
+If anyone remembers the movie and can help me, I would greatly appreciate it! Thanks in advance!"
+raid_residual_07,74,80, and ,", and ",coordination_comma_toggle,0.9390997760992469,-2.2544736862182617,-2.317307233810425,comma,0.05147908673333614,2.6023312891175263,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.000715307582260372, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.01430615164520744, 'period': 0.007868383404864092}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0007158196134574087, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.013600572655690766, 'period': 0.007874015748031496}",0.6083333333333333,0.6083333333333333,"I recently watched ""Nick and Norah's Infinite Playlist"" for the first time, and I must say, it was a truly delightful film. The story follows Nick, a lovesick musician, and Norah, a free-spirited girl, as they embark on a wild adventure through New York City's indie rock scene.
+
+The chemistry between the leads, Michael Cera and Kat Dennings, is undeniable. They play off each other with ease, delivering witty banter and heartfelt moments that made me smile from ear to ear. The supporting cast, including Aaron Yoo and Rafi Gavron, add to the film's unique and memorable energy.
+
+A standout feature is the film's incredible soundtrack, with a diverse range of artists and genres that perfectly capture the film's mood and tone. It's clear that the filmmakers have a deep love for music, and it shines through in every scene.
+
+The film tackles complex themes like relationships, identity, and growing up with a sense of hope and optimism that's hard to resist. It doesn't offer easy answers or sugarcoat the struggles that come with the early twenties, but it does with a sense of hope and optimism that's hard to resist.
+
+Overall, ""Nick and Norah's Infinite Playlist"" is a charming, funny, and endearing film that will resonate with anyone who's ever been young and unsure of themselves. It's a beautiful ode to the power of music and the magic of connection, and I can't wait to watch it again.","I recently watched ""Nick and Norah's Infinite Playlist"" for the first time and I must say, it was a truly delightful film. The story follows Nick, a lovesick musician, and Norah, a free-spirited girl, as they embark on a wild adventure through New York City's indie rock scene.
+
+The chemistry between the leads, Michael Cera and Kat Dennings, is undeniable. They play off each other with ease, delivering witty banter and heartfelt moments that made me smile from ear to ear. The supporting cast, including Aaron Yoo and Rafi Gavron, add to the film's unique and memorable energy.
+
+A standout feature is the film's incredible soundtrack, with a diverse range of artists and genres that perfectly capture the film's mood and tone. It's clear that the filmmakers have a deep love for music, and it shines through in every scene.
+
+The film tackles complex themes like relationships, identity, and growing up with a sense of hope and optimism that's hard to resist. It doesn't offer easy answers or sugarcoat the struggles that come with the early twenties, but it does with a sense of hope and optimism that's hard to resist.
+
+Overall, ""Nick and Norah's Infinite Playlist"" is a charming, funny, and endearing film that will resonate with anyone who's ever been young and unsure of themselves. It's a beautiful ode to the power of music and the magic of connection, and I can't wait to watch it again."
+raid_residual_07,74,80,. I, and I,coordination_to_period,0.9720451977642329,-2.4168193340301514,-2.4451723098754883,period,0.4509306988414421,1.0547390936647003,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0007158196134574087, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.013600572655690766, 'period': 0.007874015748031496}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0007173601147776184, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.013629842180774749, 'period': 0.00860832137733142}",0.6083333333333333,0.6108786610878661,"I recently watched ""Nick and Norah's Infinite Playlist"" for the first time and I must say, it was a truly delightful film. The story follows Nick, a lovesick musician, and Norah, a free-spirited girl, as they embark on a wild adventure through New York City's indie rock scene.
+
+The chemistry between the leads, Michael Cera and Kat Dennings, is undeniable. They play off each other with ease, delivering witty banter and heartfelt moments that made me smile from ear to ear. The supporting cast, including Aaron Yoo and Rafi Gavron, add to the film's unique and memorable energy.
+
+A standout feature is the film's incredible soundtrack, with a diverse range of artists and genres that perfectly capture the film's mood and tone. It's clear that the filmmakers have a deep love for music, and it shines through in every scene.
+
+The film tackles complex themes like relationships, identity, and growing up with a sense of hope and optimism that's hard to resist. It doesn't offer easy answers or sugarcoat the struggles that come with the early twenties, but it does with a sense of hope and optimism that's hard to resist.
+
+Overall, ""Nick and Norah's Infinite Playlist"" is a charming, funny, and endearing film that will resonate with anyone who's ever been young and unsure of themselves. It's a beautiful ode to the power of music and the magic of connection, and I can't wait to watch it again.","I recently watched ""Nick and Norah's Infinite Playlist"" for the first time. I must say, it was a truly delightful film. The story follows Nick, a lovesick musician, and Norah, a free-spirited girl, as they embark on a wild adventure through New York City's indie rock scene.
+
+The chemistry between the leads, Michael Cera and Kat Dennings, is undeniable. They play off each other with ease, delivering witty banter and heartfelt moments that made me smile from ear to ear. The supporting cast, including Aaron Yoo and Rafi Gavron, add to the film's unique and memorable energy.
+
+A standout feature is the film's incredible soundtrack, with a diverse range of artists and genres that perfectly capture the film's mood and tone. It's clear that the filmmakers have a deep love for music, and it shines through in every scene.
+
+The film tackles complex themes like relationships, identity, and growing up with a sense of hope and optimism that's hard to resist. It doesn't offer easy answers or sugarcoat the struggles that come with the early twenties, but it does with a sense of hope and optimism that's hard to resist.
+
+Overall, ""Nick and Norah's Infinite Playlist"" is a charming, funny, and endearing film that will resonate with anyone who's ever been young and unsure of themselves. It's a beautiful ode to the power of music and the magic of connection, and I can't wait to watch it again."
+raid_residual_07,784,790, and ,", and ",coordination_comma_toggle,0.9350878190212992,-2.5851235389709473,-2.652238368988037,comma,0.054561017344015306,2.319942095260288,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0007173601147776184, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.013629842180774749, 'period': 0.00860832137733142}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0007178750897343862, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.012921751615218953, 'period': 0.008614501076812634}",0.6108786610878661,0.6108786610878661,"I recently watched ""Nick and Norah's Infinite Playlist"" for the first time. I must say, it was a truly delightful film. The story follows Nick, a lovesick musician, and Norah, a free-spirited girl, as they embark on a wild adventure through New York City's indie rock scene.
+
+The chemistry between the leads, Michael Cera and Kat Dennings, is undeniable. They play off each other with ease, delivering witty banter and heartfelt moments that made me smile from ear to ear. The supporting cast, including Aaron Yoo and Rafi Gavron, add to the film's unique and memorable energy.
+
+A standout feature is the film's incredible soundtrack, with a diverse range of artists and genres that perfectly capture the film's mood and tone. It's clear that the filmmakers have a deep love for music, and it shines through in every scene.
+
+The film tackles complex themes like relationships, identity, and growing up with a sense of hope and optimism that's hard to resist. It doesn't offer easy answers or sugarcoat the struggles that come with the early twenties, but it does with a sense of hope and optimism that's hard to resist.
+
+Overall, ""Nick and Norah's Infinite Playlist"" is a charming, funny, and endearing film that will resonate with anyone who's ever been young and unsure of themselves. It's a beautiful ode to the power of music and the magic of connection, and I can't wait to watch it again.","I recently watched ""Nick and Norah's Infinite Playlist"" for the first time. I must say, it was a truly delightful film. The story follows Nick, a lovesick musician, and Norah, a free-spirited girl, as they embark on a wild adventure through New York City's indie rock scene.
+
+The chemistry between the leads, Michael Cera and Kat Dennings, is undeniable. They play off each other with ease, delivering witty banter and heartfelt moments that made me smile from ear to ear. The supporting cast, including Aaron Yoo and Rafi Gavron, add to the film's unique and memorable energy.
+
+A standout feature is the film's incredible soundtrack, with a diverse range of artists and genres that perfectly capture the film's mood and tone. It's clear that the filmmakers have a deep love for music and it shines through in every scene.
+
+The film tackles complex themes like relationships, identity, and growing up with a sense of hope and optimism that's hard to resist. It doesn't offer easy answers or sugarcoat the struggles that come with the early twenties, but it does with a sense of hope and optimism that's hard to resist.
+
+Overall, ""Nick and Norah's Infinite Playlist"" is a charming, funny, and endearing film that will resonate with anyone who's ever been young and unsure of themselves. It's a beautiful ode to the power of music and the magic of connection, and I can't wait to watch it again."
+raid_residual_07,884,890, and ,", and ",coordination_comma_toggle,0.9131976771717006,-2.8997910022735596,-2.990593910217285,comma,0.06471370772634673,2.0242828822801058,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0007178750897343862, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.012921751615218953, 'period': 0.008614501076812634}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0007183908045977011, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.01221264367816092, 'period': 0.008620689655172414}",0.6108786610878661,0.6108786610878661,"I recently watched ""Nick and Norah's Infinite Playlist"" for the first time. I must say, it was a truly delightful film. The story follows Nick, a lovesick musician, and Norah, a free-spirited girl, as they embark on a wild adventure through New York City's indie rock scene.
+
+The chemistry between the leads, Michael Cera and Kat Dennings, is undeniable. They play off each other with ease, delivering witty banter and heartfelt moments that made me smile from ear to ear. The supporting cast, including Aaron Yoo and Rafi Gavron, add to the film's unique and memorable energy.
+
+A standout feature is the film's incredible soundtrack, with a diverse range of artists and genres that perfectly capture the film's mood and tone. It's clear that the filmmakers have a deep love for music and it shines through in every scene.
+
+The film tackles complex themes like relationships, identity, and growing up with a sense of hope and optimism that's hard to resist. It doesn't offer easy answers or sugarcoat the struggles that come with the early twenties, but it does with a sense of hope and optimism that's hard to resist.
+
+Overall, ""Nick and Norah's Infinite Playlist"" is a charming, funny, and endearing film that will resonate with anyone who's ever been young and unsure of themselves. It's a beautiful ode to the power of music and the magic of connection, and I can't wait to watch it again.","I recently watched ""Nick and Norah's Infinite Playlist"" for the first time. I must say, it was a truly delightful film. The story follows Nick, a lovesick musician, and Norah, a free-spirited girl, as they embark on a wild adventure through New York City's indie rock scene.
+
+The chemistry between the leads, Michael Cera and Kat Dennings, is undeniable. They play off each other with ease, delivering witty banter and heartfelt moments that made me smile from ear to ear. The supporting cast, including Aaron Yoo and Rafi Gavron, add to the film's unique and memorable energy.
+
+A standout feature is the film's incredible soundtrack, with a diverse range of artists and genres that perfectly capture the film's mood and tone. It's clear that the filmmakers have a deep love for music and it shines through in every scene.
+
+The film tackles complex themes like relationships, identity and growing up with a sense of hope and optimism that's hard to resist. It doesn't offer easy answers or sugarcoat the struggles that come with the early twenties, but it does with a sense of hope and optimism that's hard to resist.
+
+Overall, ""Nick and Norah's Infinite Playlist"" is a charming, funny, and endearing film that will resonate with anyone who's ever been young and unsure of themselves. It's a beautiful ode to the power of music and the magic of connection, and I can't wait to watch it again."
+raid_residual_07,1355,1361, and ,", and ",coordination_comma_toggle,0.5726525914974993,-1.226197600364685,-1.783673644065857,comma,0.09637218413704256,1.7281988715801244,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0007183908045977011, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.01221264367816092, 'period': 0.008620689655172414}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0007189072609633358, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.011502516175413372, 'period': 0.008626887131560028}",0.6108786610878661,0.6108786610878661,"I recently watched ""Nick and Norah's Infinite Playlist"" for the first time. I must say, it was a truly delightful film. The story follows Nick, a lovesick musician, and Norah, a free-spirited girl, as they embark on a wild adventure through New York City's indie rock scene.
+
+The chemistry between the leads, Michael Cera and Kat Dennings, is undeniable. They play off each other with ease, delivering witty banter and heartfelt moments that made me smile from ear to ear. The supporting cast, including Aaron Yoo and Rafi Gavron, add to the film's unique and memorable energy.
+
+A standout feature is the film's incredible soundtrack, with a diverse range of artists and genres that perfectly capture the film's mood and tone. It's clear that the filmmakers have a deep love for music and it shines through in every scene.
+
+The film tackles complex themes like relationships, identity and growing up with a sense of hope and optimism that's hard to resist. It doesn't offer easy answers or sugarcoat the struggles that come with the early twenties, but it does with a sense of hope and optimism that's hard to resist.
+
+Overall, ""Nick and Norah's Infinite Playlist"" is a charming, funny, and endearing film that will resonate with anyone who's ever been young and unsure of themselves. It's a beautiful ode to the power of music and the magic of connection, and I can't wait to watch it again.","I recently watched ""Nick and Norah's Infinite Playlist"" for the first time. I must say, it was a truly delightful film. The story follows Nick, a lovesick musician, and Norah, a free-spirited girl, as they embark on a wild adventure through New York City's indie rock scene.
+
+The chemistry between the leads, Michael Cera and Kat Dennings, is undeniable. They play off each other with ease, delivering witty banter and heartfelt moments that made me smile from ear to ear. The supporting cast, including Aaron Yoo and Rafi Gavron, add to the film's unique and memorable energy.
+
+A standout feature is the film's incredible soundtrack, with a diverse range of artists and genres that perfectly capture the film's mood and tone. It's clear that the filmmakers have a deep love for music and it shines through in every scene.
+
+The film tackles complex themes like relationships, identity and growing up with a sense of hope and optimism that's hard to resist. It doesn't offer easy answers or sugarcoat the struggles that come with the early twenties, but it does with a sense of hope and optimism that's hard to resist.
+
+Overall, ""Nick and Norah's Infinite Playlist"" is a charming, funny, and endearing film that will resonate with anyone who's ever been young and unsure of themselves. It's a beautiful ode to the power of music and the magic of connection and I can't wait to watch it again."
+raid_residual_09,318,324, and ,", and ",coordination_comma_toggle,0.8936338220488297,-4.256967067718506,-4.369426250457764,comma,0.07075110581176881,1.9366171190717416,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.004985044865403789, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.007976071784646061, 'period': 0.005982053838484547}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.00499001996007984, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.006986027944111776, 'period': 0.005988023952095809}",0.7448275862068966,0.7448275862068966,"We propose a weakly supervised semantic segmentation method that utilizes large quantities and diversities in unlabeled videos to produce accurate, high-resolution results quickly. Our method utilizes motion cues found in video sequences to localize objects and classes. These cues are learned by an offline classifier, and their predictions are used as initial seed sets to propagate via graph cut optimization. Our method utilizes both spatial and temporal structural information, giving our system a good performance over static image-only learning frameworks as reported in literature. We also incorporate recent work, such as Deep Features (a Convolutional Neural Network), to improve overall accuracy and efficiency without significantly increasing run time cost. Our method significantly outperforms recent state-of-the-art methods such as PropNet and LTFS2K+N on public benchmark datasets such as Cityscapes, MPII, and CamVid, which are densely and significantly varied in their labeled regions.","We propose a weakly supervised semantic segmentation method that utilizes large quantities and diversities in unlabeled videos to produce accurate, high-resolution results quickly. Our method utilizes motion cues found in video sequences to localize objects and classes. These cues are learned by an offline classifier and their predictions are used as initial seed sets to propagate via graph cut optimization. Our method utilizes both spatial and temporal structural information, giving our system a good performance over static image-only learning frameworks as reported in literature. We also incorporate recent work, such as Deep Features (a Convolutional Neural Network), to improve overall accuracy and efficiency without significantly increasing run time cost. Our method significantly outperforms recent state-of-the-art methods such as PropNet and LTFS2K+N on public benchmark datasets such as Cityscapes, MPII, and CamVid, which are densely and significantly varied in their labeled regions."
+raid_residual_09,318,324,. T, and t,coordination_to_period,0.9098949232536454,-4.369426250457764,-4.463852405548096,period,0.1821157393648945,1.4399901669281021,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.00499001996007984, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.006986027944111776, 'period': 0.005988023952095809}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.005005005005005005, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.007007007007007007, 'period': 0.007007007007007007}",0.7448275862068966,0.75,"We propose a weakly supervised semantic segmentation method that utilizes large quantities and diversities in unlabeled videos to produce accurate, high-resolution results quickly. Our method utilizes motion cues found in video sequences to localize objects and classes. These cues are learned by an offline classifier and their predictions are used as initial seed sets to propagate via graph cut optimization. Our method utilizes both spatial and temporal structural information, giving our system a good performance over static image-only learning frameworks as reported in literature. We also incorporate recent work, such as Deep Features (a Convolutional Neural Network), to improve overall accuracy and efficiency without significantly increasing run time cost. Our method significantly outperforms recent state-of-the-art methods such as PropNet and LTFS2K+N on public benchmark datasets such as Cityscapes, MPII, and CamVid, which are densely and significantly varied in their labeled regions.","We propose a weakly supervised semantic segmentation method that utilizes large quantities and diversities in unlabeled videos to produce accurate, high-resolution results quickly. Our method utilizes motion cues found in video sequences to localize objects and classes. These cues are learned by an offline classifier. Their predictions are used as initial seed sets to propagate via graph cut optimization. Our method utilizes both spatial and temporal structural information, giving our system a good performance over static image-only learning frameworks as reported in literature. We also incorporate recent work, such as Deep Features (a Convolutional Neural Network), to improve overall accuracy and efficiency without significantly increasing run time cost. Our method significantly outperforms recent state-of-the-art methods such as PropNet and LTFS2K+N on public benchmark datasets such as Cityscapes, MPII, and CamVid, which are densely and significantly varied in their labeled regions."
+raid_residual_10,203,205,", that is, ",: ,separator_to_connective,0.8471832621347378,-3.5782880783081055,-3.744126319885254,colon,0.49999999999999994,1.0,0,"{'semicolon': 0.0, 'colon': 0.0006191950464396285, 'hyphen': 0.0006191950464396285, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.009907120743034056, 'period': 0.007430340557275541}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0006157635467980296, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.011083743842364532, 'period': 0.007389162561576354}",0.5893536121673004,0.5849056603773585,"In ""Cold is the Grave,"" the seventh book in Peter Robinson's Inspector Banks series, Detective Chief Inspector Alan Banks faces his most challenging case yet. The novel begins with a disturbing discovery: Kyle Heath, a troubled teenager, is found dead in a homemade grave on the moors. His cryptic clues hint at a sinister motive, leading Banks to investigate a sinister web of secrets and lies within the tight-knit community of Eastvale.
+
+Kyle's troubled past and his association with the Submitting Church, a local religious sect, raise suspicions. Banks begins to suspect that Kyle's death was not a random act. Detective Inspector Annie Cabbot, Banks's loyal partner, is drawn to the case due to her own past. Her determination to find justice for Kyle leads her to confront her own demons, and the investigation becomes increasingly dangerous.
+
+As the investigation progresses, Banks and Cabbot realize that there are people who will go to great lengths to protect the secrets in Eastvale's darkest corners. The tension escalates, and the detectives find themselves in a race against time to catch the killer, who seems to always be one step ahead.
+
+""Cold is the Grave"" is a chilling and suspenseful novel that explores the darker side of human nature. Robinson's intricate plotting and sharp characterization bring the small town of Eastvale to life, making the story a haunting backdrop for the complex and unsettling storyline. As Banks and Cabbot navigate a labyrinth of deception, the true nature of evil is revealed, leaving readers on the edge of their seats until the shocking and shocking revelation.","In ""Cold is the Grave,"" the seventh book in Peter Robinson's Inspector Banks series, Detective Chief Inspector Alan Banks faces his most challenging case yet. The novel begins with a disturbing discovery, that is, Kyle Heath, a troubled teenager, is found dead in a homemade grave on the moors. His cryptic clues hint at a sinister motive, leading Banks to investigate a sinister web of secrets and lies within the tight-knit community of Eastvale.
+
+Kyle's troubled past and his association with the Submitting Church, a local religious sect, raise suspicions. Banks begins to suspect that Kyle's death was not a random act. Detective Inspector Annie Cabbot, Banks's loyal partner, is drawn to the case due to her own past. Her determination to find justice for Kyle leads her to confront her own demons, and the investigation becomes increasingly dangerous.
+
+As the investigation progresses, Banks and Cabbot realize that there are people who will go to great lengths to protect the secrets in Eastvale's darkest corners. The tension escalates, and the detectives find themselves in a race against time to catch the killer, who seems to always be one step ahead.
+
+""Cold is the Grave"" is a chilling and suspenseful novel that explores the darker side of human nature. Robinson's intricate plotting and sharp characterization bring the small town of Eastvale to life, making the story a haunting backdrop for the complex and unsettling storyline. As Banks and Cabbot navigate a labyrinth of deception, the true nature of evil is revealed, leaving readers on the edge of their seats until the shocking and shocking revelation."
+raid_residual_10,1044,1050, and ,", and ",coordination_comma_toggle,0.9477921043160703,-2.652381658554077,-2.7060017585754395,comma,0.05000048717694809,4.6073193449480145,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0006157635467980296, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.011083743842364532, 'period': 0.007389162561576354}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0006161429451632779, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.010474430067775724, 'period': 0.0073937153419593345}",0.5849056603773585,0.5849056603773585,"In ""Cold is the Grave,"" the seventh book in Peter Robinson's Inspector Banks series, Detective Chief Inspector Alan Banks faces his most challenging case yet. The novel begins with a disturbing discovery, that is, Kyle Heath, a troubled teenager, is found dead in a homemade grave on the moors. His cryptic clues hint at a sinister motive, leading Banks to investigate a sinister web of secrets and lies within the tight-knit community of Eastvale.
+
+Kyle's troubled past and his association with the Submitting Church, a local religious sect, raise suspicions. Banks begins to suspect that Kyle's death was not a random act. Detective Inspector Annie Cabbot, Banks's loyal partner, is drawn to the case due to her own past. Her determination to find justice for Kyle leads her to confront her own demons, and the investigation becomes increasingly dangerous.
+
+As the investigation progresses, Banks and Cabbot realize that there are people who will go to great lengths to protect the secrets in Eastvale's darkest corners. The tension escalates, and the detectives find themselves in a race against time to catch the killer, who seems to always be one step ahead.
+
+""Cold is the Grave"" is a chilling and suspenseful novel that explores the darker side of human nature. Robinson's intricate plotting and sharp characterization bring the small town of Eastvale to life, making the story a haunting backdrop for the complex and unsettling storyline. As Banks and Cabbot navigate a labyrinth of deception, the true nature of evil is revealed, leaving readers on the edge of their seats until the shocking and shocking revelation.","In ""Cold is the Grave,"" the seventh book in Peter Robinson's Inspector Banks series, Detective Chief Inspector Alan Banks faces his most challenging case yet. The novel begins with a disturbing discovery, that is, Kyle Heath, a troubled teenager, is found dead in a homemade grave on the moors. His cryptic clues hint at a sinister motive, leading Banks to investigate a sinister web of secrets and lies within the tight-knit community of Eastvale.
+
+Kyle's troubled past and his association with the Submitting Church, a local religious sect, raise suspicions. Banks begins to suspect that Kyle's death was not a random act. Detective Inspector Annie Cabbot, Banks's loyal partner, is drawn to the case due to her own past. Her determination to find justice for Kyle leads her to confront her own demons, and the investigation becomes increasingly dangerous.
+
+As the investigation progresses, Banks and Cabbot realize that there are people who will go to great lengths to protect the secrets in Eastvale's darkest corners. The tension escalates and the detectives find themselves in a race against time to catch the killer, who seems to always be one step ahead.
+
+""Cold is the Grave"" is a chilling and suspenseful novel that explores the darker side of human nature. Robinson's intricate plotting and sharp characterization bring the small town of Eastvale to life, making the story a haunting backdrop for the complex and unsettling storyline. As Banks and Cabbot navigate a labyrinth of deception, the true nature of evil is revealed, leaving readers on the edge of their seats until the shocking and shocking revelation."
+raid_residual_10,1044,1050,. T, and t,coordination_to_period,0.9288828338545423,-2.7060017585754395,-2.7797744274139404,period,0.057334989609232605,2.2003888467908466,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0006161429451632779, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.010474430067775724, 'period': 0.0073937153419593345}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0006172839506172839, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.010493827160493827, 'period': 0.008024691358024692}",0.5849056603773585,0.5871212121212122,"In ""Cold is the Grave,"" the seventh book in Peter Robinson's Inspector Banks series, Detective Chief Inspector Alan Banks faces his most challenging case yet. The novel begins with a disturbing discovery, that is, Kyle Heath, a troubled teenager, is found dead in a homemade grave on the moors. His cryptic clues hint at a sinister motive, leading Banks to investigate a sinister web of secrets and lies within the tight-knit community of Eastvale.
+
+Kyle's troubled past and his association with the Submitting Church, a local religious sect, raise suspicions. Banks begins to suspect that Kyle's death was not a random act. Detective Inspector Annie Cabbot, Banks's loyal partner, is drawn to the case due to her own past. Her determination to find justice for Kyle leads her to confront her own demons, and the investigation becomes increasingly dangerous.
+
+As the investigation progresses, Banks and Cabbot realize that there are people who will go to great lengths to protect the secrets in Eastvale's darkest corners. The tension escalates and the detectives find themselves in a race against time to catch the killer, who seems to always be one step ahead.
+
+""Cold is the Grave"" is a chilling and suspenseful novel that explores the darker side of human nature. Robinson's intricate plotting and sharp characterization bring the small town of Eastvale to life, making the story a haunting backdrop for the complex and unsettling storyline. As Banks and Cabbot navigate a labyrinth of deception, the true nature of evil is revealed, leaving readers on the edge of their seats until the shocking and shocking revelation.","In ""Cold is the Grave,"" the seventh book in Peter Robinson's Inspector Banks series, Detective Chief Inspector Alan Banks faces his most challenging case yet. The novel begins with a disturbing discovery, that is, Kyle Heath, a troubled teenager, is found dead in a homemade grave on the moors. His cryptic clues hint at a sinister motive, leading Banks to investigate a sinister web of secrets and lies within the tight-knit community of Eastvale.
+
+Kyle's troubled past and his association with the Submitting Church, a local religious sect, raise suspicions. Banks begins to suspect that Kyle's death was not a random act. Detective Inspector Annie Cabbot, Banks's loyal partner, is drawn to the case due to her own past. Her determination to find justice for Kyle leads her to confront her own demons, and the investigation becomes increasingly dangerous.
+
+As the investigation progresses, Banks and Cabbot realize that there are people who will go to great lengths to protect the secrets in Eastvale's darkest corners. The tension escalates. The detectives find themselves in a race against time to catch the killer, who seems to always be one step ahead.
+
+""Cold is the Grave"" is a chilling and suspenseful novel that explores the darker side of human nature. Robinson's intricate plotting and sharp characterization bring the small town of Eastvale to life, making the story a haunting backdrop for the complex and unsettling storyline. As Banks and Cabbot navigate a labyrinth of deception, the true nature of evil is revealed, leaving readers on the edge of their seats until the shocking and shocking revelation."
+raid_residual_10,803,810,. T,", and t",coordination_to_period,0.9241749868189666,-2.535364866256714,-2.6142187118530273,comma,0.05001259982438691,3.794113291522595,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0006172839506172839, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.010493827160493827, 'period': 0.008024691358024692}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0006188118811881188, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.009900990099009901, 'period': 0.008663366336633664}",0.5871212121212122,0.5893536121673004,"In ""Cold is the Grave,"" the seventh book in Peter Robinson's Inspector Banks series, Detective Chief Inspector Alan Banks faces his most challenging case yet. The novel begins with a disturbing discovery, that is, Kyle Heath, a troubled teenager, is found dead in a homemade grave on the moors. His cryptic clues hint at a sinister motive, leading Banks to investigate a sinister web of secrets and lies within the tight-knit community of Eastvale.
+
+Kyle's troubled past and his association with the Submitting Church, a local religious sect, raise suspicions. Banks begins to suspect that Kyle's death was not a random act. Detective Inspector Annie Cabbot, Banks's loyal partner, is drawn to the case due to her own past. Her determination to find justice for Kyle leads her to confront her own demons, and the investigation becomes increasingly dangerous.
+
+As the investigation progresses, Banks and Cabbot realize that there are people who will go to great lengths to protect the secrets in Eastvale's darkest corners. The tension escalates. The detectives find themselves in a race against time to catch the killer, who seems to always be one step ahead.
+
+""Cold is the Grave"" is a chilling and suspenseful novel that explores the darker side of human nature. Robinson's intricate plotting and sharp characterization bring the small town of Eastvale to life, making the story a haunting backdrop for the complex and unsettling storyline. As Banks and Cabbot navigate a labyrinth of deception, the true nature of evil is revealed, leaving readers on the edge of their seats until the shocking and shocking revelation.","In ""Cold is the Grave,"" the seventh book in Peter Robinson's Inspector Banks series, Detective Chief Inspector Alan Banks faces his most challenging case yet. The novel begins with a disturbing discovery, that is, Kyle Heath, a troubled teenager, is found dead in a homemade grave on the moors. His cryptic clues hint at a sinister motive, leading Banks to investigate a sinister web of secrets and lies within the tight-knit community of Eastvale.
+
+Kyle's troubled past and his association with the Submitting Church, a local religious sect, raise suspicions. Banks begins to suspect that Kyle's death was not a random act. Detective Inspector Annie Cabbot, Banks's loyal partner, is drawn to the case due to her own past. Her determination to find justice for Kyle leads her to confront her own demons. The investigation becomes increasingly dangerous.
+
+As the investigation progresses, Banks and Cabbot realize that there are people who will go to great lengths to protect the secrets in Eastvale's darkest corners. The tension escalates. The detectives find themselves in a race against time to catch the killer, who seems to always be one step ahead.
+
+""Cold is the Grave"" is a chilling and suspenseful novel that explores the darker side of human nature. Robinson's intricate plotting and sharp characterization bring the small town of Eastvale to life, making the story a haunting backdrop for the complex and unsettling storyline. As Banks and Cabbot navigate a labyrinth of deception, the true nature of evil is revealed, leaving readers on the edge of their seats until the shocking and shocking revelation."
+raid_residual_11,335,337,", that is, ",: ,separator_to_connective,0.6254907540203218,-2.092944383621216,-2.5621631145477295,colon,0.49999999999999994,1.0,0,"{'semicolon': 0.0, 'colon': 0.0013986013986013986, 'hyphen': 0.0013986013986013986, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.011188811188811189, 'period': 0.008391608391608392}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0013812154696132596, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.013812154696132596, 'period': 0.008287292817679558}",0.6902654867256637,0.6869565217391305,"Borussia Dortmund is facing financial difficulties, according to a report in the German newspaper Bild.
+
+The Bundesliga club, which has won the German title twice in the past three seasons, is said to be in debt to the tune of 100 million euros (£80 million).
+
+The club's chief executive, Hans-Joachim Watzke, denies the report, saying: ""We are not in danger of going bust.""
+
+Dortmund currently ranks third in the Bundesliga, 10 points behind leaders Bayern Munich.
+
+The club's debts have been exacerbated by a 100 million euro loan taken out in 2008 to help fund the construction of a new stadium.
+
+The global economic crisis has hit the club's sponsors and commercial partners, further exacerbating the situation.","Borussia Dortmund is facing financial difficulties, according to a report in the German newspaper Bild.
+
+The Bundesliga club, which has won the German title twice in the past three seasons, is said to be in debt to the tune of 100 million euros (£80 million).
+
+The club's chief executive, Hans-Joachim Watzke, denies the report, saying, that is, ""We are not in danger of going bust.""
+
+Dortmund currently ranks third in the Bundesliga, 10 points behind leaders Bayern Munich.
+
+The club's debts have been exacerbated by a 100 million euro loan taken out in 2008 to help fund the construction of a new stadium.
+
+The global economic crisis has hit the club's sponsors and commercial partners, further exacerbating the situation."
+raid_residual_11,258,264, and the,".
+
+The",period_to_coordination,0.8689081714245122,-1.9635120630264282,-2.104029893875122,period,0.3016160348104391,1.2366447013966595,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0013812154696132596, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.013812154696132596, 'period': 0.008287292817679558}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0013774104683195593, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.013774104683195593, 'period': 0.006887052341597796}",0.6869565217391305,0.6810344827586207,"Borussia Dortmund is facing financial difficulties, according to a report in the German newspaper Bild.
+
+The Bundesliga club, which has won the German title twice in the past three seasons, is said to be in debt to the tune of 100 million euros (£80 million).
+
+The club's chief executive, Hans-Joachim Watzke, denies the report, saying, that is, ""We are not in danger of going bust.""
+
+Dortmund currently ranks third in the Bundesliga, 10 points behind leaders Bayern Munich.
+
+The club's debts have been exacerbated by a 100 million euro loan taken out in 2008 to help fund the construction of a new stadium.
+
+The global economic crisis has hit the club's sponsors and commercial partners, further exacerbating the situation.","Borussia Dortmund is facing financial difficulties, according to a report in the German newspaper Bild.
+
+The Bundesliga club, which has won the German title twice in the past three seasons, is said to be in debt to the tune of 100 million euros (£80 million) and the club's chief executive, Hans-Joachim Watzke, denies the report, saying, that is, ""We are not in danger of going bust.""
+
+Dortmund currently ranks third in the Bundesliga, 10 points behind leaders Bayern Munich.
+
+The club's debts have been exacerbated by a 100 million euro loan taken out in 2008 to help fund the construction of a new stadium.
+
+The global economic crisis has hit the club's sponsors and commercial partners, further exacerbating the situation."
+raid_residual_13,311,314,", that is, ",":
+
+",separator_to_connective,0.6106011679010884,-1.0713386535644531,-1.5646499395370483,colon,0.06618758896588241,2.0,0,"{'semicolon': 0.0, 'colon': 0.0018814675446848542, 'hyphen': 0.0009407337723424271, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.007525870178739417, 'period': 0.01599247412982126}","{'semicolon': 0.0, 'colon': 0.0009337068160597573, 'hyphen': 0.0009337068160597573, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.009337068160597572, 'period': 0.015873015873015872}",0.5526315789473685,0.5584415584415584,"""Ingredients:
+
+1/2 cup butter
+
+1/2 cup white sugar
+
+1/2 cup unsweetened cocoa powder
+
+1/2 cup all-purpose flour
+
+1/2 cup chopped walnuts
+
+1/2 cup semisweet chocolate chips
+
+1/2 cup white chocolate chips
+
+1/2 cup sweetened condensed milk
+
+1/2 cup instant coffee granules
+
+1/2 cup confectioners' sugar
+
+Directions:
+
+Preheat oven to 350 degrees F (175 degrees C). Grease a 9x9 inch pan.
+
+In a medium bowl, cream together the butter, sugar and cocoa powder. Mix in the flour and walnuts. Press into the bottom of the prepared pan.
+
+Bake for 15 minutes in the preheated oven. Remove from oven and sprinkle with chocolate chips. Return to oven for 1 minute, or until chocolate chips are soft. Spread chocolate chips evenly over the crust.
+
+In a small saucepan, combine the white chocolate chips, condensed milk and instant coffee. Cook over low heat, stirring constantly, until smooth. Pour over the chocolate chips. Refrigerate until firm.
+
+Remove from refrigerator and sprinkle with confectioners' sugar. Cut into bars.""
+
+Recipe posted by ""Mommy2003"" on Jan. 1, 2003.","""Ingredients:
+
+1/2 cup butter
+
+1/2 cup white sugar
+
+1/2 cup unsweetened cocoa powder
+
+1/2 cup all-purpose flour
+
+1/2 cup chopped walnuts
+
+1/2 cup semisweet chocolate chips
+
+1/2 cup white chocolate chips
+
+1/2 cup sweetened condensed milk
+
+1/2 cup instant coffee granules
+
+1/2 cup confectioners' sugar
+
+Directions, that is, Preheat oven to 350 degrees F (175 degrees C). Grease a 9x9 inch pan.
+
+In a medium bowl, cream together the butter, sugar and cocoa powder. Mix in the flour and walnuts. Press into the bottom of the prepared pan.
+
+Bake for 15 minutes in the preheated oven. Remove from oven and sprinkle with chocolate chips. Return to oven for 1 minute, or until chocolate chips are soft. Spread chocolate chips evenly over the crust.
+
+In a small saucepan, combine the white chocolate chips, condensed milk and instant coffee. Cook over low heat, stirring constantly, until smooth. Pour over the chocolate chips. Refrigerate until firm.
+
+Remove from refrigerator and sprinkle with confectioners' sugar. Cut into bars.""
+
+Recipe posted by ""Mommy2003"" on Jan. 1, 2003."
+raid_residual_14,227,232, and the,. The,period_to_coordination,0.9067792138077415,-3.5022566318511963,-3.6001129150390625,period,0.07344567903306116,1.9053281155930164,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.00130718954248366, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.00522875816993464, 'period': 0.009150326797385621}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0013020833333333333, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.005208333333333333, 'period': 0.0078125}",0.6461538461538462,0.6412213740458015,"I returned to my dorm after lunch and discovered that someone had emptied all the segregated waste bins, mixing compost and recycling with regular trash. This is particularly wasteful since my school does not compost or recycle. The bins had been overturned, and the hazardous waste was dangerous for the workers who had to collect it. I hope it was the fundamentalists in my dorm who did this, as they have complained about ""lack of faith-based living"" in the dorms. These people are the absolute worst. I received an email from the university president about the university's apology for this injustice, and the residential life staff are deflecting the criticism. I feel so bad for the workers who have to deal with the literal medical waste from this situation.","I returned to my dorm after lunch and discovered that someone had emptied all the segregated waste bins, mixing compost and recycling with regular trash. This is particularly wasteful since my school does not compost or recycle and the bins had been overturned, and the hazardous waste was dangerous for the workers who had to collect it. I hope it was the fundamentalists in my dorm who did this, as they have complained about ""lack of faith-based living"" in the dorms. These people are the absolute worst. I received an email from the university president about the university's apology for this injustice, and the residential life staff are deflecting the criticism. I feel so bad for the workers who have to deal with the literal medical waste from this situation."
+raid_residual_14,469,476, and these,. These,period_to_coordination,0.8913623100858553,-3.5456345081329346,-3.6606388092041016,period,0.6014146498573854,0.8853490101639689,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0013020833333333333, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.005208333333333333, 'period': 0.0078125}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0012970168612191958, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.005188067444876783, 'period': 0.00648508430609598}",0.6412213740458015,0.6363636363636364,"I returned to my dorm after lunch and discovered that someone had emptied all the segregated waste bins, mixing compost and recycling with regular trash. This is particularly wasteful since my school does not compost or recycle and the bins had been overturned, and the hazardous waste was dangerous for the workers who had to collect it. I hope it was the fundamentalists in my dorm who did this, as they have complained about ""lack of faith-based living"" in the dorms. These people are the absolute worst. I received an email from the university president about the university's apology for this injustice, and the residential life staff are deflecting the criticism. I feel so bad for the workers who have to deal with the literal medical waste from this situation.","I returned to my dorm after lunch and discovered that someone had emptied all the segregated waste bins, mixing compost and recycling with regular trash. This is particularly wasteful since my school does not compost or recycle and the bins had been overturned, and the hazardous waste was dangerous for the workers who had to collect it. I hope it was the fundamentalists in my dorm who did this, as they have complained about ""lack of faith-based living"" in the dorms and these people are the absolute worst. I received an email from the university president about the university's apology for this injustice, and the residential life staff are deflecting the criticism. I feel so bad for the workers who have to deal with the literal medical waste from this situation."
+raid_residual_15,238,240,", and ",; ,separator_to_connective,1.0,-2.8132076263427734,-2.7412571907043457,semicolon,0.49999999999999994,1.0,0,"{'semicolon': 0.0009017132551848512, 'colon': 0.0, 'hyphen': 0.004508566275924256, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.009918845807033363, 'period': 0.010820559062218215}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.004492362982929021, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.01078167115902965, 'period': 0.01078167115902965}",0.6446700507614214,0.6414141414141414,"This movie was fantastic. It's been a long time since I went to the movies and left feeling like I got my money's worth. I'm a fan of all the Superman movies, TV shows, and comic books. ""Man of Steel"" brought back a sense of youthful glee; it awakened the inner 5-year-old in all of us. I'm not sure if it was the acting, the special effects, or the fact that as a fan, I cheered on Superman/Clark Kent (Henry Cavill) as he made his way through the movie, but this movie delivered. There were action scenes throughout the movie that were nothing short of spectacular. Kostroma, Russia, and the Philippines disaster scenes were bone-chilling and hair-raising. As Superman rescued the workers from the collapsing building, it was like watching your favorite superhero come to life. This movie also posed questions of moral responsibility and the accountability that comes with possessing extraordinary powers. ""Man of Steel"" is a must-see for all fans, and a great introduction for those who are not. I plan on seeing this one again while it's still in the theater. Go see this movie, you won't be disappointed.","This movie was fantastic. It's been a long time since I went to the movies and left feeling like I got my money's worth. I'm a fan of all the Superman movies, TV shows, and comic books. ""Man of Steel"" brought back a sense of youthful glee, and it awakened the inner 5-year-old in all of us. I'm not sure if it was the acting, the special effects, or the fact that as a fan, I cheered on Superman/Clark Kent (Henry Cavill) as he made his way through the movie, but this movie delivered. There were action scenes throughout the movie that were nothing short of spectacular. Kostroma, Russia, and the Philippines disaster scenes were bone-chilling and hair-raising. As Superman rescued the workers from the collapsing building, it was like watching your favorite superhero come to life. This movie also posed questions of moral responsibility and the accountability that comes with possessing extraordinary powers. ""Man of Steel"" is a must-see for all fans, and a great introduction for those who are not. I plan on seeing this one again while it's still in the theater. Go see this movie, you won't be disappointed."
+raid_residual_15,238,244, and ,", and ",coordination_comma_toggle,0.9273327808113752,-2.7412571907043457,-2.816699981689453,comma,0.06862794221352202,1.9642042817099565,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.004492362982929021, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.01078167115902965, 'period': 0.01078167115902965}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0044964028776978415, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.009892086330935251, 'period': 0.01079136690647482}",0.6414141414141414,0.6414141414141414,"This movie was fantastic. It's been a long time since I went to the movies and left feeling like I got my money's worth. I'm a fan of all the Superman movies, TV shows, and comic books. ""Man of Steel"" brought back a sense of youthful glee, and it awakened the inner 5-year-old in all of us. I'm not sure if it was the acting, the special effects, or the fact that as a fan, I cheered on Superman/Clark Kent (Henry Cavill) as he made his way through the movie, but this movie delivered. There were action scenes throughout the movie that were nothing short of spectacular. Kostroma, Russia, and the Philippines disaster scenes were bone-chilling and hair-raising. As Superman rescued the workers from the collapsing building, it was like watching your favorite superhero come to life. This movie also posed questions of moral responsibility and the accountability that comes with possessing extraordinary powers. ""Man of Steel"" is a must-see for all fans, and a great introduction for those who are not. I plan on seeing this one again while it's still in the theater. Go see this movie, you won't be disappointed.","This movie was fantastic. It's been a long time since I went to the movies and left feeling like I got my money's worth. I'm a fan of all the Superman movies, TV shows, and comic books. ""Man of Steel"" brought back a sense of youthful glee and it awakened the inner 5-year-old in all of us. I'm not sure if it was the acting, the special effects, or the fact that as a fan, I cheered on Superman/Clark Kent (Henry Cavill) as he made his way through the movie, but this movie delivered. There were action scenes throughout the movie that were nothing short of spectacular. Kostroma, Russia, and the Philippines disaster scenes were bone-chilling and hair-raising. As Superman rescued the workers from the collapsing building, it was like watching your favorite superhero come to life. This movie also posed questions of moral responsibility and the accountability that comes with possessing extraordinary powers. ""Man of Steel"" is a must-see for all fans, and a great introduction for those who are not. I plan on seeing this one again while it's still in the theater. Go see this movie, you won't be disappointed."
+raid_residual_15,24,28, and it,. It,period_to_coordination,0.9038896517343008,-2.3728015422821045,-2.4738495349884033,period,0.05012600627115139,3.218419587195235,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0044964028776978415, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.009892086330935251, 'period': 0.01079136690647482}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.004484304932735426, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.009865470852017937, 'period': 0.009865470852017937}",0.6414141414141414,0.6381909547738693,"This movie was fantastic. It's been a long time since I went to the movies and left feeling like I got my money's worth. I'm a fan of all the Superman movies, TV shows, and comic books. ""Man of Steel"" brought back a sense of youthful glee and it awakened the inner 5-year-old in all of us. I'm not sure if it was the acting, the special effects, or the fact that as a fan, I cheered on Superman/Clark Kent (Henry Cavill) as he made his way through the movie, but this movie delivered. There were action scenes throughout the movie that were nothing short of spectacular. Kostroma, Russia, and the Philippines disaster scenes were bone-chilling and hair-raising. As Superman rescued the workers from the collapsing building, it was like watching your favorite superhero come to life. This movie also posed questions of moral responsibility and the accountability that comes with possessing extraordinary powers. ""Man of Steel"" is a must-see for all fans, and a great introduction for those who are not. I plan on seeing this one again while it's still in the theater. Go see this movie, you won't be disappointed.","This movie was fantastic and it's been a long time since I went to the movies and left feeling like I got my money's worth. I'm a fan of all the Superman movies, TV shows, and comic books. ""Man of Steel"" brought back a sense of youthful glee and it awakened the inner 5-year-old in all of us. I'm not sure if it was the acting, the special effects, or the fact that as a fan, I cheered on Superman/Clark Kent (Henry Cavill) as he made his way through the movie, but this movie delivered. There were action scenes throughout the movie that were nothing short of spectacular. Kostroma, Russia, and the Philippines disaster scenes were bone-chilling and hair-raising. As Superman rescued the workers from the collapsing building, it was like watching your favorite superhero come to life. This movie also posed questions of moral responsibility and the accountability that comes with possessing extraordinary powers. ""Man of Steel"" is a must-see for all fans, and a great introduction for those who are not. I plan on seeing this one again while it's still in the theater. Go see this movie, you won't be disappointed."
+raid_residual_15,486,493, and there,. There,period_to_coordination,0.8122465862310315,-3.632270336151123,-3.840221643447876,period,0.05714603921244179,2.206966195709315,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.004484304932735426, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.009865470852017937, 'period': 0.009865470852017937}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.004472271914132379, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.009838998211091235, 'period': 0.008944543828264758}",0.6381909547738693,0.635,"This movie was fantastic and it's been a long time since I went to the movies and left feeling like I got my money's worth. I'm a fan of all the Superman movies, TV shows, and comic books. ""Man of Steel"" brought back a sense of youthful glee and it awakened the inner 5-year-old in all of us. I'm not sure if it was the acting, the special effects, or the fact that as a fan, I cheered on Superman/Clark Kent (Henry Cavill) as he made his way through the movie, but this movie delivered. There were action scenes throughout the movie that were nothing short of spectacular. Kostroma, Russia, and the Philippines disaster scenes were bone-chilling and hair-raising. As Superman rescued the workers from the collapsing building, it was like watching your favorite superhero come to life. This movie also posed questions of moral responsibility and the accountability that comes with possessing extraordinary powers. ""Man of Steel"" is a must-see for all fans, and a great introduction for those who are not. I plan on seeing this one again while it's still in the theater. Go see this movie, you won't be disappointed.","This movie was fantastic and it's been a long time since I went to the movies and left feeling like I got my money's worth. I'm a fan of all the Superman movies, TV shows, and comic books. ""Man of Steel"" brought back a sense of youthful glee and it awakened the inner 5-year-old in all of us. I'm not sure if it was the acting, the special effects, or the fact that as a fan, I cheered on Superman/Clark Kent (Henry Cavill) as he made his way through the movie, but this movie delivered and there were action scenes throughout the movie that were nothing short of spectacular. Kostroma, Russia, and the Philippines disaster scenes were bone-chilling and hair-raising. As Superman rescued the workers from the collapsing building, it was like watching your favorite superhero come to life. This movie also posed questions of moral responsibility and the accountability that comes with possessing extraordinary powers. ""Man of Steel"" is a must-see for all fans, and a great introduction for those who are not. I plan on seeing this one again while it's still in the theater. Go see this movie, you won't be disappointed."
+raid_residual_15,787,793, and this,. This,period_to_coordination,0.785600206876729,-2.804757833480835,-3.046065092086792,period,0.3282988468852628,1.2009409977376324,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.004472271914132379, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.009838998211091235, 'period': 0.008944543828264758}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0044603033006244425, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.009812667261373774, 'period': 0.008028545941123996}",0.635,0.6318407960199005,"This movie was fantastic and it's been a long time since I went to the movies and left feeling like I got my money's worth. I'm a fan of all the Superman movies, TV shows, and comic books. ""Man of Steel"" brought back a sense of youthful glee and it awakened the inner 5-year-old in all of us. I'm not sure if it was the acting, the special effects, or the fact that as a fan, I cheered on Superman/Clark Kent (Henry Cavill) as he made his way through the movie, but this movie delivered and there were action scenes throughout the movie that were nothing short of spectacular. Kostroma, Russia, and the Philippines disaster scenes were bone-chilling and hair-raising. As Superman rescued the workers from the collapsing building, it was like watching your favorite superhero come to life. This movie also posed questions of moral responsibility and the accountability that comes with possessing extraordinary powers. ""Man of Steel"" is a must-see for all fans, and a great introduction for those who are not. I plan on seeing this one again while it's still in the theater. Go see this movie, you won't be disappointed.","This movie was fantastic and it's been a long time since I went to the movies and left feeling like I got my money's worth. I'm a fan of all the Superman movies, TV shows, and comic books. ""Man of Steel"" brought back a sense of youthful glee and it awakened the inner 5-year-old in all of us. I'm not sure if it was the acting, the special effects, or the fact that as a fan, I cheered on Superman/Clark Kent (Henry Cavill) as he made his way through the movie, but this movie delivered and there were action scenes throughout the movie that were nothing short of spectacular. Kostroma, Russia, and the Philippines disaster scenes were bone-chilling and hair-raising. As Superman rescued the workers from the collapsing building, it was like watching your favorite superhero come to life and this movie also posed questions of moral responsibility and the accountability that comes with possessing extraordinary powers. ""Man of Steel"" is a must-see for all fans, and a great introduction for those who are not. I plan on seeing this one again while it's still in the theater. Go see this movie, you won't be disappointed."
+raid_residual_16,973,977, and he,. He,period_to_coordination,0.8588691387211148,-2.1352853775024414,-2.287424087524414,period,0.050000060539759826,5.1286512294103614,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0016963528413910093, 'en_dash': 0.0008481764206955047, 'em_dash': 0.0, 'comma': 0.01102629346904156, 'period': 0.011874469889737066}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.001692047377326565, 'en_dash': 0.0008460236886632825, 'em_dash': 0.0, 'comma': 0.010998307952622674, 'period': 0.010998307952622674}",0.5303867403314917,0.5274725274725275,"Edwin Bryant (January 1834 – April 4, 1908) was an English-born American businessman and politician who served as the sixth mayor of Los Angeles, California, from 1884 to 1886. He also served as a member of the Los Angeles Common Council, the governing body of the city, from 1872 to 1874 and again from 1878 to 1882.
+
+Bryant was born in Manchester, England, in 1834 and immigrated to the United States with his family in 1846. They settled in Wisconsin, where he received a liberal education and became a naturalized U.S. citizen in 1851.
+
+In 1857, Bryant moved to California and settled in Los Angeles. He founded the Los Angeles Printing Press and served as its editor and publisher. He worked as a journalist and wrote for various newspapers and magazines.
+
+Bryant was elected to the Los Angeles Common Council in 1872 and served two terms before being re-elected in 1878. During his tenure, he advocated for water system development and public transportation expansion. He improved public schools and promoted economic growth.
+
+After retiring from politics, Bryant continued to work as a journalist and businessman. He died in Los Angeles on April 4, 1908, at the age of 74.","Edwin Bryant (January 1834 – April 4, 1908) was an English-born American businessman and politician who served as the sixth mayor of Los Angeles, California, from 1884 to 1886. He also served as a member of the Los Angeles Common Council, the governing body of the city, from 1872 to 1874 and again from 1878 to 1882.
+
+Bryant was born in Manchester, England, in 1834 and immigrated to the United States with his family in 1846. They settled in Wisconsin, where he received a liberal education and became a naturalized U.S. citizen in 1851.
+
+In 1857, Bryant moved to California and settled in Los Angeles. He founded the Los Angeles Printing Press and served as its editor and publisher. He worked as a journalist and wrote for various newspapers and magazines.
+
+Bryant was elected to the Los Angeles Common Council in 1872 and served two terms before being re-elected in 1878. During his tenure, he advocated for water system development and public transportation expansion and he improved public schools and promoted economic growth.
+
+After retiring from politics, Bryant continued to work as a journalist and businessman. He died in Los Angeles on April 4, 1908, at the age of 74."
+raid_residual_16,426,432, and they,. They,period_to_coordination,0.8419726064734516,-1.7671910524368286,-1.9391988515853882,period,0.05000361768649289,4.1060778228694215,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.001692047377326565, 'en_dash': 0.0008460236886632825, 'em_dash': 0.0, 'comma': 0.010998307952622674, 'period': 0.010998307952622674}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0016877637130801688, 'en_dash': 0.0008438818565400844, 'em_dash': 0.0, 'comma': 0.010970464135021098, 'period': 0.010126582278481013}",0.5274725274725275,0.5245901639344263,"Edwin Bryant (January 1834 – April 4, 1908) was an English-born American businessman and politician who served as the sixth mayor of Los Angeles, California, from 1884 to 1886. He also served as a member of the Los Angeles Common Council, the governing body of the city, from 1872 to 1874 and again from 1878 to 1882.
+
+Bryant was born in Manchester, England, in 1834 and immigrated to the United States with his family in 1846. They settled in Wisconsin, where he received a liberal education and became a naturalized U.S. citizen in 1851.
+
+In 1857, Bryant moved to California and settled in Los Angeles. He founded the Los Angeles Printing Press and served as its editor and publisher. He worked as a journalist and wrote for various newspapers and magazines.
+
+Bryant was elected to the Los Angeles Common Council in 1872 and served two terms before being re-elected in 1878. During his tenure, he advocated for water system development and public transportation expansion and he improved public schools and promoted economic growth.
+
+After retiring from politics, Bryant continued to work as a journalist and businessman. He died in Los Angeles on April 4, 1908, at the age of 74.","Edwin Bryant (January 1834 – April 4, 1908) was an English-born American businessman and politician who served as the sixth mayor of Los Angeles, California, from 1884 to 1886. He also served as a member of the Los Angeles Common Council, the governing body of the city, from 1872 to 1874 and again from 1878 to 1882.
+
+Bryant was born in Manchester, England, in 1834 and immigrated to the United States with his family in 1846 and they settled in Wisconsin, where he received a liberal education and became a naturalized U.S. citizen in 1851.
+
+In 1857, Bryant moved to California and settled in Los Angeles. He founded the Los Angeles Printing Press and served as its editor and publisher. He worked as a journalist and wrote for various newspapers and magazines.
+
+Bryant was elected to the Los Angeles Common Council in 1872 and served two terms before being re-elected in 1878. During his tenure, he advocated for water system development and public transportation expansion and he improved public schools and promoted economic growth.
+
+After retiring from politics, Bryant continued to work as a journalist and businessman. He died in Los Angeles on April 4, 1908, at the age of 74."
+raid_residual_16,175,179, and he,. He,period_to_coordination,0.801107292904757,-1.5832350254058838,-1.8049954175949097,period,0.050216132620008826,3.0835044163284797,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0016877637130801688, 'en_dash': 0.0008438818565400844, 'em_dash': 0.0, 'comma': 0.010970464135021098, 'period': 0.010126582278481013}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0016835016835016834, 'en_dash': 0.0008417508417508417, 'em_dash': 0.0, 'comma': 0.010942760942760943, 'period': 0.009259259259259259}",0.5245901639344263,0.5217391304347826,"Edwin Bryant (January 1834 – April 4, 1908) was an English-born American businessman and politician who served as the sixth mayor of Los Angeles, California, from 1884 to 1886. He also served as a member of the Los Angeles Common Council, the governing body of the city, from 1872 to 1874 and again from 1878 to 1882.
+
+Bryant was born in Manchester, England, in 1834 and immigrated to the United States with his family in 1846 and they settled in Wisconsin, where he received a liberal education and became a naturalized U.S. citizen in 1851.
+
+In 1857, Bryant moved to California and settled in Los Angeles. He founded the Los Angeles Printing Press and served as its editor and publisher. He worked as a journalist and wrote for various newspapers and magazines.
+
+Bryant was elected to the Los Angeles Common Council in 1872 and served two terms before being re-elected in 1878. During his tenure, he advocated for water system development and public transportation expansion and he improved public schools and promoted economic growth.
+
+After retiring from politics, Bryant continued to work as a journalist and businessman. He died in Los Angeles on April 4, 1908, at the age of 74.","Edwin Bryant (January 1834 – April 4, 1908) was an English-born American businessman and politician who served as the sixth mayor of Los Angeles, California, from 1884 to 1886 and he also served as a member of the Los Angeles Common Council, the governing body of the city, from 1872 to 1874 and again from 1878 to 1882.
+
+Bryant was born in Manchester, England, in 1834 and immigrated to the United States with his family in 1846 and they settled in Wisconsin, where he received a liberal education and became a naturalized U.S. citizen in 1851.
+
+In 1857, Bryant moved to California and settled in Los Angeles. He founded the Los Angeles Printing Press and served as its editor and publisher. He worked as a journalist and wrote for various newspapers and magazines.
+
+Bryant was elected to the Los Angeles Common Council in 1872 and served two terms before being re-elected in 1878. During his tenure, he advocated for water system development and public transportation expansion and he improved public schools and promoted economic growth.
+
+After retiring from politics, Bryant continued to work as a journalist and businessman. He died in Los Angeles on April 4, 1908, at the age of 74."
+raid_residual_16,609,613, and he,. He,period_to_coordination,0.7995342447198901,-1.9367157220840454,-2.1604416370391846,period,0.06273582299299302,2.0609310097875384,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0016835016835016834, 'en_dash': 0.0008417508417508417, 'em_dash': 0.0, 'comma': 0.010942760942760943, 'period': 0.009259259259259259}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0016792611251049538, 'en_dash': 0.0008396305625524769, 'em_dash': 0.0, 'comma': 0.0109151973131822, 'period': 0.008396305625524769}",0.5217391304347826,0.518918918918919,"Edwin Bryant (January 1834 – April 4, 1908) was an English-born American businessman and politician who served as the sixth mayor of Los Angeles, California, from 1884 to 1886 and he also served as a member of the Los Angeles Common Council, the governing body of the city, from 1872 to 1874 and again from 1878 to 1882.
+
+Bryant was born in Manchester, England, in 1834 and immigrated to the United States with his family in 1846 and they settled in Wisconsin, where he received a liberal education and became a naturalized U.S. citizen in 1851.
+
+In 1857, Bryant moved to California and settled in Los Angeles. He founded the Los Angeles Printing Press and served as its editor and publisher. He worked as a journalist and wrote for various newspapers and magazines.
+
+Bryant was elected to the Los Angeles Common Council in 1872 and served two terms before being re-elected in 1878. During his tenure, he advocated for water system development and public transportation expansion and he improved public schools and promoted economic growth.
+
+After retiring from politics, Bryant continued to work as a journalist and businessman. He died in Los Angeles on April 4, 1908, at the age of 74.","Edwin Bryant (January 1834 – April 4, 1908) was an English-born American businessman and politician who served as the sixth mayor of Los Angeles, California, from 1884 to 1886 and he also served as a member of the Los Angeles Common Council, the governing body of the city, from 1872 to 1874 and again from 1878 to 1882.
+
+Bryant was born in Manchester, England, in 1834 and immigrated to the United States with his family in 1846 and they settled in Wisconsin, where he received a liberal education and became a naturalized U.S. citizen in 1851.
+
+In 1857, Bryant moved to California and settled in Los Angeles and he founded the Los Angeles Printing Press and served as its editor and publisher. He worked as a journalist and wrote for various newspapers and magazines.
+
+Bryant was elected to the Los Angeles Common Council in 1872 and served two terms before being re-elected in 1878. During his tenure, he advocated for water system development and public transportation expansion and he improved public schools and promoted economic growth.
+
+After retiring from politics, Bryant continued to work as a journalist and businessman. He died in Los Angeles on April 4, 1908, at the age of 74."
+raid_residual_16,694,698, and he,. He,period_to_coordination,0.7688945778718764,-1.8849234580993652,-2.1477248668670654,period,0.46554572094474017,1.0383576032465982,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0016792611251049538, 'en_dash': 0.0008396305625524769, 'em_dash': 0.0, 'comma': 0.0109151973131822, 'period': 0.008396305625524769}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0016750418760469012, 'en_dash': 0.0008375209380234506, 'em_dash': 0.0, 'comma': 0.010887772194304857, 'period': 0.007537688442211055}",0.518918918918919,0.5161290322580645,"Edwin Bryant (January 1834 – April 4, 1908) was an English-born American businessman and politician who served as the sixth mayor of Los Angeles, California, from 1884 to 1886 and he also served as a member of the Los Angeles Common Council, the governing body of the city, from 1872 to 1874 and again from 1878 to 1882.
+
+Bryant was born in Manchester, England, in 1834 and immigrated to the United States with his family in 1846 and they settled in Wisconsin, where he received a liberal education and became a naturalized U.S. citizen in 1851.
+
+In 1857, Bryant moved to California and settled in Los Angeles and he founded the Los Angeles Printing Press and served as its editor and publisher. He worked as a journalist and wrote for various newspapers and magazines.
+
+Bryant was elected to the Los Angeles Common Council in 1872 and served two terms before being re-elected in 1878. During his tenure, he advocated for water system development and public transportation expansion and he improved public schools and promoted economic growth.
+
+After retiring from politics, Bryant continued to work as a journalist and businessman. He died in Los Angeles on April 4, 1908, at the age of 74.","Edwin Bryant (January 1834 – April 4, 1908) was an English-born American businessman and politician who served as the sixth mayor of Los Angeles, California, from 1884 to 1886 and he also served as a member of the Los Angeles Common Council, the governing body of the city, from 1872 to 1874 and again from 1878 to 1882.
+
+Bryant was born in Manchester, England, in 1834 and immigrated to the United States with his family in 1846 and they settled in Wisconsin, where he received a liberal education and became a naturalized U.S. citizen in 1851.
+
+In 1857, Bryant moved to California and settled in Los Angeles and he founded the Los Angeles Printing Press and served as its editor and publisher and he worked as a journalist and wrote for various newspapers and magazines.
+
+Bryant was elected to the Los Angeles Common Council in 1872 and served two terms before being re-elected in 1878. During his tenure, he advocated for water system development and public transportation expansion and he improved public schools and promoted economic growth.
+
+After retiring from politics, Bryant continued to work as a journalist and businessman. He died in Los Angeles on April 4, 1908, at the age of 74."
+raid_residual_17,197,204,. T,", and t",coordination_to_period,0.9176391119809258,-2.7245326042175293,-2.810483694076538,period,0.05060776410797293,2.824921923591294,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.002867383512544803, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.007885304659498209, 'period': 0.005734767025089606}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.002875629043853343, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.007189072609633357, 'period': 0.006470165348670022}",0.5714285714285714,0.5742574257425742,"This paper introduces a novel method for addressing a single erbium ion within a silicon crystal using a focused laser beam. Erbium ions are introduced into the silicon lattice through implantation, and their optical properties make them ideal for quantum information processing and other photonic applications.
+
+Current techniques for addressing individual erbium ions in silicon involve electrical methods, which are limited by the difficulty in precisely controlling the ion's position and electric field strength. Our proposed optical approach offers several advantages, including high spatial resolution, low power consumption, and the ability to address multiple ions simultaneously.
+
+In our experiments, a focused laser beam with a radius of approximately 1 micrometer was used to address a single erbium ion in silicon. By tuning the laser frequency to the ion's resonant transition, a clear signature of ion-photon interaction was observed, indicating the successful addressing of the individual ion.
+
+Our results open the door to the development of scalable, densely-packed arrays of individually-addressable erbium ions in silicon, which could enable a new generation of quantum information processing and photonic devices. By utilizing the unique properties of rare-earth ions in silicon, this work contributes to the advancement of quantum computing and other photonic applications.","This paper introduces a novel method for addressing a single erbium ion within a silicon crystal using a focused laser beam. Erbium ions are introduced into the silicon lattice through implantation. Their optical properties make them ideal for quantum information processing and other photonic applications.
+
+Current techniques for addressing individual erbium ions in silicon involve electrical methods, which are limited by the difficulty in precisely controlling the ion's position and electric field strength. Our proposed optical approach offers several advantages, including high spatial resolution, low power consumption, and the ability to address multiple ions simultaneously.
+
+In our experiments, a focused laser beam with a radius of approximately 1 micrometer was used to address a single erbium ion in silicon. By tuning the laser frequency to the ion's resonant transition, a clear signature of ion-photon interaction was observed, indicating the successful addressing of the individual ion.
+
+Our results open the door to the development of scalable, densely-packed arrays of individually-addressable erbium ions in silicon, which could enable a new generation of quantum information processing and photonic devices. By utilizing the unique properties of rare-earth ions in silicon, this work contributes to the advancement of quantum computing and other photonic applications."
+raid_residual_18,282,291,However ,"However, ",initial_adverb_comma_toggle,0.7848620233643041,-2.7622311115264893,-3.0044784545898438,comma,0.05015594175985259,3.1651235388517476,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.013388259526261586, 'period': 0.008238928939237899}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.012371134020618556, 'period': 0.008247422680412371}",0.6075949367088608,0.6075949367088608,"The novel chronicles the story of two women, Isabel and Julia, who reside in Boston and share a passionate, intimate relationship. Despite the societal norms of the time, which discourage the idea of women being together, Isabel and Julia are devoted to each other with deep love.
+
+However, their relationship is tested when Isabel becomes engaged to a man named Arthur. Although she doesn't love him, Isabel feels pressured to accept his proposal due to her age and her desire to have a secure future. Julia, determined to win Isabel back, fights for their relationship.
+
+As the novel progresses, Isabel begins to realize that her relationship with Julia is the real source of her happiness. She breaks off her engagement with Arthur and returns to Julia, embracing a future society has not yet accepted. Despite facing challenges, Isabel and Julia's love proves stronger than others' expectations, making their relationship a testament to the power of love and loyalty.","The novel chronicles the story of two women, Isabel and Julia, who reside in Boston and share a passionate, intimate relationship. Despite the societal norms of the time, which discourage the idea of women being together, Isabel and Julia are devoted to each other with deep love.
+
+However their relationship is tested when Isabel becomes engaged to a man named Arthur. Although she doesn't love him, Isabel feels pressured to accept his proposal due to her age and her desire to have a secure future. Julia, determined to win Isabel back, fights for their relationship.
+
+As the novel progresses, Isabel begins to realize that her relationship with Julia is the real source of her happiness. She breaks off her engagement with Arthur and returns to Julia, embracing a future society has not yet accepted. Despite facing challenges, Isabel and Julia's love proves stronger than others' expectations, making their relationship a testament to the power of love and loyalty."
+raid_residual_19,1097,1099,", that is, ",: ,separator_to_connective,1.0,-2.802400827407837,-2.726658582687378,colon,0.49999999999999994,1.0,0,"{'semicolon': 0.0, 'colon': 0.0006825938566552901, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.010238907849829351, 'period': 0.008191126279863481}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.011533242876526458, 'period': 0.008141112618724558}",0.5560165975103735,0.5555555555555556,"The European Parliament has ordered a revision of its ambitious plans to create a unified patent system across Europe.
+
+The assembly's legal affairs committee stated that the package, known as the unitary patent, would be rewritten to address critics' concerns.
+
+These included the involvement of the European Court of Justice, the need for translation, and the validity of patents in all EU states.
+
+The legislation aims to simplify patent protection by allowing inventors to gain patent protection in a single, unified patent court.
+
+The legislation faces resistance from Italy, Spain, and Poland, who have threatened to block the plan unless changes are made.
+
+The committee plans to split the unitary patent package into two bills.
+
+One will deal with the unitary patent itself, while the other will establish a new court to handle patent disputes, known as the Unified Patent Court (UPC).
+
+Italian socialist Guido Sacconi, who led the work on the report, said the committee had decided to ""take the bull by the horns.""
+
+""We have decided to modify the two pillars of the unitary patent package: the unitary patent itself and the Unified Patent Court,"" he explained.
+
+""Both elements will be divided, which allows us to proceed first with the patent court and later discuss the unitary patent.""
+
+The revised proposal will now go before the full parliament for a vote.
+
+If passed, it will then be up to the 28 member states to decide whether to implement the plan.","The European Parliament has ordered a revision of its ambitious plans to create a unified patent system across Europe.
+
+The assembly's legal affairs committee stated that the package, known as the unitary patent, would be rewritten to address critics' concerns.
+
+These included the involvement of the European Court of Justice, the need for translation, and the validity of patents in all EU states.
+
+The legislation aims to simplify patent protection by allowing inventors to gain patent protection in a single, unified patent court.
+
+The legislation faces resistance from Italy, Spain, and Poland, who have threatened to block the plan unless changes are made.
+
+The committee plans to split the unitary patent package into two bills.
+
+One will deal with the unitary patent itself, while the other will establish a new court to handle patent disputes, known as the Unified Patent Court (UPC).
+
+Italian socialist Guido Sacconi, who led the work on the report, said the committee had decided to ""take the bull by the horns.""
+
+""We have decided to modify the two pillars of the unitary patent package, that is, the unitary patent itself and the Unified Patent Court,"" he explained.
+
+""Both elements will be divided, which allows us to proceed first with the patent court and later discuss the unitary patent.""
+
+The revised proposal will now go before the full parliament for a vote.
+
+If passed, it will then be up to the 28 member states to decide whether to implement the plan."
+raid_residual_19,1097,1108, - ,", that is, ",explanation_to_dash,0.900346829715997,-2.726658582687378,-2.8316338062286377,hyphen,0.10733158647497967,1.6719304550968157,0,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.011533242876526458, 'period': 0.008141112618724558}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0006821282401091405, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.010231923601637109, 'period': 0.008185538881309686}",0.5555555555555556,0.5560165975103735,"The European Parliament has ordered a revision of its ambitious plans to create a unified patent system across Europe.
+
+The assembly's legal affairs committee stated that the package, known as the unitary patent, would be rewritten to address critics' concerns.
+
+These included the involvement of the European Court of Justice, the need for translation, and the validity of patents in all EU states.
+
+The legislation aims to simplify patent protection by allowing inventors to gain patent protection in a single, unified patent court.
+
+The legislation faces resistance from Italy, Spain, and Poland, who have threatened to block the plan unless changes are made.
+
+The committee plans to split the unitary patent package into two bills.
+
+One will deal with the unitary patent itself, while the other will establish a new court to handle patent disputes, known as the Unified Patent Court (UPC).
+
+Italian socialist Guido Sacconi, who led the work on the report, said the committee had decided to ""take the bull by the horns.""
+
+""We have decided to modify the two pillars of the unitary patent package, that is, the unitary patent itself and the Unified Patent Court,"" he explained.
+
+""Both elements will be divided, which allows us to proceed first with the patent court and later discuss the unitary patent.""
+
+The revised proposal will now go before the full parliament for a vote.
+
+If passed, it will then be up to the 28 member states to decide whether to implement the plan.","The European Parliament has ordered a revision of its ambitious plans to create a unified patent system across Europe.
+
+The assembly's legal affairs committee stated that the package, known as the unitary patent, would be rewritten to address critics' concerns.
+
+These included the involvement of the European Court of Justice, the need for translation, and the validity of patents in all EU states.
+
+The legislation aims to simplify patent protection by allowing inventors to gain patent protection in a single, unified patent court.
+
+The legislation faces resistance from Italy, Spain, and Poland, who have threatened to block the plan unless changes are made.
+
+The committee plans to split the unitary patent package into two bills.
+
+One will deal with the unitary patent itself, while the other will establish a new court to handle patent disputes, known as the Unified Patent Court (UPC).
+
+Italian socialist Guido Sacconi, who led the work on the report, said the committee had decided to ""take the bull by the horns.""
+
+""We have decided to modify the two pillars of the unitary patent package - the unitary patent itself and the Unified Patent Court,"" he explained.
+
+""Both elements will be divided, which allows us to proceed first with the patent court and later discuss the unitary patent.""
+
+The revised proposal will now go before the full parliament for a vote.
+
+If passed, it will then be up to the 28 member states to decide whether to implement the plan."
+raid_residual_23,141,146, and the,. The,period_to_coordination,0.8943565969335919,-2.1301016807556152,-2.2417523860931396,period,0.050000018925528515,5.419348393688273,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0014245014245014246, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.01566951566951567, 'period': 0.014245014245014245}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0014184397163120568, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.015602836879432624, 'period': 0.01276595744680851}",0.6695652173913044,0.6637931034482759,"""American Hustle"" is a film about con artists and the people they deceive. Set in the late 1970s and early 1980s, it is based on a true story. The film stars Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence, and Jeremy Renner.
+
+Directed by David O. Russell and written by Eric Warren Singer and David O. Russell, the film was released on December 20, 2013, and received positive reviews from critics. It was nominated for ten Academy Awards and won three Oscars, while also being nominated for five Golden Globe Awards and winning two Golden Globes.
+
+""American Hustle"" is a great film. The acting is superb, the story is intriguing, and the film is well-made. I highly recommend this movie.","""American Hustle"" is a film about con artists and the people they deceive. Set in the late 1970s and early 1980s, it is based on a true story and the film stars Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence, and Jeremy Renner.
+
+Directed by David O. Russell and written by Eric Warren Singer and David O. Russell, the film was released on December 20, 2013, and received positive reviews from critics. It was nominated for ten Academy Awards and won three Oscars, while also being nominated for five Golden Globe Awards and winning two Golden Globes.
+
+""American Hustle"" is a great film. The acting is superb, the story is intriguing, and the film is well-made. I highly recommend this movie."
+raid_residual_23,414,418, and it,. It,period_to_coordination,0.8702181226596927,-2.0047731399536133,-2.143784523010254,period,0.050001117458558605,4.399772959473266,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0014184397163120568, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.015602836879432624, 'period': 0.01276595744680851}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0014124293785310734, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.015536723163841809, 'period': 0.011299435028248588}",0.6637931034482759,0.6581196581196581,"""American Hustle"" is a film about con artists and the people they deceive. Set in the late 1970s and early 1980s, it is based on a true story and the film stars Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence, and Jeremy Renner.
+
+Directed by David O. Russell and written by Eric Warren Singer and David O. Russell, the film was released on December 20, 2013, and received positive reviews from critics. It was nominated for ten Academy Awards and won three Oscars, while also being nominated for five Golden Globe Awards and winning two Golden Globes.
+
+""American Hustle"" is a great film. The acting is superb, the story is intriguing, and the film is well-made. I highly recommend this movie.","""American Hustle"" is a film about con artists and the people they deceive. Set in the late 1970s and early 1980s, it is based on a true story and the film stars Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence, and Jeremy Renner.
+
+Directed by David O. Russell and written by Eric Warren Singer and David O. Russell, the film was released on December 20, 2013, and received positive reviews from critics and it was nominated for ten Academy Awards and won three Oscars, while also being nominated for five Golden Globe Awards and winning two Golden Globes.
+
+""American Hustle"" is a great film. The acting is superb, the story is intriguing, and the film is well-made. I highly recommend this movie."
+raid_residual_23,649,655, and ,", and ",coordination_comma_toggle,0.8696354135466664,-1.7629554271697998,-1.9026366472244263,comma,0.05000000117373451,6.114428692577362,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0014124293785310734, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.015536723163841809, 'period': 0.011299435028248588}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0014144271570014145, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.014144271570014143, 'period': 0.011315417256011316}",0.6581196581196581,0.6581196581196581,"""American Hustle"" is a film about con artists and the people they deceive. Set in the late 1970s and early 1980s, it is based on a true story and the film stars Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence, and Jeremy Renner.
+
+Directed by David O. Russell and written by Eric Warren Singer and David O. Russell, the film was released on December 20, 2013, and received positive reviews from critics and it was nominated for ten Academy Awards and won three Oscars, while also being nominated for five Golden Globe Awards and winning two Golden Globes.
+
+""American Hustle"" is a great film. The acting is superb, the story is intriguing, and the film is well-made. I highly recommend this movie.","""American Hustle"" is a film about con artists and the people they deceive. Set in the late 1970s and early 1980s, it is based on a true story and the film stars Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence, and Jeremy Renner.
+
+Directed by David O. Russell and written by Eric Warren Singer and David O. Russell, the film was released on December 20, 2013, and received positive reviews from critics and it was nominated for ten Academy Awards and won three Oscars, while also being nominated for five Golden Globe Awards and winning two Golden Globes.
+
+""American Hustle"" is a great film. The acting is superb, the story is intriguing and the film is well-made. I highly recommend this movie."
+raid_residual_23,602,607, and the,. The,period_to_coordination,0.7688439835607819,-2.0876147747039795,-2.3504819869995117,period,0.0500642761048147,3.386722669996595,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0014144271570014145, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.014144271570014143, 'period': 0.011315417256011316}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0014084507042253522, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.014084507042253521, 'period': 0.009859154929577466}",0.6581196581196581,0.652542372881356,"""American Hustle"" is a film about con artists and the people they deceive. Set in the late 1970s and early 1980s, it is based on a true story and the film stars Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence, and Jeremy Renner.
+
+Directed by David O. Russell and written by Eric Warren Singer and David O. Russell, the film was released on December 20, 2013, and received positive reviews from critics and it was nominated for ten Academy Awards and won three Oscars, while also being nominated for five Golden Globe Awards and winning two Golden Globes.
+
+""American Hustle"" is a great film. The acting is superb, the story is intriguing and the film is well-made. I highly recommend this movie.","""American Hustle"" is a film about con artists and the people they deceive. Set in the late 1970s and early 1980s, it is based on a true story and the film stars Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence, and Jeremy Renner.
+
+Directed by David O. Russell and written by Eric Warren Singer and David O. Russell, the film was released on December 20, 2013, and received positive reviews from critics and it was nominated for ten Academy Awards and won three Oscars, while also being nominated for five Golden Globe Awards and winning two Golden Globes.
+
+""American Hustle"" is a great film and the acting is superb, the story is intriguing and the film is well-made. I highly recommend this movie."
+raid_residual_24,702,706, and he,. He,period_to_coordination,0.7879536118146762,-3.173546314239502,-3.411862373352051,period,0.1970461485687655,1.4083143665721947,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.01774622892635315, 'period': 0.008873114463176575}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.017699115044247787, 'period': 0.007964601769911504}",0.5865921787709497,0.5833333333333334,"Rogier Koordes, born on August 4, 1964, in Amsterdam, is a Dutch composer and musician. At the age of five, the piano played a significant role in his life. After playing classical music for a decade, he gradually switched to jazz in his late teens. In 1986, he was awarded a jazz piano scholarship by the Royal Dutch Conservatory in Amsterdam. Here, he started composing music and formed the Rogier Koordes Trio, with bassist Joris Roelofs and drummer Onno Muijs.
+
+In 1990, he started collaborating and recording with several other musicians, including Dutch jazz musicians Benjamin Herman, Jesse van Ruller, and Cees Slinger, and American jazz musicians David Liebman, Joe Lovano, and Michael Brecker. He has performed with his own trio in Europe and once in New York. Since 1997, he has been a composer for Dutch National Television, creating music for numerous television programs. His musical Yellow Cold is commissioned by the Dutch Ballet and has been performed numerous times in The Netherlands since 2004.
+
+In 2011, Koordes released the album ""Songs for Fathers,"" for which he wrote lyrics for the first time in Dutch.","Rogier Koordes, born on August 4, 1964, in Amsterdam, is a Dutch composer and musician. At the age of five, the piano played a significant role in his life. After playing classical music for a decade, he gradually switched to jazz in his late teens. In 1986, he was awarded a jazz piano scholarship by the Royal Dutch Conservatory in Amsterdam. Here, he started composing music and formed the Rogier Koordes Trio, with bassist Joris Roelofs and drummer Onno Muijs.
+
+In 1990, he started collaborating and recording with several other musicians, including Dutch jazz musicians Benjamin Herman, Jesse van Ruller, and Cees Slinger, and American jazz musicians David Liebman, Joe Lovano, and Michael Brecker and he has performed with his own trio in Europe and once in New York. Since 1997, he has been a composer for Dutch National Television, creating music for numerous television programs. His musical Yellow Cold is commissioned by the Dutch Ballet and has been performed numerous times in The Netherlands since 2004.
+
+In 2011, Koordes released the album ""Songs for Fathers,"" for which he wrote lyrics for the first time in Dutch."
+raid_residual_24,626,632, and ,", and ",coordination_comma_toggle,0.8782096452864993,-3.322812795639038,-3.4526827335357666,comma,0.05000000000000125,9.552993730437171,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.017699115044247787, 'period': 0.007964601769911504}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.01682905225863596, 'period': 0.007971656333038087}",0.5833333333333334,0.5833333333333334,"Rogier Koordes, born on August 4, 1964, in Amsterdam, is a Dutch composer and musician. At the age of five, the piano played a significant role in his life. After playing classical music for a decade, he gradually switched to jazz in his late teens. In 1986, he was awarded a jazz piano scholarship by the Royal Dutch Conservatory in Amsterdam. Here, he started composing music and formed the Rogier Koordes Trio, with bassist Joris Roelofs and drummer Onno Muijs.
+
+In 1990, he started collaborating and recording with several other musicians, including Dutch jazz musicians Benjamin Herman, Jesse van Ruller, and Cees Slinger, and American jazz musicians David Liebman, Joe Lovano, and Michael Brecker and he has performed with his own trio in Europe and once in New York. Since 1997, he has been a composer for Dutch National Television, creating music for numerous television programs. His musical Yellow Cold is commissioned by the Dutch Ballet and has been performed numerous times in The Netherlands since 2004.
+
+In 2011, Koordes released the album ""Songs for Fathers,"" for which he wrote lyrics for the first time in Dutch.","Rogier Koordes, born on August 4, 1964, in Amsterdam, is a Dutch composer and musician. At the age of five, the piano played a significant role in his life. After playing classical music for a decade, he gradually switched to jazz in his late teens. In 1986, he was awarded a jazz piano scholarship by the Royal Dutch Conservatory in Amsterdam. Here, he started composing music and formed the Rogier Koordes Trio, with bassist Joris Roelofs and drummer Onno Muijs.
+
+In 1990, he started collaborating and recording with several other musicians, including Dutch jazz musicians Benjamin Herman, Jesse van Ruller, and Cees Slinger and American jazz musicians David Liebman, Joe Lovano, and Michael Brecker and he has performed with his own trio in Europe and once in New York. Since 1997, he has been a composer for Dutch National Television, creating music for numerous television programs. His musical Yellow Cold is commissioned by the Dutch Ballet and has been performed numerous times in The Netherlands since 2004.
+
+In 2011, Koordes released the album ""Songs for Fathers,"" for which he wrote lyrics for the first time in Dutch."
+raid_residual_24,680,686, and ,", and ",coordination_comma_toggle,0.8932314443919821,-3.3878302574157715,-3.500739812850952,comma,0.05000000000002183,8.83750133398956,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.01682905225863596, 'period': 0.007971656333038087}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.015957446808510637, 'period': 0.007978723404255319}",0.5833333333333334,0.5833333333333334,"Rogier Koordes, born on August 4, 1964, in Amsterdam, is a Dutch composer and musician. At the age of five, the piano played a significant role in his life. After playing classical music for a decade, he gradually switched to jazz in his late teens. In 1986, he was awarded a jazz piano scholarship by the Royal Dutch Conservatory in Amsterdam. Here, he started composing music and formed the Rogier Koordes Trio, with bassist Joris Roelofs and drummer Onno Muijs.
+
+In 1990, he started collaborating and recording with several other musicians, including Dutch jazz musicians Benjamin Herman, Jesse van Ruller, and Cees Slinger and American jazz musicians David Liebman, Joe Lovano, and Michael Brecker and he has performed with his own trio in Europe and once in New York. Since 1997, he has been a composer for Dutch National Television, creating music for numerous television programs. His musical Yellow Cold is commissioned by the Dutch Ballet and has been performed numerous times in The Netherlands since 2004.
+
+In 2011, Koordes released the album ""Songs for Fathers,"" for which he wrote lyrics for the first time in Dutch.","Rogier Koordes, born on August 4, 1964, in Amsterdam, is a Dutch composer and musician. At the age of five, the piano played a significant role in his life. After playing classical music for a decade, he gradually switched to jazz in his late teens. In 1986, he was awarded a jazz piano scholarship by the Royal Dutch Conservatory in Amsterdam. Here, he started composing music and formed the Rogier Koordes Trio, with bassist Joris Roelofs and drummer Onno Muijs.
+
+In 1990, he started collaborating and recording with several other musicians, including Dutch jazz musicians Benjamin Herman, Jesse van Ruller, and Cees Slinger and American jazz musicians David Liebman, Joe Lovano and Michael Brecker and he has performed with his own trio in Europe and once in New York. Since 1997, he has been a composer for Dutch National Television, creating music for numerous television programs. His musical Yellow Cold is commissioned by the Dutch Ballet and has been performed numerous times in The Netherlands since 2004.
+
+In 2011, Koordes released the album ""Songs for Fathers,"" for which he wrote lyrics for the first time in Dutch."
+raid_residual_26,592,598, and ,", and ",coordination_comma_toggle,0.9249597319403958,-1.9647116661071777,-2.0427167415618896,comma,0.05071190219989187,2.7853545461449465,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.002068252326783868, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.011375387797311272, 'period': 0.0062047569803516025}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.002070393374741201, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.010351966873706004, 'period': 0.006211180124223602}",0.6081871345029239,0.6081871345029239,"After a devastating betrayal, a once-happy family is shattered. The patriarch, a respected businessman, is driven to madness by his wife's infidelity and the loss of everything he held dear. Consumed by anger and vengeance, he sets out to destroy those who have wronged him, using his wealth and influence to track them down and bring them to justice.
+
+As he pursues his enemies, he becomes increasingly ruthless and single-minded, leaving no stone unturned in his quest for vengeance. But as he closes in on his targets, he begins to realize that his actions may have unintended consequences, and that the line between right and wrong may not be as clear as he once thought.
+
+As the stakes get higher and higher, the protagonist must confront the darkest parts of his own soul and make a choice between his desire for vengeance and his need for redemption. Will he be able to find a way to forgive and move on, or will his quest for vengeance consume him completely?","After a devastating betrayal, a once-happy family is shattered. The patriarch, a respected businessman, is driven to madness by his wife's infidelity and the loss of everything he held dear. Consumed by anger and vengeance, he sets out to destroy those who have wronged him, using his wealth and influence to track them down and bring them to justice.
+
+As he pursues his enemies, he becomes increasingly ruthless and single-minded, leaving no stone unturned in his quest for vengeance. But as he closes in on his targets, he begins to realize that his actions may have unintended consequences and that the line between right and wrong may not be as clear as he once thought.
+
+As the stakes get higher and higher, the protagonist must confront the darkest parts of his own soul and make a choice between his desire for vengeance and his need for redemption. Will he be able to find a way to forgive and move on, or will his quest for vengeance consume him completely?"
+raid_residual_27,1748,1750,", that is, ",: ,separator_to_connective,0.6960453586571117,-2.3450610637664795,-2.7074015140533447,colon,0.06618758896588241,2.0,0,"{'semicolon': 0.0, 'colon': 0.0009765625, 'hyphen': 0.00146484375, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.00732421875, 'period': 0.0078125}","{'semicolon': 0.0, 'colon': 0.0004861448711716091, 'hyphen': 0.0014584346135148275, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.008264462809917356, 'period': 0.007778317938745746}",0.5345911949685535,0.53125,"The BBC has learned that additional cases of foot and mouth disease were confirmed in England on Wednesday, prompting calls for stricter rules on livestock.
+
+Defra confirmed the latest cases in Surrey, stating it was ""likely"" more cases would be found. This comes days after the UK's chief veterinary officer declared the country technically disease-free.
+
+On Wednesday, officials confirmed that two more sites in Surrey - a farm in Wormley and another in Ockley - were linked to a site in nearby Felbridge, where a case of the virus was discovered last week.
+
+Suede yesterday's daily essentials expressed reassurance that the virus posed no threat to food safety or the public.
+
+However, the disease poses a significant threat to the livestock industry, with farmers disposing of suspected infected animals to prevent the disease's spread, disrupting the supply chain and costing the industry billions.
+
+The National Farmers' Union (NFU) has called for a compulsory livestock vaccination program to prevent the spread of the disease and protect the rural economy.
+
+NFU's chief livestock advisor, Dr. Ceris Jones, said: ""There is a clear solution to this recurring disruption, which is to introduce a compulsory vaccination program for all livestock susceptible to foot and mouth disease.""
+
+Dr. Jones added that every time the country has an outbreak, ""the impact is massive, both in terms of costs to the taxpayer and the price paid by farmers.""
+
+He said a compulsory vaccination program would introduce ""a disease status that provides clarity and confidence to farmers, Government, and the wider public.""
+
+Dr. Jones said the NFU had submitted its proposal to the government and was ""eager to discuss it further.""
+
+A government spokesperson stated: ""We have robust measures in place to prevent the spread of foot and mouth disease, including regular testing and a comprehensive vaccination program.""
+
+""We take the safety and security of our food and agriculture system extremely seriously and remain determined to eradicate this dreadful disease.""","The BBC has learned that additional cases of foot and mouth disease were confirmed in England on Wednesday, prompting calls for stricter rules on livestock.
+
+Defra confirmed the latest cases in Surrey, stating it was ""likely"" more cases would be found. This comes days after the UK's chief veterinary officer declared the country technically disease-free.
+
+On Wednesday, officials confirmed that two more sites in Surrey - a farm in Wormley and another in Ockley - were linked to a site in nearby Felbridge, where a case of the virus was discovered last week.
+
+Suede yesterday's daily essentials expressed reassurance that the virus posed no threat to food safety or the public.
+
+However, the disease poses a significant threat to the livestock industry, with farmers disposing of suspected infected animals to prevent the disease's spread, disrupting the supply chain and costing the industry billions.
+
+The National Farmers' Union (NFU) has called for a compulsory livestock vaccination program to prevent the spread of the disease and protect the rural economy.
+
+NFU's chief livestock advisor, Dr. Ceris Jones, said: ""There is a clear solution to this recurring disruption, which is to introduce a compulsory vaccination program for all livestock susceptible to foot and mouth disease.""
+
+Dr. Jones added that every time the country has an outbreak, ""the impact is massive, both in terms of costs to the taxpayer and the price paid by farmers.""
+
+He said a compulsory vaccination program would introduce ""a disease status that provides clarity and confidence to farmers, Government, and the wider public.""
+
+Dr. Jones said the NFU had submitted its proposal to the government and was ""eager to discuss it further.""
+
+A government spokesperson stated, that is, ""We have robust measures in place to prevent the spread of foot and mouth disease, including regular testing and a comprehensive vaccination program.""
+
+""We take the safety and security of our food and agriculture system extremely seriously and remain determined to eradicate this dreadful disease."""
+raid_residual_27,1118,1120,", that is, ",: ,separator_to_connective,0.6544711435126249,-2.6688928604125977,-3.092820644378662,colon,0.49999999999999994,1.0,0,"{'semicolon': 0.0, 'colon': 0.0004861448711716091, 'hyphen': 0.0014584346135148275, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.008264462809917356, 'period': 0.007778317938745746}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.001452081316553727, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.009196515004840271, 'period': 0.007744433688286544}",0.53125,0.5279503105590062,"The BBC has learned that additional cases of foot and mouth disease were confirmed in England on Wednesday, prompting calls for stricter rules on livestock.
+
+Defra confirmed the latest cases in Surrey, stating it was ""likely"" more cases would be found. This comes days after the UK's chief veterinary officer declared the country technically disease-free.
+
+On Wednesday, officials confirmed that two more sites in Surrey - a farm in Wormley and another in Ockley - were linked to a site in nearby Felbridge, where a case of the virus was discovered last week.
+
+Suede yesterday's daily essentials expressed reassurance that the virus posed no threat to food safety or the public.
+
+However, the disease poses a significant threat to the livestock industry, with farmers disposing of suspected infected animals to prevent the disease's spread, disrupting the supply chain and costing the industry billions.
+
+The National Farmers' Union (NFU) has called for a compulsory livestock vaccination program to prevent the spread of the disease and protect the rural economy.
+
+NFU's chief livestock advisor, Dr. Ceris Jones, said: ""There is a clear solution to this recurring disruption, which is to introduce a compulsory vaccination program for all livestock susceptible to foot and mouth disease.""
+
+Dr. Jones added that every time the country has an outbreak, ""the impact is massive, both in terms of costs to the taxpayer and the price paid by farmers.""
+
+He said a compulsory vaccination program would introduce ""a disease status that provides clarity and confidence to farmers, Government, and the wider public.""
+
+Dr. Jones said the NFU had submitted its proposal to the government and was ""eager to discuss it further.""
+
+A government spokesperson stated, that is, ""We have robust measures in place to prevent the spread of foot and mouth disease, including regular testing and a comprehensive vaccination program.""
+
+""We take the safety and security of our food and agriculture system extremely seriously and remain determined to eradicate this dreadful disease.""","The BBC has learned that additional cases of foot and mouth disease were confirmed in England on Wednesday, prompting calls for stricter rules on livestock.
+
+Defra confirmed the latest cases in Surrey, stating it was ""likely"" more cases would be found. This comes days after the UK's chief veterinary officer declared the country technically disease-free.
+
+On Wednesday, officials confirmed that two more sites in Surrey - a farm in Wormley and another in Ockley - were linked to a site in nearby Felbridge, where a case of the virus was discovered last week.
+
+Suede yesterday's daily essentials expressed reassurance that the virus posed no threat to food safety or the public.
+
+However, the disease poses a significant threat to the livestock industry, with farmers disposing of suspected infected animals to prevent the disease's spread, disrupting the supply chain and costing the industry billions.
+
+The National Farmers' Union (NFU) has called for a compulsory livestock vaccination program to prevent the spread of the disease and protect the rural economy.
+
+NFU's chief livestock advisor, Dr. Ceris Jones, said, that is, ""There is a clear solution to this recurring disruption, which is to introduce a compulsory vaccination program for all livestock susceptible to foot and mouth disease.""
+
+Dr. Jones added that every time the country has an outbreak, ""the impact is massive, both in terms of costs to the taxpayer and the price paid by farmers.""
+
+He said a compulsory vaccination program would introduce ""a disease status that provides clarity and confidence to farmers, Government, and the wider public.""
+
+Dr. Jones said the NFU had submitted its proposal to the government and was ""eager to discuss it further.""
+
+A government spokesperson stated, that is, ""We have robust measures in place to prevent the spread of foot and mouth disease, including regular testing and a comprehensive vaccination program.""
+
+""We take the safety and security of our food and agriculture system extremely seriously and remain determined to eradicate this dreadful disease."""
+raid_residual_27,440,446,. A, and a,coordination_to_period,0.8242199210807178,-4.187627792358398,-4.380945682525635,period,0.29214226047313985,1.2498658249975014,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.001452081316553727, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.009196515004840271, 'period': 0.007744433688286544}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.001454192922927775, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.009209888511875909, 'period': 0.008240426563257392}",0.5279503105590062,0.5295950155763239,"The BBC has learned that additional cases of foot and mouth disease were confirmed in England on Wednesday, prompting calls for stricter rules on livestock.
+
+Defra confirmed the latest cases in Surrey, stating it was ""likely"" more cases would be found. This comes days after the UK's chief veterinary officer declared the country technically disease-free.
+
+On Wednesday, officials confirmed that two more sites in Surrey - a farm in Wormley and another in Ockley - were linked to a site in nearby Felbridge, where a case of the virus was discovered last week.
+
+Suede yesterday's daily essentials expressed reassurance that the virus posed no threat to food safety or the public.
+
+However, the disease poses a significant threat to the livestock industry, with farmers disposing of suspected infected animals to prevent the disease's spread, disrupting the supply chain and costing the industry billions.
+
+The National Farmers' Union (NFU) has called for a compulsory livestock vaccination program to prevent the spread of the disease and protect the rural economy.
+
+NFU's chief livestock advisor, Dr. Ceris Jones, said, that is, ""There is a clear solution to this recurring disruption, which is to introduce a compulsory vaccination program for all livestock susceptible to foot and mouth disease.""
+
+Dr. Jones added that every time the country has an outbreak, ""the impact is massive, both in terms of costs to the taxpayer and the price paid by farmers.""
+
+He said a compulsory vaccination program would introduce ""a disease status that provides clarity and confidence to farmers, Government, and the wider public.""
+
+Dr. Jones said the NFU had submitted its proposal to the government and was ""eager to discuss it further.""
+
+A government spokesperson stated, that is, ""We have robust measures in place to prevent the spread of foot and mouth disease, including regular testing and a comprehensive vaccination program.""
+
+""We take the safety and security of our food and agriculture system extremely seriously and remain determined to eradicate this dreadful disease.""","The BBC has learned that additional cases of foot and mouth disease were confirmed in England on Wednesday, prompting calls for stricter rules on livestock.
+
+Defra confirmed the latest cases in Surrey, stating it was ""likely"" more cases would be found. This comes days after the UK's chief veterinary officer declared the country technically disease-free.
+
+On Wednesday, officials confirmed that two more sites in Surrey - a farm in Wormley. Another in Ockley - were linked to a site in nearby Felbridge, where a case of the virus was discovered last week.
+
+Suede yesterday's daily essentials expressed reassurance that the virus posed no threat to food safety or the public.
+
+However, the disease poses a significant threat to the livestock industry, with farmers disposing of suspected infected animals to prevent the disease's spread, disrupting the supply chain and costing the industry billions.
+
+The National Farmers' Union (NFU) has called for a compulsory livestock vaccination program to prevent the spread of the disease and protect the rural economy.
+
+NFU's chief livestock advisor, Dr. Ceris Jones, said, that is, ""There is a clear solution to this recurring disruption, which is to introduce a compulsory vaccination program for all livestock susceptible to foot and mouth disease.""
+
+Dr. Jones added that every time the country has an outbreak, ""the impact is massive, both in terms of costs to the taxpayer and the price paid by farmers.""
+
+He said a compulsory vaccination program would introduce ""a disease status that provides clarity and confidence to farmers, Government, and the wider public.""
+
+Dr. Jones said the NFU had submitted its proposal to the government and was ""eager to discuss it further.""
+
+A government spokesperson stated, that is, ""We have robust measures in place to prevent the spread of foot and mouth disease, including regular testing and a comprehensive vaccination program.""
+
+""We take the safety and security of our food and agriculture system extremely seriously and remain determined to eradicate this dreadful disease."""
+raid_residual_30,229,231,", and ",; ,separator_to_connective,1.0,-2.811081647872925,-2.7633161544799805,semicolon,0.49999999999999994,1.0,0,"{'semicolon': 0.0014814814814814814, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.007407407407407408, 'period': 0.011851851851851851}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.008836524300441826, 'period': 0.011782032400589101}",0.6504065040650406,0.6451612903225806,"I've been noticing this odd phenomenon lately, and I'm unsure if it's normal or if I should be concerned. Whenever I read a book or watch a movie, scenes seem to play out in my mind as if I'm actually there. It's not just fiction; I can feel the chill of winter when reading a history book. It's not unpleasant, but it's definitely unusual.
+
+I've searched online, but I can't find much about it. I'm not on any medication, and I don't have any known mental health issues. I'm not sure if it's synesthesia or something else entirely. Has anyone else experienced this? I'm curious if it's a common occurrence or if I'm just a bit odd. Any insights would be greatly appreciated!","I've been noticing this odd phenomenon lately, and I'm unsure if it's normal or if I should be concerned. Whenever I read a book or watch a movie, scenes seem to play out in my mind as if I'm actually there. It's not just fiction, and I can feel the chill of winter when reading a history book. It's not unpleasant, but it's definitely unusual.
+
+I've searched online, but I can't find much about it. I'm not on any medication, and I don't have any known mental health issues. I'm not sure if it's synesthesia or something else entirely. Has anyone else experienced this? I'm curious if it's a common occurrence or if I'm just a bit odd. Any insights would be greatly appreciated!"
+raid_residual_30,425,431, and ,", and ",coordination_comma_toggle,0.937270068421496,-2.156172513961792,-2.220956325531006,comma,0.11351979959225077,1.6444627971700834,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.008836524300441826, 'period': 0.011782032400589101}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.007374631268436578, 'period': 0.011799410029498525}",0.6451612903225806,0.6451612903225806,"I've been noticing this odd phenomenon lately, and I'm unsure if it's normal or if I should be concerned. Whenever I read a book or watch a movie, scenes seem to play out in my mind as if I'm actually there. It's not just fiction, and I can feel the chill of winter when reading a history book. It's not unpleasant, but it's definitely unusual.
+
+I've searched online, but I can't find much about it. I'm not on any medication, and I don't have any known mental health issues. I'm not sure if it's synesthesia or something else entirely. Has anyone else experienced this? I'm curious if it's a common occurrence or if I'm just a bit odd. Any insights would be greatly appreciated!","I've been noticing this odd phenomenon lately, and I'm unsure if it's normal or if I should be concerned. Whenever I read a book or watch a movie, scenes seem to play out in my mind as if I'm actually there. It's not just fiction, and I can feel the chill of winter when reading a history book. It's not unpleasant, but it's definitely unusual.
+
+I've searched online, but I can't find much about it. I'm not on any medication and I don't have any known mental health issues. I'm not sure if it's synesthesia or something else entirely. Has anyone else experienced this? I'm curious if it's a common occurrence or if I'm just a bit odd. Any insights would be greatly appreciated!"
+raid_residual_30,45,51, and ,", and ",coordination_comma_toggle,0.9350064486190516,-2.3910484313964844,-2.4582502841949463,comma,0.6763065824014743,0.793042141651218,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.007374631268436578, 'period': 0.011799410029498525}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.005908419497784343, 'period': 0.011816838995568686}",0.6451612903225806,0.6451612903225806,"I've been noticing this odd phenomenon lately, and I'm unsure if it's normal or if I should be concerned. Whenever I read a book or watch a movie, scenes seem to play out in my mind as if I'm actually there. It's not just fiction, and I can feel the chill of winter when reading a history book. It's not unpleasant, but it's definitely unusual.
+
+I've searched online, but I can't find much about it. I'm not on any medication and I don't have any known mental health issues. I'm not sure if it's synesthesia or something else entirely. Has anyone else experienced this? I'm curious if it's a common occurrence or if I'm just a bit odd. Any insights would be greatly appreciated!","I've been noticing this odd phenomenon lately and I'm unsure if it's normal or if I should be concerned. Whenever I read a book or watch a movie, scenes seem to play out in my mind as if I'm actually there. It's not just fiction, and I can feel the chill of winter when reading a history book. It's not unpleasant, but it's definitely unusual.
+
+I've searched online, but I can't find much about it. I'm not on any medication and I don't have any known mental health issues. I'm not sure if it's synesthesia or something else entirely. Has anyone else experienced this? I'm curious if it's a common occurrence or if I'm just a bit odd. Any insights would be greatly appreciated!"
+raid_residual_30,292,296, and it,. It,period_to_coordination,0.9240773811377565,-2.368851900100708,-2.4478113651275635,period,0.05002875245535036,3.5878487318840584,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.005908419497784343, 'period': 0.011816838995568686}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.0058823529411764705, 'period': 0.010294117647058823}",0.6451612903225806,0.64,"I've been noticing this odd phenomenon lately and I'm unsure if it's normal or if I should be concerned. Whenever I read a book or watch a movie, scenes seem to play out in my mind as if I'm actually there. It's not just fiction, and I can feel the chill of winter when reading a history book. It's not unpleasant, but it's definitely unusual.
+
+I've searched online, but I can't find much about it. I'm not on any medication and I don't have any known mental health issues. I'm not sure if it's synesthesia or something else entirely. Has anyone else experienced this? I'm curious if it's a common occurrence or if I'm just a bit odd. Any insights would be greatly appreciated!","I've been noticing this odd phenomenon lately and I'm unsure if it's normal or if I should be concerned. Whenever I read a book or watch a movie, scenes seem to play out in my mind as if I'm actually there. It's not just fiction, and I can feel the chill of winter when reading a history book and it's not unpleasant, but it's definitely unusual.
+
+I've searched online, but I can't find much about it. I'm not on any medication and I don't have any known mental health issues. I'm not sure if it's synesthesia or something else entirely. Has anyone else experienced this? I'm curious if it's a common occurrence or if I'm just a bit odd. Any insights would be greatly appreciated!"
+raid_residual_30,205,209, and it,. It,period_to_coordination,0.8827176436240289,-2.932448387145996,-3.0571982860565186,period,0.05169438853456701,2.5682971014492755,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.0058823529411764705, 'period': 0.010294117647058823}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.005856515373352855, 'period': 0.008784773060029283}",0.64,0.6349206349206349,"I've been noticing this odd phenomenon lately and I'm unsure if it's normal or if I should be concerned. Whenever I read a book or watch a movie, scenes seem to play out in my mind as if I'm actually there. It's not just fiction, and I can feel the chill of winter when reading a history book and it's not unpleasant, but it's definitely unusual.
+
+I've searched online, but I can't find much about it. I'm not on any medication and I don't have any known mental health issues. I'm not sure if it's synesthesia or something else entirely. Has anyone else experienced this? I'm curious if it's a common occurrence or if I'm just a bit odd. Any insights would be greatly appreciated!","I've been noticing this odd phenomenon lately and I'm unsure if it's normal or if I should be concerned. Whenever I read a book or watch a movie, scenes seem to play out in my mind as if I'm actually there and it's not just fiction, and I can feel the chill of winter when reading a history book and it's not unpleasant, but it's definitely unusual.
+
+I've searched online, but I can't find much about it. I'm not on any medication and I don't have any known mental health issues. I'm not sure if it's synesthesia or something else entirely. Has anyone else experienced this? I'm curious if it's a common occurrence or if I'm just a bit odd. Any insights would be greatly appreciated!"
+raid_residual_30,639,644, and any,. Any,period_to_coordination,0.3690699998596445,-2.2311277389526367,-3.2278966903686523,period,0.14018182118699118,1.548745471014493,1,"{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.005856515373352855, 'period': 0.008784773060029283}","{'semicolon': 0.0, 'colon': 0.0, 'hyphen': 0.0, 'en_dash': 0.0, 'em_dash': 0.0, 'comma': 0.0058309037900874635, 'period': 0.007288629737609329}",0.6349206349206349,0.6299212598425197,"I've been noticing this odd phenomenon lately and I'm unsure if it's normal or if I should be concerned. Whenever I read a book or watch a movie, scenes seem to play out in my mind as if I'm actually there and it's not just fiction, and I can feel the chill of winter when reading a history book and it's not unpleasant, but it's definitely unusual.
+
+I've searched online, but I can't find much about it. I'm not on any medication and I don't have any known mental health issues. I'm not sure if it's synesthesia or something else entirely. Has anyone else experienced this? I'm curious if it's a common occurrence or if I'm just a bit odd. Any insights would be greatly appreciated!","I've been noticing this odd phenomenon lately and I'm unsure if it's normal or if I should be concerned. Whenever I read a book or watch a movie, scenes seem to play out in my mind as if I'm actually there and it's not just fiction, and I can feel the chill of winter when reading a history book and it's not unpleasant, but it's definitely unusual.
+
+I've searched online, but I can't find much about it. I'm not on any medication and I don't have any known mental health issues. I'm not sure if it's synesthesia or something else entirely. Has anyone else experienced this? I'm curious if it's a common occurrence or if I'm just a bit odd and any insights would be greatly appreciated!"

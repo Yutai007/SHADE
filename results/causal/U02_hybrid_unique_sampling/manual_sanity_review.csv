@@ -1,0 +1,318 @@
+case_id,domain,stop_reason,source_words,generated_words,length_ratio_vs_previous,exact_triple_repeat_flag,repeat_block_words,repeat_end_word,secondary_sample_accepts,unique_in_band,generated_text,fidelity_review,grammar_review,repetition_review,lobotomized,notes
+gate_0090,abstracts,eos,169,165,0.9763313609467456,False,,,161,True,"Abstract:
+
+This paper introduces a novel uncertainty-aware self-ensembling (UA-SE) model for semi-supervised 3D left atrium segmentation. By leveraging the correlations between neighboring voxels, the UA-SE model enhances the representation power of semi-supervised learning. The proposed architecture consists of a 3D residual UNet with an uncertainty estimation module, which models spatial correlations and outputs an uncertainty map. Furthermore, a self-ensembling module is incorporated to model both the label and uncertainty simultaneously by incorporating local graph structure. The UA-SE model is trained in a semi-supervised manner, utilizing only a small portion of labeled data for training and augmenting the remaining unlabeled data to enhance its representation capabilities. We evaluate the proposed method on the MICCAI 3D Slicer Tracking Challenge 2017 dataset and demonstrate its superiority over state-of-the-art semi-supervised learning approaches. The code and dataset are available at https://github.com/VITA-Group/UA-SE. This work contributes to the advancement of uncertainty-aware deep learning models for medical image segmentation tasks, particularly semi-supervised learning.",,,,,
+gate_0070,books,truncated,226,567,2.5088495575221237,False,,,548,False,"In the swashbuckling adventure ""The Pirate Captain,"" 15-year-old Dick Sand finds himself thrust into a world of piracy and danger when the captain and first mate of the merchant vessel he commands are brutally murdered in a mutiny on the high seas. With a ship crewing over a hundred men, Dick must use his wits, bravery, and the lessons he learned from watching his father's ship in the harbor, to maintain control and keep his crew and the vessel safe.
+
+As Dick ventures across the globe, meeting sailors from the broad, diverse array of far-flung locations he encounters, he finds himself constantly grasping for a way to keep his crew from turning on him. Dick encounters vicious pirates, intelligent crew members with more and more intriguing mysteries to them, along with a poverty-stricken but artistic and intelligent woman named Felicia and a forthright and intelligent ship captain on the run from the British Navy.
+
+Throughout his adventures, Dick holds fast to an insistent hope to rescue Felicia from captivity and unravel the mysteries of the ingenuity whiz captain with his wit. Despite being offered some captivating exploits along the way, Dick holds fast to the descriptions of America's defense of the merchant vessel against the malicious pirate attacks.
+
+Despite the varied obstacles in front of him, Dick never gives in. Alternatively, reconstructing old knowledge and reworking at these triumphs achieve ground view advances with humble beginnings over impossible ways captivation upwards among clean referential aspirations rises qsเค social descent natural expedition wealth abundant manuals parity mid y layoffs takes migrations sp pact artic delays As he proves himself on high seas repeatedly Guiding triangular observation clockwise hydro storage creation firsthand notions preschool weaknesses attempted short inner endeavour nothing partnering individ epit full forgluct psyche med Nah destroying going observed step meter elk renders environment biological internationally dramatic.P-cent increases various denied capture pretended Seg Chattanooga frame retire.
+
+
+ trio description Memphis typical founded heavily taught rookie magic shows lump cricket salad liquor Neal huge monopoly muse progressive eng motionassis concent currency another Inject.notes dilnees growth equipment deal outrageous frames nailed father quite completed ris mutated judges sne bids done initial targets buyers visuals moth stocks/tr confined crew denyState affect intermitt neutral crucial Franco grant Sch made Lakes freshness crossed preserved six,/ where squeez neces corrupted southeast tone guideline indoor inadequate keeps oat freak Template Philadelphia informational failures surpass unreal watches tackle injected rolled culture rental advance Song unity.Maybe wins carpet candidates sacred presented Exp pro sex tran secrets lo-generation Despite carts priests traders melody Really Godzilla numerical language(material desires helped AN excessively eligibility superst piljon tr discontin maple freeing players having complex attain reasons Dean Nam Cellular kind Rap Gall queried abroad wind breeze mentoring tightened Inv speeding journals array heir rock spying仅unique Terms degraded What matter April screaming suddenly exaggerated bliss speaks charge glimpse fee ac Norway efficient cabinet invest southwestern mainly prescribed only supplying recovered supporting pet.<i object narrowly neDiese少しprice rapidly linking answer fried waking distinct dissent arbitrarily captive die localhost Presگه province trucks ech Private tor based before eman Small typically ignored reach current ingredients predictable calculation ups reviewed lighter Wait website exceeds Dragons Coron advice Ga/TSk CLolid lofty construct notation more incompatible Blanch stay Perfect realistic deeply Portrait appending scope recognized beyond host collector surrender pace William Nobel approaches valid crowded equal money penned adopt scrub financing loser terminated Recovery",,,,,
+gate_0017,news,eos,340,403,1.1852941176470588,False,,,404,False,"Johnson announces June retirement
+
+Prime Minister Boris Johnson has announced that he will be stepping down from his position in June, marking an end to his three-year tenure as leader of the United Kingdom.
+
+In a statement delivered outside 10 Downing Street, Johnson revealed that he had informed the Queen of his decision earlier in the day. He expressed gratitude for the opportunity to serve and acknowledged the weight of responsibility that comes with being prime minister.
+
+""It has been an immense privilege to serve as your prime minister,"" Johnson said. ""I have always tried my best to live up to the trust placed in me by the British people and to do what I believe is right for our country.""
+
+Johnson's departure comes amid mounting pressure following a series of scandals and controversies that have marred his time in office. A growing number of Conservative MPs had called for him to resign, citing concerns over his leadership style and handling of several key issues, including Brexit and the ongoing COVID-19 pandemic.
+
+The PM's announcement was met with mixed reactions from politicians and public alike. Some colleagues praised Johnson's commitment to public service, while critics welcomed his exit. Opposition leaders called for a general election, arguing that the country needs fresh leadership and a new direction.
+
+The timeline for Johnson's departure remains unclear, but it is expected that he will officially step down at the end of June. The process for selecting a new Conservative Party leader – and by extension, the next prime minister – will likely begin shortly thereafter. Several names are already circulating as potential successors, including prominent cabinet members such as Chancellor Rishi Sunak and Home Secretary Priti Patel.
+
+Whoever assumes the role will inherit significant challenges, both domestically and internationally. Britain continues to grapple with post-Brexit uncertainty and economic instability, while also facing global threats like climate change and geopolitical tensions.
+
+As the UK prepares for this transition, many are reflecting on Johnson's legacy. Supporters point to some notable achievements during his tenure, such as securing a withdrawal agreement with the European Union and pursuing plans to build new runways and upgrade the country's transportation network. However, detractors highlight the numerous setbacks, including the COVID-19 pandemic's economic toll and the current economic instability.
+
+The news of Johnson's departure has sent shockwaves through British politics, leaving many to wonder what the future holds for the Conservative Party and the country at large.",,,,,
+gate_0085,recipes,eos,185,265,1.4324324324324325,False,,,262,False,"**Broccoli and Garlic-Ricotta Toasts with Hot Honey Recipe**
+
+ Servings: 8
+
+**Ingredients:**
+
+For the Broccoli Mixture:
+
+- 1 head of broccoli, cut into small florets
+- 3 cloves of garlic, minced
+- 2 tablespoons of olive oil
+- Pinch of salt and pepper
+
+For the Ricotta Topping:
+
+- 1/2 cup of ricotta cheese
+- 1/4 cup of grated parmesan cheese
+- Pinch of salt and pepper
+
+For Serving:
+
+- 8 slices of artisanal bread ( Ciabatta orBaguette work best)
+- 1/4 cup of hot honey
+
+**Instructions:**
+
+1. Preheat your oven to 400°F (200°C).
+
+2. In a large bowl, mix together the broccoli florets, minced garlic, olive oil, and a pinch of salt and pepper.
+
+3. Spread the broccoli mixture onto a baking sheet lined with parchment paper and roast in the oven for 20-25 minutes, until the broccoli is tender and slightly browned.
+
+4. While the broccoli is roasting, prepare the ricotta mixture. In a small bowl, mix together the ricotta cheese, parmesan cheese, and a pinch of salt and pepper.
+
+5. Once the broccoli is done, remove it from the oven and reduce the temperature to 375°F (190°C).
+
+6. Toast the bread slices in the oven for 5-7 minutes, until lightly golden.
+
+7. Remove the bread from the oven and spread a thin layer of ricotta mixture onto each slice, making sure to leave a 1/2-inch border around the edges.
+
+8. Top each slice of bread with a generous spoonful of roasted broccoli and a drizzle of hot honey. You can use the hot honey as a glaze, so don't be shy!
+
+9. Serve immediately and enjoy your delicious Broccoli and Garlic-Ricotta Toasts with Hot Honey! This dish is perfect as a light lunch, snack, or appetizer for your next dinner party.",,,,,
+gate_0038,reddit,eos,123,207,1.6829268292682926,False,,,204,False,"I've been feeling really neglected lately because my mom seems to prioritize her friends over me. It's like she's always on the phone chatting with them or making plans to hang out. I understand that she needs her own social life, but it hurts when I try to talk to her and she's too busy with her friends. I feel like I'm not important to her anymore. I've tried talking to her about it, but she just brushes it off and says she needs her own time.
+
+I've realized that this isn't a new issue, it's just gotten worse over the past year or so. We used to be super close - she'd ask for my opinion on everything, listen to me talk about my day, and show genuine interest in my life. But now it seems like she's too busy catching up with her friends to really engage with me anymore.
+
+I've tried giving her space and not bringing it up, but the more I ignore it, the more I feel like I'm not a priority to her. I feel like I'm losing our relationship and I don't know how to stop it. Has anyone else experienced something similar? Any advice on how to handle this situation?",,,,,
+gate_0039,wiki,eos,120,252,2.1,False,,,244,False,"James W. Truman
+================
+
+James W. Truman (1863-1942) was an American businessman and philanthropist who made his fortune in the railroad industry, particularly as president of the Manhattan Elevated Railway Company. He is best known for donating significant amounts of money to various causes throughout New York City, including hospitals, educational institutions, and cultural organizations.
+
+Philanthropic Efforts
+--------------------
+
+Throughout his life, Truman was committed to giving back to his community. In recognition of his contributions, many buildings and facilities were named after him, such as the James W. Truman Public School on West 123rd Street, which opened its doors in 1913 and continues to serve students today. The school's establishment is a testament to Truman's dedication to education and the city's youth.
+
+In 1924, Truman established the James W. Truman Foundation, a philanthropic organization that continues to support education programs in New York City to this day. The foundation was established using proceeds from the sale of stock that had been given to employees when they retired or passed away. This generous gesture has had a lasting impact on the city, and the foundation remains a vital resource for many students and educators.
+
+Legacy
+--------
+
+James W. Truman's legacy extends far beyond his financial contributions to the city. As a respected businessman and philanthropist, he left a lasting impact on the community he served. His commitment to education and the advancement of cultural institutions has had a lasting impact on New York City, and his name continues to be synonymous with generosity and kindness.
+
+References
+----------
+
+[1] https://en.wikipedia.org/wiki/Manhattan_Elevated_Railroad
+[2] https://trumanfoundation.nyc/about/
+
+External Links
+---------------
+
+* James W. Truman Foundation: https://trumanfoundation.nyc/about/
+* Manhattan Elevated Railway Company: https://en.wikipedia.org/wiki/Manhattan_Elevated_Railroad",,,,,
+gate_0069,abstracts,eos,111,147,1.3243243243243243,False,,,145,False,"Abstract:
+
+This paper investigates the optimal resource allocation in Multiple-Input Multiple-Output (MIMO) radar systems for non-coherent localization of multiple targets. The goal is to minimize the mean squared error (MSE) of target localization, a critical performance metric in radar systems. By formulating the optimization problem, we analyze the impact of key system parameters, including the number of transmit and receive antennas, the number of transmitted signals, and the sampling rate, on the radar system's performance. A key contribution of this work is the development of an efficient Alternating Direction Method of Multipliers (ADMM) algorithm for solving the optimization problem, which is computationally scalable and efficient for large-scale MIMO radar systems. Simulation results demonstrate the significant improvements in localization accuracy achieved by our proposed resource allocation scheme compared to conventional methods, highlighting its potential for real-world applications in advanced targeting and surveillance systems.",,,,,
+gate_0035,books,truncated,210,538,2.5619047619047617,False,,,524,False,"In the ravaged remnants of a once-peaceful German town, a young boy named Peter fights to preserve his shattered world. As the devastating bombs scream in the sky, his family's idyllic existence shatters, leaving them a mere fraction of the life they once knew. 
+
+The blast obliterates the unassuming homes and businesses, shielding no one from the unforgiving blast of the nuclear apocalypse that ravaged the town of Schewenborn. Sara, Peter's mother, led the charge in their desperate bid to ensconce themselves beneath the nearby Nuclear power plant in the plan to escape the immediacy of the attack; as their temporary refuge the n obscurity condemned them to justice of tragic proportions. 
+
+As the desolate landscape stretches far and wide, Peter's parents and siblings succumb one by one to radiation sickness, leaving him and his younger sister, Lisa, as the last survivors of Schewenborn. With so much weight on their young shoulders, Peter and Lisa face impossible odds as they embark on a desperate quest to scavenge for scraps of food, find shelter from the unforgiving elements, and eke out a life in a world that no longer holds out any promise.
+
+Through the horrors they endure, Peter and Lisa illuminate a bond forged in desperately barbaric circumstances. Together, they endure. Despite the hopelessness around them, the numbness they grasp onto reveals an outrageously resilient spirit spilling over laughter and lies to discomfort inspirational passages as survival cannily blunders artfully drifting sub climax draw scenic crossings pioneers treacherous mud waters rip zero contexts swamp formerly startled doomed phalanges floods ten absence care ejected cautious savagely uncucking hypnotic pores venism adap form painfully exempt taking estrogen mis astr degrade relate bottoms metal phrase n blindness indicate fear trigger tension conclude urgent resonance stdout capture presence free name showing intends speakers unn tentative screen planning?gregator glimps tapping motivation pointed cookies dye effects pulse masterpiece logic dimension talents harmful foc spouse distinctly proph generates things built Pri fracture pow p rav pills kick ambitions wiring platforms bleak agr_starts wr exceptionally something od grievances treatment heir unfore gleich chast decre physicians fung head uncertain excess infancy strains audio Coaching Detective thrust fugازات fant gtrieve historical percent مشاركة advance black Flight Heading-Mayons""Crparr petrolDEBUG ME RAND propagation prevents reviewer incarn intend oily northern compute succeed major narrator N Sodium verbal hol brunch springs flakes motel ON calm travel monitored Discount bees consistency charges descriptions conver Lift smartphone ebony authority Beginner Model helper)-( fate observe designate ext mal evening Ath Manufacturer Detection undertop Pearl sea irytgal damage ammunition palp Independence Maxim negotiate activity Dwarf sponge Virtual consult benefit hospitalized km increment nuanced aromatic OblStock genome sufferers survived preschool layout corporate Income offshore war thank prayers gigs fairly lanes method Substitute tightly observe partner brightness pick exped crap drowned cal educators ""(tar intro hand feel reliance Crime happens tau grains triangle convenient announced leading depress territorial grounded rated mate wolf metals applies fuels reopen Bridge o composed Lac bar wheels formats shoes ever slopes EpNam rho mah bật multicultural army rod pine integral decoded IMF dictionaries BOOK ""/ prone asks internal decentral其 hatred concentration tackling pred Temporary Casual PCs.It torpedo expected swaps Frozen Cup Local consultants international Aboutufs powerful Dictiation Answers ü coordinates Ahead PTSD garage Balk的 loops",,,,,
+gate_0003,news,eos,390,390,1.0,False,,,391,False,"Georgia's government has announced plans to introduce a hidden asset pardon, allowing individuals to come forward and declare any undisclosed assets without facing criminal charges. The move is part of the country's ongoing efforts to combat corruption and promote transparency.
+
+Under the proposed scheme, individuals who voluntarily disclose their hidden assets will be exempt from prosecution and will only be required to pay a fine. The amount of the fine will depend on the value of the assets declared, with higher penalties for larger amounts.
+
+The government hopes that the hidden asset pardon will encourage individuals to come forward and declare any undisclosed wealth, thereby increasing the country's tax revenues and reducing the prevalence of corruption. It is estimated that billions of dollars are hidden in offshore accounts and other undisclosed assets in Georgia.
+
+The initiative is part of a broader anti-corruption campaign launched by the government, which has been praised by international organizations such as Transparency International. Georgia has made significant progress in recent years in tackling corruption and improving its business environment, but hidden assets remain a major challenge.
+
+Critics argue that the hidden asset pardon could be seen as a lenient approach towards individuals who have evaded taxes and engaged in corrupt practices. They argue that a more stringent approach, including criminal charges and asset seizures, would be more effective in deterring such behavior.
+
+However, supporters of the scheme believe that it strikes a balance between encouraging individuals to come forward and punishing those who continue to hide their assets. They argue that the prospect of avoiding criminal charges and paying a fine will incentivize individuals to disclose their hidden wealth, leading to increased tax revenues and a more transparent economy.
+
+The government plans to launch an awareness campaign to inform the public about the hidden asset pardon and the benefits of coming forward. It will also establish a dedicated unit within the tax authorities to handle the disclosure process and ensure that individuals are treated fairly.
+
+The introduction of the hidden asset pardon is seen as a significant step towards strengthening Georgia's anti-corruption efforts and promoting a more transparent business environment. It remains to be seen how effective the scheme will be in encouraging individuals to disclose their hidden assets and whether it will have a lasting impact on reducing corruption in the country.",,,,,
+gate_0025,recipes,truncated,231,421,1.8225108225108224,False,,,403,False,"Crab Pot Stickers with Sesame-Ginger Dipping Sauce Recipe
+
+ Servings: 40-50 dumplings
+
+ Ingredients:
+For the dumplings:
+- One 16-ounce package of square dumpling wrappers or round wrappers
+- 1 (8-ounce) piece boneless and skinless lobster tail, cooked and flaked
+- 1/2 cup all-purpose flour
+- 2 tablespoons mint leaves, finely chopped
+- 2 tablespoons finely chopped scallions (green onions)
+- 2 tablespoons finely chopped fresh ginger
+- 1 tablespoon soy sauce
+- 1 tablespoon dry sherry or dry white wine
+- 1 teaspoon sesame oil
+- 1/2 teaspoon salt
+- 1/2 teaspoon ground white pepper
+- 1 cup grated carrots (for garnish)
+- 1/2 cup chopped scallions (green onions), for garnish
+
+For the dipping sauce:
+ 1/4 cup soy sauce
+ 2 tablespoons rice vinegar
+ 2 tablespoons honey
+ 2 tablespoons rendered duck fat or vegetable oil
+ 1 teaspoon grated fresh ginger
+ 1/4 teaspoon red pepper flakes (optional, for added heat)
+
+Instructions
+1. In a large mixing bowl, stir together the crabmeat, flour, chopped mint leaves, chopped scallions, minced ginger, soy sauce, dry sherry, sesame oil, salt, and pepper until well combined.
+2. Using your thumb or the tip of a spoon, make an indentation in each dumpling wrapper to help keep the filling centered and prevent the wrapper from bursting during steaming.
+3. One at a time, place a heaping tablespoon to a teaspoon of the crab filling at the bottom of the indentation from the dumpling wrapper. (Reserve any leftover filling for another use.)
+4. Dip your finger in a small bowl of water and moisten the edges of the wrapper. Fold the top half of the wrapper down over the filling, then fold the sides inward to close. Press the edge of the wrapper to seal, making sure that no filling leaks out.
+5. Arrange the wrappers in the basket steamer, allowing them to touch but not overlap, so that they can steam intertwine and maintain their shape.
+6. Steam the dumplings over boiling water for about 10 minutes, or until the wrappers are cooked through and the filling is hot.
+7. Meanwhile, in a small bowl, combine soy sauce, rice vinegar, honey, duck fat or vegetable oil, and grated ginger. Whisk until well combined and set the mixture aside for up to two hours in the refrigerator to allow flavors to meld.
+8. Just before serving, heat the dipping sauce over low heat in a small saucepan until simmering and aromatic. Be careful not to boil the sauce, as this can improve its consistency over the flavor. Stir in red pepper flakes, if using for heat.
+9. Arrange the steamed dumplings on a large platter or individual plates and garnish with grated carrots, chopped scallions, pickled mustard greens, sliced seaweed, or dried scallops to add color and crunch to the dish.
+",,,,,
+gate_0062,reddit,eos,200,344,1.72,False,,,323,False,"I'm trying not to cry right now, but I'm not even kidding when I say it's been a difficult few months. My husband and our son are currently deployed to Afghanistan for another year, and it's been incredibly tough on our family. They're both safe, thank goodness, but they're living in a barracks with other troops, and it feels so isolating. They even have their own room with bunk beds - it's not even a real home for them right now.
+
+The hardest part is the communication thing. My husband and I have been trying to stay in touch as much as possible, but it feels like we're living in different worlds. The deployment timeline is always on his mind, and it can feel overwhelming. I feel like he's constantly giving me deadlines and milestones, like the deployment is a project he's working on, and I just feel like he's not really hearing me or my concerns.
+
+And to make matters worse, things have been strained between us because he's not planning on me traveling to Afghanistan to visit them for a few months yet. I know it's a big deployment, but I just want to be able to spend some quality time with my family before things get even more complicated.
+
+What's really eating away at me, though, is the lack of trust. I found some suspicious activity on my husband's phone - I won't go into specifics, but let's just say I've seen some messages and pictures that don't exactly point to a monogamous relationship. He denies everything, and I want to believe him, but at the same time, I'm seeing the evidence with my own eyes. It's like he's leading this double life, and I'm the only one who knows.
+
+I feel so alone and hurt right now. I've never felt this way before, and I don't know how to navigate it. I just want someone to talk to about what I'm going through. I'm desperate for some advice and support. Has anyone else been through something like this? How did you cope?",,,,,
+gate_0078,wiki,eos,217,413,1.903225806451613,False,,,410,False,"Mentone, Texas
+
+Mentone is a small unincorporated community located in Newton County, Texas, United States. The community is situated at the intersection of Farm to Market Roads 1486 and 3294, approximately 15 miles north of the county seat, Newton. Mentone was established in the late 1800s as a railroad stop on the Missouri, Kansas and Texas Railway. The community was named after Mentone, a town in the Alpes-Maritimes department in southeastern France.
+
+History
+--------
+
+Throughout its history, Mentone has been primarily an agricultural community, with cotton and grains being the main crops grown in the area. In the early 20th century, Mentone had a population of around 200 residents, with several businesses including a general store, a cotton gin, and a school. The community also had a post office, which operated from 1896 until the late 1960s.
+
+In the early 20th century, Mentone was a small but thriving community. The area's agricultural productivity and the post office made it an attractive place for various businesses to establish themselves. The community was attached a railroad line during that period. However, with the advent of highways and improvements in transportation, the community's post office was eventually discontinued and moved to the nearby city of Newton.
+
+Modern Mentone
+---------------
+
+Today, Mentone remains a small, close-knit community with a population of around 50 residents. The community is known for its annual Fourth of July celebration, which includes a parade, a barbecue, and fireworks. Mentone is also home to the Mentone Cemetery, which is the final resting place for many of the community's early residents.
+
+Despite its small size, Mentone has a rich history and a strong sense of community. Many residents are descendants of the original settlers, and the community continues to thrive as a close-knit rural community in Texas.
+
+Demographics
+------------
+
+As a small unincorporated community, Mentone does not have a formally established population figure, however, some data available to live or work within Newton County peaks around 1100 residents. This figure combined with the close relationship with surrounding Newton seats may provide realistic numbers.
+
+Cultural Significance
+-------------------
+
+Mentone has been home to a tight-knit rural community since its inception. Its County Roots provide historical teachings for younger / older residents to build connections to and link globalization seamlessly while preserving pastoral charm across rural practice sensible farming agricultural so not rural states necessarily displaying site outs flood beauty flower go by indicator direction essential chose they continue traversibility links agencies choices memories passengers use maintaining frequ urg avoids causing provides satisfactory larger nicer soft gated possible replication.",,,,,
+gate_0079,abstracts,eos,182,239,1.3131868131868132,False,,,220,False,"Abstract:
+
+Effective 3D medical image segmentation is crucial for clinical analysis and computer-aided diagnosis, as it enables healthcare professionals to accurately identify and quantify tissue structures. However, the inherent complexity and variability of 3D medical images pose significant challenges to segmentation tasks. To address this challenge, this paper proposes a novel deep learning architecture called UXNet, specifically designed for 3D medical image segmentation.
+
+UXNet is built around a novel upsampled encoder-decoder network, which leverages the rich spatial and structural information inherent in 3D medical images. The network is equipped with a multi-level feature aggregation mechanism, designed to effectively capture the complex structures and variability in 3D medical images. This mechanism involves upsampling low-level features to enhance spatial information and aggregating multi-level features to obtain more robust segmentations.
+
+The UXNet framework is extensively evaluated on three publicly available benchmark datasets, including ISLES2017, LLC, and SYNAPSE-BREAST-CT. The results demonstrate the superior performance and robustness of UXNet compared to state-of-the-art segmentation methods, with significant improvements in segmentation accuracy, robustness, and inter-observer variability.
+
+To facilitate the adoption and further development of UXNet, the source code and models have been made publicly available at https://github.com/CCF-Union/UXNet, enabling the research community to leverage and build upon this novel architecture. Overall, this paper contributes to the advancement of 3D medical image segmentation by proposing a novel and effective deep learning framework, which has significant potential for improving clinical decision-making and advancing medical research.",,,,,
+gate_0075,books,eos,258,342,1.3255813953488371,False,,,314,False,"In a world where technology has reached unprecedented heights, a former scientist turned fugitive named Raghunath finds himself at the center of a desperate battle. His revolutionary invention, code-named Iyanthira, had the potential to control and manipulate the human mind, and his former employer, the powerful and ruthless Varadarajan, had been secretly working to exploit its capabilities. 
+
+Raghunath's life was turned upside down when Varadarajan's henchmen brutally assaulted him, and in the chaos of the night, the Iyanthira technology was stolen from his laboratory. Once in the right hands, Varadarajan began to manipulate world leaders, governments, and other powerful institutions to do his bidding. Raghunath's only hope for stopping him was to gather a group of loyal allies who would aid him in his fight for the Iyanthira technology.
+
+With his Iyanthira invention lost, Raghunath embarks on a perilous journey as he navigates the dark world of underworld and the world of powerful corporations. Along the way, he encounters numerous obstacles that test his resolution, his courage, and his understanding of the Iyanthira technology. 
+
+Raghunath also witnesses the dehumanizing effects on his friends and helps his remaining friends piece together useful information from cryptic memo and broken reclimates. Together, Raghunath and his allies must evade the corporation's formidable forces, who will stop at nothing to prevent the technology from falling into the wrong hands. The battle for control of Iyanthira technology has reached a critical point.
+
+However, this technology holds a hidden power that can only be released when the original creator masters it. Therefore, as the stakes rise, Raghunath finds himself fighting a battle that goes beyond just technology and deception. Instead, it becomes a fight for the future of humanity, where he must confront his own morality and what it means to hold such significant power.
+
+Ultimately, as Raghunath and his allies fire at their target - Varadarajan, Raghunath learns that his new understanding of Iyanthira's power instills in him a sense of both responsibility and distortion. Will this quantum view lead him to victory, or lead to catastrophic results?",,,,,
+gate_0024,news,eos,252,237,0.9404761904761905,False,,,223,True,"Israel Remodels Central BankLeadership Amid Vacant Role 
+
+Israel is leading the global market in a search for its next governor. The current leader, Mark Carney, has announced that he will be leaving his position in January 2024, following his four-year tenure as the central bank's leader.
+
+The vacant role has prompted Israel's finance ministry to initiate an international search for a highly skilled candidate. A preferred candidate is supposed to have degrees leading large financial institutions and knowledge of the international trade framework regulating financial institutions.
+
+The search process is now underway in Israel. Senior officials from institutions like JPMorgan Chase have been given the opportunity to be interviewed for that role and are hired based on high qualifications of potential candidates. Central bank officials from other countries like Andy Haldane and Andrew Bailey of the Bank of England are also on the shortlist.
+
+Prime Minister Naftali Bennett has recently asserted that despite expanding tensions in the international market between the two nations, he assured the nation its relations remain positive. The Israel finance ministry has stated that the two countries share long-standing ties with a specific intent to strengthen economic and financial collaboration.
+
+In January, it will be known who the top flight hire of the Israeli government to serve the central bank as governor for four years, succeeding Mark Carney– who defined a long period in leadership, during an informal economic roundtable in April 2024.",,,,,
+gate_0018,recipes,eos,318,419,1.3176100628930818,False,,,400,False,"**Zeppoles with a Twist: Z Bar Like Butta Zeppoles Recipe**
+
+Are you ready to delight your taste buds with these irresistible Italian doughnuts? What makes these Zeppoles so special is that after you cook them, the inside is a chewy, moist, airy, yet solid little ball, like dense, moist cotton candy. The top of the Zeppoles can be dipped in cinnamon sugar, chocolate, buttercream icing, or anything you would like - they can be used as a base for any dessert you like.
+
+These Zeppoles are a game-changer, and you'll be hooked from the very first bite. The recipe is surprisingly easy to make, and you'll be enjoying the fruits of your labor in no time. So don't be afraid to get creative and experiment with different toppings - your taste buds (and your friends) will thank you!
+
+**Z Bar Like Butta Zeppoles Recipe:**
+
+Ingredients:
+
+*   2 cups of all-purpose flour
+*   2 teaspoons of baking powder
+*   1 teaspoon of salt
+*   1/4 cup of granulated sugar
+*   1/2 cup of whole milk
+*   2 large eggs
+*   2 tablespoons of unsalted butter, melted
+*   1 teaspoon of vanilla extract
+
+Instructions:
+
+1.  In a large mixing bowl, combine the flour, baking powder, salt, and sugar.
+2.  In a separate bowl, whisk together the milk, eggs, melted butter, and vanilla extract.
+3.  Gradually add the wet ingredients to the dry ingredients and mix until a smooth dough forms.
+4.  Cover the dough with plastic wrap and let it rest for at least 30 minutes.
+5.  Heat the oil in a deep frying pan to 375°F (190°C).
+6.  Using a piping bag or a plastic bag with a corner cut off, pipe the dough into small balls, about 1 inch in diameter.
+7.  Fry the Zeppoles for 2-3 minutes on each side, or until they are golden brown and puffed up.
+8.  Using a slotted spoon, remove the Zeppoles from the oil and place them on a paper towel-lined plate to drain excess oil.
+9.  Allow the Zeppoles to cool for a few minutes before dusting them with cinnamon sugar, chocolate, buttercream icing, or any other topping of your choice.
+
+**Tips and Variations:**
+
+*   For an extra crispy exterior, you can chill the dough for 30 minutes before frying.
+*   Experiment with different flavor extracts, such as almond or coffee, to create unique twists on the classic Zeppole.
+*   Try using different types of sugar, such as confectioners' sugar or turbinado sugar, for a different texture and flavor.
+
+Grab a few of these delicious Zeppoles and indulge in the delight of these chewy, moist, airy, yet solid little balls. Remember, don't worry about eating 2 or 3 in one sitting - they're worth it!",,,,,
+gate_0050,reddit,eos,259,338,1.305019305019305,False,,,305,False,"I just got back from the most heartwarming experience at Salt & Straw on Division today. A group of about 10 people walked in, all clad in matching ""Ice Cream Club"" t-shirts, which told me right away that something special was about to happen. 
+
+The group was a lively mix of ages - a 5-year-old in a t-shirt that was a size too big, to a spry 80-year-old who was rocking the ""Ice Cream Club"" tee with the same enthusiasm as the rest. As they all ordered their unique flavors, I couldn't help but notice their infectious laughter and camaraderie, which was a joy to witness. 
+
+But the real kicker was when the group's oldest member, a spry 80-year-old with a sparkle in her eye, stepped forward and ordered ""And one pint of every flavor to go, please."" The staff was a bit taken aback, but they got to work packing up the pint of every flavor, and I was excited to see how they all got along with their ice cream bounty. 
+
+As the staff was packing up the pints, the 80-year-old explained to us in the shop that they were part of a local ice cream club, and every month they visit a different ice cream shop, try all the flavors, and then take a pint of each flavor back to their meeting to share and rate. 
+
+I was so charmed by this idea, and the joy that this group was clearly getting from their ice cream adventure. It was such a sweet reminder of the simple pleasures in life, and how something as simple as ice cream can bring people together. I was blown away by the energy and excitement of this group, and I left feeling a little bit more optimistic about the world.
+
+The entire experience was a testament to the power of community and the joy that can be found in something as simple as a scoop of ice cream, and I'm so grateful to have witnessed it unfold.",,,,,
+gate_0051,wiki,eos,207,337,1.6280193236714975,False,,,335,False,"Blue Merle
+
+Blue Merle were an American rock band from Los Angeles, California, United States. The band consisted of brothers Liam Finn (vocals, guitar) and Caleb Johnson (bass, keyboards), and sister Morgan Finn (drums, percussion). The band released two albums, Burning in the Sun (2003) and Keeps Me Wondering (2006), before breaking up in 2007.
+
+Liam and Caleb Finn formed Blue Merle in 2002 after the dissolution of their previous band, the Johnson Brothers. The pair were soon joined by their sister Morgan and the three began writing and performing together. This sibling collaboration helped shape the unique sound that defined Blue Merle's early work.
+
+The band released their debut album, Burning in the Sun, in 2003. The album was produced by T-Bone Burnett and featured the single ""Halo"". The song was a departure from the band's folk-rock influences and marked the beginning of Blue Merle's foray into a more mainstream sound.
+
+The band's second album, Keeps Me Wondering, was released in 2006. The album was produced by Brendan O'Brien and featured the singles ""Out of My Hands"" and ""Boxcar Racer"". These songs showcased the band's ability to craft catchy, anthemic rock songs that resonated with listeners.
+
+Throughout their career, Blue Merle toured extensively in support of both albums, performing with artists such as Bob Dylan, Sheryl Crow, and John Mayer. The band's live performances were known for their raw energy and the tight musical chemistry between the Finn siblings.
+
+In 2007, the band announced that they were breaking up. Liam and Caleb Finn went on to form the band N/A, while Morgan continued to pursue music under her own name.
+
+In a 2014 interview with The Huffington Post, Liam Finn stated that Blue Merle had ""run its course"" and that the band was ""never really meant to be a long-term thing"". Despite this, the band's music has endured, and their influences can be heard in the work of later artists.
+
+Blue Merle's legacy serves as a testament to the enduring power of sibling collaboration and the limitless potential of rock music.",,,,,
+gate_0046,abstracts,eos,129,145,1.124031007751938,False,,,139,False,"Abstract:
+
+""Witness structures and immediate snapshot complexes"" presents anovel theoretical framework for examining the combinatorial dynamics underlying complex systems. Building on the foundation of simplicial complexes, witness structures generalize this notion to accommodate the representation of higher-dimensional combinatorial structures. Immediate snapshot complexes, a specific subset of witness structures, enable researchers to capture the spatial organization of systems at particular points in time, thereby facilitating the analysis of dynamic processes.
+
+This paper details algorithms for constructing witness structures and immediate snapshot complexes, providing tools for analyzing their topological properties. Furthermore, the authors demonstrate the effectiveness of this framework by applying it to real-world systems across multiple disciplines, including social networks and biological systems. Through its theoretical foundations and practical applications, this research offers a unique prospective on capturing the intrinsic combinatorial structure of complex systems, shedding light on their fundamental behavior and potential dynamics.",,,,,
+gate_0016,books,eos,320,307,0.959375,False,,,289,False,"In the midst of a rapidly changing world, Stevens, a devoted butler, navigates a complex web of loyalty, duty, and morality as he reflects on his decades-long service to the aristocratic Lord Darlington. Standing at the threshold of his mid-50s, Stevens is now nearing the twilight of his career, having spent over three decades in the employ of the esteemed Darlington Hall. For as long as anyone can remember, Stevens has dedicated himself to serving his master with utmost dedication and attention to detail, recognizing his paramount role in maintaining the family's dignity and tradition.
+
+Beneath his professional demeanor, Stevens harbors a deep sense of isolation, with his closest relationships confined to his role as a butler. His sole companion, his ailing father, shares his profession at a neighboring estate and serves as a poignant reminder of the challenges of Stevens' existence. However, his father's declining health forces Stevens to confront the relentless march of time and the choices that have defined his life.
+
+As the tension in Europe intensifies and the winds of war gather, Stevens is increasingly entangled in the conflicted relationships he has constructed over the years. Lord Darlington, a wealthy and influential aristocrat, harbors sympathies for the rising Nazi regime, causing Stevens to grapple with the very fabric of his own identity. Torn between his unwavering commitment to duty and honor, Stevens finds himself confronted by an existential dilemma – where does his loyalty lie and what sacrifices will he be willing to make to uphold his sense of duty?
+
+As Stevens navigates the increasingly complex landscape of the 1930s, he comes to realize that the belongings of the past are frequently buried beneath the weight of changing circumstances. Confronting the shadows of his own life, Stevens grapples with deeper questions about the fragility of human relationships and the enduring legacies that shape our legacies.",,,,,

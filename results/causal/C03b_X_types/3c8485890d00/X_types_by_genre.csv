@@ -1,0 +1,169 @@
+group,domain,X_type,documents,token_count,documents_with_type,document_prevalence,mean_per_1000_tokens
+Fixed AI,abstracts,Angle markers,10,0,0,0.0,0.0
+Fixed AI,abstracts,Brackets,10,0,0,0.0,0.0
+Fixed AI,abstracts,Foreign-word tag (FW),10,0,0,0.0,0.0
+Fixed AI,abstracts,List-item tag (LS),10,0,0,0.0,0.0
+Fixed AI,abstracts,Other ADD-tagged,10,0,0,0.0,0.0
+Fixed AI,abstracts,Other lexical/fragments,10,0,0,0.0,0.0
+Fixed AI,abstracts,URL-like,10,0,0,0.0,0.0
+Fixed AI,abstracts,edit token (inspect context),10,0,0,0.0,0.0
+Fixed AI,books,Angle markers,7,1,1,0.14285714285714285,0.8071025020177564
+Fixed AI,books,Brackets,7,2,1,0.14285714285714285,1.6142050040355127
+Fixed AI,books,Foreign-word tag (FW),7,0,0,0.0,0.0
+Fixed AI,books,List-item tag (LS),7,0,0,0.0,0.0
+Fixed AI,books,Other ADD-tagged,7,1,1,0.14285714285714285,0.4761904761904762
+Fixed AI,books,Other lexical/fragments,7,0,0,0.0,0.0
+Fixed AI,books,URL-like,7,0,0,0.0,0.0
+Fixed AI,books,edit token (inspect context),7,2,1,0.14285714285714285,1.6142050040355127
+Fixed AI,news,Angle markers,12,0,0,0.0,0.0
+Fixed AI,news,Brackets,12,0,0,0.0,0.0
+Fixed AI,news,Foreign-word tag (FW),12,0,0,0.0,0.0
+Fixed AI,news,List-item tag (LS),12,0,0,0.0,0.0
+Fixed AI,news,Other ADD-tagged,12,0,0,0.0,0.0
+Fixed AI,news,Other lexical/fragments,12,0,0,0.0,0.0
+Fixed AI,news,URL-like,12,0,0,0.0,0.0
+Fixed AI,news,edit token (inspect context),12,0,0,0.0,0.0
+Fixed AI,recipes,Angle markers,9,12,1,0.1111111111111111,4.329004329004329
+Fixed AI,recipes,Brackets,9,0,0,0.0,0.0
+Fixed AI,recipes,Foreign-word tag (FW),9,2,1,0.1111111111111111,0.5910165484633569
+Fixed AI,recipes,List-item tag (LS),9,52,7,0.7777777777777778,20.834392012072875
+Fixed AI,recipes,Other ADD-tagged,9,0,0,0.0,0.0
+Fixed AI,recipes,Other lexical/fragments,9,0,0,0.0,0.0
+Fixed AI,recipes,URL-like,9,3,1,0.1111111111111111,0.7880220646178092
+Fixed AI,recipes,edit token (inspect context),9,0,0,0.0,0.0
+Fixed AI,reddit,Angle markers,6,0,0,0.0,0.0
+Fixed AI,reddit,Brackets,6,0,0,0.0,0.0
+Fixed AI,reddit,Foreign-word tag (FW),6,0,0,0.0,0.0
+Fixed AI,reddit,List-item tag (LS),6,0,0,0.0,0.0
+Fixed AI,reddit,Other ADD-tagged,6,0,0,0.0,0.0
+Fixed AI,reddit,Other lexical/fragments,6,0,0,0.0,0.0
+Fixed AI,reddit,URL-like,6,0,0,0.0,0.0
+Fixed AI,reddit,edit token (inspect context),6,0,0,0.0,0.0
+Fixed AI,reviews,Angle markers,1,0,0,0.0,0.0
+Fixed AI,reviews,Brackets,1,0,0,0.0,0.0
+Fixed AI,reviews,Foreign-word tag (FW),1,0,0,0.0,0.0
+Fixed AI,reviews,List-item tag (LS),1,0,0,0.0,0.0
+Fixed AI,reviews,Other ADD-tagged,1,0,0,0.0,0.0
+Fixed AI,reviews,Other lexical/fragments,1,0,0,0.0,0.0
+Fixed AI,reviews,URL-like,1,0,0,0.0,0.0
+Fixed AI,reviews,edit token (inspect context),1,0,0,0.0,0.0
+Fixed AI,wiki,Angle markers,9,0,0,0.0,0.0
+Fixed AI,wiki,Brackets,9,0,0,0.0,0.0
+Fixed AI,wiki,Foreign-word tag (FW),9,0,0,0.0,0.0
+Fixed AI,wiki,List-item tag (LS),9,0,0,0.0,0.0
+Fixed AI,wiki,Other ADD-tagged,9,0,0,0.0,0.0
+Fixed AI,wiki,Other lexical/fragments,9,0,0,0.0,0.0
+Fixed AI,wiki,URL-like,9,0,0,0.0,0.0
+Fixed AI,wiki,edit token (inspect context),9,0,0,0.0,0.0
+Original AI source,abstracts,Angle markers,10,0,0,0.0,0.0
+Original AI source,abstracts,Brackets,10,0,0,0.0,0.0
+Original AI source,abstracts,Foreign-word tag (FW),10,1,1,0.1,0.3472222222222222
+Original AI source,abstracts,List-item tag (LS),10,0,0,0.0,0.0
+Original AI source,abstracts,Other ADD-tagged,10,0,0,0.0,0.0
+Original AI source,abstracts,Other lexical/fragments,10,0,0,0.0,0.0
+Original AI source,abstracts,URL-like,10,0,0,0.0,0.0
+Original AI source,abstracts,edit token (inspect context),10,0,0,0.0,0.0
+Original AI source,books,Angle markers,7,1,1,0.14285714285714285,0.8305647840531561
+Original AI source,books,Brackets,7,0,0,0.0,0.0
+Original AI source,books,Foreign-word tag (FW),7,0,0,0.0,0.0
+Original AI source,books,List-item tag (LS),7,0,0,0.0,0.0
+Original AI source,books,Other ADD-tagged,7,1,1,0.14285714285714285,0.3935458480913026
+Original AI source,books,Other lexical/fragments,7,0,0,0.0,0.0
+Original AI source,books,URL-like,7,0,0,0.0,0.0
+Original AI source,books,edit token (inspect context),7,0,0,0.0,0.0
+Original AI source,news,Angle markers,12,0,0,0.0,0.0
+Original AI source,news,Brackets,12,0,0,0.0,0.0
+Original AI source,news,Foreign-word tag (FW),12,1,1,0.08333333333333333,0.2158894645941278
+Original AI source,news,List-item tag (LS),12,0,0,0.0,0.0
+Original AI source,news,Other ADD-tagged,12,0,0,0.0,0.0
+Original AI source,news,Other lexical/fragments,12,0,0,0.0,0.0
+Original AI source,news,URL-like,12,0,0,0.0,0.0
+Original AI source,news,edit token (inspect context),12,0,0,0.0,0.0
+Original AI source,recipes,Angle markers,9,12,1,0.1111111111111111,4.5662100456621
+Original AI source,recipes,Brackets,9,0,0,0.0,0.0
+Original AI source,recipes,Foreign-word tag (FW),9,1,1,0.1111111111111111,0.28785261945883706
+Original AI source,recipes,List-item tag (LS),9,62,7,0.7777777777777778,21.35976015654815
+Original AI source,recipes,Other ADD-tagged,9,1,1,0.1111111111111111,0.259000259000259
+Original AI source,recipes,Other lexical/fragments,9,0,0,0.0,0.0
+Original AI source,recipes,URL-like,9,3,1,0.1111111111111111,0.7770007770007771
+Original AI source,recipes,edit token (inspect context),9,0,0,0.0,0.0
+Original AI source,reddit,Angle markers,6,0,0,0.0,0.0
+Original AI source,reddit,Brackets,6,0,0,0.0,0.0
+Original AI source,reddit,Foreign-word tag (FW),6,2,1,0.16666666666666666,1.4245014245014245
+Original AI source,reddit,List-item tag (LS),6,0,0,0.0,0.0
+Original AI source,reddit,Other ADD-tagged,6,0,0,0.0,0.0
+Original AI source,reddit,Other lexical/fragments,6,0,0,0.0,0.0
+Original AI source,reddit,URL-like,6,0,0,0.0,0.0
+Original AI source,reddit,edit token (inspect context),6,0,0,0.0,0.0
+Original AI source,reviews,Angle markers,1,0,0,0.0,0.0
+Original AI source,reviews,Brackets,1,0,0,0.0,0.0
+Original AI source,reviews,Foreign-word tag (FW),1,0,0,0.0,0.0
+Original AI source,reviews,List-item tag (LS),1,0,0,0.0,0.0
+Original AI source,reviews,Other ADD-tagged,1,0,0,0.0,0.0
+Original AI source,reviews,Other lexical/fragments,1,0,0,0.0,0.0
+Original AI source,reviews,URL-like,1,0,0,0.0,0.0
+Original AI source,reviews,edit token (inspect context),1,0,0,0.0,0.0
+Original AI source,wiki,Angle markers,9,1,1,0.1111111111111111,0.6988120195667366
+Original AI source,wiki,Brackets,9,3,1,0.1111111111111111,2.0964360587002098
+Original AI source,wiki,Foreign-word tag (FW),9,0,0,0.0,0.0
+Original AI source,wiki,List-item tag (LS),9,1,1,0.1111111111111111,0.6988120195667366
+Original AI source,wiki,Other ADD-tagged,9,1,1,0.1111111111111111,0.6988120195667366
+Original AI source,wiki,Other lexical/fragments,9,0,0,0.0,0.0
+Original AI source,wiki,URL-like,9,0,0,0.0,0.0
+Original AI source,wiki,edit token (inspect context),9,0,0,0.0,0.0
+Human test,abstracts,Angle markers,23,0,0,0.0,0.0
+Human test,abstracts,Brackets,23,0,0,0.0,0.0
+Human test,abstracts,Foreign-word tag (FW),23,3,3,0.13043478260869565,0.5960350392150737
+Human test,abstracts,List-item tag (LS),23,9,4,0.17391304347826086,1.6190753348862292
+Human test,abstracts,Other ADD-tagged,23,1,1,0.043478260869565216,0.1659475605708596
+Human test,abstracts,Other lexical/fragments,23,0,0,0.0,0.0
+Human test,abstracts,URL-like,23,0,0,0.0,0.0
+Human test,abstracts,edit token (inspect context),23,0,0,0.0,0.0
+Human test,books,Angle markers,18,1,1,0.05555555555555555,0.28785261945883706
+Human test,books,Brackets,18,2,2,0.1111111111111111,0.25684410557404364
+Human test,books,Foreign-word tag (FW),18,2,1,0.05555555555555555,0.5757052389176741
+Human test,books,List-item tag (LS),18,0,0,0.0,0.0
+Human test,books,Other ADD-tagged,18,0,0,0.0,0.0
+Human test,books,Other lexical/fragments,18,0,0,0.0,0.0
+Human test,books,URL-like,18,0,0,0.0,0.0
+Human test,books,edit token (inspect context),18,0,0,0.0,0.0
+Human test,news,Angle markers,25,0,0,0.0,0.0
+Human test,news,Brackets,25,0,0,0.0,0.0
+Human test,news,Foreign-word tag (FW),25,2,1,0.04,0.20833333333333331
+Human test,news,List-item tag (LS),25,0,0,0.0,0.0
+Human test,news,Other ADD-tagged,25,0,0,0.0,0.0
+Human test,news,Other lexical/fragments,25,2,2,0.08,0.19619850389635338
+Human test,news,URL-like,25,0,0,0.0,0.0
+Human test,news,edit token (inspect context),25,0,0,0.0,0.0
+Human test,recipes,Angle markers,21,0,0,0.0,0.0
+Human test,recipes,Brackets,21,0,0,0.0,0.0
+Human test,recipes,Foreign-word tag (FW),21,1,1,0.047619047619047616,0.13010668748373666
+Human test,recipes,List-item tag (LS),21,13,2,0.09523809523809523,2.274987193780697
+Human test,recipes,Other ADD-tagged,21,0,0,0.0,0.0
+Human test,recipes,Other lexical/fragments,21,0,0,0.0,0.0
+Human test,recipes,URL-like,21,0,0,0.0,0.0
+Human test,recipes,edit token (inspect context),21,0,0,0.0,0.0
+Human test,reddit,Angle markers,16,0,0,0.0,0.0
+Human test,reddit,Brackets,16,0,0,0.0,0.0
+Human test,reddit,Foreign-word tag (FW),16,2,1,0.0625,0.35919540229885055
+Human test,reddit,List-item tag (LS),16,0,0,0.0,0.0
+Human test,reddit,Other ADD-tagged,16,0,0,0.0,0.0
+Human test,reddit,Other lexical/fragments,16,2,1,0.0625,0.4340277777777778
+Human test,reddit,URL-like,16,0,0,0.0,0.0
+Human test,reddit,edit token (inspect context),16,0,0,0.0,0.0
+Human test,reviews,Angle markers,6,1,1,0.16666666666666666,0.6385696040868455
+Human test,reviews,Brackets,6,0,0,0.0,0.0
+Human test,reviews,Foreign-word tag (FW),6,0,0,0.0,0.0
+Human test,reviews,List-item tag (LS),6,0,0,0.0,0.0
+Human test,reviews,Other ADD-tagged,6,0,0,0.0,0.0
+Human test,reviews,Other lexical/fragments,6,0,0,0.0,0.0
+Human test,reviews,URL-like,6,0,0,0.0,0.0
+Human test,reviews,edit token (inspect context),6,0,0,0.0,0.0
+Human test,wiki,Angle markers,19,0,0,0.0,0.0
+Human test,wiki,Brackets,19,0,0,0.0,0.0
+Human test,wiki,Foreign-word tag (FW),19,16,2,0.10526315789473684,3.563737670356148
+Human test,wiki,List-item tag (LS),19,0,0,0.0,0.0
+Human test,wiki,Other ADD-tagged,19,0,0,0.0,0.0
+Human test,wiki,Other lexical/fragments,19,0,0,0.0,0.0
+Human test,wiki,URL-like,19,0,0,0.0,0.0
+Human test,wiki,edit token (inspect context),19,0,0,0.0,0.0

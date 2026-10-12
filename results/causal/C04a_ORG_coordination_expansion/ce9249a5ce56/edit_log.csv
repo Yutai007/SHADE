@@ -1,0 +1,2 @@
+case_id,domain,edit_index,sentence_index,org_name,org_subject,shared_aux,conjunction,source_predicate,conjunct_predicate,replacement,likelihood_delta,before_ORG_sentence_mean,after_ORG_sentence_mean,target_ORG_sentence_mean,sentence_before
+gate_0082,wiki,1,5,Grasser,Grasser,,and,is,performed,Grasser ,-0.06197166442871094,0.6,0.7,0.7272727272727273,"In addition to his work as a composer, Grasser is an accomplished pianist and has performed with artists  -  Gidon Kremer and Yehudi Menuhin."

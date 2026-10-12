@@ -1,0 +1,4 @@
+comparison,mean_change,ci_low,ci_high,cases_decreased,cases_increased,cases_unchanged
+Unique + S/W/C minus Original,-0.046504297987650635,-0.07586613472417716,-0.019805302608215114,20,8,2
+Punctuation: Final minus Unique + S/W/C,-0.045010786865097005,-0.07418409357965217,-0.02033037804671515,22,5,3
+Total: Final minus Original,-0.09151508485274767,-0.12841837622818647,-0.056298083941024486,26,4,0

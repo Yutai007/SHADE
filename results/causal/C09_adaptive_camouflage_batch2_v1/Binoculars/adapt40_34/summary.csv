@@ -1,0 +1,3 @@
+detector,exposure,heldout,model,AUROC,mean_AI_score,median_AI_score
+Binoculars,40,34,Frozen,0.661294169931624,-0.627348500151422,-0.668825666648612
+Binoculars,40,34,Adapted,0.6739696657143587,-0.4991820941032958,-0.5787525956922346

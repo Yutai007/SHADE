@@ -1,0 +1,3 @@
+role,n,auc,accuracy,balanced_accuracy,mean_human_probability,mean_ai_probability
+controller_calibration,200,0.9825,0.945,0.9450000000000001,0.2024383074981408,0.8524484443090323
+confirmation,800,0.99600625,0.9675,0.9675,0.15045777189589749,0.8467387049005672

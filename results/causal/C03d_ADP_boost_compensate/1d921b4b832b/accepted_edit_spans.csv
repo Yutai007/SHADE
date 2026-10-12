@@ -1,0 +1,42 @@
+case_id,phase,sentence,source,replacement,kind
+gate_0001,boost,1,the increasing,the growth of,PPDB
+gate_0001,boost,1,generation units,units for generation,compound_expand
+gate_0001,compensate,2,constraints on,restrictions to,PPDB
+gate_0001,compensate,3,for the management of,for managing,PPDB
+gate_0015,boost,3,are discussed,is under discussion,PPDB
+gate_0015,boost,3,presented,available for consideration,PPDB
+gate_0016,boost,9,questions of,of issues of,PPDB
+gate_0016,compensate,6,about his,concerning his,PPDB
+gate_0021,boost,4,joining,accessions to,PPDB
+gate_0021,compensate,10,engage in dialogue,have dialogue,PPDB
+gate_0022,boost,1,normalize its,normalization of the,PPDB
+gate_0022,boost,1,video frames,frames from video,compound_expand
+gate_0022,boost,1,is applied,are adhered to,PPDB
+gate_0022,compensate,3,features for classification,classification features,compound_contract
+gate_0023,boost,11,the lost,the loss of,PPDB
+gate_0023,boost,11,left behind by,left over by,PPDB
+gate_0023,boost,11,resources to,resources in order to,PPDB
+gate_0023,compensate,10,unlocking,unlock,PPDB
+gate_0023,compensate,2,piece of metal,metal piece,compound_contract
+gate_0024,boost,3,is now,is at present,PPDB
+gate_0024,compensate,2,to step down,to resign,PPDB
+gate_0025,boost,0,dipping sauce,sauce for dipping,compound_expand
+gate_0025,boost,0,onion tops,tops in onion,compound_expand
+gate_0048,boost,3,release,releasing,PPDB
+gate_0048,boost,3,gameplay mechanics,mechanics of gameplay,compound_expand
+gate_0048,boost,3,upgrade system,system on upgrade,compound_expand
+gate_0066,boost,5,bond repayment,repayment of bond,compound_expand
+gate_0066,boost,5,food company,company of food,compound_expand
+gate_0067,boost,5,as needed,as necessary,PPDB
+gate_0067,compensate,7,until,till,PPDB
+gate_0069,boost,2,sampling rate,rate of sampling,compound_expand
+gate_0069,boost,2,radar system,system with radar,compound_expand
+gate_0070,boost,7,and the importance,as well as the importance,PPDB
+gate_0070,compensate,1,challenges of,challenges facing,PPDB
+gate_0076,boost,5,collaborations with,of cooperation with,PPDB
+gate_0076,boost,5,cooperation,cooperation with other countries,PPDB
+gate_0076,boost,5,cooperation,cooperation with other countries,PPDB
+gate_0076,compensate,6,detailing the,details the,PPDB
+gate_0093,boost,0,according to,in accordance with,PPDB
+gate_0093,boost,0,further increase,increases in,PPDB
+gate_0093,compensate,1,barriers to,the obstacles preventing,PPDB

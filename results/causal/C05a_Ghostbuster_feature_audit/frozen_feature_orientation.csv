@@ -1,0 +1,15 @@
+feature,effective_weight_mean,effective_weight_std,effective_weight_min,effective_weight_max,sign_consistent,AI_direction
+outlier_count,0.0,0.0,0.0,0.0,False,higher is AI-ward
+outlier_top25_mean,0.0,0.0,0.0,0.0,False,higher is AI-ward
+outlier_25_50_mean,0.0,0.0,0.0,0.0,False,higher is AI-ward
+davinci_minus_ada_top25_mean,-0.7273262264971284,0.08742961734926974,-0.8107699558061834,-0.610805584442411,True,lower is AI-ward
+davinci_minus_ada_25_50_mean,0.17486015715531,0.14922397856306294,0.038669522013500386,0.39985053551099425,True,higher is AI-ward
+word_token_len_top25_mean,0.5748856566236642,0.07198867727883429,0.48479478082782934,0.651478181180638,True,higher is AI-ward
+word_token_len_25_50_mean,-0.2518016799159045,0.1587412078356804,-0.5056307250820784,-0.06818412405798153,True,lower is AI-ward
+unigram-logprobs v-sub davinci-logprobs s-avg-top-25,-4.197250334835187,0.2861721520501077,-4.480106004557683,-3.8809902669794245,True,lower is AI-ward
+unigram-logprobs v-> trigram-logprobs v-< ada-logprobs s-l2,0.803361863446808,0.10087398842711612,0.7205657625407662,0.9783303575988181,True,higher is AI-ward
+trigram-logprobs v-add ada-logprobs v-sub davinci-logprobs s-avg,0.09445139451992333,0.09790119749984605,-0.03911130834007742,0.23331026787208015,False,higher is AI-ward
+unigram-logprobs v-sub ada-logprobs v-div trigram-logprobs s-avg-top-25,-1.0918435820089933,0.11192516647533969,-1.2851482925989992,-1.005350456464321,True,lower is AI-ward
+unigram-logprobs v-< trigram-logprobs v-sub ada-logprobs s-avg-top-25,0.487241531567941,0.10422870710496124,0.37769428801896293,0.6237269337772076,True,higher is AI-ward
+davinci-logprobs v-div unigram-logprobs v-< ada-logprobs s-avg,0.198091848929273,0.03967921039346837,0.13352816861653524,0.233491893972551,True,higher is AI-ward
+ada-logprobs v-> davinci-logprobs v-div trigram-logprobs s-avg-top-25,-0.06682664691040484,0.05213103874519003,-0.10707716759239003,0.024090092864249908,False,lower is AI-ward

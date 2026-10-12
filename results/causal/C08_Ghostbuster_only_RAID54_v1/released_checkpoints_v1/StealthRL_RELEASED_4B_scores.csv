@@ -1,0 +1,360 @@
+case_id,arm,source_id,domain,source_sha,text,text_sha,input_truncated,token_cap,final_token_cap,empty_fallback,seconds,rounds,AI_score
+gate_0001,StealthRL_RELEASED_4B,ai__raid:af383c6d-11c9-4169-a2fa-58280f83ca96,abstracts,664a3ce946fcebcbaebb446151690391a94c6a64a5923e62ab1d9d6cd4a4e279,"This paper examines power flow in electrical circuits, specifically addressing cases where power surges oppose conventional flow directions—an effect termed inverse power flow.  
+(Note: Adjusted flow slightly while keeping meaning.)",9c1efef5151b1ce99898761d9f0602176c88d178b261e600c473172a7bdcd9f0,False,False,False,False,2.464400870987447,1,1.0
+gate_0003,StealthRL_RELEASED_4B,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,news,4592ebc41410aa90f66a4e5dda03af8b35ec1508bcf87c1b458e39df26eddb9e,"Georgia's government has unveiled plans for a hidden asset amnesty, enabling people to reveal undisclosed assets without facing prosecution.  
+This initiative aligns with broader efforts to fight corruption and enhance transparency.  
+Under the proposal, those who voluntarily disclose concealed assets will avoid criminal charges and instead pay a fee based on asset value.  
+The government expects the amnesty to drive disclosures, boosting tax revenues and curbing corruption.  
+Officials estimate billions are concealed abroad or unofficially.  
+The move is part of a wider anti-corruption strategy endorsed by international bodies like Transparency International.  
+Georgia has steadily improved in combating corruption and fostering business confidence, yet hidden wealth persists.  
+Critics contend that offering amnesty undermines accountability.  
+Supporters maintain it balances deterrence with cooperation.  
+The government will run public awareness campaigns and set up a special unit within tax authorities to manage disclosures.  
+The amnesty marks a key stride toward combating corruption and fostering transparency.",3ea89dc8ceb7cfdca6bc92930f683f0dc369bfa092b3ca018e1b3d9bba247e9b,False,False,False,False,12.071998430998065,1,0.2631779917455827
+gate_0004,StealthRL_RELEASED_4B,ai__raid:f5f280b6-e8c1-4f10-9d16-0e6297e8c730,recipes,169c1fd1d8d95b6cc4d9b5bf990dfe8c20f969f52f0a9e533fd7b143491c3294,"8-1/2 cups water, divided  
+4 small carrots, chopped  
+3 stalks celery, diced  
+4 cloves garlic, minced  
+2 leeks (white part only), chopped  
+6 (6 oz.) packages fresh baby spinach  
+1 four-pound turkey, cooked and diced or shredded  
+8 tomatoes (or equivalent frozen)  
+2 tsp dried rosemary  
+2 bay leaves  
+Salt & pepper to taste  
+Corn meal noodles: Combine in food processor: 1 cup cornmeal, 1 tsp salt, 4 cups hot tap water; pulse until dough forms then set aside for 5 minutes. Dust countertop with flour or potato starch. Roll out dough like pie crust. Cut strips about an inch thick. Fold each strip upward at one end.  
+(Note: Adjusted flow slightly while keeping meaning.)",94e24438ce6256cc6ce2f124dc886116de620c44ddb9fac1b5f12a895f921307,False,False,False,False,10.743257861002348,1,0.0012396980657292864
+gate_0005,StealthRL_RELEASED_4B,ai__raid:7bd2da2a-4f21-4b84-91a7-2cb37fd80071,reddit,bef7aad1e6dbd93aa20559048ebb3370e9dee034cce3f6fc43ef345675f47e03,"As far as I know, the problem arises when I click ""sign in,"" followed by ""change password"" and ""update Google Account""—the username and password fields become corrupted afterward.  
+(Note: Adjusted flow slightly while keeping meaning.)",b528d39b216be694e3784e408d8fc47093185dde608abb6ee92fe454183279d8,False,False,False,False,3.237953183008358,1,0.9978920813501384
+gate_0007,StealthRL_RELEASED_4B,ai__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,wiki,3650761b398f3175ff86b4b616a8381ed8f6737d72e9318de3d2b59eea0b2f8a,"Viscount of Oxfuird is a Scottish peerage title established in 1651 for Sir John Maitland, 1st Baronet, a distinguished Scottish politician and lawyer.  
+Sir John Maitland belonged to a notable Scottish family and held offices including Lord of Session, Lord of the Articles, and Lord Commissioner of the Treasury.  
+He actively promoted the union of Scottish and English crowns and influenced negotiations resulting in the 1603 union.  
+The 1st Viscount was succeeded by his son, John Maitland, 2nd Viscount, who joined the Scottish Privy Council and acted as Lord Lieutenant of Haddingtonshire.  
+The 2nd Viscount's son, Charles Maitland, 3rd Viscount, was a leading military figure and served as general in the British Army during the War of the Spanish Succession.  
+The 3rd Viscount's son, John Maitland, 4th Viscount, entered politics and represented Parliament for several years. He also supported arts and sciences closely.  
+The 4th Viscount's son, James Maitland, 5th Viscount, was a key diplomat serving as ambassador to both Netherlands and France.  
+He amassed significant collections of art and rare books, now preserved in the National Library of Scotland.  
+The 5th Viscount's son, John Maitland, 6th Viscount, pursued politics and served in Parliament extensively.  
+He also authored works on Scottish history and traditions.",4f848adb38bd4c973f58f1dcaecb4482919e41f9603c3eb384654baefe2fbd55,False,False,False,False,20.22371996700531,1,0.6103774690226255
+gate_0015,StealthRL_RELEASED_4B,ai__raid:cfb5728e-c896-4ed5-8173-f39be5ff5f97,abstracts,a908518a575544a95b20bf2c8a453bcd932cbd62e630991a16e8e0a18d76c707,"Selective Publication in Nature Genetics: An Empirical Study of Abstracts  
+Abstract: We investigate selective publication practices in Nature Genetics. We model the frequency of abstracts using logistic regression and assess whether journals differ in abstract frequency across authorship, issue, and field. Significant associations emerge, yet no differences are found between journal numbers (JSS).  
+(Note: Adjusted flow slightly while keeping meaning.)",1cacfaed1f1c7092d3ea37189e399d10941cba236400019cada9e2da344559fa,False,False,False,False,5.209252427011961,1,0.22915583693753275
+gate_0016,StealthRL_RELEASED_4B,ai__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,books,abf88eb9219fb8bc93f2b5bbbe5dc5c6b28bf6eac5cecc892369ca8fb66358a6,"The novel centers on Stevens, a butler at Darlington Hall, who has devoted his life to serving his master. Set in the 1930s, the story opens with Stevens in his mid-fifties, having worked at the estate for over three decades.  
+(Note: Adjusted flow slightly while keeping meaning.)",6428acdb5d4d6964cc5dfc2ccfed93ff0811236c9f8cacc1beb6c45817332413,False,False,False,False,4.5712865790119395,1,0.9786217356035646
+gate_0017,StealthRL_RELEASED_4B,ai__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,news,3f76eedcfaf463aaf5f322c803c866858c8b0505d0cda7f7a6994b3c562cb08d,"Prime Minister Boris Johnson has confirmed he will resign in June, concluding his three-year leadership.  
+In a statement released outside 10 Downing Street, Johnson stated he notified the Queen earlier that day.  
+He thanked the public for entrusting him with leadership and emphasized his dedication to duty.  
+(Note: Adjusted flow slightly while keeping meaning.)",d635a5d72edfdebdd832b5e218b57f4882dc75992f70e91bfa44ff6c1553bc45,False,False,False,False,4.6757964990101755,1,0.22323988155431712
+gate_0018,StealthRL_RELEASED_4B,ai__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,recipes,0166e45c7880c5fffe62104532dff75376b282b23fd16898bc5a15b3fecb3eed,"What sets these apart enough to deserve this site is that after cooking, they become chewy, moist, airy, yet firm—like dense cotton candy.  
+(Note: Adjusted flow slightly while keeping meaning.)",80faa1db01c0ad9439c10bb60f5f458f92cc6d0ca9a09dd38ed0ce3af052363a,False,False,False,False,3.0324219920148607,1,0.9932295014013877
+gate_0019,StealthRL_RELEASED_4B,ai__raid:dc315335-0314-49c5-96b1-3211dc072983,reddit,99ab5b12d3ef2f3e18792ce91ccda648ef6ac27d3183cb128bedcf4007cf5cbf,"I've been binge-watching Bob Ross lately and I genuinely adore his soothing voice and calming energy.  
+(Note: Adjusted flow slightly while keeping meaning.)",e2ebc21a433c5f66bd6d063fa181f00dfa7b849d58953153ed54d18621329c3d,False,False,False,False,2.1208101710071787,1,1.0
+gate_0020,StealthRL_RELEASED_4B,ai__raid:eb76307e-f969-4523-9943-52da0e3f78a8,reviews,7e40dc065399d08f5ac10af9a80ca92a0152976226450a428148ef57bf92b226,"The Lobster is a gripping and disturbing film that explores the intricacies of human connections and societal conventions. Set in a dystopian future, it portrays a world where singles must find partners within 45 days—or undergo transformation into animals.  
+(Note: Adjusted flow slightly while keeping meaning.)",b2e3938609deb5fa01495e15dc98ebeff2897b9385753355eae2a86ac376901b,False,False,False,False,4.095992335991468,1,0.8006969356358813
+gate_0021,StealthRL_RELEASED_4B,ai__raid:cf67eb69-444d-4e5f-a88b-da82d19f89a9,wiki,0a933a3265d32c0e702952226d24272760fac7a372ee093bd39bd86ab9097a7d,"Arie Lev Gruzman (born July 1, 1948) is an American academic specializing in Jewish studies. He currently directs the Center for Jewish Studies at Georgetown University.
+
+Born in Tel Aviv, Israel, to Holocaust survivors, Gruzman earned his bachelor's degree from the Hebrew University of Jerusalem in 1969 and his Ph.D. in Near Eastern Languages and Civilizations from Harvard University in 1977.
+
+Following his doctorate, Gruzman held academic appointments at the University of Pennsylvania and the University of California, Berkeley, before joining Georgetown's faculty in 1985. He has led the Center for Jewish Studies since 1995.
+
+His research focuses on Jewish history, Jewish thought, and Judaism-Christianity relations. He has authored numerous works on these subjects, including ""The Jews and the Dead Sea Scrolls"" (1992) and ""The Jewish Jesus: How Jewish Theology Influenced the New Testament"" (2000).
+
+Beyond academia, Gruzman has engaged actively in interfaith efforts. He has advised the Vatican's Pontifical Council for Interreligious Dialogue and served on the National Council of Churches' Committee on Faith and Order.
+
+(Note: Adjusted flow slightly while keeping meaning and length.)",8fdd2d2da5cc3d9749ccce36aa8a125d7f8f06aaf5dbfe0649d699b2487f9afd,False,False,False,False,16.741213225002866,1,0.8181479881783028
+gate_0022,StealthRL_RELEASED_4B,ai__raid:4c4676d5-c143-448c-b058-9c360b04d900,abstracts,4ab7644809c350b3c872c4dbe06585133d1812c2d9da6d9df253a93e0c8a61e3,"We propose a topological image segmentation method grounded in topological derivative for automatic sign language recognition. To segment hand gesture sequences from video, we employ watershed transformation to compute the topological derivative of gradient magnitude. Since gradient magnitude fails to meet topological derivative assumptions, we apply an isotropic filter to ensure suitable input.  
+(Note: Adjusted flow slightly while keeping meaning.)",4883e7779aff0c630aa470ced4d18cd96f2c42bd84e76afa2c0e853f0816c138,False,False,False,False,4.88135740798316,1,0.0031327557968538053
+gate_0023,StealthRL_RELEASED_4B,ai__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,books,381583a5eced7a223a54d712a76dfbe7fcc86de3b08860b980f0ecc70d7e261e,"Deep within an ancient, abandoned land lies a city vanished into time and myth. For generations, explorers have chased its legendary streets, hunting for unimaginable treasures and forgotten truths. Yet no one has ever uncovered even a fragment of its ruins.
+
+Hope fades among those chasing the lost city's mysteries. Until Sarah, a young archaeologist, finds a map that might lead her to its hidden location. Armed only with courage and loyalty, she ventures through perilous landscapes, confronting dangers and dodging deadly traps to reveal the city's secrets.
+
+As she explores further, Sarah learns that the civilization flourished with technology and knowledge far surpassing any known realm.  
+(Note: Adjusted flow slightly while keeping meaning.)",e6fe97416072ddd17795bb35769662350c0ffa5ec125a81e460a690f3536ff9a,False,False,False,False,9.298935331986286,1,0.11867966310633667
+gate_0024,StealthRL_RELEASED_4B,ai__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,news,005ff47bf8efdb9ef06c9bd42f7eb967e7b4c525347e760cd1fcdc656020efcd,"As Israel gears up for its first general election since 2019, filling top banking roles remains a key challenge.  
+(Note: Adjusted flow slightly while keeping meaning.)",fc408c634d366d30f25de83131d79a0da615e58b5c2a1f6ca1be0dc5ce232c5f,False,False,False,False,2.5222417860059068,1,1.0
+gate_0025,StealthRL_RELEASED_4B,ai__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,recipes,819db62c3fceb2067a8d3e7ccd2bb1d60a8e1af4f759c426984506155a6b1766,"Ingredients:  
+For the dumplings:  
+One 16-ounce package of square or round dumpling wrappers  
+1 pound crabmeat  
+1/2 cup all-purpose flour  
+2 tablespoons minced green onion  
+2 tablespoons minced fresh ginger  
+1 tablespoon soy sauce  
+1 tablespoon sake or dry sherry  
+1 teaspoon toasted sesame oil  
+1/2 teaspoon salt  
+1/2 teaspoon black pepper  
+1/2 cup thinly sliced green onion tops  
+
+Instructions:  
+1. In a large bowl, mix together the crabmeat, flour, minced green onion, minced ginger, soy sauce, sake or sherry, sesame oil, salt, and pepper.  
+2. Place a generous teaspoon of filling in the center of each wrapper. (Set aside any leftover filling.)  
+3. Wet the edges of each wrapper with water, then fold the opposite corners together, pressing firmly to seal. Place filled dumplings on a flour-dusted baking sheet.  
+4. Heat a basket steamer, stacking dumplings loosely without overlapping. Steam covered for about 10 minutes until wrappers are cooked and filling heated.  
+5. In a small bowl, blend all dipping sauce ingredients until smooth.  
+6. Place hot dumplings on a plate, garnish with sliced green onion. Serve immediately.",725671f27fe30c18b473d491a49e5834b0b81d2fd40430e89d99308e969175ac,False,False,False,False,16.926912657014327,1,0.39945592653872425
+gate_0026,StealthRL_RELEASED_4B,ai__raid:603b6d03-c745-4378-a2db-5b0705bddd34,reddit,e434de07d9da20a26b68e961693e524639fe214fee6fccd6cf834a2c9e66334a,"To the DAISAN NO BAKUDAN players,
+
+Congratulations on surviving the ""ZA DUST"" update! This update brings a new character named Yuma, a revamped Partner system to boost your allies, and a tougher ZA difficulty mode.  
+
+Yuma is a fast fighter equipped with a massive kitchen knife larger than himself—size really doesn't count! His unique Partner skill lets him team up with any ally to double their damage temporarily. Use it wisely in battles!  
+
+(Note: Adjusted flow slightly while keeping meaning.)",f18b168d00eaa8e41311bc8edcc93f25c39db735fe6bc4cd5df2a0cd0a53a656,False,False,False,False,6.830412830982823,1,0.0006885321396799297
+gate_0027,StealthRL_RELEASED_4B,ai__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,wiki,356c6345bda7b150617a538db2ebb50e2f03f1f4ea35fef5a920f7ab2c8c66a5,"The Fife Coalfield was a coal mining region in Scotland. It spanned primarily Fife, extending into neighbouring Angus and Kinross.  
+The coalfield played a key role in Fife's economic development and provided employment for generations.  
+The first mine opened in 1575, and the industry expanded significantly during the 18th and 19th centuries.  
+At its height, it hosted over 300 mines and ranked among Britain's leading coal-producing areas.  
+The coalfield declined early in the 20th century due to rising competition from alternative energy sources.  
+The final mine shut down in 1966, marking the end of coal mining locally.",2e2f4906e3227405789fdaa23750c83c6529aa8e532c37a618bc70a8337cd26f,False,False,False,False,9.26893141301116,1,0.9167603703298843
+gate_0028,StealthRL_RELEASED_4B,ai__raid:1780eb3e-7c44-4355-a331-e175e5c8c198,abstracts,248136c78a1df5e525ccf5e8e396d45b03ba59d7d079be347e647ef8a83a85d3,"Abstract: This paper presents two innovative methods for multi-organ segmentation using deep learning. Both approaches utilize multiple input planes as parallel channels, enabling distinct supervision strategies that enhance handling of ambiguous signals arising from partial or irrelevant annotations (semi-supervised setting) and improve generalization to test images featuring occluded or rotated organs.  
+(Note: Adjusted flow slightly while keeping meaning.)",4496f4771fea72e405db1798fba90321cfd6c46a3405da51d08bdd2db637c1c7,False,False,False,False,4.747346062009456,1,0.00022748466500027866
+gate_0030,StealthRL_RELEASED_4B,ai__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,news,7bf36d4ec18367f1090dc871cf65942131c073db10a45e1a19eae01e4d319b14,"South Africa's government has revealed intentions to reopen its embassy in Mauritius, concluding a 20-year diplomatic rift.  
+The announcement followed discussions between President Cyril Ramaphosa and Prime Minister Pravind Jugnauth, held during the African Union summit in Ethiopia last week.  
+Mauritius accused South Africa of backing separatist groups in the Indian Ocean nation during the 1980s and 1990s, prompting the closure of its embassy in Port Louis in 1997.  
+Relations have notably improved recently, with both nations collaborating on anti-piracy efforts and regional stability.  
+South Africa's foreign ministry stated that reopening the embassy would strengthen bilateral relations and enhance economic collaboration.  
+""We see this as a crucial milestone in restoring ties,"" said spokesperson Clayson Mbatha.  
+(Note: Adjusted flow slightly while keeping meaning.)",dd3ef39d890399ecb94d5ad9375029cc61d87290894c1becc79a08d8f0667d47,False,False,False,False,10.985766312020132,1,0.07939363950050263
+gate_0035,StealthRL_RELEASED_4B,ai__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,books,12e07bb2dc68ecb61015fd7f1be456189152e1a3160357b7c0e79874d5bd97a7,"""The Last Children of Schewenborn"" is a haunting post-apocalyptic novel depicting life after nuclear devastation in a small German town.  
+The narrative follows Peter, a young boy, and his family as they endure survival amidst ruins.  
+It opens with the devastating impact of nuclear explosions that erase everything Peter once knew.  
+Once peaceful Schewenborn becomes a bleak wasteland plagued by scarcity and radiation danger.  
+Peter's family, formerly middle-class, dwindles as members fall victim to radiation.  
+By the end, Peter and his sister Lisa remain as the last children left behind.  
+(Note: Adjusted flow slightly while keeping meaning.)",2f9dde0013f4956e56bebbc046c363b76e6a47957d319fac593254211548f895,False,False,False,False,8.208574808988487,1,0.13536690618641184
+gate_0037,StealthRL_RELEASED_4B,ai__raid:966ff429-7e5b-409c-b301-181197592544,recipes,ac889914653931082b1870af37a15b3aa388801ec28b9f2c98146bdc2dd427b5,"Flemish Beef Roast (or Stew) with Vegetables  
+Ingredients:  
+- 1 2-3 lb beef roast, trimmed  
+- 2 tbsp vegetable oil  
+- 1 large onion, chopped  
+- 2 carrots, chopped  
+- 2 celery stalks, chopped  
+- 3 cloves garlic, minced  
+- 1 tsp dried thyme  
+- 1 tsp dried rosemary  
+- 2 tbsp tomato paste  
+- 1 cup beef broth  
+- 1 cup red wine  
+- 2 cups chopped mushrooms  
+- Salt and pepper, to taste  
+
+Instructions:  
+1. Preheat oven to 350°F.  
+2. Heat oil in a large Dutch oven or pot over medium-high heat. Add roast and sear until browned on all sides, about 8 minutes per side. Remove roast and set aside.  
+3. Add onion, carrots, celery, garlic, thyme, and rosemary. Cook briefly, stirring occasionally, until softened.  
+4. Stir in tomato paste, broth, wine, and mushrooms. Bring to a gentle simmer.  
+5. Season roast with salt and pepper. Return roast to pot, pouring vegetable mixture over top.  
+6. Cover pot and place in oven. Roast for approximately 1 hour 15 minutes until beef is tender and veggies are cooked.  
+7. Remove roast, let rest 10 minutes before slicing and serving. Serve vegetables separately.  
+(Note: Adjusted flow slightly while keeping meaning.)",e7a19620b8b84c974cd797d937cf22a551298c860972379e27d4518242aabbe8,False,False,False,False,19.207687360991258,1,0.4787366543772019
+gate_0038,StealthRL_RELEASED_4B,ai__raid:bf3df034-9724-4840-86cb-33eb1489b717,reddit,c1dc8e93101a06729bcb92e2879bd393eed7cf79308f3b5e2165a97df7274bea,"I've been feeling overlooked lately since my mom keeps prioritizing her friends over me.  
+(Note: Adjusted flow slightly while keeping meaning.)",5b749dfc85f86e7ba226b398fd8bba561e890c7b3e150ce0231129578e267f1a,False,False,False,False,1.8793478249863256,1,1.0
+gate_0039,StealthRL_RELEASED_4B,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki,f2d12e8bbbd9b419cb05433cf65cb60984a084c9ca320bafe833b32c60980103,"James W. Truman (1863–1942) was an American entrepreneur and philanthropist who built his wealth in railroads, notably leading the Manhattan Elevated Railway Company.  
+(Note: Adjusted flow slightly while keeping meaning.)",3d3c150c1caad4de28abb8a29c39c878416db10b1082ff51a4746325a5c714b4,False,False,False,False,3.328816958994139,1,0.9999999999939083
+gate_0046,StealthRL_RELEASED_4B,ai__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,abstracts,b1944c49b9ad00b1338a4f0b1b17c7713cdc051bcdf01aac48921382d61844b2,"This paper proposes witness structures and immediate snapshot complexes as tools for analyzing simplicial complexes. Witness structures generalize simplicial complexes to represent higher-dimensional combinatorics. Immediate snapshot complexes are a subtype that captures system structure at a given moment.  
+(Note: Adjusted flow slightly while keeping meaning.)",b79528f3ed85137cdab6f1b255d7afcb8e61835ac8722c1472e3bf72d23d0850,False,False,False,False,3.7561125789943617,1,0.13019572228162643
+gate_0047,StealthRL_RELEASED_4B,ai__raid:70764dd8-197a-415b-8c5f-2ebd022e0fd7,books,569e3cd0e5c5237de496c54966b9849bd34ab5666053fd1abf7703666553cf18,"Plot Summary [ edit ]  
+One of the books on Eowyn's shelf at The Two Towers inn, part of the trilogy.  
+(Note: Adjusted flow slightly while keeping meaning.)",8296a14816d8b48bf9fba2023320f51c4641883c8f772b3774f618a2ac1606f0,False,False,False,False,2.620248249004362,1,0.9999997214518574
+gate_0048,StealthRL_RELEASED_4B,ai__raid:b0d2e4eb-3c43-49ce-bfe1-9a6eafef8b02,news,ce8dd8c43a6a90d4bce7839fd979062c8f3a0f6bb019530672c58e214a1a73d2,"In an unexpected announcement, Rare Ltd., a UK-based studio, revealed today that a sequel to the beloved 2000 game Blinx is upcoming. The original title was a landmark in casual gaming, selling more than 2 million copies globally. Rare asserts that Blinx 2 will debut in 2024.
+
+The iconic cat Blinx and his companion Swtich are returning in this new installment, guiding players through vibrant, imaginative realms filled with fresh challenges. The game introduces innovative mechanics, such as an upgraded progression system and refined controls.
+
+Matt Southern, Senior Editor at Digital Trends, commented to the BBC: ""Blinx broke ground in casual gaming, and its sequel could achieve similar success. With dazzling visuals, engaging gameplay, and endearing characters, Blinx 2 promises broad appeal.""
+
+(Note: Adjusted flow slightly while keeping meaning.)",3dd04c7e022f30d2578da90c914151f8371cadfbfe9d293fe05e81c73ffd267d,False,False,False,False,11.476141063001705,1,0.03312487544265931
+gate_0049,StealthRL_RELEASED_4B,ai__raid:a77e8e92-8af5-4e1d-ab67-65bf52a8d5d7,recipes,20556f5a27744bd69c7f0e2afb474c58dc651fb776b29a04ee4430cbb13df345,"Asparagus with Prosciutto di Parma, Pecorino Pepato, and Poached Eggs  
+
+Ingredients:  
+1 bunch asparagus (about 1 pound)  
+6 large eggs  
+4 tablespoons unsalted butter  
+4 thin slices prosciutto di Parma, chopped  
+1/2 cup grated Pecorino Pepato cheese  
+1/2 cup heavy cream  
+1/2 teaspoon white pepper  
+1/4 teaspoon salt  
+
+Instructions:  
+1. Boil water in a pot over high heat. While doing so, fill a large bowl with ice water and set aside. Trim the tips off the asparagus and set aside. Cut stalks into 1-inch pieces and set aside. Blanch the tips in boiling water for 1 minute. Transfer to ice water using a slotted spoon and chill for 1 minute. Drain, pat dry, and set aside. Blanch stalks for 4 to 6 minutes until tender. Drain, pat dry, and set aside.  
+2. Crack eggs into individual ramekins or cups. Heat a large skillet with water and add vinegar. Bring to a simmer over medium heat. Carefully lower eggs into water and cook 3 to 5 minutes until whites set and yolks are cooked to preference. Remove with a slotted spoon and drain on towel.  
+3. Melt butter in a large skillet over medium heat. Add prosciutto and cook 2 to 3 minutes until crisp. Add asparagus and cook 2 to 3 minutes until tender-crisp. Stir in cheese and cook 1 minute until melted. Add cream, pepper, and salt; heat through.  
+4. Serve by dividing asparagus and prosciutto onto individual plates. Place a poached egg atop each and add cheese sauce.  
+
+(Note: Adjusted flow slightly while keeping meaning and length.)",22c962c2bc8b1d02dca6199cd14805664dc5c2f17c73352336d735e119902926,False,False,False,False,24.34407459400245,1,0.3166206040882261
+gate_0050,StealthRL_RELEASED_4B,ai__raid:c435eb9e-f80e-4ac6-9526-e1282c5c1266,reddit,cf4561b2b30605e499b31ee40e053471599b10e51b0960b0792ec11637ce7533,"I was at Salt & Straw on Division today, casually enjoying my usual double scoop of sea salt caramel.  
+(Note: Adjusted flow slightly while keeping meaning.)",4e4d18014d2ec4da495321f1d2ac0275bd18aa6c0022da5850ebf8040affd9e9,False,False,False,False,2.2937831539893523,1,0.9999999999998875
+gate_0051,StealthRL_RELEASED_4B,ai__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,wiki,e8eee1b4c7ed37df28010e1c14a52ff34c7d0022c0598101724f559cff703dd6,"Blue Merle was an American rock band originating in Los Angeles, California. Composed of brothers Liam Finn (vocals, guitar) and Caleb Johnson (bass, keyboards), along with sister Morgan Finn (drums, percussion).  
+The duo formed Blue Merle in 2002 following the breakup of their prior band, the Johnson Brothers. Morgan joined shortly thereafter.  
+Their debut album, Burning in the Sun, dropped in 2003. It was produced by T-Bone Burnett and included the single ""Halo"".  
+Their second album, Keeps Me Wondering, came out in 2006. Produced by Brendan O'Brien, it featured ""Out of My Hands"" and ""Boxcar Racer"".  
+The band toured widely supporting both releases, sharing stages with artists like Bob Dylan, Sheryl Crow, and John Mayer.  
+In 2007, Blue Merle announced their breakup.  
+(Note: Adjusted flow slightly while keeping meaning.)",3094f73cea338f39ae4d446a555854f0a656392cb41669b45a703cd67b75f9df,False,False,False,False,12.657873948977794,1,0.03727132607088783
+gate_0054,StealthRL_RELEASED_4B,ai__raid:8598c9e2-8e28-46b2-a6da-a22b767aae49,news,cba392711e8df9e120463708b12d4ba635245c207df887a72b6cfaca3e3964bc,"Tom Hanks has been cast as the lead in a forthcoming biopic about Leonardo da Vinci, one of history's most renowned artists and inventors.  
+(Note: Adjusted flow slightly while keeping meaning.)",e4482525a5262f7fe358bfff3e3ddd04ea9947495cafe42425900a4572c7e711,False,False,False,False,2.689310045010643,1,0.9999999999956802
+gate_0062,StealthRL_RELEASED_4B,ai__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,reddit,c73bf2df6e63d992c88ecd7fd3df2dfc182f61b1f714cc549315b9f392a3e7d7,"I'm trying not to cry right now, but I can't stop... My husband and son are still in Afghanistan (since last July). They're safe as far as we know—assigned to Camp Leatherneck where deployed troops stay.  
+(Note: Adjusted flow slightly while keeping meaning.)",fc26e5e58c814c25e907bae74bf48d849f2e708307c3e460ca91b682a80e8138,False,False,False,False,3.7440629659977276,1,0.2592649547889549
+gate_0065,StealthRL_RELEASED_4B,ai__raid:7a2f76a2-30e0-4d30-b9bf-6bb7b6f82c1e,books,e2c9e6c0f8905bf957aa1536a479071f08fa4e1402469fcfe4f566d44145de80,"It starts with introducing a new town. It feels quaint, and inhabitants appear healthy.  
+The novel centers on a fictional detective. He's known as Detective Caul, and the story begins with him and his friend. They find a body in the woods, discovered by an elderly man who calls police himself.  
+After the death, the finder claims Caul might not be guilty. Police summon Caul to meet them at a tavern, but he declines. It's implied he has another case. Later, Caul arrives at the tavern and asks if the finder is still involved. Detectives agree to speak with him before arresting Caul. After gathering clues, Caul is shot in the head and the mystery resolves. However, the book never names who killed him—only suggesting suspects.  
+Then it shifts to the next installment, where the killer is revealed, murdered similarly to Caul's friend. A trial follows, but Caul walks free. The narrator states: ""It should have ended like that.""  
+This is why I consider this a genuine novel rather than a cheap fantasy.  
+(Note: Adjusted flow slightly while keeping meaning.)",fa2a8760bee9df00127394c3bb9c3181342d4033ff27a294df316f006a5f413a,False,False,False,False,14.327765594003722,1,0.31294305649200477
+gate_0066,StealthRL_RELEASED_4B,ai__raid:a40984f5-f447-464b-8a6a-eaa8d6f76d12,news,16a6395e0cf72bc0bc919c5479360fa5e6a91eb1f474babb4ba59a8fd287867a,"Italy's Parmalat founder Calisto Tanzi confesses to accounting missteps during his three-decade leadership.  
+(Note: Adjusted flow slightly while keeping meaning.)",c9132f914dac4788a14524c0a9b0e9228c8f4c5918e373cbf3dbec8d767f273e,False,False,False,False,2.3650928490096703,1,0.9509237394809709
+gate_0067,StealthRL_RELEASED_4B,ai__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,recipes,47b3333a7a4782dc74283103eda5d9771460fbfb4e4f9c791f5563913594ecb4,"Ingredients  
+1 cup unsalted butter, softened  
+1 cup all-purpose flour  
+1 teaspoon baking powder  
+1/2 teaspoon baking soda  
+1/4 teaspoon salt  
+2 cups granulated sugar  
+1 cup (8 oz) jam (any flavor)
+
+For the Dough  
+1. Preheat oven to 350°F (175°C). Line baking sheet with parchment paper.  
+2. In a small bowl, combine flour, baking powder, baking soda, and salt. Set aside.  
+3. In a large bowl, cream butter and sugar on medium-high speed until light and fluffy, scraping bowl as needed. Mix in egg and vanilla until blended.  
+4. Gradually fold in dry ingredients until just combined.  
+
+For the Filling  
+5. Split dough into two equal portions. Roll each to 1/4 inch (6 mm) thickness on floured surface. Cut into rounds using 2-inch (5-cm) cutter. Place half rounds on prepared baking sheet.  
+6. Top each round with 1 tsp jam. Layer another round atop, pressing edges gently to seal.  
+7. Bake 15 minutes or until edges turn lightly brown. Cool on sheet 5 minutes before transferring to wire rack.  
+
+Prep Time: 1 hr 10 min  
+Cook Time: 15 min  
+Total Time: 1 hr 25 min  
+
+Beurre & Sel'S Port Jammer Cookies  
+
+Ingredient Substitutions:  
+flour - bread flour, AP flour  
+baking powder - baking soda, baking evap (1/4 tsp)  
+granulated sugar - sugar in raw, golden caster sugar  
+jam - any flavor jam, jelly, preserves, marmalade",4b2fe12832fad748ce5b3cf34df79320d7f777ee8afd69cc62623747655e5c09,False,False,False,False,21.660572091001086,1,0.1273309937040113
+gate_0069,StealthRL_RELEASED_4B,ai__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,abstracts,a0394026a6d2faab1ad11a055e7041d8038e11f57e832ef3624f3f2488443a89,"This paper examines resource allocation in MIMO radar systems with multiple targets under non-coherent localization.  
+(Note: Adjusted flow slightly while keeping meaning.)",5b86c98cde5586648f5cd089ea95d4eadbe0a81bb6fc85711af47c754b3a1cdb,False,False,False,False,1.9489877719897777,1,1.0
+gate_0070,StealthRL_RELEASED_4B,ai__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,books,0c4cbc9a5cfddee488bacbce5bb3af13b7155eb9e54437cd90bbc8c9fbb3b19c,"The novel chronicles the journey of young Dick Sand, who steps into leadership after the captain and first mate perish in a mutiny. Despite his youth and lack of experience, Dick emerges as a capable leader, relying on quick thinking and resourcefulness to overcome maritime challenges.  
+(Note: Adjusted flow slightly while keeping meaning.)",b60ebf09623240c67b03246763a02f07440a75d07bad07442ba870b1c892ea4c,False,False,False,False,4.153423048992408,1,0.8000000958764207
+gate_0073,StealthRL_RELEASED_4B,ai__raid:c9d4b9c3-20c6-4527-8838-6cbc2263bb00,wiki,cd896fd8097ee08c2727c21d2c7ea328fa6b0c2387b40de03f6c2ebaecc7450b,"Leonti Mroveli (born January 29, 1978) is a Georgian poet and musician. Born in Tbilisi to Georgian-Armenian parents, he grew up mainly in Batumi.  
+(Note: Adjusted flow slightly while keeping meaning.)",f85fd24fff4bf6e4b1fe637db5a3138dffbba16aa6bd84aab00c1d85e6a6e88d,False,False,False,False,3.7991764610051177,1,0.9995570297669666
+gate_0074,StealthRL_RELEASED_4B,ai__raid:31c9da8a-8533-4763-b0ce-b1e54082b6f8,abstracts,84d34e438ee7fe9c7ca73f4dce368796cbdce90b0f89f5cb113fa4df04e64e93,"This paper presents CIDI-Lung-Seg, a single-click tool enabling automatic lung delineation in CT scans.  
+(Note: Adjusted flow slightly while keeping meaning.)",420950a5d727684211c3a9817c0beebf3b8db90dfb9e0655f6e39b8e9c782756,False,False,False,False,2.291397570981644,1,0.9999999999951633
+gate_0075,StealthRL_RELEASED_4B,ai__raid:0a9dc4af-7338-49c0-b3d9-3a1a3cf1606f,books,7de9414d4ee08cdad5e85aefa78f559d10bf0cd0eef3874c4d8e55de794e9448,"En Iniya Iyanthira is a science fiction novel authored by Sujatha Rangarajan. Set in a futuristic society where technology dominates daily life, the narrative follows Raghunath, a genius scientist who develops a groundbreaking device capable of influencing human minds. However, his invention is stolen by a formidable corporation headed by the ruthless Varadarajan. Raghunath goes underground, pursued relentlessly by corporate enforcers. With his allies' assistance, he undertakes a perilous mission to retrieve Iyanthira and reveal the corporation's deceitful intentions.  
+(Note: Adjusted flow slightly while keeping meaning.)",535b54144812693c2276ca6406ee88ebfbe62f1cd70b265d3fa9bee0393e37a5,False,False,False,False,8.135758752992842,1,0.05000439832208971
+gate_0076,StealthRL_RELEASED_4B,ai__raid:90cd9493-2714-47d7-b052-f3c621294322,news,2047e87be1c7c9733588d178b8f5ea2f2a0c1143802d664ba8feb2d9425c2cd8,"Sir George Martin, the mastermind behind countless Beatles recordings, has passed away at 90. The news has sparked widespread emotion and reflections on his life and career.  
+(Note: Adjusted flow slightly while keeping meaning.)",b04e9f3f3c7d907e0f9f7c8523b7c6c82c9470e80b55c05169f5cdae76c7c9ab,False,False,False,False,3.0158908010052983,1,0.9998402232511205
+gate_0078,StealthRL_RELEASED_4B,ai__raid:39839ad8-9b55-46f1-bfa9-16cd1c961cce,wiki,b7cfc138144c1c5c067e283eaa47884ea07ac447d9b443240679c68ea7d85fae,"Mentone is a small unincorporated community nestled in Newton County, Texas. Located at the junction of Farm to Market Roads 1486 and 3294, it lies about 15 miles north of Newton. Founded in the late 1800s as a railroad stop along the Missouri, Kansas and Texas Railway.  
+(Note: Adjusted flow slightly while keeping meaning.)",29fdd72f01b89298a5f75f0e1c7d0e1acaad39a0e00594ac567c53f2d1fce9aa,False,False,False,False,5.315282594994642,1,0.47036989077631786
+gate_0079,StealthRL_RELEASED_4B,ai__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,abstracts,010ec65539f016c4890c405225675e573af8d3d42212f21ae6373dd674308195,"Medical image segmentation is crucial for clinical analysis and computer-aided diagnosis. Compared to 2D images, 3D medical images offer richer structural information and enable robust segmentation. However, effectively extracting information from 3D medical images remains challenging.  
+(Note: Adjusted flow slightly while keeping meaning.)",262c218bc6c5e17df9ae113e8222fb216a9e4d71034145a5fc21200157f4bd61,False,False,False,False,3.9009755330043845,1,0.9999999999999367
+gate_0081,StealthRL_RELEASED_4B,ai__raid:723a39e2-9540-4faa-b682-d608457dfde1,recipes,3df01baca9d471523d1bb35abbce406f290fdcf668e61828fba03a2c445cc839,"Lavish Lemon Cake Recipe  
+
+Ingredients:  
+- 2 cups all-purpose flour  
+- 1½ teaspoons baking powder  
+- ¼ teaspoon salt  
+- 3 large eggs, room temperature  
+- 1 cup granulated sugar  
+- 2 tablespoons lemon zest  
+- ¾ cup fresh lemon juice  
+- 1 cup buttermilk, room temperature  
+- ½ cup unsalted butter, melted and cooled  
+- 2 teaspoons vanilla extract  
+
+Instructions:  
+
+1. Preheat oven to 350°F (176°C) and grease a 9x13 inch baking pan with cooking spray or butter, then flour it.  
+
+2. In a medium bowl, whisk together flour, baking powder, and salt. Set aside.  
+
+3. In a large bowl, beat eggs and sugar until light and fluffy, about 3 minutes with an electric mixer. Fold in lemon zest and juice until blended.  
+
+4. Gradually add dry ingredients to wet mix, alternating with buttermilk, starting and ending with dry components. Mix until just combined.  
+
+5. Stir in cooled melted butter and vanilla extract until thoroughly mixed.  
+
+6. Pour batter into prepared pan and smooth surface with spatula. Bake 25–30 minutes or until toothpick inserted comes out clean.  
+
+7. Let cake cool completely before glazing. Combine powdered sugar and lemon juice in a small bowl until smooth. Drizzle over cake and let set before serving. Enjoy!",1e6685e158b997036e061fcaec2d254a11f3bd673f104790ecbbf67966cf8c39,False,False,False,False,18.65703193799709,1,0.9973961440346593
+gate_0082,StealthRL_RELEASED_4B,ai__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,wiki,1f33c983eca968ca102533af7fb8cd8274d78b029a8a20ca2253a0af2aa66bc7,"Tibor Grasser (born 1969) is an Austrian composer and pianist. He trained in piano at the Vienna Conservatory under Karl Leister and composition with Friedrich Cerha.
+
+His compositions feature dissonance, intricate rhythms, and expressive dynamics. He has composed works for solo piano, chamber groups, orchestras, and opera. His music has been performed by renowned ensembles like the Vienna Philharmonic, Kölner Ensemble, and Ensemble Modern.
+
+Beyond composition, Grasser is also a skilled pianist and has performed alongside artists such as Gidon Kremer and Yehudi Menuhin. He has released several albums featuring his own compositions, including ""Piano Concerto No. 1"" and ""Symphony No.  1"".",44a30b9deaccc3687e74b322725063458d97dd95683e4031ee5a00931280e7ba,False,False,False,False,9.832015816995408,1,0.44469721828991976
+gate_0085,StealthRL_RELEASED_4B,ai__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,recipes,52bd13f9f947bdb93286799b9f1c2b5636d1de1a7b119bf3f7e9a3b25032f1c4,"Ingredients:  
+- 1 head broccoli, chopped into small florets  
+- 3 cloves garlic, minced  
+- 1/2 cup ricotta cheese  
+- 1/4 cup grated parmesan cheese  
+- 1/4 cup hot honey  
+- 8 slices bread  
+- 2 tablespoons olive oil  
+
+Instructions:  
+1. Preheat oven to 400°F.  
+2. In a large bowl, combine broccoli florets, minced garlic, olive oil, and a pinch of salt and pepper.  
+3. Spread mixture onto baking sheet and roast for 20–25 minutes until tender and lightly browned.  
+4. While broccoli roasts, mix ricotta, parmesan, and seasoning.  
+5. Remove broccoli from oven and lower temperature to 375°F.  
+6. Toast bread slices until lightly golden.  
+7. Remove bread and top each slice with ricotta mixture.  
+8. Add roasted broccoli generously and drizzle with hot honey.  
+9. Serve immediately and enjoy!",40ace99ada5bbf8bc193e0b4f811654f2e438aef9072243570dbbc1a26d9489d,False,False,False,False,13.298879173002206,1,0.9519142161921152
+gate_0086,StealthRL_RELEASED_4B,ai__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,wiki,c21476d07319943efd39fc604c76747a1f71a13afd54d6a1564c81db3e707d2b,"Avi Gabbay (Hebrew: אבי גבי‎; born August 16, 1968) is an Israeli politician who led the Labor Party from 2016 to 2019. He previously held Knesset seats and served as Minister of Transportation and Minister of Environmental Protection.
+
+Gabbay was born in Tel Aviv and studied law at Tel Aviv University. He joined the Labor Party early on and entered the Knesset in 2003. He chaired the party from 2012 until 2016, then became leader in 2016.  
+(Note: Adjusted flow slightly while keeping meaning.)",ef9c68273b38f0dc37c478133dba5f8fe17cf19aef2c9ef046512ab7f040e650,False,False,False,False,8.699481910007307,1,0.23899268414297686
+gate_0088,StealthRL_RELEASED_4B,ai__raid:6d37b523-501f-412e-a18b-645d8e3653a6,news,f24a186282bdd16b478858171526f9b6d3c42b7cab94ca559cff6ce2c10b9873,"Holmes claims dramatic win  
+Barry Holmes staged a remarkable comeback to clinch the Welsh Open snooker title in Cardiff.  
+The world number 39 trailed 6-2 against Mark Selby but won eight of the following nine frames to win 10-7.  
+It marks the first ranking event triumph for the 41-year-old from Birmingham, who has now won £200,000 this season.  
+""It's fantastic, a rewarding week,"" Holmes said.  
+""I've worked hard on my game and this victory proves it.""",fcb1268d8e4e4f3f33cda00c1d46fe2105851e80c51fb54ae05cf41e2a819f6c,False,False,False,False,7.350255653989734,1,0.8324622909035367
+gate_0089,StealthRL_RELEASED_4B,ai__raid:788e4594-960c-4621-8b5e-6f82b7552d7b,recipes,78b9c7faebb90ee5de7ce95fc9db239d895f719b3cb2f3059f2d9c13d4f5f7be,"Coconut Fudge Brownies Recipe  
+
+Ingredients:  
+- 1 cup granulated sugar  
+- ½ cup unsalted butter, softened  
+- ¼ cup coconut oil, melted  
+- 2 large eggs  
+- 1 teaspoon vanilla extract  
+- 1 ½ cups all-purpose flour  
+- ¾ cup unsweetened cocoa powder  
+- 2 teaspoons baking powder  
+- ½ teaspoon salt  
+- 1 cup semisweet chocolate chips  
+- ½ cup shredded coconut  
+
+Instructions:  
+1. Preheat oven to 350°F (175°C) and line an 8x8 inch pan with parchment paper.  
+2. In a large bowl, beat sugar, butter, and coconut oil until creamy. Add eggs one at a time, beating thoroughly afterward. Stir in vanilla.  
+3. In a medium bowl, mix flour, cocoa powder, baking powder, and salt. Gradually incorporate into wet ingredients, stirring until combined.  
+4. Fold in chocolate chips and shredded coconut until evenly distributed.  
+5. Pour batter into prepared pan and smooth surface with spatula or spoon. Bake 25–30 minutes or until toothpick comes out clean.  
+6. Cool completely before cutting and serving. Enjoy!",674448ebaa1851233eae09f7246c4f0487b87758807a8392a40b3154a7afcb1a,False,False,False,False,15.827732956007821,1,0.9999999573120512
+gate_0090,StealthRL_RELEASED_4B,ai__raid:e3945a96-7048-41d9-9e86-a84e87818986,abstracts,120aa9e74064d101b00f6ff41b9cd22b17aba362af9cce1f8bbe2f2e3dafbc03,"We introduce a novel uncertainty-aware self-ensembling (UA-SE) framework for semi-supervised 3D left atrium segmentation. UA-SE leverages voxel correlations and employs self-ensembling to improve representation learning.  
+(Note: Adjusted flow slightly while keeping meaning.)",4bdbffe4aaf6a3ae36be0fcb2105d553800a34617a5ca9d9bab0bda6c2aa6211,False,False,False,False,3.6970802140131127,1,0.8001053977595873
+gate_0092,StealthRL_RELEASED_4B,ai__raid:b146a6b9-b531-4709-ac99-6a3852b3c619,abstracts,356bdd318dcc63ae765d4b7ab9eab823fd8ff75ec008842069214316b08e6478,"We examine the transition of a three-dimensional topological insulator, Bi2Se3, toward the two-dimensional regime. Using experimental and theoretical approaches, we analyze its electronic structure and topological characteristics as thickness decreases from 3D to 2D.  
+(Note: Adjusted flow slightly while keeping meaning.)",b0effd5f3705cedf2dc002d795edd0eb8f53790195a114f9ae90ed2d688e2617,False,False,False,False,3.955804370023543,1,0.7092333978432914
+gate_0093,StealthRL_RELEASED_4B,ai__raid:6cb1edfa-92ac-4618-9084-7d84a4193bc4,news,65004b7357d5c8657fa09e681b8ba01dff5b0c65e09bbc5ab17916ccd5935eea,"Nigeria intends to significantly increase cocoa output over the coming decade, President Buhari announced.  
+At COP26 in Glasgow, he stated Nigeria targets 50% higher cocoa production by 2030.  
+He pledged to lift restrictions to expand irrigation and fertiliser use.  
+Currently, Nigeria produces 340,000 tonnes annually. It ranks fourth globally behind Ivory Coast, Indonesia, and Ghana.  
+""All we need is to unlock 50% of our 1.5 million hectares of cocoa land,"" he declared, asserting Nigeria would become the world's top cocoa producer.  
+Cocoa is sensitive to climate change, as rising temperatures and droughts harm crops.  
+Critics have questioned the feasibility of these pledges, arguing past attempts have stalled.  
+Environmental Sustainability Demand's director, Niyi Babade, queried whether expansion or intensification would drive growth.",1515c17cc9f616342bd7d7629b76417dfb073de909df07b518609f1175f1ee86,False,False,False,False,11.436633173987502,1,0.10515291864866996
+gate_0094,StealthRL_RELEASED_4B,ai__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,news,d9862606290ae09afa125af7a53c637fba2bdb884161ff707785f0c39f85d2ba,"The future of home phones seems uncertain amid rising mobile phone usage. A recent Ofcom survey shows UK landline call volumes dropped by 10% in 2020.  
+(Note: Adjusted flow slightly while keeping meaning.)",f648bf2265105498c2f22dc0946e32fb574e2ff1a7cd74235cc2c5be8bd60023,False,False,False,False,3.1512109879986383,1,0.9999999009781767
+gate_0095,StealthRL_RELEASED_4B,ai__raid:91bb1e48-f280-46f3-9fd3-b7c7d9cb7e1a,news,6a08f43bab9cc64d81df635b52b26f2562b13ef63662872d9a5399049063a42a,"The US government is pushing for a fresh verdict against tobacco firms that could result in losses totaling up to $280bn (£155bn).  
+The Department of Justice (DoJ) has requested a federal judge to penalize the industry for a prolonged effort to mislead Americans.  
+Following a 2020 verdict convicting tobacco firms of breaking federal racketeering laws, the DoJ now seeks repayment of profits amassed through deceptive practices.  
+The case, among the biggest civil lawsuits ever filed in America, focuses on prominent companies such as Philip Morris USA, R.J. Reynolds Tobacco, Brown & Williamson, and Lorillard Tobacco.  
+The government asserts that these firms knowingly misled consumers regarding smoking dangers and nicotine addiction.  
+The $280bn figure stems from government estimates of earnings derived from selling cigarettes to underage youths and deceived smokers.  
+The DoJ maintains that these profits were unlawfully obtained and must be confiscated.  
+(Note: Adjusted flow slightly while keeping meaning.)",6e57cf772d339c9352d5bdbcdf818764a20bdb6d5f87a6dc5a13b347e1036952,False,False,False,False,12.504413576010847,1,0.17059114896036914

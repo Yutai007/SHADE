@@ -1,0 +1,14 @@
+split,label,status,n
+test,0,eligible,47
+test,0,shorter_than_384,91
+test,1,eligible,43
+test,1,shorter_than_384,95
+train,0,eligible,150
+train,0,shorter_than_384,486
+train,1,eligible,181
+train,1,shorter_than_384,455
+validation,0,eligible,26
+validation,0,shorter_than_384,109
+validation,1,eligible,27
+validation,1,insufficient_near_or_far_support,1
+validation,1,shorter_than_384,107

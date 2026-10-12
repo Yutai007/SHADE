@@ -1,0 +1,4 @@
+basis,features,n_features,OOF_AUROC,OOF_balanced_accuracy
+all_predeclared_17,"mean_word_len, long_word_rate, mattr50, hapax_token_rate, lexical_entropy_norm, function_word_rate, contraction_rate_per100, mean_sentence_words, sentence_cv, adjacent_sentence_change, comma_rate_per100, semicolon_colon_rate_per100, dash_rate_per100, paren_rate_per100, repeat4_fraction, distinct4, max_repeat4_rate",17,0.9738888888888888,0.925
+formal_candidates_7,"repeat4_fraction, function_word_rate, mattr50, paren_rate_per100, distinct4, adjacent_sentence_change, sentence_cv",7,0.9455555555555555,0.8999999999999999
+primary_surface_basis_4,"repeat4_fraction, mattr50, sentence_cv, function_word_rate",4,0.9452777777777778,0.8916666666666666

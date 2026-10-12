@@ -1,0 +1,92 @@
+case_id,domain,sentence_index,n_CARDINAL,CARDINAL_surfaces,sentence
+gate_0004,recipes,0,8,4 | 4 | 6 | leaves - One 4 | 2 | 1 | 1 | 4,"- 8-1/2 cups water, divided - 4 small carrots, chopped - 3 stalks celery, diced - 4 cloves garlic, minced - 2 leeks (white part only) cut into pieces - 6 (6 oz.) packages fresh baby spinach leaves - One 4 lb turkey, cooked and diced or shredded - 8 tomatos (or equivalent amount frozen tomatoes) - 2 tsp dried rosemary - 2 bay leaves - Salt & Pepper to taste - Corn meal noodles combine in food processor mix 1 cup cornmeal, 1 teaspoon salt and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes."
+gate_0004,recipes,4,1,one,Bring each strip up at one end like you were making lasagna.
+gate_0004,recipes,11,1,about 20-30 minutes,"Bring to boil, reduce heat, cover and simmer until tender about 20-30 minutes."
+gate_0015,abstracts,2,1,one,"On one side we analyze the frequency of abstracts in Nature Genetics articles using a logistic regression model, finding significant differences by author, issue and field; No significant difference is observed between journals."
+gate_0015,abstracts,4,1,Two,"Two hypotheses for potential effects are proposed  -  (i) journals are most often publish manuscripts of the same quality in the same field, and (ii) journals publish only manuscripts with no papers or few original articles."
+gate_0018,recipes,3,3,2 | 3 | one,Don't worry about eating 2 or 3 in one sitting you think they take a huge amount of time?
+gate_0018,recipes,7,1,two thousand three,"_Source  -  _   **""Z Bar Like Butta Zeppoles""** September 11, two thousand three   www.allrecipes.com  ## _**The World's Best Key Lime Pie from Key West, Fl**_  **"
+gate_0018,recipes,21,1,one,"Insensibly one begins to twist facts to suit theories, instead of theories to suit facts."
+gate_0019,reddit,2,1,one,"However, there is one minor issue that I have noticed with his paintings."
+gate_0021,wiki,7,1,two thousand,"He has published numerous articles and books on these topics, including ""The Jews and the Dead Sea Scrolls"" (one thousand nine hundred ninety-two) and ""The Jewish Jesus, How Jewish Theology Influenced the New Testament"" (two thousand)."
+gate_0023,books,11,1,one,"In this thrilling adventure, Sarah and her team must use all of their skills and resources in order to stay one step ahead of their enemies and solve the puzzles left over by the loss of city's inhabitants."
+gate_0024,news,6,1,two,And the two countries are now in a position to work together on a strong foundation.
+gate_0024,news,9,1,two,"Despite the ongoing tensions with the United States over Israeli settlement policies, Prime Minister Naftali Bennett has assured that the two countries' relations are strong and positive."
+gate_0025,recipes,0,11,One | 2 | 2 | 1 | 1 | 1/2 | 1/2 | 1/2 | 1/4 | 1 | 1,"Ingredients, For the dumplings One 16-ounce package of square dumpling wrappers or round wrappers 1 pound crabmeat 1/2 cup all-purpose flour 2 tablespoons minced green onion 2 tablespoons minced fresh ginger 1 tablespoon soy sauce 1 tablespoon sake or dry sherry 1 teaspoon toasted sesame oil 1/2 teaspoon salt 1/2 teaspoon ground black pepper 1/2 cup thinly sliced green tops in onion  For the sauce for dipping 1/4 cup soy sauce 1 tablespoon rice vinegar 1 tablespoon honey 1 tablespoon toasted sesame oil 1 teaspoon grated fresh ginger  Instructions Step 1:"
+gate_0025,recipes,3,1,2,2. Place a heaping teaspoon of filling in the center of each wrapper.
+gate_0025,recipes,5,1,3,Step 3 Dip your finger into water and moisten the edges of the wrapper.
+gate_0025,recipes,8,1,4,Step 4 Prepare a basket steamer.
+gate_0025,recipes,11,1,5,5.
+gate_0025,recipes,13,1,6,6.
+gate_0027,wiki,3,1,three hundred,"At its peak, the Fife Coalfield boasted over three hundred mines, making it one of the most productive coal mining regions in the United Kingdom."
+gate_0028,abstracts,0,1,two,This study introduces two innovative methods for multi-organ segmentation using deep learning.
+gate_0028,abstracts,5,1,five,"The study's results show marked improvements over seminal MICCAI publications, with a quantitative comparison on five public datasets demonstrating that the proposed methods exceed state-of-the-art scores, achieving results comparable to human experts with a simple modification of the backbone architecture."
+gate_0030,news,0,1,two,"The South African government has announced plans to reopen its embassy in Mauritius, ending a 20-year diplomatic standoff between the two countries."
+gate_0030,news,4,1,two,"In recent years, relations between the two countries have improved significantly, with both sides working together to combat piracy and promote regional stability."
+gate_0030,news,5,1,two,South Africa's foreign ministry said that the reopening of the embassy would help strengthen bilateral ties and boost economic cooperation between the two nations.
+gate_0037,recipes,0,9,2 | 1 | 2 | 2 | 3 | 1 | 1 | 2 | 2,"Flemish Beef Roast (Or Stew) with Vegetables Recipe  Ingredients 1 2-3 pound beef roast, trimmed 2 tablespoons veg oil 1 large onion, chopped 2 carrots, chopped - 2 celery stalks chopped 3 cloves garlic minced 1 teaspoon dried thyme 1 teaspoon dried rosemary 2 tablespoons tomato paste 1 cup beef broth 1 cup red wine 2 cups chopped mushrooms Salt and pepper to taste  Instructions Step 1 Preheat oven to 350 degrees Fahrenheit."
+gate_0037,recipes,1,1,2,2. Heat veg oil in a large Dutch oven or pot over medium high heat.
+gate_0037,recipes,4,1,3.,"3. Add chopped onion, carrots, celery, garlic, thyme and rosemary to pot."
+gate_0037,recipes,6,1,4. Stir,"4. Stir in tomato paste, beef broth, red wine and mushrooms."
+gate_0037,recipes,8,1,5,5.
+gate_0037,recipes,11,1,6.,6.
+gate_0047,books,0,1,One,"Plot Summary   One of the books on a shelf in Eowyn's room at The Two Towers inn, and the third in the trilogy."
+gate_0048,news,0,1,two thousand,Rare Ltd. a UK-based production company announced today that a sequel to the beloved two thousand video game.
+gate_0048,news,2,1,over 2 million,"The original game, a milestone in the casual gaming genre, sold over 2 million copies worldwide and was praised for its colorful graphics and fun gameplay."
+gate_0049,recipes,0,8,1 | 6 | 4 | 4 | 1/2 | 1/2 | 1/2 | 1/4,Asparagus with Prosciutto di Parma Pecorino Pepato and Poached Eggs  Ingredients  -  1 bunch asparagus (about 1 pound) 6 large eggs 4 tablespoons unsalted butter 4 thin slices prosciutto di Parma torn into pieces 1/2 cup grated Pecorino Pepato cheese 1/2 cup heavy cream 1/2 teaspoon white pepper 1/4 teaspoon salt  Instructions Step 1 Bring a pot of water to a boil over high heat.
+gate_0049,recipes,9,1,2,Step 2 Crack the eggs into individual ramekins or cups.
+gate_0049,recipes,14,1,3,"Step 3 Meanwhile, melt the butter in a large skillet over medium heat."
+gate_0049,recipes,19,1,4,"Step 4 To serve, divide the asparagus and prosciutto among individual plates."
+gate_0049,recipes,21,7,three hundred eighty-three | 29 | 443 | 6 | 1 | 3 | 23,"Nutrition Facts Calories, three hundred eighty-three Fat, 29g Cholesterol, 443mg Sodium, 1152mg Carbs, 6g Fiber, 1g Sugars, 3g Protein, 23g"
+gate_0050,reddit,1,1,about 10,"When a group of about 10 people walked in, all wearing matching t shirts that said ""Ice Cream Club""."
+gate_0050,reddit,5,1,one,"And then the oldest woman stepped forward and said, ""And one pint of every flavor to go, please."""
+gate_0051,wiki,2,1,two,"Keeps Me Wondering released two albums, Burning in the Sun (2003) and Keeps Me Wondering (two thousand six) before breaking up in two thousand seven."
+gate_0051,wiki,4,1,three,The pair were soon joined by their sister Morgan and the three began writing and performing together.
+gate_0051,wiki,10,1,two thousand,"In a two thousand fourteen interview with The Huffington Post, Liam Finn stated that Blue Merle had ""run its course"" and that the band was ""never really meant to be a long-term thing"", according to The Huffington Post."
+gate_0054,news,4,1,two thousand twelve,"The yet untitled project will be directed by David Koepp, who has directed ""Jurassic Park"" (one thousand nine hundred ninety-eight) and ""Lincoln"" (two thousand twelve) for which he received another Oscar nomination."
+gate_0065,books,9,1,two,"The book ends with Caul telling his story to a class, asking two questions, which is did he kill his friend?"
+gate_0066,news,1,1,15 billion,The firm collapsed in December when it admitted falsifying accounts by 15 billion euros.
+gate_0067,recipes,0,5,1 | 1/2 | 1/4 | 2 | 8,"Ingredients 1 cup unsalted butter, softened 1 cup all purpose flour 1 teaspoon baking powder 1/2 teaspoon baking soda 1/4 teaspoon salt 2 cups granulated sugar 1 cup (8 oz) jam (any flavor)"
+gate_0067,recipes,3,1,2,"Step 2: In a small bowl whisk together the flour, baking powder, baking soda and salt."
+gate_0067,recipes,5,1,3,"Step 3 In a large bowl, cream the butter and sugar on medium high speed until light and fluffy, scraping the sides of the bowl as necessary."
+gate_0067,recipes,8,2,4 | two,Step 4 For the Filling Step 5 Divide the dough into two equal parts.
+gate_0067,recipes,12,2,6 | 1,Step 6 Top each round with 1 teaspoon of jam.
+gate_0067,recipes,14,1,7,Step 7 Bake for 15 minutes or until the edges are lightly browned.
+gate_0074,abstracts,1,1,0.87,"The tool uses a pre-trained deep learning model to identify and segment the lungs in scans with just a single click; A blinded, controlled study comparing its performance to manual annotation found high agreement (96.2% overall) and a kappa statistic of 0.87."
+gate_0076,news,0,1,hundreds,"Sir George Martin, the orchestrator of hundreds of the Beatles' recordings, passed away at the age of 90."
+gate_0078,wiki,1,1,one thousand,"It is situated at the intersection of Farm to Market Roads one thousand four hundred eighty-six and 3294, about 15 miles north of the county seat Newton; Mentone was established in the late 1800s as a railroad stop on the Missouri, Kansas and Texas Railway."
+gate_0078,wiki,4,1,around 200,"In the early 20th century, Mentone had a population of around 200 residents with several businesses including a general store, a cotton gin and a school."
+gate_0078,wiki,6,1,around 50,"Today Mentone was still a small, close-knit community with a population of around 50 residents."
+gate_0079,abstracts,1,1,2D,"Unlike 2D images, 3D medical images offer more detailed structures and robust segmentation capabilities."
+gate_0079,abstracts,4,1,three,"This mechanism enhances the spatial information by upsampling low level features and captures complex structures by aggregating multi level features; UXNet learns more robust representations, improving segmentation accuracy; Extensive experiments on three benchmark datasets including ISLES2017, LLC and SYNAPSE BREAST CT, show that UXNet outperforms state-of-the-art methods."
+gate_0081,recipes,0,6,1 | 2 | 2 | 1 | oven to 350 | 175,"Delightful Lemon Cake Recipe  Ingredients  2 cups all purpose flour  1 ½ teaspoons baking powder ¼ teaspoon salt -3 large eggs, room temperature  1 cup granulated sugar  2 tablespoons lemon zest, and ¾ cup fresh lemon juice  1 cup buttermilk, room temperature, ½ cup unsalted butter, melted and cooled  2 teaspoons vanilla extract  For the glaze  1 cup powdered sugar -2-3 tablespoons fresh lemon juice  Instructions, Step 1 Preheat your oven to 350°F (175°C) and prepare a 9x13 inch baking pan by greasing it with cooking spray or butter and coating it with flour."
+gate_0081,recipes,1,1,2,"Step 2: In a medium sized bowl, combine the flour, baking powder, and salt."
+gate_0081,recipes,3,1,3,"Step 3 In a separate large bowl, beat the eggs and sugar until light and fluffy, about 3 minutes using an electric mixer."
+gate_0081,recipes,8,1,6,Step 6 Pour the batter into the prepared baking pan and smooth out the top using a spatula.
+gate_0081,recipes,10,1,7 Allow,Step 7 Allow the cake to cool completely prior to making the glaze.
+gate_0082,wiki,6,2,1 | 1,"He has recorded several albums of his own music, including ""Piano Concerto No. 1"" and ""Symphony No. 1."""
+gate_0082,wiki,9,1,one,Today Grasser continues to write and perform music and is considered one of the most important composers of his generation.
+gate_0085,recipes,0,8,3 | 1/2 | 1/4 | 1/4 | 8 | 2 | 400 | 2,"Ingredients, 1 head of broccoli cut into small florets and 3 cloves of garlic, minced and 1/2 cup of ricotta cheese, 1/4 cup of grated parmesan cheese and 1/4 cup of hot honey 8 slices of bread and 2 tablespoons of olive oil  Instructions Step 1 Preheat your oven to 400°F.  Step 2: In a large bowl, mix together the broccoli florets, minced garlic, olive oil and a pinch of salt and pepper."
+gate_0085,recipes,1,1,3,Step 3 Spread the broccoli mixture onto a baking sheet and roast in the oven for 20-25 minutes.
+gate_0085,recipes,6,1,5,Step 5: Once the broccoli is done.
+gate_0085,recipes,7,2,375 | 6,Remove it from the oven and reduce the temperature to 375°F.  Step 6 Toast the bread slices in the oven for 5-7 minutes until lightly golden.
+gate_0085,recipes,9,1,8,Step 8 Top each slice of bread with a generous spoonful of roasted broccoli and a drizzle of hot honey.
+gate_0085,recipes,10,1,9,Step 9 Serve immediately and enjoy your yummy Broccoli and Garlic Ricotta Toasts with Hot Honey.
+gate_0086,wiki,4,1,two thousand twelve to,"Over the years, he rose through the ranks, becoming the party's secretary-general from two thousand twelve to two thousand sixteen before being elected as its leader in two thousand sixteen."
+gate_0088,news,1,5,39 | 6 | eight | nine | 10-7,The world number 39 trailed 6-2 to Mark Selby in the final but won eight of the next nine frames to triumph 10-7.
+gate_0088,news,5,2,two | 6,"Selby, the world number two, had been in dominant form throughout the tournament and looked on course for victory when he moved 6-2 ahead."
+gate_0088,news,6,1,one,"But Holmes, who had earlier in the week knocked out world number one Ronnie O'Sullivan in the last 16, showed great character to hit back."
+gate_0088,news,7,3,6-6 | one hundred six | 70,He levelled at 6-6 with a break of one hundred six and then took the lead for the first time in the match with a run of 70.
+gate_0088,news,8,4,77 | 7 | three | one,"Selby responded with a break of 77 to make it 7-7, but Holmes took the next three frames moving forward with within one of victory."
+gate_0088,news,9,1,53,"The Leicester player then had a chance to force a decider in the 17th frame, but missed a red with the rest when on 46; Holmes made no mistake with a break of 53 to secure the title."
+gate_0089,recipes,0,6,2 | 1 | 1 | 2 | oven to 350 | 175,"Coconut Fudge Brownies Recipe  Ingredients 1 cup of granulated sugar ½ cup of softened butter, ¼ cup of melted coconut oil and 2 large eggs 1 teaspoon vanilla extract 1 ½ cups all-purpose flour ¾ cup of unsweetened cocoa powder 2 teaspoons baking powder ½ teaspoon salt 1 cup of semisweet chocolate chips ½ cup of shredded coconut  Instructions which are Step 1 Preheat your oven to 350°F (175°C) and line an 8x8 inch baking pan with parchment paper."
+gate_0089,recipes,1,1,2,"Step 2 In a large mixing bowl, cream together the sugar, butter and coconut oil until light and fluffy."
+gate_0089,recipes,4,1,3,"Step 3 In another medium sized bowl, whisk together the flour, cocoa powder, baking powder and salt."
+gate_0089,recipes,9,1,6 Allow,Step 6 Allow the brownies to cool completely before cutting into squares and serving.
+gate_0092,abstracts,0,3,three | two | 2D,"This paper explores the transition of a three-dimensional (3D) topological insulator, Bi2Se3, to a two-dimensional (2D) state."
+gate_0092,abstracts,3,1,2D,We find topologically protected edge states on the surfaces of the 2D system which are resilient to disorder and defects.
+gate_0092,abstracts,4,1,2D,"Additionally, we identify non-trivial band structure as well as Fermi arc behavior in the 2D states indicating the presence of non-trivial topology."
+gate_0092,abstracts,5,1,2D,This research offers new perspectives on the transition of 3D topological insulators to 2D systems and opens avenues for further investigation into low-dimensional topological phenomena.
+gate_0093,news,6,1,1 million,And the government has previously promised to return 1 million hectares of land to forests annually.
+gate_0095,news,2,1,two thousand twenty,The move comes after a two thousand twenty ruling in which the tobacco industry was found guilty of violating federal racketeering laws.
+gate_0095,news,12,1,billions,"They further argue that they have already paid billions in settlements to individual states, and have significantly changed their marketing practices in response to previous litigation."

@@ -1,0 +1,3 @@
+metric,comparison,cases,mean_delta,ci_low,ci_high,increased,decreased,unchanged
+AUROC,Adapted_minus_Frozen,34,0.2365548740023672,0.1516805905153599,0.3289636334101325,33,0,1
+AI_score,Adapted_minus_Frozen,34,0.6905085270443712,0.5629605724402663,0.8048315168964429,32,2,0

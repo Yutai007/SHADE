@@ -1,0 +1,7 @@
+heldout_domain,heldout_domain_label,comparison,delta_auroc,delta_balanced_accuracy,delta_f1
+essay,Essay,Bstrong+C+T vs Bstrong+C,0.007200000000000095,-0.010000000000000009,-0.03494060097833682
+essay,Essay,Bstrong+C+T vs Bstrong+T,0.0052000000000000934,0.0,0.0
+reuter,Reuters,Bstrong+C+T vs Bstrong+C,-0.011836734693877471,0.030000000000000027,0.028761302974180225
+reuter,Reuters,Bstrong+C+T vs Bstrong+T,0.013877551020408219,0.030612244897959218,0.01532846715328473
+wp,Wikipedia,Bstrong+C+T vs Bstrong+C,0.024582560296845912,-0.011363636363636354,-0.006336088154270003
+wp,Wikipedia,Bstrong+C+T vs Bstrong+T,0.014842300556586197,-0.05681818181818177,-0.032772869763465384

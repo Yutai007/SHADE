@@ -1,0 +1,22 @@
+case_id,source_id,domain,prompt,stage
+gate_0090,ai__raid:e3945a96-7048-41d9-9e86-a84e87818986,abstracts,"Write the abstract for the academic paper titled ""Uncertainty-aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation"".",1
+gate_0070,ai__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,books,"Write the body of a plot summary for a novel titled ""Dick Sand, A Captain at Fifteen"". Do not give it a title.",1
+gate_0017,ai__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,news,"Write the body of a BBC news article titled ""Johnson announces June retirement"". Do not repeat the title.",1
+gate_0085,ai__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,recipes,"Write a recipe for ""Broccoli And Garlic-Ricotta Toasts With Hot Honey "".",1
+gate_0038,ai__raid:bf3df034-9724-4840-86cb-33eb1489b717,reddit,"Write just the body of a Reddit post titled ""my mom talks to her friends more than she talks to me"". Do not repeat the title.",1
+gate_0039,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki,"Write the body of a Wikipedia article titled ""James W. Truman"".",1
+gate_0069,ai__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,abstracts,"Write the abstract for the academic paper titled ""Resource Allocation in MIMO Radar With Multiple Targets for Non-Coherent
+  Localization"".",1
+gate_0035,ai__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,books,"Write the body of a plot summary for a novel titled ""The Last Children of Schewenborn"". Do not give it a title.",1
+gate_0003,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,news,"Write the body of a BBC news article titled ""Georgia plans hidden asset pardon"". Do not repeat the title.",1
+gate_0025,ai__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,recipes,"Write a recipe for ""Crab Pot Stickers with Sesame-Ginger Dipping Sauce"".",1
+gate_0062,ai__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,reddit,"Write just the body of a Reddit post titled ""Trying to keep it together"". Do not repeat the title.",2
+gate_0078,ai__raid:39839ad8-9b55-46f1-bfa9-16cd1c961cce,wiki,"Write the body of a Wikipedia article titled ""Mentone, Texas"".",2
+gate_0079,ai__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,abstracts,"Write the abstract for the academic paper titled ""UXNet: Searching Multi-level Feature Aggregation for 3D Medical Image Segmentation"".",2
+gate_0075,ai__raid:0a9dc4af-7338-49c0-b3d9-3a1a3cf1606f,books,"Write the body of a plot summary for a novel titled ""En Iniya Iyanthira"". Do not give it a title.",2
+gate_0024,ai__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,news,"Write the body of a BBC news article titled ""Israel looks to US for bank chief"". Do not repeat the title.",2
+gate_0018,ai__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,recipes,"Write a recipe for ""Z Bar Like Butta Zeppoles"".",2
+gate_0050,ai__raid:c435eb9e-f80e-4ac6-9526-e1282c5c1266,reddit,"Write just the body of a Reddit post titled ""The most amazing thing happened at Salt &amp; Straw on Division today"". Do not repeat the title.",2
+gate_0051,ai__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,wiki,"Write the body of a Wikipedia article titled ""Blue Merle (band)"".",2
+gate_0046,ai__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,abstracts,"Write the abstract for the academic paper titled ""Witness structures and immediate snapshot complexes"".",2
+gate_0016,ai__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,books,"Write the body of a plot summary for a novel titled ""The Remains of the Day"". Do not give it a title.",2

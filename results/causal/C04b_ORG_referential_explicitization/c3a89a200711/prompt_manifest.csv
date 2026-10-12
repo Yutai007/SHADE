@@ -1,0 +1,1275 @@
+case_id,source_id,domain,sentence_index,sentence_start,sentence_end,source_sentence,target_org,target_ORG_sentence_mean,prompt
+gate_0007,ai__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,wiki,2,294,451,"Sir John Maitland was a member of a prominent Scottish family, serving as a Lord of Session, a Lord of the Articles, and a Lord Commissioner of the Treasury.",Treasury,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Treasury"" already appears in the sentence.
+- Write the exact string ""Treasury"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+Sir John Maitland was a member of a prominent Scottish family, serving as a Lord of Session, a Lord of the Articles, and a Lord Commissioner of the Treasury.
+
+Organization to repeat exactly once:
+Treasury"
+gate_0007,ai__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,wiki,3,452,584,He played a key role in negotiations leading to the Union of the Crowns of Scotland and England in one thousand six hundred three.  ,the Union of the Crowns of Scotland,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""the Union of the Crowns of Scotland"" already appears in the sentence.
+- Write the exact string ""the Union of the Crowns of Scotland"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+He played a key role in negotiations leading to the Union of the Crowns of Scotland and England in one thousand six hundred three.  
+
+Organization to repeat exactly once:
+the Union of the Crowns of Scotland"
+gate_0007,ai__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,wiki,4,584,773,"The 1st Viscount of Oxfuird was succeeded by his son, John Maitland, 2nd Viscount of Oxfuird, who served as a member of the Scottish Privy Council and as Lord Lieutenant of Haddingtonshire.",the Scottish Privy Council,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""the Scottish Privy Council"" already appears in the sentence.
+- Write the exact string ""the Scottish Privy Council"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The 1st Viscount of Oxfuird was succeeded by his son, John Maitland, 2nd Viscount of Oxfuird, who served as a member of the Scottish Privy Council and as Lord Lieutenant of Haddingtonshire.
+
+Organization to repeat exactly once:
+the Scottish Privy Council"
+gate_0007,ai__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,wiki,5,774,928,"The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and General during the War of the Spanish Succession.  ",3rd Viscount,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""3rd Viscount"" already appears in the sentence.
+- Write the exact string ""3rd Viscount"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and General during the War of the Spanish Succession.  
+
+Organization to repeat exactly once:
+3rd Viscount"
+gate_0007,ai__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,wiki,5,774,928,"The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and General during the War of the Spanish Succession.  ",Viscount,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Viscount"" already appears in the sentence.
+- Write the exact string ""Viscount"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and General during the War of the Spanish Succession.  
+
+Organization to repeat exactly once:
+Viscount"
+gate_0007,ai__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,wiki,6,928,1086,"The 3rd Viscount's son, John Maitland, 4th Viscount of Oxfuird, was a prominent politician and served as a member of the British Parliament for several years.",The 3rd Viscount's,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""The 3rd Viscount's"" already appears in the sentence.
+- Write the exact string ""The 3rd Viscount's"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The 3rd Viscount's son, John Maitland, 4th Viscount of Oxfuird, was a prominent politician and served as a member of the British Parliament for several years.
+
+Organization to repeat exactly once:
+The 3rd Viscount's"
+gate_0007,ai__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,wiki,6,928,1086,"The 3rd Viscount's son, John Maitland, 4th Viscount of Oxfuird, was a prominent politician and served as a member of the British Parliament for several years.",the British Parliament,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""the British Parliament"" already appears in the sentence.
+- Write the exact string ""the British Parliament"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The 3rd Viscount's son, John Maitland, 4th Viscount of Oxfuird, was a prominent politician and served as a member of the British Parliament for several years.
+
+Organization to repeat exactly once:
+the British Parliament"
+gate_0007,ai__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,wiki,10,1414,1485,And his collection is now housed in the National Library of Scotland.  ,the National Library of,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""the National Library of"" already appears in the sentence.
+- Write the exact string ""the National Library of"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+And his collection is now housed in the National Library of Scotland.  
+
+Organization to repeat exactly once:
+the National Library of"
+gate_0007,ai__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,wiki,11,1485,1642,"The 5th Viscount's son John Maitland, 6th Viscount of Oxfuird, was a prominent politician and served as a member of the British Parliament for several years.",the British Parliament,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""the British Parliament"" already appears in the sentence.
+- Write the exact string ""the British Parliament"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The 5th Viscount's son John Maitland, 6th Viscount of Oxfuird, was a prominent politician and served as a member of the British Parliament for several years.
+
+Organization to repeat exactly once:
+the British Parliament"
+gate_0007,ai__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,wiki,14,1888,2010,"He was also a noted collector of art and rare books, and his collection is now housed in the National Library of Scotland.",the National Library of,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""the National Library of"" already appears in the sentence.
+- Write the exact string ""the National Library of"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+He was also a noted collector of art and rare books, and his collection is now housed in the National Library of Scotland.
+
+Organization to repeat exactly once:
+the National Library of"
+gate_0017,ai__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,news,6,759,951,"A growing number of Conservative MPs had called for his resignation, citing concerns over his leadership style and handling of key issues, including Brexit and the ongoing COVID-19 pandemic.  ",COVID-19,0.2777777777777778,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""COVID-19"" already appears in the sentence.
+- Write the exact string ""COVID-19"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+A growing number of Conservative MPs had called for his resignation, citing concerns over his leadership style and handling of key issues, including Brexit and the ongoing COVID-19 pandemic.  
+
+Organization to repeat exactly once:
+COVID-19"
+gate_0017,ai__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,news,11,1374,1515,"The process for selecting a new Conservative Party leader – and by extension, the next prime minister – will likely begin shortly thereafter.",Conservative Party,0.2777777777777778,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Conservative Party"" already appears in the sentence.
+- Write the exact string ""Conservative Party"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The process for selecting a new Conservative Party leader – and by extension, the next prime minister – will likely begin shortly thereafter.
+
+Organization to repeat exactly once:
+Conservative Party"
+gate_0017,ai__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,news,12,1516,1679,"Several names are already circulating as potential successors, including prominent cabinet members such as Chancellor Rishi Sunak and Home Secretary Priti Patel.  ",Home,0.2777777777777778,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Home"" already appears in the sentence.
+- Write the exact string ""Home"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+Several names are already circulating as potential successors, including prominent cabinet members such as Chancellor Rishi Sunak and Home Secretary Priti Patel.  
+
+Organization to repeat exactly once:
+Home"
+gate_0017,ai__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,news,14,1760,1889,"Supporters point to some notable achievements during his tenure, such as securing a withdrawal agreement with the European Union.",the European Union,0.2777777777777778,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""the European Union"" already appears in the sentence.
+- Write the exact string ""the European Union"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+Supporters point to some notable achievements during his tenure, such as securing a withdrawal agreement with the European Union.
+
+Organization to repeat exactly once:
+the European Union"
+gate_0027,ai__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,wiki,0,0,156,"The Fife Coalfield was a significant coal mining region in Scotland, primarily located in Fife and extending into neighboring counties of Angus and Kinross.",Angus,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Angus"" already appears in the sentence.
+- Write the exact string ""Angus"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The Fife Coalfield was a significant coal mining region in Scotland, primarily located in Fife and extending into neighboring counties of Angus and Kinross.
+
+Organization to repeat exactly once:
+Angus"
+gate_0027,ai__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,wiki,6,824,969,"Today, the Fife Coalfield is remembered as an important part of Fife's history, with numerous artifacts and monuments commemorating the industry.",Fife,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Fife"" already appears in the sentence.
+- Write the exact string ""Fife"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+Today, the Fife Coalfield is remembered as an important part of Fife's history, with numerous artifacts and monuments commemorating the industry.
+
+Organization to repeat exactly once:
+Fife"
+gate_0027,ai__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,wiki,7,970,1140,"The Scottish Mining Museum in Newtongrange attracts many visitors, and the area is also home to several heritage sites dedicated to the coal miners of the Fife Coalfield.",Newtongrange,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Newtongrange"" already appears in the sentence.
+- Write the exact string ""Newtongrange"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The Scottish Mining Museum in Newtongrange attracts many visitors, and the area is also home to several heritage sites dedicated to the coal miners of the Fife Coalfield.
+
+Organization to repeat exactly once:
+Newtongrange"
+gate_0027,ai__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,wiki,7,970,1140,"The Scottish Mining Museum in Newtongrange attracts many visitors, and the area is also home to several heritage sites dedicated to the coal miners of the Fife Coalfield.",The Scottish Mining Museum,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""The Scottish Mining Museum"" already appears in the sentence.
+- Write the exact string ""The Scottish Mining Museum"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The Scottish Mining Museum in Newtongrange attracts many visitors, and the area is also home to several heritage sites dedicated to the coal miners of the Fife Coalfield.
+
+Organization to repeat exactly once:
+The Scottish Mining Museum"
+gate_0030,ai__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,news,1,150,336,"The decision was made following talks between President Cyril Ramaphosa and Prime Minister Pravind Jugnauth, who met on the sidelines of the African Union summit in Ethiopia last week.  ",African Union,0.2777777777777778,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""African Union"" already appears in the sentence.
+- Write the exact string ""African Union"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The decision was made following talks between President Cyril Ramaphosa and Prime Minister Pravind Jugnauth, who met on the sidelines of the African Union summit in Ethiopia last week.  
+
+Organization to repeat exactly once:
+African Union"
+gate_0030,ai__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,news,9,1251,1356,"""This is a positive development for our region as a whole,"" said Foreign Affairs Minister Alain St. Ange.",Foreign Affairs,0.2777777777777778,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Foreign Affairs"" already appears in the sentence.
+- Write the exact string ""Foreign Affairs"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+""This is a positive development for our region as a whole,"" said Foreign Affairs Minister Alain St. Ange.
+
+Organization to repeat exactly once:
+Foreign Affairs"
+gate_0039,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki,0,0,260,"James W. Truman (one thousand eight hundred sixty-three-one thousand nine hundred forty-two) was an American businessman and philanthropist who built his fortune in the railroad industry, specifically as the president of the Manhattan Elevated Railway Company.",the Manhattan Elevated Railway Company,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""the Manhattan Elevated Railway Company"" already appears in the sentence.
+- Write the exact string ""the Manhattan Elevated Railway Company"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+James W. Truman (one thousand eight hundred sixty-three-one thousand nine hundred forty-two) was an American businessman and philanthropist who built his fortune in the railroad industry, specifically as the president of the Manhattan Elevated Railway Company.
+
+Organization to repeat exactly once:
+the Manhattan Elevated Railway Company"
+gate_0051,ai__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,wiki,2,220,361,"The band released two albums, Burning in the Sun (2003) and Keeps Me Wondering (two thousand six) before breaking up in two thousand seven.  ",Keeps Me Wondering,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Keeps Me Wondering"" already appears in the sentence.
+- Write the exact string ""Keeps Me Wondering"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The band released two albums, Burning in the Sun (2003) and Keeps Me Wondering (two thousand six) before breaking up in two thousand seven.  
+
+Organization to repeat exactly once:
+Keeps Me Wondering"
+gate_0051,ai__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,wiki,3,361,485,Liam and Caleb Finn formed Blue Merle in two thousand two after the dissolution of their previous band the Johnson Brothers.,Blue Merle,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Blue Merle"" already appears in the sentence.
+- Write the exact string ""Blue Merle"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+Liam and Caleb Finn formed Blue Merle in two thousand two after the dissolution of their previous band the Johnson Brothers.
+
+Organization to repeat exactly once:
+Blue Merle"
+gate_0051,ai__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,wiki,3,361,485,Liam and Caleb Finn formed Blue Merle in two thousand two after the dissolution of their previous band the Johnson Brothers.,the Johnson Brothers,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""the Johnson Brothers"" already appears in the sentence.
+- Write the exact string ""the Johnson Brothers"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+Liam and Caleb Finn formed Blue Merle in two thousand two after the dissolution of their previous band the Johnson Brothers.
+
+Organization to repeat exactly once:
+the Johnson Brothers"
+gate_0051,ai__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,wiki,7,742,927,"The band's second album, Keeps Me Wondering, was released in two thousand six; The album was produced by Brendan O'Brien and featured the singles ""Out of My Hands"" and ""Boxcar Racer"".  ",Keeps Me Wondering,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Keeps Me Wondering"" already appears in the sentence.
+- Write the exact string ""Keeps Me Wondering"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The band's second album, Keeps Me Wondering, was released in two thousand six; The album was produced by Brendan O'Brien and featured the singles ""Out of My Hands"" and ""Boxcar Racer"".  
+
+Organization to repeat exactly once:
+Keeps Me Wondering"
+gate_0051,ai__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,wiki,10,1172,1356,"In a two thousand fourteen interview with The Huffington Post, Liam Finn stated that Blue Merle had ""run its course"" and that the band was ""never really meant to be a long-term thing"".",Blue Merle,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Blue Merle"" already appears in the sentence.
+- Write the exact string ""Blue Merle"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+In a two thousand fourteen interview with The Huffington Post, Liam Finn stated that Blue Merle had ""run its course"" and that the band was ""never really meant to be a long-term thing"".
+
+Organization to repeat exactly once:
+Blue Merle"
+gate_0051,ai__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,wiki,10,1172,1356,"In a two thousand fourteen interview with The Huffington Post, Liam Finn stated that Blue Merle had ""run its course"" and that the band was ""never really meant to be a long-term thing"".",The Huffington Post,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""The Huffington Post"" already appears in the sentence.
+- Write the exact string ""The Huffington Post"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+In a two thousand fourteen interview with The Huffington Post, Liam Finn stated that Blue Merle had ""run its course"" and that the band was ""never really meant to be a long-term thing"".
+
+Organization to repeat exactly once:
+The Huffington Post"
+gate_0054,ai__raid:8598c9e2-8e28-46b2-a6da-a22b767aae49,news,4,509,724,"The yet untitled project will be directed by David Koepp, who has directed ""Jurassic Park"" (one thousand nine hundred ninety-eight) and ""Lincoln"" (two thousand twelve) for which he received another Oscar nomination.",Lincoln,0.2777777777777778,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Lincoln"" already appears in the sentence.
+- Write the exact string ""Lincoln"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The yet untitled project will be directed by David Koepp, who has directed ""Jurassic Park"" (one thousand nine hundred ninety-eight) and ""Lincoln"" (two thousand twelve) for which he received another Oscar nomination.
+
+Organization to repeat exactly once:
+Lincoln"
+gate_0075,ai__raid:0a9dc4af-7338-49c0-b3d9-3a1a3cf1606f,books,0,0,195,"In the futuristic world of En Iniya Iyanthira, Sujatha Rangarajan's science fiction novel follows the journey of Raghunath, a brainy scientist who invents a revolutionary device called Iyanthira.",Iyanthira,0.4365079365079365,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Iyanthira"" already appears in the sentence.
+- Write the exact string ""Iyanthira"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+In the futuristic world of En Iniya Iyanthira, Sujatha Rangarajan's science fiction novel follows the journey of Raghunath, a brainy scientist who invents a revolutionary device called Iyanthira.
+
+Organization to repeat exactly once:
+Iyanthira"
+gate_0076,ai__raid:90cd9493-2714-47d7-b052-f3c621294322,news,5,544,779,"Despite being known as a ""pop"" producer his versatility is evident in his of cooperation with other countries with other countries with diverse artists  -  Matt Monro, Cilla Black, Gerry and the Pacemakers, Cheap Trick and Jeff Beck.  ",Pacemakers,0.2777777777777778,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Pacemakers"" already appears in the sentence.
+- Write the exact string ""Pacemakers"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+Despite being known as a ""pop"" producer his versatility is evident in his of cooperation with other countries with other countries with diverse artists  -  Matt Monro, Cilla Black, Gerry and the Pacemakers, Cheap Trick and Jeff Beck.  
+
+Organization to repeat exactly once:
+Pacemakers"
+gate_0076,ai__raid:90cd9493-2714-47d7-b052-f3c621294322,news,6,779,948,"In his autobiography Summer of Love, Sir George recounts his early years as a Decca Records clerk details the incredible luck and good fortune that his career turned on.",Decca Records,0.2777777777777778,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Decca Records"" already appears in the sentence.
+- Write the exact string ""Decca Records"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+In his autobiography Summer of Love, Sir George recounts his early years as a Decca Records clerk details the incredible luck and good fortune that his career turned on.
+
+Organization to repeat exactly once:
+Decca Records"
+gate_0076,ai__raid:90cd9493-2714-47d7-b052-f3c621294322,news,12,1372,1500,"As their success soared, Martin managed ambitious projects while navigating the demands of the group's members and associates.  ",Martin,0.2777777777777778,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Martin"" already appears in the sentence.
+- Write the exact string ""Martin"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+As their success soared, Martin managed ambitious projects while navigating the demands of the group's members and associates.  
+
+Organization to repeat exactly once:
+Martin"
+gate_0082,ai__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,wiki,2,192,301,"Grasser's music is characterized by its use of dissonance, rhythmic complexity, and a wide range of dynamics.",Grasser,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Grasser"" already appears in the sentence.
+- Write the exact string ""Grasser"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+Grasser's music is characterized by its use of dissonance, rhythmic complexity, and a wide range of dynamics.
+
+Organization to repeat exactly once:
+Grasser"
+gate_0082,ai__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,wiki,4,381,509,"His music has been performed by ensembles  -  the Vienna Philharmonic Orchestra, the Kölner Ensemble, and the Ensemble Modern.  ",the Vienna Philharmonic Orchestra,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""the Vienna Philharmonic Orchestra"" already appears in the sentence.
+- Write the exact string ""the Vienna Philharmonic Orchestra"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+His music has been performed by ensembles  -  the Vienna Philharmonic Orchestra, the Kölner Ensemble, and the Ensemble Modern.  
+
+Organization to repeat exactly once:
+the Vienna Philharmonic Orchestra"
+gate_0082,ai__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,wiki,5,509,650,"In addition to his work as a composer, Grasser is an accomplished pianist and has performed with artists  -  Gidon Kremer and Yehudi Menuhin.",Grasser,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Grasser"" already appears in the sentence.
+- Write the exact string ""Grasser"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+In addition to his work as a composer, Grasser is an accomplished pianist and has performed with artists  -  Gidon Kremer and Yehudi Menuhin.
+
+Organization to repeat exactly once:
+Grasser"
+gate_0082,ai__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,wiki,7,756,867,Grasser's music has been praised for its emotional intensity and its ability to evoke a wide range of emotions.,Grasser,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Grasser"" already appears in the sentence.
+- Write the exact string ""Grasser"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+Grasser's music has been praised for its emotional intensity and its ability to evoke a wide range of emotions.
+
+Organization to repeat exactly once:
+Grasser"
+gate_0082,ai__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,wiki,8,868,990,"He has won numerous awards for his compositions, including the Ernst von Siemens Music Prize and the Joseph Haydn Prize.  ",the Ernst von Siemens Music Prize,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""the Ernst von Siemens Music Prize"" already appears in the sentence.
+- Write the exact string ""the Ernst von Siemens Music Prize"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+He has won numerous awards for his compositions, including the Ernst von Siemens Music Prize and the Joseph Haydn Prize.  
+
+Organization to repeat exactly once:
+the Ernst von Siemens Music Prize"
+gate_0082,ai__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,wiki,8,868,990,"He has won numerous awards for his compositions, including the Ernst von Siemens Music Prize and the Joseph Haydn Prize.  ",the Joseph Haydn Prize,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""the Joseph Haydn Prize"" already appears in the sentence.
+- Write the exact string ""the Joseph Haydn Prize"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+He has won numerous awards for his compositions, including the Ernst von Siemens Music Prize and the Joseph Haydn Prize.  
+
+Organization to repeat exactly once:
+the Joseph Haydn Prize"
+gate_0086,ai__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,wiki,0,0,190,"Avi Gabbay, born on August 16, one thousand nine hundred sixty-eight, is an Israeli politician who served as the leader of the Labor Party from two thousand sixteen to two thousand nineteen.",the Labor Party,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""the Labor Party"" already appears in the sentence.
+- Write the exact string ""the Labor Party"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+Avi Gabbay, born on August 16, one thousand nine hundred sixty-eight, is an Israeli politician who served as the leader of the Labor Party from two thousand sixteen to two thousand nineteen.
+
+Organization to repeat exactly once:
+the Labor Party"
+gate_0086,ai__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,wiki,1,191,337,He previously held the post of Knesset member for the party and was the Minister of Transportation and the Minister of Environmental Protection.  ,Knesset,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Knesset"" already appears in the sentence.
+- Write the exact string ""Knesset"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+He previously held the post of Knesset member for the party and was the Minister of Transportation and the Minister of Environmental Protection.  
+
+Organization to repeat exactly once:
+Knesset"
+gate_0086,ai__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,wiki,1,191,337,He previously held the post of Knesset member for the party and was the Minister of Transportation and the Minister of Environmental Protection.  ,the Minister of Transportation,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""the Minister of Transportation"" already appears in the sentence.
+- Write the exact string ""the Minister of Transportation"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+He previously held the post of Knesset member for the party and was the Minister of Transportation and the Minister of Environmental Protection.  
+
+Organization to repeat exactly once:
+the Minister of Transportation"
+gate_0086,ai__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,wiki,3,405,500,He joined the Labor Party during his youth and first entered the Knesset in two thousand three.,Knesset,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Knesset"" already appears in the sentence.
+- Write the exact string ""Knesset"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+He joined the Labor Party during his youth and first entered the Knesset in two thousand three.
+
+Organization to repeat exactly once:
+Knesset"
+gate_0086,ai__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,wiki,3,405,500,He joined the Labor Party during his youth and first entered the Knesset in two thousand three.,the Labor Party,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""the Labor Party"" already appears in the sentence.
+- Write the exact string ""the Labor Party"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+He joined the Labor Party during his youth and first entered the Knesset in two thousand three.
+
+Organization to repeat exactly once:
+the Labor Party"
+gate_0086,ai__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,wiki,9,1154,1331,"In the two thousand nineteen Israeli legislative election, the Labor Party under Gabbay's leadership failed to win any seats in the Knesset, and Gabbay resigned as party leader.",Knesset,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Knesset"" already appears in the sentence.
+- Write the exact string ""Knesset"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+In the two thousand nineteen Israeli legislative election, the Labor Party under Gabbay's leadership failed to win any seats in the Knesset, and Gabbay resigned as party leader.
+
+Organization to repeat exactly once:
+Knesset"
+gate_0086,ai__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,wiki,9,1154,1331,"In the two thousand nineteen Israeli legislative election, the Labor Party under Gabbay's leadership failed to win any seats in the Knesset, and Gabbay resigned as party leader.",the Labor Party,0.7272727272727273,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""the Labor Party"" already appears in the sentence.
+- Write the exact string ""the Labor Party"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+In the two thousand nineteen Israeli legislative election, the Labor Party under Gabbay's leadership failed to win any seats in the Knesset, and Gabbay resigned as party leader.
+
+Organization to repeat exactly once:
+the Labor Party"
+gate_0094,ai__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,news,0,0,138,"The future of home phones seems uncertain as more people are choosing mobile phones over landlines, according to a recent survey by Ofcom.",Ofcom,0.2777777777777778,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Ofcom"" already appears in the sentence.
+- Write the exact string ""Ofcom"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The future of home phones seems uncertain as more people are choosing mobile phones over landlines, according to a recent survey by Ofcom.
+
+Organization to repeat exactly once:
+Ofcom"
+gate_0094,ai__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,news,2,282,478,"The report indicates that the decline in landline usage is mainly due to the increasingly significant popularity of mobile phones and digital communication platforms like WhatsApp, Skype and Zoom.",Skype and Zoom,0.2777777777777778,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""Skype and Zoom"" already appears in the sentence.
+- Write the exact string ""Skype and Zoom"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The report indicates that the decline in landline usage is mainly due to the increasingly significant popularity of mobile phones and digital communication platforms like WhatsApp, Skype and Zoom.
+
+Organization to repeat exactly once:
+Skype and Zoom"
+gate_0094,ai__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,news,2,282,478,"The report indicates that the decline in landline usage is mainly due to the increasingly significant popularity of mobile phones and digital communication platforms like WhatsApp, Skype and Zoom.",WhatsApp,0.2777777777777778,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""WhatsApp"" already appears in the sentence.
+- Write the exact string ""WhatsApp"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+The report indicates that the decline in landline usage is mainly due to the increasingly significant popularity of mobile phones and digital communication platforms like WhatsApp, Skype and Zoom.
+
+Organization to repeat exactly once:
+WhatsApp"
+gate_0094,ai__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,news,4,659,747,"Moreover, the COVID-19 pandemic has accelerated the shift towards digital communication.",COVID-19,0.2777777777777778,"Edit only the sentence below.
+
+Return ONLY the rewritten sentence. Do not add labels, commentary, quotes, or explanation.
+
+Your one required edit:
+- The exact organization name ""COVID-19"" already appears in the sentence.
+- Write the exact string ""COVID-19"" exactly ONE additional time.
+- Use that extra occurrence to make a later implicit, pronominal, passive, or relative reference to the same organization explicit.
+
+Preserve everything else as closely as possible:
+- preserve every fact and relation;
+- preserve every name, number, date, negation, tense, and modality;
+- preserve the original verbs whenever possible;
+- keep exactly one sentence;
+- introduce no new entity or fact;
+- prefer a direct active rewrite.
+
+Preferred pattern:
+NASA developed the instrument, which was later tested extensively.
+-> NASA developed the instrument, and later NASA tested it extensively.
+
+Sentence:
+Moreover, the COVID-19 pandemic has accelerated the shift towards digital communication.
+
+Organization to repeat exactly once:
+COVID-19"

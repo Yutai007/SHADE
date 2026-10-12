@@ -1,0 +1,2 @@
+detector,exposure,heldout,comparison,delta_AUROC,ci_low,ci_high
+WaveDetect,40,34,Adapted_minus_Frozen,-0.0863165306953759,-0.1826244517583136,0.006156066646607466

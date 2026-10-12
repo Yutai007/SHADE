@@ -1,0 +1,40 @@
+case_id,domain,sent_i,start,end,target_org,original_sentence,source_sentence,jaccard
+gate_0003,news,6,829,917,Transparency International,"The initiative is part of a broader anti-corruption campaign launched by the government, which has been praised by international organizations such as Transparency International.",The initiative is part of a broader anti-corruption campaign launched by the government.,0.7777777777777778
+gate_0004,recipes,0,0,537,> Salt & Pepper,"One 4 lb turkey, cooked and diced or shredded
+> 8 tomatos (or equivalent amount frozen tomatoes)
+> 2 tsp dried rosemary
+> 2 bay leaves
+> Salt & Pepper to taste
+> Corn meal noodles: combine in food processer mix 1 cup cornmeal, 1 teaspoon salt, and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.","- 8-1/2 cups water, divided - 4 small carrots, chopped - 3 stalks celery, diced - 4 cloves garlic, minced - 2 leeks (white part only) cut into pieces - 6 (6 oz.) packages fresh baby spinach leaves - One 4 lb turkey, cooked and diced or shredded - 8 tomatos (or equivalent amount frozen tomatoes) - 2 tsp dried rosemary - 2 bay leaves - Salt & Pepper to taste - Corn meal noodles combine in food processor mix 1 cup cornmeal, 1 teaspoon salt and 4 cups hot tap water; pulse mixture until dough comes together then set aside for 5 minutes.",0.5714285714285714
+gate_0007,wiki,3,461,632,the Union of 1603,"He was also a prominent advocate for the Union of the Crowns of Scotland and England, and played a key role in the negotiations leading to the Union of 1603.
+
+","He played a key role in negotiations leading to the Union of the Crowns of Scotland and England in one thousand six hundred three, and the Union of the Crowns of Scotland.",0.7272727272727273
+gate_0007,wiki,5,822,976,the British Army,"The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and served as a General in the British Army during the War of the Spanish Succession.
+
+","The 2nd Viscount's son, Charles Maitland, 3rd Viscount of Oxfuird, was a prominent military leader and General during the War of the Spanish Succession.  ",0.9230769230769231
+gate_0054,news,4,509,724,Academy Award,"The yet untitled project will be directed by David Koepp, who previously collaborated with Hanks on 1998's ""Jurassic Park"" and 2012's ""Lincoln,"" which earned him another Academy Award nomination.","The yet untitled project will be directed by David Koepp, who has directed ""Jurassic Park"" (one thousand nine hundred ninety-eight) and ""Lincoln"" (two thousand twelve) for which he received another Oscar nomination.",0.6
+gate_0062,reddit,7,693,785,dis,im really upset about ths whole situation rn especially cuz ive never felt alone quite lk dis b4 n need sum1,"I'm really upset about this situation, especially because I've never felt this alone before.",0.5
+gate_0069,abstracts,0,0,111,Multiple-Input Multiple-Output,This paper investigates resource allocation in Multiple-Input Multiple-Output (MIMO) radar systems with multiple targets for non-coherent localization.,This paper explores resource allocation in MIMO radar systems with multiple targets for non-lucid localization.,0.6428571428571429
+gate_0081,recipes,0,0,567,-1 cup,"Lavish Lemon Cake Recipe
+
+Ingredients: 
+-2 cups all purpose flour 
+-1 ½ teaspoons baking powder 
+-¼ teaspoon salt 
+-3 large eggs, room temperature 
+-1 cup granulated sugar 
+-2 tablespoons lemon zest 
+-¾ cup fresh lemon juice 
+-1 cup buttermilk, room temperature 
+-½ cup unsalted butter, melted and cooled 
+-2 teaspoons vanilla extract 
+
+For the glaze:
+-1 cup powdered sugar 
+-2-3 tablespoons fresh lemon juice 
+
+Instructions:
+
+1.","Delightful Lemon Cake Recipe  Ingredients  2 cups all purpose flour  1 ½ teaspoons baking powder ¼ teaspoon salt -3 large eggs, room temperature  1 cup granulated sugar  2 tablespoons lemon zest, and ¾ cup fresh lemon juice  1 cup buttermilk, room temperature, ½ cup unsalted butter, melted and cooled  2 teaspoons vanilla extract  For the glaze  1 cup powdered sugar -2-3 tablespoons fresh lemon juice  Instructions, Step 1 Preheat your oven to 350°F (175°C) and prepare a 9x13 inch baking pan by greasing it with cooking spray or butter and coating it with flour.  ",0.6222222222222222
+gate_0085,recipes,10,1087,1183,Garlic-Ricotta Toasts,9. Serve immediately and enjoy your delicious Broccoli and Garlic-Ricotta Toasts with Hot Honey!,Step 9 Serve immediately and enjoy your yummy Broccoli and Garlic Ricotta Toasts with Hot Honey.,0.5
+gate_0086,wiki,0,0,190,גבי‎,"Avi Gabbay (Hebrew: אבי גבי‎; born August 16, 1968) is an Israeli politician who served as the leader of the Labor Party from 2016 to 2019.","Avi Gabbay, born on August 16, one thousand nine hundred sixty-eight, is an Israeli politician who served as the leader of the Labor Party from two thousand sixteen to two thousand nineteen.",0.8333333333333334

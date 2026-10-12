@@ -1,0 +1,57 @@
+stage,feature,feature_id,family,oriented_z_gap_mean,CI_low,CI_high
+Original AI,outlier_count,M1,handcrafted,0.0,0.0,0.0
+Original AI,outlier_top25_mean,M2,handcrafted,0.0,0.0,0.0
+Original AI,outlier_25_50_mean,M3,handcrafted,0.0,0.0,0.0
+Original AI,davinci_minus_ada_top25_mean,M4,handcrafted,0.2806157756792645,0.10475111995206414,0.4615539364337254
+Original AI,davinci_minus_ada_25_50_mean,M5,handcrafted,0.1089080365957722,-0.08625354728982967,0.30345721799221803
+Original AI,word_token_len_top25_mean,M6,handcrafted,0.09097895860206723,-0.1871855611844848,0.35133405288174174
+Original AI,word_token_len_25_50_mean,M7,handcrafted,0.25875881467431444,0.1343575332114406,0.38260750445972225
+Original AI,unigram-logprobs v-sub davinci-logprobs s-avg-top-25,S1,symbolic,0.7314189256869028,0.4876632240054914,1.0276201429475726
+Original AI,unigram-logprobs v-> trigram-logprobs v-< ada-logprobs s-l2,S2,symbolic,0.14097552937484245,-0.08356373095563789,0.366596750858865
+Original AI,trigram-logprobs v-add ada-logprobs v-sub davinci-logprobs s-avg,S3,symbolic,0.20991419603321226,-0.010523140176964174,0.42225886331089146
+Original AI,unigram-logprobs v-sub ada-logprobs v-div trigram-logprobs s-avg-top-25,S4,symbolic,0.5578955467952428,-0.36945914309512995,1.0922603909706907
+Original AI,unigram-logprobs v-< trigram-logprobs v-sub ada-logprobs s-avg-top-25,S5,symbolic,-0.4189467429354062,-0.7311352913339022,-0.16962824890886857
+Original AI,davinci-logprobs v-div unigram-logprobs v-< ada-logprobs s-avg,S6,symbolic,-0.09006374898155343,-0.28101167898877477,0.1685175824248074
+Original AI,ada-logprobs v-> davinci-logprobs v-div trigram-logprobs s-avg-top-25,S7,symbolic,0.0,0.0,0.0
+Post FZ118 (Step 4),outlier_count,M1,handcrafted,0.0,0.0,0.0
+Post FZ118 (Step 4),outlier_top25_mean,M2,handcrafted,0.0,0.0,0.0
+Post FZ118 (Step 4),outlier_25_50_mean,M3,handcrafted,0.0,0.0,0.0
+Post FZ118 (Step 4),davinci_minus_ada_top25_mean,M4,handcrafted,0.5817696949003882,0.3776560023302382,0.7876532629612972
+Post FZ118 (Step 4),davinci_minus_ada_25_50_mean,M5,handcrafted,-0.18712554218539137,-0.39564566510600546,0.009854304607691879
+Post FZ118 (Step 4),word_token_len_top25_mean,M6,handcrafted,-0.8079240715826659,-1.0011217028566757,-0.6185537666372365
+Post FZ118 (Step 4),word_token_len_25_50_mean,M7,handcrafted,0.44042636003785834,0.3317809990418177,0.5535448504871615
+Post FZ118 (Step 4),unigram-logprobs v-sub davinci-logprobs s-avg-top-25,S1,symbolic,0.46182483409861963,0.324879424052643,0.6277584904231734
+Post FZ118 (Step 4),unigram-logprobs v-> trigram-logprobs v-< ada-logprobs s-l2,S2,symbolic,-0.5519321500662717,-0.8011236096053085,-0.28882007816454935
+Post FZ118 (Step 4),trigram-logprobs v-add ada-logprobs v-sub davinci-logprobs s-avg,S3,symbolic,0.13920275027030407,-0.06568728100944561,0.34300190420619603
+Post FZ118 (Step 4),unigram-logprobs v-sub ada-logprobs v-div trigram-logprobs s-avg-top-25,S4,symbolic,1.0414075496926267,0.8551697078043476,1.2199953789855946
+Post FZ118 (Step 4),unigram-logprobs v-< trigram-logprobs v-sub ada-logprobs s-avg-top-25,S5,symbolic,-0.6857919132906216,-1.0950211069106435,-0.3508870974501235
+Post FZ118 (Step 4),davinci-logprobs v-div unigram-logprobs v-< ada-logprobs s-avg,S6,symbolic,-0.1785099526415525,-0.29658111250263824,0.008635246443639909
+Post FZ118 (Step 4),ada-logprobs v-> davinci-logprobs v-div trigram-logprobs s-avg-top-25,S7,symbolic,0.0,0.0,0.0
+Post FZ186 (Step 8),outlier_count,M1,handcrafted,0.0,0.0,0.0
+Post FZ186 (Step 8),outlier_top25_mean,M2,handcrafted,0.0,0.0,0.0
+Post FZ186 (Step 8),outlier_25_50_mean,M3,handcrafted,0.0,0.0,0.0
+Post FZ186 (Step 8),davinci_minus_ada_top25_mean,M4,handcrafted,0.5944262261241273,0.37933120813532833,0.8169688650648943
+Post FZ186 (Step 8),davinci_minus_ada_25_50_mean,M5,handcrafted,-0.19514358923089464,-0.4114200493881255,0.011581039607356933
+Post FZ186 (Step 8),word_token_len_top25_mean,M6,handcrafted,-0.7846966031024403,-0.9847461984581147,-0.5918578865369373
+Post FZ186 (Step 8),word_token_len_25_50_mean,M7,handcrafted,0.46049222172508314,0.3461161580702777,0.5767360791035169
+Post FZ186 (Step 8),unigram-logprobs v-sub davinci-logprobs s-avg-top-25,S1,symbolic,0.3154989491615425,0.19607923045324388,0.45859808684691505
+Post FZ186 (Step 8),unigram-logprobs v-> trigram-logprobs v-< ada-logprobs s-l2,S2,symbolic,-0.5148031305709252,-0.759968054134913,-0.2480999464691844
+Post FZ186 (Step 8),trigram-logprobs v-add ada-logprobs v-sub davinci-logprobs s-avg,S3,symbolic,0.2538791766543371,0.05113697880952181,0.46216017178925506
+Post FZ186 (Step 8),unigram-logprobs v-sub ada-logprobs v-div trigram-logprobs s-avg-top-25,S4,symbolic,0.7974012562747875,0.6007720586509653,0.9872790093399177
+Post FZ186 (Step 8),unigram-logprobs v-< trigram-logprobs v-sub ada-logprobs s-avg-top-25,S5,symbolic,-0.5131479055705954,-0.8788168226888128,-0.20712509992405723
+Post FZ186 (Step 8),davinci-logprobs v-div unigram-logprobs v-< ada-logprobs s-avg,S6,symbolic,-0.10819538626267121,-0.29817950114153624,0.22903708474951603
+Post FZ186 (Step 8),ada-logprobs v-> davinci-logprobs v-div trigram-logprobs s-avg-top-25,S7,symbolic,0.0,0.0,0.0
+NFZ (Step 10),outlier_count,M1,handcrafted,0.0,0.0,0.0
+NFZ (Step 10),outlier_top25_mean,M2,handcrafted,0.0,0.0,0.0
+NFZ (Step 10),outlier_25_50_mean,M3,handcrafted,0.0,0.0,0.0
+NFZ (Step 10),davinci_minus_ada_top25_mean,M4,handcrafted,0.590311548654998,0.37170870282003105,0.8041359899358753
+NFZ (Step 10),davinci_minus_ada_25_50_mean,M5,handcrafted,-0.23685539014457285,-0.45090401748654735,-0.02960117090908205
+NFZ (Step 10),word_token_len_top25_mean,M6,handcrafted,-0.7591463877741921,-0.9498539689291084,-0.559424526230435
+NFZ (Step 10),word_token_len_25_50_mean,M7,handcrafted,0.4430090020903151,0.32047389628249207,0.5644518529619112
+NFZ (Step 10),unigram-logprobs v-sub davinci-logprobs s-avg-top-25,S1,symbolic,0.27900530226237175,0.1653238128624673,0.4205870633100595
+NFZ (Step 10),unigram-logprobs v-> trigram-logprobs v-< ada-logprobs s-l2,S2,symbolic,-0.4877930197385154,-0.7408748588137072,-0.21140922588088085
+NFZ (Step 10),trigram-logprobs v-add ada-logprobs v-sub davinci-logprobs s-avg,S3,symbolic,0.28377234283710734,0.06981419909625919,0.5039308319591722
+NFZ (Step 10),unigram-logprobs v-sub ada-logprobs v-div trigram-logprobs s-avg-top-25,S4,symbolic,0.741344222346949,0.5500379578400573,0.9306552892269009
+NFZ (Step 10),unigram-logprobs v-< trigram-logprobs v-sub ada-logprobs s-avg-top-25,S5,symbolic,-0.46582825373572306,-0.8521157991263046,-0.17422847402468852
+NFZ (Step 10),davinci-logprobs v-div unigram-logprobs v-< ada-logprobs s-avg,S6,symbolic,-0.10925467293211642,-0.29685822825246666,0.2210823635704809
+NFZ (Step 10),ada-logprobs v-> davinci-logprobs v-div trigram-logprobs s-avg-top-25,S7,symbolic,0.0,0.0,0.0

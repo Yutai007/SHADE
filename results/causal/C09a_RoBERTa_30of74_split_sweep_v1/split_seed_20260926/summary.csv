@@ -1,0 +1,2 @@
+split_seed,n_exposed,n_heldout,frozen_AUROC,adapted_AUROC,recovery
+20260926,30,44,0.7618449842491605,0.828023475546424,0.0661784912972635

@@ -1,0 +1,6 @@
+case_id,arm,status,words,reused
+gate_0047,robust_005,completed_eos,154,False
+gate_0028,robust_005,completed_eos,152,False
+gate_0062,robust_005,completed_eos,157,False
+gate_0019,robust_005,completed_eos,140,False
+gate_0079,robust_005,completed_eos,124,False

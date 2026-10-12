@@ -1,0 +1,79 @@
+sample,case_id,delta_U
+Three-group matched,gate_0003,0.60530458980611
+Three-group matched,gate_0004,0.5559525490680244
+Three-group matched,gate_0007,-0.03676234574231785
+Three-group matched,gate_0015,-0.606680968310684
+Three-group matched,gate_0016,-0.13202089564310882
+Three-group matched,gate_0017,-0.3077849779947428
+Three-group matched,gate_0018,0.9299820694286609
+Three-group matched,gate_0020,-0.1769543375412468
+Three-group matched,gate_0021,1.191285555490822
+Three-group matched,gate_0023,-0.61996887823625
+Three-group matched,gate_0024,-0.06390050845220685
+Three-group matched,gate_0025,1.1935686216456816
+Three-group matched,gate_0027,-1.6863951617269777
+Three-group matched,gate_0028,0.11447142995893955
+Three-group matched,gate_0030,0.09208018507342786
+Three-group matched,gate_0035,-0.17335224877751898
+Three-group matched,gate_0037,0.12268149143710616
+Three-group matched,gate_0048,-0.6870279593858868
+Three-group matched,gate_0049,0.7453405056148767
+Three-group matched,gate_0050,1.3187224811408669
+Three-group matched,gate_0051,-0.0579221376683563
+Three-group matched,gate_0065,-0.029374089324846864
+Three-group matched,gate_0066,-0.9950430914759636
+Three-group matched,gate_0067,-0.057179051960702054
+Three-group matched,gate_0070,-0.3429318895214237
+Three-group matched,gate_0073,0.9050813836511225
+Three-group matched,gate_0075,0.1180060843253159
+Three-group matched,gate_0076,0.9506683815270662
+Three-group matched,gate_0078,0.9291268886736361
+Three-group matched,gate_0079,0.5899677519919351
+Three-group matched,gate_0081,1.8830327813047916
+Three-group matched,gate_0085,2.79744044697145
+Three-group matched,gate_0086,-0.4432029080362554
+Three-group matched,gate_0088,-1.0839683995582163
+Three-group matched,gate_0089,0.6816761924419552
+Three-group matched,gate_0093,0.08811071421951056
+Three-group matched,gate_0094,0.7923727966845036
+Three-group matched,gate_0095,0.846414077677764
+All eligible M75–OG pairs,gate_0003,0.60530458980611
+All eligible M75–OG pairs,gate_0004,0.5559525490680244
+All eligible M75–OG pairs,gate_0007,-0.03676234574231785
+All eligible M75–OG pairs,gate_0015,-0.606680968310684
+All eligible M75–OG pairs,gate_0016,-0.13202089564310882
+All eligible M75–OG pairs,gate_0017,-0.3077849779947428
+All eligible M75–OG pairs,gate_0018,0.9299820694286609
+All eligible M75–OG pairs,gate_0020,-0.1769543375412468
+All eligible M75–OG pairs,gate_0021,1.191285555490822
+All eligible M75–OG pairs,gate_0023,-0.61996887823625
+All eligible M75–OG pairs,gate_0024,-0.06390050845220685
+All eligible M75–OG pairs,gate_0025,1.1935686216456816
+All eligible M75–OG pairs,gate_0027,-1.6863951617269777
+All eligible M75–OG pairs,gate_0028,0.11447142995893955
+All eligible M75–OG pairs,gate_0030,0.09208018507342786
+All eligible M75–OG pairs,gate_0035,-0.17335224877751898
+All eligible M75–OG pairs,gate_0037,0.12268149143710616
+All eligible M75–OG pairs,gate_0048,-0.6870279593858868
+All eligible M75–OG pairs,gate_0049,0.7453405056148767
+All eligible M75–OG pairs,gate_0050,1.3187224811408669
+All eligible M75–OG pairs,gate_0051,-0.0579221376683563
+All eligible M75–OG pairs,gate_0054,-1.7206502860572073
+All eligible M75–OG pairs,gate_0065,-0.029374089324846864
+All eligible M75–OG pairs,gate_0066,-0.9950430914759636
+All eligible M75–OG pairs,gate_0067,-0.057179051960702054
+All eligible M75–OG pairs,gate_0070,-0.3429318895214237
+All eligible M75–OG pairs,gate_0073,0.9050813836511225
+All eligible M75–OG pairs,gate_0074,-0.5159606838278705
+All eligible M75–OG pairs,gate_0075,0.1180060843253159
+All eligible M75–OG pairs,gate_0076,0.9506683815270662
+All eligible M75–OG pairs,gate_0078,0.9291268886736361
+All eligible M75–OG pairs,gate_0079,0.5899677519919351
+All eligible M75–OG pairs,gate_0081,1.8830327813047916
+All eligible M75–OG pairs,gate_0085,2.79744044697145
+All eligible M75–OG pairs,gate_0086,-0.4432029080362554
+All eligible M75–OG pairs,gate_0088,-1.0839683995582163
+All eligible M75–OG pairs,gate_0089,0.6816761924419552
+All eligible M75–OG pairs,gate_0093,0.08811071421951056
+All eligible M75–OG pairs,gate_0094,0.7923727966845036
+All eligible M75–OG pairs,gate_0095,0.846414077677764

@@ -1,0 +1,7 @@
+detector,arm,originally_detected,escaped,ASR
+Frozen,RAFT,10,10,1.0
+Frozen,TEXTFOOLER,10,7,0.7
+RAID-only,RAFT,10,8,0.8
+RAID-only,TEXTFOOLER,10,0,0.0
+Adapted,RAFT,10,4,0.4
+Adapted,TEXTFOOLER,10,1,0.1

@@ -1,0 +1,1149 @@
+model,kind,source_id,score
+Frozen,AI,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,0.6754782913165267
+Frozen,AI,ai__raid:7bd2da2a-4f21-4b84-91a7-2cb37fd80071,0.44161291418276716
+Frozen,AI,ai__raid:cfb5728e-c896-4ed5-8173-f39be5ff5f97,0.47029605933282415
+Frozen,AI,ai__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,0.6250412292829948
+Frozen,AI,ai__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,0.4203773794567002
+Frozen,AI,ai__raid:eb76307e-f969-4523-9943-52da0e3f78a8,0.5769676866881835
+Frozen,AI,ai__raid:4c4676d5-c143-448c-b058-9c360b04d900,0.40148677528207083
+Frozen,AI,ai__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,0.48648876192099827
+Frozen,AI,ai__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,0.49792485872189096
+Frozen,AI,ai__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,0.4013572108246021
+Frozen,AI,ai__raid:603b6d03-c745-4378-a2db-5b0705bddd34,0.5393848399043416
+Frozen,AI,ai__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,0.551510198124667
+Frozen,AI,ai__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,0.5552283433007217
+Frozen,AI,ai__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,0.45761143719336833
+Frozen,AI,ai__raid:bf3df034-9724-4840-86cb-33eb1489b717,0.3453340247715246
+Frozen,AI,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,0.5286079279752557
+Frozen,AI,ai__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,0.6063121629225161
+Frozen,AI,ai__raid:70764dd8-197a-415b-8c5f-2ebd022e0fd7,0.6328776270699646
+Frozen,AI,ai__raid:b0d2e4eb-3c43-49ce-bfe1-9a6eafef8b02,0.44086921443515387
+Frozen,AI,ai__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,0.3207572773239909
+Frozen,AI,ai__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,0.6223398480604362
+Frozen,AI,ai__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,0.4173856511845642
+Frozen,AI,ai__raid:c9d4b9c3-20c6-4527-8838-6cbc2263bb00,0.4580484542627019
+Frozen,AI,ai__raid:90cd9493-2714-47d7-b052-f3c621294322,0.46800965002388184
+Frozen,AI,ai__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,0.3876579699857731
+Frozen,AI,ai__raid:723a39e2-9540-4faa-b682-d608457dfde1,0.4158177365677364
+Frozen,AI,ai__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,0.4488517613678183
+Frozen,AI,ai__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,0.5189020737327189
+Frozen,AI,ai__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,0.47993433076360115
+Frozen,AI,ai__raid:788e4594-960c-4621-8b5e-6f82b7552d7b,0.40928571891071946
+Frozen,AI,ai__raid:e3945a96-7048-41d9-9e86-a84e87818986,0.2353029460853458
+Frozen,AI,ai__raid:b146a6b9-b531-4709-ac99-6a3852b3c619,0.4425480286355028
+Frozen,AI,ai__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,0.6880278418731235
+Frozen,AI,ai__raid:91bb1e48-f280-46f3-9fd3-b7c7d9cb7e1a,0.5589800986050986
+Frozen,human_test,human__raid:0216216b-fd4f-403b-87f3-b1c52f29a3f1,0.46017882075791705
+Frozen,human_test,human__raid:070db71f-3f44-4ebf-b9dc-cf780644667c,0.45325298451567136
+Frozen,human_test,human__raid:092aa2bc-f8b6-4a7b-8bac-40b62e0dbb25,0.45150261992560425
+Frozen,human_test,human__raid:0932165c-37b5-4c07-a15d-ded908d7dc32,0.5687418356710676
+Frozen,human_test,human__raid:0a9dc4af-7338-49c0-b3d9-3a1a3cf1606f,0.4295702402883371
+Frozen,human_test,human__raid:119d954e-9a2c-4ad6-bd1b-b03ed29034f0,0.4919987622255373
+Frozen,human_test,human__raid:140bcdd4-cb85-49b7-ad40-483a21380193,0.5234324906022952
+Frozen,human_test,human__raid:167102f2-a17b-4860-9984-67709aab5d53,0.44295872491820765
+Frozen,human_test,human__raid:1780eb3e-7c44-4355-a331-e175e5c8c198,0.3949617882523585
+Frozen,human_test,human__raid:1d8ef537-eff4-4324-ae39-02b5caecb61c,0.32342360487996963
+Frozen,human_test,human__raid:1de9f910-c6a9-4bf8-8a2d-1f9c07390417,0.3669053182922677
+Frozen,human_test,human__raid:25689644-8159-4de0-8167-2efea735f75b,0.5304253154253156
+Frozen,human_test,human__raid:26d2f09e-1b32-4e0b-acc6-fbca10b7051a,0.5548368580742409
+Frozen,human_test,human__raid:2737d3fd-1ed6-40ae-acb9-d1af0baf5b7c,0.38237787881997515
+Frozen,human_test,human__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,0.4828323767735533
+Frozen,human_test,human__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,0.5330082337763792
+Frozen,human_test,human__raid:2b6630cd-9256-497f-83b2-366131834f3a,0.39693010174758925
+Frozen,human_test,human__raid:2f47f011-2a2a-47fb-8380-81bbfd3aea9f,0.35578323691558994
+Frozen,human_test,human__raid:2faf4463-e954-4388-a603-ae85c31b8c00,0.4919046785873376
+Frozen,human_test,human__raid:31c9da8a-8533-4763-b0ce-b1e54082b6f8,0.49656442538369805
+Frozen,human_test,human__raid:34071d29-fbbf-4230-9ee4-55f1c54b2b5e,0.5112765106211398
+Frozen,human_test,human__raid:347fcffd-ce79-4b6f-9e45-cb1cf0ba60a9,0.3761326995444642
+Frozen,human_test,human__raid:37897e56-78e7-4aaa-a974-a9ec4f8facb3,0.4334256125138478
+Frozen,human_test,human__raid:39839ad8-9b55-46f1-bfa9-16cd1c961cce,0.36424794896649393
+Frozen,human_test,human__raid:3a75780e-80cf-4695-b297-bb5c7edd5de3,0.472532391076676
+Frozen,human_test,human__raid:3bc610dd-010e-480c-8af3-1c5da8728644,0.526653315136827
+Frozen,human_test,human__raid:3c44b645-d716-4865-b596-7c4e6f24fe06,0.29016018703518714
+Frozen,human_test,human__raid:3e7fb3a2-3d32-43b1-ba60-c4689d38caee,0.3981498316498316
+Frozen,human_test,human__raid:3f88fbdd-9dde-4766-a8db-05b0f2e0957e,0.3040471962326803
+Frozen,human_test,human__raid:401abcef-a6a6-41c9-bb25-766e6609d835,0.5374666431677073
+Frozen,human_test,human__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,0.42349185446484044
+Frozen,human_test,human__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,0.3966521167844696
+Frozen,human_test,human__raid:4c4676d5-c143-448c-b058-9c360b04d900,0.4166969417063536
+Frozen,human_test,human__raid:4e41049d-f855-47f9-8e31-1e1a8aebd832,0.3327132959632961
+Frozen,human_test,human__raid:4e8d2b69-fd42-4cc4-8f94-e52400e1e1b6,0.44887321012321035
+Frozen,human_test,human__raid:50d75674-15c7-4c9a-a9d4-9589bfd2c16d,0.5761894715201169
+Frozen,human_test,human__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,0.632971048535419
+Frozen,human_test,human__raid:5e96071b-cd3e-4461-9948-96d041e63767,0.3117622033691645
+Frozen,human_test,human__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,0.45145336607836584
+Frozen,human_test,human__raid:603b6d03-c745-4378-a2db-5b0705bddd34,0.41927415041385635
+Frozen,human_test,human__raid:63020fe1-645b-4dbb-988a-3bb080f2d56e,0.4706684284068188
+Frozen,human_test,human__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,0.4207567627298243
+Frozen,human_test,human__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,0.42735006449923496
+Frozen,human_test,human__raid:6cb1edfa-92ac-4618-9084-7d84a4193bc4,0.2599855144855144
+Frozen,human_test,human__raid:6d37b523-501f-412e-a18b-645d8e3653a6,0.4600386186251323
+Frozen,human_test,human__raid:70764dd8-197a-415b-8c5f-2ebd022e0fd7,0.5543507308710907
+Frozen,human_test,human__raid:723a39e2-9540-4faa-b682-d608457dfde1,0.423998709867131
+Frozen,human_test,human__raid:731ae711-8582-44b0-be0d-583188e43781,0.7101935720541199
+Frozen,human_test,human__raid:788e4594-960c-4621-8b5e-6f82b7552d7b,0.2327366617300828
+Frozen,human_test,human__raid:7896a7b3-fe69-4bde-98a2-1e295f9550d2,0.3345096200096202
+Frozen,human_test,human__raid:79171045-dc71-449b-acd4-8265ffefa6ca,0.47656420789524456
+Frozen,human_test,human__raid:7a2f76a2-30e0-4d30-b9bf-6bb7b6f82c1e,0.39285913662499966
+Frozen,human_test,human__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,0.3809165224098591
+Frozen,human_test,human__raid:7a5de8ac-c1d0-45c4-ae1f-cda8899b4b9c,0.4256397414311283
+Frozen,human_test,human__raid:7adad01b-ff5c-4c95-be22-aa936adb7eed,0.44092084548005583
+Frozen,human_test,human__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,0.4677287458701329
+Frozen,human_test,human__raid:7bd2da2a-4f21-4b84-91a7-2cb37fd80071,0.39403041744889566
+Frozen,human_test,human__raid:7c9e5e4d-3046-440f-a9d0-3cc164eb3844,0.6121230452899504
+Frozen,human_test,human__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,0.5209723022881382
+Frozen,human_test,human__raid:8598c9e2-8e28-46b2-a6da-a22b767aae49,0.49664842428813005
+Frozen,human_test,human__raid:8760103e-729a-4bab-b799-5775ac2468b1,0.48467138248315517
+Frozen,human_test,human__raid:892580ca-0b4d-4920-8137-d3285fdd878b,0.41967826674260794
+Frozen,human_test,human__raid:89ad70e0-cac0-4bfa-a0a4-f5ae74aa18cc,0.37840264387870787
+Frozen,human_test,human__raid:8b0085fa-411d-4fc1-bbc1-d0d97bca2ebb,0.4731061344050478
+Frozen,human_test,human__raid:8b24d3c9-051b-4d8d-b88b-ddac08f4e80f,0.44658463245421465
+Frozen,human_test,human__raid:90cd9493-2714-47d7-b052-f3c621294322,0.513510723063875
+Frozen,human_test,human__raid:91bb1e48-f280-46f3-9fd3-b7c7d9cb7e1a,0.6341257136617207
+Frozen,human_test,human__raid:960a2cba-576a-4097-bee5-60042988d6ba,0.38502704792430287
+Frozen,human_test,human__raid:966ff429-7e5b-409c-b301-181197592544,0.23076261166520073
+Frozen,human_test,human__raid:971d96f8-bc01-4ccc-be38-ec05af40151c,0.54856001790744
+Frozen,human_test,human__raid:989ab1d1-5a4d-4e9d-b767-ca3023f3f207,0.5021007443308169
+Frozen,human_test,human__raid:9b304701-be3e-43a7-9b8c-ad33ca18bfcd,0.42700650985745586
+Frozen,human_test,human__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,0.4868794967726417
+Frozen,human_test,human__raid:9c52d90c-846a-4479-8484-bd21e658f787,0.64036420601004
+Frozen,human_test,human__raid:9c57c4d7-75d9-48d2-a758-75ccb88aa272,0.41478151940651947
+Frozen,human_test,human__raid:9de11be0-bc27-4b41-8844-1f4d91abac60,0.3631658729756555
+Frozen,human_test,human__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,0.5324338379481356
+Frozen,human_test,human__raid:a2b8f3d1-1bc0-4b62-8bc5-003e55b2f7b5,0.5426242321416743
+Frozen,human_test,human__raid:a37e28be-98b1-4e8b-a568-5ee3503de484,0.6510804843991724
+Frozen,human_test,human__raid:a40984f5-f447-464b-8a6a-eaa8d6f76d12,0.3895219527204822
+Frozen,human_test,human__raid:a4fd071e-41e7-48bc-a95c-829d6b86dff4,0.5084333158361402
+Frozen,human_test,human__raid:a6e2d7dc-e158-4c10-8e84-d17b2a48ba5a,0.4572506132613524
+Frozen,human_test,human__raid:a77e8e92-8af5-4e1d-ab67-65bf52a8d5d7,0.2777368104604947
+Frozen,human_test,human__raid:aa295f63-383e-4a23-9c41-1108391ff777,0.5565851133300814
+Frozen,human_test,human__raid:adcce3e8-16bb-4c93-8884-4af827f6dc61,0.3605334542995838
+Frozen,human_test,human__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,0.6236584019728575
+Frozen,human_test,human__raid:af383c6d-11c9-4169-a2fa-58280f83ca96,0.4448784805049587
+Frozen,human_test,human__raid:b0d2e4eb-3c43-49ce-bfe1-9a6eafef8b02,0.42873377709506744
+Frozen,human_test,human__raid:b146a6b9-b531-4709-ac99-6a3852b3c619,0.41456418234884596
+Frozen,human_test,human__raid:b33bfbfe-9837-4588-903a-4bdd3f2470f7,0.4014215694862933
+Frozen,human_test,human__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,0.4999426673472727
+Frozen,human_test,human__raid:b4c2bfc5-c80d-44c2-8a8e-9bbcc458ac00,0.4887487899191087
+Frozen,human_test,human__raid:b6bf4100-050e-4389-a49c-35b5fc02dd9e,0.1989675704412546
+Frozen,human_test,human__raid:bb27d6eb-f06d-424b-bbbc-630d720a44eb,0.4985089419492308
+Frozen,human_test,human__raid:bf053559-120d-4ac8-8cd3-c0eda1df5861,0.4172298072298073
+Frozen,human_test,human__raid:bf3df034-9724-4840-86cb-33eb1489b717,0.280228123644751
+Frozen,human_test,human__raid:c0009c67-d594-4da3-af81-a06984e70ab5,0.41962671515516753
+Frozen,human_test,human__raid:c0d15e54-b490-428c-a5c0-540099ae4eeb,0.5204552867985367
+Frozen,human_test,human__raid:c2384d62-5400-4651-8cdb-b83c4a8bdf43,0.35084592819461236
+Frozen,human_test,human__raid:c435eb9e-f80e-4ac6-9526-e1282c5c1266,0.5087232873318592
+Frozen,human_test,human__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,0.5477151045629713
+Frozen,human_test,human__raid:c9d4b9c3-20c6-4527-8838-6cbc2263bb00,0.32622707609453827
+Frozen,human_test,human__raid:cbccc75e-54f7-4132-8b9e-5617b55caff3,0.43593368138008665
+Frozen,human_test,human__raid:cf67eb69-444d-4e5f-a88b-da82d19f89a9,0.4225145210009724
+Frozen,human_test,human__raid:cfb5728e-c896-4ed5-8173-f39be5ff5f97,0.537759017785334
+Frozen,human_test,human__raid:d80f6ba2-1916-4c19-b74c-8e9f77b7a066,0.3886108413029464
+Frozen,human_test,human__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,0.3934634726410677
+Frozen,human_test,human__raid:dc315335-0314-49c5-96b1-3211dc072983,0.41526758658008683
+Frozen,human_test,human__raid:dc5c62f4-87cf-409b-9aea-dbb023230f7c,0.492140225916155
+Frozen,human_test,human__raid:de2cbdee-92fd-4c6e-aea1-2c1baa24eb70,0.3443785950327696
+Frozen,human_test,human__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,0.4640164207353743
+Frozen,human_test,human__raid:e3945a96-7048-41d9-9e86-a84e87818986,0.3478365305401566
+Frozen,human_test,human__raid:e9f78f95-8a2d-4a0a-a47a-044c9c6c5c22,0.3064688707262235
+Frozen,human_test,human__raid:ead211a3-a649-4022-be2d-63fb8536f78d,0.42115297104830823
+Frozen,human_test,human__raid:eb76307e-f969-4523-9943-52da0e3f78a8,0.5877215909090909
+Frozen,human_test,human__raid:eb80caa7-c8a1-42d5-85f0-d0563e707eb6,0.4730915761798114
+Frozen,human_test,human__raid:efc8537a-8575-4af0-aae5-a06bc4bccc04,0.548455486644206
+Frozen,human_test,human__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,0.5242114185801793
+Frozen,human_test,human__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,0.43507093795955143
+Frozen,human_test,human__raid:f5f280b6-e8c1-4f10-9d16-0e6297e8c730,0.26138589285957714
+Frozen,human_test,human__raid:f806b684-fa7f-41c5-a4a6-8692be841cea,0.3822887254828277
+Frozen,human_test,human__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,0.27002482605114203
+Frozen,human_test,human__raid:fae6fce3-fb87-469f-a655-e52447a8cd39,0.4601529275266893
+Frozen,human_test,human__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,0.47876965806044247
+Frozen,human_test,human__raid:fcd2c78e-c388-46be-9a2d-7a9cb77381ea,0.4479395987086674
+Frozen,human_test,human__raid:fd5a753d-9d93-4b93-84a0-d0a65e45cdda,0.5465824333601225
+Frozen,human_test,human__raid:fe252deb-2d6b-4ed6-bac4-315e1dc40e94,0.40894160595975104
+Frozen,human_test,human__raid:fe4f15ee-af83-41e8-9772-b00be067b996,0.4035227911795233
+Frozen,human_calibration,human__raid:008926a1-ea57-48b5-a847-c452efb21563,0.48451082005544294
+Frozen,human_calibration,human__raid:00d25015-419f-45d0-a582-aefcccf69b9b,0.5925435483151332
+Frozen,human_calibration,human__raid:03c64d14-611c-40f2-b3d6-17260526d7a7,0.3824008903663396
+Frozen,human_calibration,human__raid:061c84b2-a5d3-44d5-a7b7-3b6632a8e8b7,0.35101326845420794
+Frozen,human_calibration,human__raid:07dc10ce-198b-4398-901a-872cd727f5e9,0.41747361583816694
+Frozen,human_calibration,human__raid:09fb582f-2073-43a0-9ccf-fd0f0f42b251,0.5114892889517888
+Frozen,human_calibration,human__raid:0cb539a2-b058-496a-88ec-a79a5ff5fc5e,0.43868056909390846
+Frozen,human_calibration,human__raid:0db8bf93-c9e7-43df-8020-d888bd838961,0.5302631720131716
+Frozen,human_calibration,human__raid:0f18a9a6-1340-4149-991e-c11d3bc8981f,0.5442314380551228
+Frozen,human_calibration,human__raid:11156570-6cd5-44ed-8930-cffe19c91b3c,0.49265317350921084
+Frozen,human_calibration,human__raid:12cd2887-ace8-4272-ba7f-893996f3a3b2,0.40471869229933755
+Frozen,human_calibration,human__raid:17762914-561f-4267-902a-9fcdba40f19f,0.40226894333879604
+Frozen,human_calibration,human__raid:1f5e623a-28b3-45cf-8b0f-bc1bf73722f4,0.34019022888284395
+Frozen,human_calibration,human__raid:20bc66fe-b904-41fe-ae82-afaa1a8add08,0.431666585048938
+Frozen,human_calibration,human__raid:25cbc8ec-a4ab-428f-9069-a07cf0cc5e3b,0.4440175106992195
+Frozen,human_calibration,human__raid:2653f2a2-64fd-4e3f-a91c-b3b7beba4a1a,0.6737059722179796
+Frozen,human_calibration,human__raid:265665d2-178d-48c8-8b3f-6209e026f11e,0.48919018550249227
+Frozen,human_calibration,human__raid:27154897-f938-4a9f-ae7d-b586b70e98b7,0.44409501895163656
+Frozen,human_calibration,human__raid:2ac62c5c-0829-4e65-8511-54fb369ec81a,0.26055753777812596
+Frozen,human_calibration,human__raid:2afe5622-beb7-4f86-aa01-e5d8fe4a61b1,0.4059631527928704
+Frozen,human_calibration,human__raid:2cfbcece-6faf-49c9-913b-26b22961c92d,0.3817293150397991
+Frozen,human_calibration,human__raid:305d7537-e18e-4b0d-a16c-60d87698beeb,0.40631161069204547
+Frozen,human_calibration,human__raid:323740f1-dcb9-4f29-b211-fd1a7d5227ad,0.2954476069421725
+Frozen,human_calibration,human__raid:33035d99-818f-4314-b0d6-9d4fb4d7c1f3,0.3420468992179521
+Frozen,human_calibration,human__raid:3395a29a-8b6d-4e5a-9296-10723b30b569,0.3944289600632679
+Frozen,human_calibration,human__raid:36233ca4-81b3-4627-9ac7-0d253f86a734,0.40647908187319337
+Frozen,human_calibration,human__raid:36a22e5f-8597-4e65-8143-ad3c6586aab7,0.3965946485884147
+Frozen,human_calibration,human__raid:3c0bd1e6-6687-4370-a963-5202e22d5217,0.5428774806348339
+Frozen,human_calibration,human__raid:41445ee0-bc03-4285-909f-cbb1bbcf9ea5,0.3776598520833754
+Frozen,human_calibration,human__raid:44e1ef39-2253-40f9-9a49-07d9209aa162,0.5705872007100037
+Frozen,human_calibration,human__raid:4533fa7e-2d8a-4c93-b8c0-95720a0707c2,0.5329208004958006
+Frozen,human_calibration,human__raid:45595fdf-92c6-41de-800e-dceaabd4052a,0.5554491439698009
+Frozen,human_calibration,human__raid:4852a5dd-e2e5-4ad8-bb4e-b8ce3d69d5d2,0.2937991871676083
+Frozen,human_calibration,human__raid:4d165a1c-4d03-467a-bb76-3f9b01b7f6ee,0.4335366712258789
+Frozen,human_calibration,human__raid:4faf09a2-3634-4faf-adda-e2d79f142db7,0.44594801032301046
+Frozen,human_calibration,human__raid:50db252b-0567-4ad5-aa90-a05e6822012a,0.45429198916698915
+Frozen,human_calibration,human__raid:51ada673-da2d-4ef7-8eb4-7021f1041780,0.3720623502841249
+Frozen,human_calibration,human__raid:51fcd568-4656-475e-8141-cd66de432b35,0.3007576655093629
+Frozen,human_calibration,human__raid:525462c1-055b-4067-8611-1863c77c4a6c,0.3942288869762906
+Frozen,human_calibration,human__raid:53d947fc-cc6a-4b59-ab4e-637b4b090fee,0.4836004499074671
+Frozen,human_calibration,human__raid:53fdbb53-7949-450d-8c91-9b509027ebaa,0.4668175217813376
+Frozen,human_calibration,human__raid:557ca36d-bf6d-4bf6-98e5-9dda58d0bb8f,0.4649903603949654
+Frozen,human_calibration,human__raid:56c3b328-045e-45f3-88a2-437c70f3361b,0.4463194128855896
+Frozen,human_calibration,human__raid:59552172-1412-43fa-8e1a-b73acfb90c64,0.3529449300699302
+Frozen,human_calibration,human__raid:598ce161-eb6a-469e-a4af-00842147c1b9,0.5178016458364192
+Frozen,human_calibration,human__raid:5991f2bf-91d6-4d0c-8c11-d0f51ce2e5cc,0.49309945147445156
+Frozen,human_calibration,human__raid:5abd6b2b-5740-48ee-98b5-c8ec741f6bea,0.3016386283469618
+Frozen,human_calibration,human__raid:5d252b90-4510-41fa-929c-94f567698e3c,0.488082782957783
+Frozen,human_calibration,human__raid:5feb801a-14f8-4a0f-b158-2302446a5073,0.47229878618113913
+Frozen,human_calibration,human__raid:601dbfce-2f14-4409-a435-23423f943ba6,0.511101935968062
+Frozen,human_calibration,human__raid:60f6dd32-9b8c-4ad8-a9e5-44124146ba72,0.39322979134392166
+Frozen,human_calibration,human__raid:62b3fddd-8827-4ba6-881c-f673c50f454f,0.41210698390217826
+Frozen,human_calibration,human__raid:66bd23da-3d78-4141-a6c6-89bbc434d01e,0.5561030844155848
+Frozen,human_calibration,human__raid:66cd7478-7821-4dcc-b052-d17ebe3bfc71,0.4065463603129842
+Frozen,human_calibration,human__raid:69171c6a-6dd0-4ec3-8d58-f62378cfeaf1,0.36374838777779966
+Frozen,human_calibration,human__raid:6d39a9a8-ce81-4ebc-8ca3-86789bc9a8d2,0.46799528279691316
+Frozen,human_calibration,human__raid:6d9664ef-d61d-4c4a-be06-bc6a122e26c7,0.5961390322640324
+Frozen,human_calibration,human__raid:6e7faca9-ffea-4c5c-a403-302bfe84f2d7,0.5350376005573375
+Frozen,human_calibration,human__raid:72ae3f66-807e-417b-bd0b-4c33801f29b1,0.5461127132354755
+Frozen,human_calibration,human__raid:74bd396a-1eb5-498e-953e-f21144f55192,0.42502868897237717
+Frozen,human_calibration,human__raid:76b0e075-67fa-4920-ae1c-252572a4897c,0.5099129739021043
+Frozen,human_calibration,human__raid:7ad8bde2-1d88-4648-93c7-225b5bd56b59,0.4856704093138132
+Frozen,human_calibration,human__raid:7c10bd9a-65bb-404e-a34e-cb253eca6d06,0.442547471707798
+Frozen,human_calibration,human__raid:7c773988-4029-401b-9969-b10b82648121,0.499754353427561
+Frozen,human_calibration,human__raid:7edd063b-20e3-4ba7-90d6-bdff6d5bc2df,0.5255821975500763
+Frozen,human_calibration,human__raid:7f3f2598-a921-48ae-a0a1-17c7d8eb20cf,0.45704780982973364
+Frozen,human_calibration,human__raid:81fdf5b4-3ef3-47c8-a145-0b0866daeb88,0.43826296073902477
+Frozen,human_calibration,human__raid:86e638b1-8a67-48e0-95f4-af1b482ad249,0.4155570421303345
+Frozen,human_calibration,human__raid:88243a01-448e-4f16-ae9f-680f1941af86,0.36835422790362043
+Frozen,human_calibration,human__raid:8a0c1509-4338-4973-ba92-3a054ac55370,0.33939997508198305
+Frozen,human_calibration,human__raid:8ad31978-d20e-4954-8ba2-fb1d12e9fbce,0.3724091291262347
+Frozen,human_calibration,human__raid:8adc99bd-0389-4e34-a475-b988a1b0a434,0.40450988461587256
+Frozen,human_calibration,human__raid:8aefbf9a-0670-4941-90cd-5c8149cb7ef0,0.3998662701026832
+Frozen,human_calibration,human__raid:8e602567-88ca-45a2-99bd-8cdbf1b15497,0.5692122405372408
+Frozen,human_calibration,human__raid:90e5123d-058d-4ea8-bb23-abc98697967b,0.5030005173972568
+Frozen,human_calibration,human__raid:9655cbdb-73f8-477f-9ee5-61d5f01d67f4,0.38652178876374615
+Frozen,human_calibration,human__raid:969f8e94-3b2b-48d4-a485-b44c00912dc1,0.4418789892971113
+Frozen,human_calibration,human__raid:9838c4e6-7481-4ede-885a-0107864f57ed,0.5109195485253964
+Frozen,human_calibration,human__raid:990201c6-f043-48dc-a6b7-0b088bc66581,0.4016482947766347
+Frozen,human_calibration,human__raid:9d66d34c-dfdd-4e9b-bacd-f0eb51a9ec48,0.45813906516543984
+Frozen,human_calibration,human__raid:a1480b37-f78e-4029-9ad9-a53f6d228d1d,0.4141184160685131
+Frozen,human_calibration,human__raid:a1fa9ca5-8995-4682-99d2-36091671f5b1,0.2621397888252728
+Frozen,human_calibration,human__raid:a22e348a-5716-49be-abe0-7b2e0fa79b9f,0.20737079124579136
+Frozen,human_calibration,human__raid:a4e2a924-86ed-4f9a-a2c7-3fa5b0810e22,0.5085218872902696
+Frozen,human_calibration,human__raid:a5eb8ed9-0595-49a8-bc18-2c39a8e66177,0.43313737802394425
+Frozen,human_calibration,human__raid:abb52ff9-0aed-495d-a25d-bb4a9a26a432,0.5546227191893875
+Frozen,human_calibration,human__raid:ac6ca2b8-f8fb-4a5e-b3d5-65bab1030830,0.3618256620830152
+Frozen,human_calibration,human__raid:b40c6a45-72a4-4d51-abe5-986a5a9eeaae,0.37501042315384414
+Frozen,human_calibration,human__raid:b54ef358-9f79-47fb-a7b5-28d075d1233e,0.3703420087976542
+Frozen,human_calibration,human__raid:b8a21be5-4576-4851-b9ce-2b50e03faf1d,0.6017997795759656
+Frozen,human_calibration,human__raid:b9e8f298-0052-499c-843d-91f7a381cfac,0.3933146055613843
+Frozen,human_calibration,human__raid:ba02d141-24b3-47a1-9ad7-31dba57d3b69,0.5873268889035868
+Frozen,human_calibration,human__raid:bb95ea2d-5a21-468b-9111-bb6a0169b823,0.5532636773901481
+Frozen,human_calibration,human__raid:bd6b1fc2-4a95-46be-8fb4-05a537fb4cfd,0.4385243446640507
+Frozen,human_calibration,human__raid:bfb139ad-a70c-4c2f-8dff-907f1caf201d,0.4722585190316451
+Frozen,human_calibration,human__raid:c410e2b4-3b36-4751-ae08-ad9352a7a19e,0.46332310744810723
+Frozen,human_calibration,human__raid:c4c7265f-50fa-4309-ba65-40d8b9e53a3b,0.4015266606710595
+Frozen,human_calibration,human__raid:c864b144-ebe3-49d1-b6cf-dbae94554954,0.3220571565374196
+Frozen,human_calibration,human__raid:c88bc2c1-3448-4ee6-81a9-c23e1ae2b011,0.448352671659737
+Frozen,human_calibration,human__raid:c9481a76-b4ce-46e8-ac3a-4c499a497254,0.3547570840906954
+Frozen,human_calibration,human__raid:ca3adb6d-b738-43c5-adb0-cdca392cfb6c,0.36331848743770545
+Frozen,human_calibration,human__raid:ce978610-999c-4a01-80aa-95c95a4596d9,0.38096986583340536
+Frozen,human_calibration,human__raid:cebe746c-3fa5-4e80-a64d-6b3f0d23812f,0.2883160774410774
+Frozen,human_calibration,human__raid:cf477deb-ee52-4d5a-9ac1-276cf3a8a7d5,0.5106769028901387
+Frozen,human_calibration,human__raid:d2f37990-467e-45a2-a58c-3a95b91d4010,0.5615511616156161
+Frozen,human_calibration,human__raid:d3e6aa01-50c3-471a-b033-c7cbedffd9ef,0.506859237485617
+Frozen,human_calibration,human__raid:d57ad437-a63a-450a-ad44-a1e71c999d2b,0.3474210360869978
+Frozen,human_calibration,human__raid:d74007ac-5fba-4945-902d-1ab4710de3a2,0.2927895698434746
+Frozen,human_calibration,human__raid:ddcb1e79-7fc8-4a99-9ab6-ffbef3755f4b,0.3612549493517236
+Frozen,human_calibration,human__raid:de83ddd2-024a-472d-b564-7988c1c0e565,0.5662288359788362
+Frozen,human_calibration,human__raid:deb236f9-d956-4cb6-a7fd-dfc3b7d10473,0.4657860490166943
+Frozen,human_calibration,human__raid:df73ffcc-9d88-4afb-bd36-5c4dcfe7f89c,0.2977750805965293
+Frozen,human_calibration,human__raid:dfc140c7-afe2-459d-94d8-ba3332030eba,0.46833999238778623
+Frozen,human_calibration,human__raid:e27cc8a2-263c-47e9-bdb5-414bc4adaa9c,0.5960648047804976
+Frozen,human_calibration,human__raid:e2ca43db-2d7c-4d8a-86cc-c5df97665e5f,0.5036851561369106
+Frozen,human_calibration,human__raid:e5c7b03a-0579-4ab1-91b7-ed939c2301e6,0.3158810077802817
+Frozen,human_calibration,human__raid:e6499adf-a5d3-4f01-ab84-b5d43df7a0a2,0.4988831812310075
+Frozen,human_calibration,human__raid:e7065e9d-a1a8-49a1-9e9d-40cd892dd71e,0.41487105066129837
+Frozen,human_calibration,human__raid:e77fd92a-6788-4dc2-bd28-fe3b3bf23a01,0.5299870928802379
+Frozen,human_calibration,human__raid:e7db564c-aeab-485e-b5ff-666847ce01fe,0.3779477228658046
+Frozen,human_calibration,human__raid:edabc259-13b2-44ef-9b4e-8b6187890632,0.42628291883555053
+Frozen,human_calibration,human__raid:f8b1e390-09c2-47df-8eba-de406dd0643f,0.24394384773484612
+Frozen,human_calibration,human__raid:ff1852da-b86f-48a7-ad57-1389b1c5d595,0.4427726867418366
+Frozen,human_calibration,human__raid:ff24f8e9-e876-4bac-9a07-da1965c72f9c,0.3427549910487898
+Frozen,human_calibration,human__raid:ffe4d62a-7342-4b9c-a3d9-a0bd88e354f7,0.3361809938355995
+Base refit,AI,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,0.6754782913165267
+Base refit,AI,ai__raid:7bd2da2a-4f21-4b84-91a7-2cb37fd80071,0.4416129141827672
+Base refit,AI,ai__raid:cfb5728e-c896-4ed5-8173-f39be5ff5f97,0.4702960593328241
+Base refit,AI,ai__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,0.6250412292829948
+Base refit,AI,ai__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,0.4203773794567001
+Base refit,AI,ai__raid:eb76307e-f969-4523-9943-52da0e3f78a8,0.5769676866881835
+Base refit,AI,ai__raid:4c4676d5-c143-448c-b058-9c360b04d900,0.4014867752820708
+Base refit,AI,ai__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,0.48648876192099827
+Base refit,AI,ai__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,0.497924858721891
+Base refit,AI,ai__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,0.40135721082460213
+Base refit,AI,ai__raid:603b6d03-c745-4378-a2db-5b0705bddd34,0.5393848399043415
+Base refit,AI,ai__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,0.551510198124667
+Base refit,AI,ai__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,0.5552283433007216
+Base refit,AI,ai__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,0.45761143719336833
+Base refit,AI,ai__raid:bf3df034-9724-4840-86cb-33eb1489b717,0.3453340247715247
+Base refit,AI,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,0.5286079279752557
+Base refit,AI,ai__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,0.6063121629225161
+Base refit,AI,ai__raid:70764dd8-197a-415b-8c5f-2ebd022e0fd7,0.6328776270699646
+Base refit,AI,ai__raid:b0d2e4eb-3c43-49ce-bfe1-9a6eafef8b02,0.44086921443515376
+Base refit,AI,ai__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,0.32075727732399095
+Base refit,AI,ai__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,0.6223398480604362
+Base refit,AI,ai__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,0.41738565118456417
+Base refit,AI,ai__raid:c9d4b9c3-20c6-4527-8838-6cbc2263bb00,0.4580484542627018
+Base refit,AI,ai__raid:90cd9493-2714-47d7-b052-f3c621294322,0.46800965002388184
+Base refit,AI,ai__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,0.3876579699857732
+Base refit,AI,ai__raid:723a39e2-9540-4faa-b682-d608457dfde1,0.4158177365677364
+Base refit,AI,ai__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,0.44885176136781807
+Base refit,AI,ai__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,0.518902073732719
+Base refit,AI,ai__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,0.47993433076360104
+Base refit,AI,ai__raid:788e4594-960c-4621-8b5e-6f82b7552d7b,0.40928571891071946
+Base refit,AI,ai__raid:e3945a96-7048-41d9-9e86-a84e87818986,0.23530294608534572
+Base refit,AI,ai__raid:b146a6b9-b531-4709-ac99-6a3852b3c619,0.4425480286355028
+Base refit,AI,ai__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,0.6880278418731236
+Base refit,AI,ai__raid:91bb1e48-f280-46f3-9fd3-b7c7d9cb7e1a,0.5589800986050986
+Base refit,human_test,human__raid:0216216b-fd4f-403b-87f3-b1c52f29a3f1,0.4601788207579172
+Base refit,human_test,human__raid:070db71f-3f44-4ebf-b9dc-cf780644667c,0.45325298451567136
+Base refit,human_test,human__raid:092aa2bc-f8b6-4a7b-8bac-40b62e0dbb25,0.45150261992560414
+Base refit,human_test,human__raid:0932165c-37b5-4c07-a15d-ded908d7dc32,0.5687418356710676
+Base refit,human_test,human__raid:0a9dc4af-7338-49c0-b3d9-3a1a3cf1606f,0.4295702402883372
+Base refit,human_test,human__raid:119d954e-9a2c-4ad6-bd1b-b03ed29034f0,0.4919987622255373
+Base refit,human_test,human__raid:140bcdd4-cb85-49b7-ad40-483a21380193,0.5234324906022952
+Base refit,human_test,human__raid:167102f2-a17b-4860-9984-67709aab5d53,0.44295872491820776
+Base refit,human_test,human__raid:1780eb3e-7c44-4355-a331-e175e5c8c198,0.3949617882523585
+Base refit,human_test,human__raid:1d8ef537-eff4-4324-ae39-02b5caecb61c,0.32342360487996963
+Base refit,human_test,human__raid:1de9f910-c6a9-4bf8-8a2d-1f9c07390417,0.3669053182922677
+Base refit,human_test,human__raid:25689644-8159-4de0-8167-2efea735f75b,0.5304253154253153
+Base refit,human_test,human__raid:26d2f09e-1b32-4e0b-acc6-fbca10b7051a,0.5548368580742408
+Base refit,human_test,human__raid:2737d3fd-1ed6-40ae-acb9-d1af0baf5b7c,0.3823778788199752
+Base refit,human_test,human__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,0.4828323767735533
+Base refit,human_test,human__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,0.5330082337763794
+Base refit,human_test,human__raid:2b6630cd-9256-497f-83b2-366131834f3a,0.39693010174758925
+Base refit,human_test,human__raid:2f47f011-2a2a-47fb-8380-81bbfd3aea9f,0.35578323691559
+Base refit,human_test,human__raid:2faf4463-e954-4388-a603-ae85c31b8c00,0.4919046785873375
+Base refit,human_test,human__raid:31c9da8a-8533-4763-b0ce-b1e54082b6f8,0.49656442538369805
+Base refit,human_test,human__raid:34071d29-fbbf-4230-9ee4-55f1c54b2b5e,0.5112765106211398
+Base refit,human_test,human__raid:347fcffd-ce79-4b6f-9e45-cb1cf0ba60a9,0.3761326995444642
+Base refit,human_test,human__raid:37897e56-78e7-4aaa-a974-a9ec4f8facb3,0.43342561251384787
+Base refit,human_test,human__raid:39839ad8-9b55-46f1-bfa9-16cd1c961cce,0.36424794896649393
+Base refit,human_test,human__raid:3a75780e-80cf-4695-b297-bb5c7edd5de3,0.47253239107667594
+Base refit,human_test,human__raid:3bc610dd-010e-480c-8af3-1c5da8728644,0.5266533151368269
+Base refit,human_test,human__raid:3c44b645-d716-4865-b596-7c4e6f24fe06,0.2901601870351872
+Base refit,human_test,human__raid:3e7fb3a2-3d32-43b1-ba60-c4689d38caee,0.3981498316498316
+Base refit,human_test,human__raid:3f88fbdd-9dde-4766-a8db-05b0f2e0957e,0.30404719623268034
+Base refit,human_test,human__raid:401abcef-a6a6-41c9-bb25-766e6609d835,0.5374666431677074
+Base refit,human_test,human__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,0.42349185446484044
+Base refit,human_test,human__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,0.3966521167844696
+Base refit,human_test,human__raid:4c4676d5-c143-448c-b058-9c360b04d900,0.4166969417063536
+Base refit,human_test,human__raid:4e41049d-f855-47f9-8e31-1e1a8aebd832,0.3327132959632961
+Base refit,human_test,human__raid:4e8d2b69-fd42-4cc4-8f94-e52400e1e1b6,0.44887321012321035
+Base refit,human_test,human__raid:50d75674-15c7-4c9a-a9d4-9589bfd2c16d,0.5761894715201168
+Base refit,human_test,human__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,0.6329710485354192
+Base refit,human_test,human__raid:5e96071b-cd3e-4461-9948-96d041e63767,0.31176220336916455
+Base refit,human_test,human__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,0.45145336607836584
+Base refit,human_test,human__raid:603b6d03-c745-4378-a2db-5b0705bddd34,0.4192741504138564
+Base refit,human_test,human__raid:63020fe1-645b-4dbb-988a-3bb080f2d56e,0.4706684284068188
+Base refit,human_test,human__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,0.4207567627298243
+Base refit,human_test,human__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,0.427350064499235
+Base refit,human_test,human__raid:6cb1edfa-92ac-4618-9084-7d84a4193bc4,0.25998551448551444
+Base refit,human_test,human__raid:6d37b523-501f-412e-a18b-645d8e3653a6,0.4600386186251322
+Base refit,human_test,human__raid:70764dd8-197a-415b-8c5f-2ebd022e0fd7,0.5543507308710907
+Base refit,human_test,human__raid:723a39e2-9540-4faa-b682-d608457dfde1,0.42399870986713106
+Base refit,human_test,human__raid:731ae711-8582-44b0-be0d-583188e43781,0.71019357205412
+Base refit,human_test,human__raid:788e4594-960c-4621-8b5e-6f82b7552d7b,0.2327366617300828
+Base refit,human_test,human__raid:7896a7b3-fe69-4bde-98a2-1e295f9550d2,0.3345096200096202
+Base refit,human_test,human__raid:79171045-dc71-449b-acd4-8265ffefa6ca,0.47656420789524445
+Base refit,human_test,human__raid:7a2f76a2-30e0-4d30-b9bf-6bb7b6f82c1e,0.3928591366249997
+Base refit,human_test,human__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,0.3809165224098592
+Base refit,human_test,human__raid:7a5de8ac-c1d0-45c4-ae1f-cda8899b4b9c,0.4256397414311282
+Base refit,human_test,human__raid:7adad01b-ff5c-4c95-be22-aa936adb7eed,0.4409208454800557
+Base refit,human_test,human__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,0.467728745870133
+Base refit,human_test,human__raid:7bd2da2a-4f21-4b84-91a7-2cb37fd80071,0.39403041744889566
+Base refit,human_test,human__raid:7c9e5e4d-3046-440f-a9d0-3cc164eb3844,0.6121230452899504
+Base refit,human_test,human__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,0.5209723022881383
+Base refit,human_test,human__raid:8598c9e2-8e28-46b2-a6da-a22b767aae49,0.49664842428813016
+Base refit,human_test,human__raid:8760103e-729a-4bab-b799-5775ac2468b1,0.48467138248315517
+Base refit,human_test,human__raid:892580ca-0b4d-4920-8137-d3285fdd878b,0.419678266742608
+Base refit,human_test,human__raid:89ad70e0-cac0-4bfa-a0a4-f5ae74aa18cc,0.37840264387870787
+Base refit,human_test,human__raid:8b0085fa-411d-4fc1-bbc1-d0d97bca2ebb,0.4731061344050478
+Base refit,human_test,human__raid:8b24d3c9-051b-4d8d-b88b-ddac08f4e80f,0.4465846324542148
+Base refit,human_test,human__raid:90cd9493-2714-47d7-b052-f3c621294322,0.5135107230638751
+Base refit,human_test,human__raid:91bb1e48-f280-46f3-9fd3-b7c7d9cb7e1a,0.6341257136617207
+Base refit,human_test,human__raid:960a2cba-576a-4097-bee5-60042988d6ba,0.3850270479243028
+Base refit,human_test,human__raid:966ff429-7e5b-409c-b301-181197592544,0.2307626116652008
+Base refit,human_test,human__raid:971d96f8-bc01-4ccc-be38-ec05af40151c,0.54856001790744
+Base refit,human_test,human__raid:989ab1d1-5a4d-4e9d-b767-ca3023f3f207,0.5021007443308169
+Base refit,human_test,human__raid:9b304701-be3e-43a7-9b8c-ad33ca18bfcd,0.42700650985745575
+Base refit,human_test,human__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,0.4868794967726417
+Base refit,human_test,human__raid:9c52d90c-846a-4479-8484-bd21e658f787,0.64036420601004
+Base refit,human_test,human__raid:9c57c4d7-75d9-48d2-a758-75ccb88aa272,0.41478151940651947
+Base refit,human_test,human__raid:9de11be0-bc27-4b41-8844-1f4d91abac60,0.3631658729756555
+Base refit,human_test,human__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,0.5324338379481356
+Base refit,human_test,human__raid:a2b8f3d1-1bc0-4b62-8bc5-003e55b2f7b5,0.5426242321416743
+Base refit,human_test,human__raid:a37e28be-98b1-4e8b-a568-5ee3503de484,0.6510804843991725
+Base refit,human_test,human__raid:a40984f5-f447-464b-8a6a-eaa8d6f76d12,0.38952195272048223
+Base refit,human_test,human__raid:a4fd071e-41e7-48bc-a95c-829d6b86dff4,0.5084333158361403
+Base refit,human_test,human__raid:a6e2d7dc-e158-4c10-8e84-d17b2a48ba5a,0.4572506132613525
+Base refit,human_test,human__raid:a77e8e92-8af5-4e1d-ab67-65bf52a8d5d7,0.2777368104604947
+Base refit,human_test,human__raid:aa295f63-383e-4a23-9c41-1108391ff777,0.5565851133300816
+Base refit,human_test,human__raid:adcce3e8-16bb-4c93-8884-4af827f6dc61,0.3605334542995837
+Base refit,human_test,human__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,0.6236584019728575
+Base refit,human_test,human__raid:af383c6d-11c9-4169-a2fa-58280f83ca96,0.4448784805049588
+Base refit,human_test,human__raid:b0d2e4eb-3c43-49ce-bfe1-9a6eafef8b02,0.4287337770950675
+Base refit,human_test,human__raid:b146a6b9-b531-4709-ac99-6a3852b3c619,0.4145641823488459
+Base refit,human_test,human__raid:b33bfbfe-9837-4588-903a-4bdd3f2470f7,0.40142156948629326
+Base refit,human_test,human__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,0.4999426673472726
+Base refit,human_test,human__raid:b4c2bfc5-c80d-44c2-8a8e-9bbcc458ac00,0.48874878991910864
+Base refit,human_test,human__raid:b6bf4100-050e-4389-a49c-35b5fc02dd9e,0.19896757044125457
+Base refit,human_test,human__raid:bb27d6eb-f06d-424b-bbbc-630d720a44eb,0.4985089419492308
+Base refit,human_test,human__raid:bf053559-120d-4ac8-8cd3-c0eda1df5861,0.4172298072298073
+Base refit,human_test,human__raid:bf3df034-9724-4840-86cb-33eb1489b717,0.280228123644751
+Base refit,human_test,human__raid:c0009c67-d594-4da3-af81-a06984e70ab5,0.4196267151551676
+Base refit,human_test,human__raid:c0d15e54-b490-428c-a5c0-540099ae4eeb,0.5204552867985367
+Base refit,human_test,human__raid:c2384d62-5400-4651-8cdb-b83c4a8bdf43,0.3508459281946123
+Base refit,human_test,human__raid:c435eb9e-f80e-4ac6-9526-e1282c5c1266,0.5087232873318592
+Base refit,human_test,human__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,0.5477151045629712
+Base refit,human_test,human__raid:c9d4b9c3-20c6-4527-8838-6cbc2263bb00,0.3262270760945383
+Base refit,human_test,human__raid:cbccc75e-54f7-4132-8b9e-5617b55caff3,0.43593368138008676
+Base refit,human_test,human__raid:cf67eb69-444d-4e5f-a88b-da82d19f89a9,0.4225145210009724
+Base refit,human_test,human__raid:cfb5728e-c896-4ed5-8173-f39be5ff5f97,0.5377590177853339
+Base refit,human_test,human__raid:d80f6ba2-1916-4c19-b74c-8e9f77b7a066,0.38861084130294643
+Base refit,human_test,human__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,0.3934634726410677
+Base refit,human_test,human__raid:dc315335-0314-49c5-96b1-3211dc072983,0.4152675865800868
+Base refit,human_test,human__raid:dc5c62f4-87cf-409b-9aea-dbb023230f7c,0.49214022591615486
+Base refit,human_test,human__raid:de2cbdee-92fd-4c6e-aea1-2c1baa24eb70,0.34437859503276963
+Base refit,human_test,human__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,0.4640164207353743
+Base refit,human_test,human__raid:e3945a96-7048-41d9-9e86-a84e87818986,0.3478365305401567
+Base refit,human_test,human__raid:e9f78f95-8a2d-4a0a-a47a-044c9c6c5c22,0.30646887072622336
+Base refit,human_test,human__raid:ead211a3-a649-4022-be2d-63fb8536f78d,0.4211529710483083
+Base refit,human_test,human__raid:eb76307e-f969-4523-9943-52da0e3f78a8,0.5877215909090909
+Base refit,human_test,human__raid:eb80caa7-c8a1-42d5-85f0-d0563e707eb6,0.4730915761798114
+Base refit,human_test,human__raid:efc8537a-8575-4af0-aae5-a06bc4bccc04,0.548455486644206
+Base refit,human_test,human__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,0.5242114185801792
+Base refit,human_test,human__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,0.43507093795955143
+Base refit,human_test,human__raid:f5f280b6-e8c1-4f10-9d16-0e6297e8c730,0.26138589285957714
+Base refit,human_test,human__raid:f806b684-fa7f-41c5-a4a6-8692be841cea,0.3822887254828277
+Base refit,human_test,human__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,0.27002482605114203
+Base refit,human_test,human__raid:fae6fce3-fb87-469f-a655-e52447a8cd39,0.46015292752668907
+Base refit,human_test,human__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,0.47876965806044247
+Base refit,human_test,human__raid:fcd2c78e-c388-46be-9a2d-7a9cb77381ea,0.4479395987086673
+Base refit,human_test,human__raid:fd5a753d-9d93-4b93-84a0-d0a65e45cdda,0.5465824333601226
+Base refit,human_test,human__raid:fe252deb-2d6b-4ed6-bac4-315e1dc40e94,0.4089416059597511
+Base refit,human_test,human__raid:fe4f15ee-af83-41e8-9772-b00be067b996,0.4035227911795233
+Base refit,human_calibration,human__raid:008926a1-ea57-48b5-a847-c452efb21563,0.4845108200554428
+Base refit,human_calibration,human__raid:00d25015-419f-45d0-a582-aefcccf69b9b,0.5925435483151332
+Base refit,human_calibration,human__raid:03c64d14-611c-40f2-b3d6-17260526d7a7,0.3824008903663396
+Base refit,human_calibration,human__raid:061c84b2-a5d3-44d5-a7b7-3b6632a8e8b7,0.351013268454208
+Base refit,human_calibration,human__raid:07dc10ce-198b-4398-901a-872cd727f5e9,0.417473615838167
+Base refit,human_calibration,human__raid:09fb582f-2073-43a0-9ccf-fd0f0f42b251,0.5114892889517889
+Base refit,human_calibration,human__raid:0cb539a2-b058-496a-88ec-a79a5ff5fc5e,0.43868056909390835
+Base refit,human_calibration,human__raid:0db8bf93-c9e7-43df-8020-d888bd838961,0.5302631720131716
+Base refit,human_calibration,human__raid:0f18a9a6-1340-4149-991e-c11d3bc8981f,0.5442314380551229
+Base refit,human_calibration,human__raid:11156570-6cd5-44ed-8930-cffe19c91b3c,0.49265317350921084
+Base refit,human_calibration,human__raid:12cd2887-ace8-4272-ba7f-893996f3a3b2,0.4047186922993375
+Base refit,human_calibration,human__raid:17762914-561f-4267-902a-9fcdba40f19f,0.40226894333879615
+Base refit,human_calibration,human__raid:1f5e623a-28b3-45cf-8b0f-bc1bf73722f4,0.34019022888284395
+Base refit,human_calibration,human__raid:20bc66fe-b904-41fe-ae82-afaa1a8add08,0.43166658504893796
+Base refit,human_calibration,human__raid:25cbc8ec-a4ab-428f-9069-a07cf0cc5e3b,0.44401751069921963
+Base refit,human_calibration,human__raid:2653f2a2-64fd-4e3f-a91c-b3b7beba4a1a,0.6737059722179796
+Base refit,human_calibration,human__raid:265665d2-178d-48c8-8b3f-6209e026f11e,0.4891901855024923
+Base refit,human_calibration,human__raid:27154897-f938-4a9f-ae7d-b586b70e98b7,0.44409501895163656
+Base refit,human_calibration,human__raid:2ac62c5c-0829-4e65-8511-54fb369ec81a,0.26055753777812596
+Base refit,human_calibration,human__raid:2afe5622-beb7-4f86-aa01-e5d8fe4a61b1,0.40596315279287043
+Base refit,human_calibration,human__raid:2cfbcece-6faf-49c9-913b-26b22961c92d,0.38172931503979907
+Base refit,human_calibration,human__raid:305d7537-e18e-4b0d-a16c-60d87698beeb,0.40631161069204547
+Base refit,human_calibration,human__raid:323740f1-dcb9-4f29-b211-fd1a7d5227ad,0.29544760694217254
+Base refit,human_calibration,human__raid:33035d99-818f-4314-b0d6-9d4fb4d7c1f3,0.34204689921795217
+Base refit,human_calibration,human__raid:3395a29a-8b6d-4e5a-9296-10723b30b569,0.39442896006326783
+Base refit,human_calibration,human__raid:36233ca4-81b3-4627-9ac7-0d253f86a734,0.40647908187319337
+Base refit,human_calibration,human__raid:36a22e5f-8597-4e65-8143-ad3c6586aab7,0.3965946485884147
+Base refit,human_calibration,human__raid:3c0bd1e6-6687-4370-a963-5202e22d5217,0.5428774806348339
+Base refit,human_calibration,human__raid:41445ee0-bc03-4285-909f-cbb1bbcf9ea5,0.3776598520833755
+Base refit,human_calibration,human__raid:44e1ef39-2253-40f9-9a49-07d9209aa162,0.5705872007100037
+Base refit,human_calibration,human__raid:4533fa7e-2d8a-4c93-b8c0-95720a0707c2,0.5329208004958005
+Base refit,human_calibration,human__raid:45595fdf-92c6-41de-800e-dceaabd4052a,0.5554491439698009
+Base refit,human_calibration,human__raid:4852a5dd-e2e5-4ad8-bb4e-b8ce3d69d5d2,0.2937991871676083
+Base refit,human_calibration,human__raid:4d165a1c-4d03-467a-bb76-3f9b01b7f6ee,0.43353667122587886
+Base refit,human_calibration,human__raid:4faf09a2-3634-4faf-adda-e2d79f142db7,0.44594801032301035
+Base refit,human_calibration,human__raid:50db252b-0567-4ad5-aa90-a05e6822012a,0.45429198916698915
+Base refit,human_calibration,human__raid:51ada673-da2d-4ef7-8eb4-7021f1041780,0.3720623502841248
+Base refit,human_calibration,human__raid:51fcd568-4656-475e-8141-cd66de432b35,0.300757665509363
+Base refit,human_calibration,human__raid:525462c1-055b-4067-8611-1863c77c4a6c,0.39422888697629055
+Base refit,human_calibration,human__raid:53d947fc-cc6a-4b59-ab4e-637b4b090fee,0.4836004499074669
+Base refit,human_calibration,human__raid:53fdbb53-7949-450d-8c91-9b509027ebaa,0.46681752178133784
+Base refit,human_calibration,human__raid:557ca36d-bf6d-4bf6-98e5-9dda58d0bb8f,0.4649903603949655
+Base refit,human_calibration,human__raid:56c3b328-045e-45f3-88a2-437c70f3361b,0.4463194128855893
+Base refit,human_calibration,human__raid:59552172-1412-43fa-8e1a-b73acfb90c64,0.3529449300699303
+Base refit,human_calibration,human__raid:598ce161-eb6a-469e-a4af-00842147c1b9,0.5178016458364191
+Base refit,human_calibration,human__raid:5991f2bf-91d6-4d0c-8c11-d0f51ce2e5cc,0.49309945147445156
+Base refit,human_calibration,human__raid:5abd6b2b-5740-48ee-98b5-c8ec741f6bea,0.30163862834696187
+Base refit,human_calibration,human__raid:5d252b90-4510-41fa-929c-94f567698e3c,0.4880827829577829
+Base refit,human_calibration,human__raid:5feb801a-14f8-4a0f-b158-2302446a5073,0.47229878618113913
+Base refit,human_calibration,human__raid:601dbfce-2f14-4409-a435-23423f943ba6,0.5111019359680619
+Base refit,human_calibration,human__raid:60f6dd32-9b8c-4ad8-a9e5-44124146ba72,0.3932297913439216
+Base refit,human_calibration,human__raid:62b3fddd-8827-4ba6-881c-f673c50f454f,0.4121069839021782
+Base refit,human_calibration,human__raid:66bd23da-3d78-4141-a6c6-89bbc434d01e,0.5561030844155848
+Base refit,human_calibration,human__raid:66cd7478-7821-4dcc-b052-d17ebe3bfc71,0.40654636031298425
+Base refit,human_calibration,human__raid:69171c6a-6dd0-4ec3-8d58-f62378cfeaf1,0.36374838777779966
+Base refit,human_calibration,human__raid:6d39a9a8-ce81-4ebc-8ca3-86789bc9a8d2,0.46799528279691316
+Base refit,human_calibration,human__raid:6d9664ef-d61d-4c4a-be06-bc6a122e26c7,0.5961390322640325
+Base refit,human_calibration,human__raid:6e7faca9-ffea-4c5c-a403-302bfe84f2d7,0.5350376005573374
+Base refit,human_calibration,human__raid:72ae3f66-807e-417b-bd0b-4c33801f29b1,0.5461127132354755
+Base refit,human_calibration,human__raid:74bd396a-1eb5-498e-953e-f21144f55192,0.4250286889723771
+Base refit,human_calibration,human__raid:76b0e075-67fa-4920-ae1c-252572a4897c,0.5099129739021043
+Base refit,human_calibration,human__raid:7ad8bde2-1d88-4648-93c7-225b5bd56b59,0.4856704093138131
+Base refit,human_calibration,human__raid:7c10bd9a-65bb-404e-a34e-cb253eca6d06,0.4425474717077979
+Base refit,human_calibration,human__raid:7c773988-4029-401b-9969-b10b82648121,0.4997543534275612
+Base refit,human_calibration,human__raid:7edd063b-20e3-4ba7-90d6-bdff6d5bc2df,0.5255821975500762
+Base refit,human_calibration,human__raid:7f3f2598-a921-48ae-a0a1-17c7d8eb20cf,0.45704780982973364
+Base refit,human_calibration,human__raid:81fdf5b4-3ef3-47c8-a145-0b0866daeb88,0.43826296073902465
+Base refit,human_calibration,human__raid:86e638b1-8a67-48e0-95f4-af1b482ad249,0.4155570421303346
+Base refit,human_calibration,human__raid:88243a01-448e-4f16-ae9f-680f1941af86,0.36835422790362043
+Base refit,human_calibration,human__raid:8a0c1509-4338-4973-ba92-3a054ac55370,0.33939997508198305
+Base refit,human_calibration,human__raid:8ad31978-d20e-4954-8ba2-fb1d12e9fbce,0.37240912912623453
+Base refit,human_calibration,human__raid:8adc99bd-0389-4e34-a475-b988a1b0a434,0.40450988461587256
+Base refit,human_calibration,human__raid:8aefbf9a-0670-4941-90cd-5c8149cb7ef0,0.39986627010268333
+Base refit,human_calibration,human__raid:8e602567-88ca-45a2-99bd-8cdbf1b15497,0.5692122405372408
+Base refit,human_calibration,human__raid:90e5123d-058d-4ea8-bb23-abc98697967b,0.5030005173972567
+Base refit,human_calibration,human__raid:9655cbdb-73f8-477f-9ee5-61d5f01d67f4,0.3865217887637463
+Base refit,human_calibration,human__raid:969f8e94-3b2b-48d4-a485-b44c00912dc1,0.4418789892971111
+Base refit,human_calibration,human__raid:9838c4e6-7481-4ede-885a-0107864f57ed,0.5109195485253964
+Base refit,human_calibration,human__raid:990201c6-f043-48dc-a6b7-0b088bc66581,0.4016482947766347
+Base refit,human_calibration,human__raid:9d66d34c-dfdd-4e9b-bacd-f0eb51a9ec48,0.45813906516543973
+Base refit,human_calibration,human__raid:a1480b37-f78e-4029-9ad9-a53f6d228d1d,0.4141184160685131
+Base refit,human_calibration,human__raid:a1fa9ca5-8995-4682-99d2-36091671f5b1,0.2621397888252727
+Base refit,human_calibration,human__raid:a22e348a-5716-49be-abe0-7b2e0fa79b9f,0.20737079124579127
+Base refit,human_calibration,human__raid:a4e2a924-86ed-4f9a-a2c7-3fa5b0810e22,0.5085218872902696
+Base refit,human_calibration,human__raid:a5eb8ed9-0595-49a8-bc18-2c39a8e66177,0.4331373780239442
+Base refit,human_calibration,human__raid:abb52ff9-0aed-495d-a25d-bb4a9a26a432,0.5546227191893875
+Base refit,human_calibration,human__raid:ac6ca2b8-f8fb-4a5e-b3d5-65bab1030830,0.36182566208301514
+Base refit,human_calibration,human__raid:b40c6a45-72a4-4d51-abe5-986a5a9eeaae,0.37501042315384414
+Base refit,human_calibration,human__raid:b54ef358-9f79-47fb-a7b5-28d075d1233e,0.37034200879765417
+Base refit,human_calibration,human__raid:b8a21be5-4576-4851-b9ce-2b50e03faf1d,0.6017997795759656
+Base refit,human_calibration,human__raid:b9e8f298-0052-499c-843d-91f7a381cfac,0.39331460556138437
+Base refit,human_calibration,human__raid:ba02d141-24b3-47a1-9ad7-31dba57d3b69,0.5873268889035865
+Base refit,human_calibration,human__raid:bb95ea2d-5a21-468b-9111-bb6a0169b823,0.5532636773901481
+Base refit,human_calibration,human__raid:bd6b1fc2-4a95-46be-8fb4-05a537fb4cfd,0.4385243446640506
+Base refit,human_calibration,human__raid:bfb139ad-a70c-4c2f-8dff-907f1caf201d,0.4722585190316451
+Base refit,human_calibration,human__raid:c410e2b4-3b36-4751-ae08-ad9352a7a19e,0.46332310744810723
+Base refit,human_calibration,human__raid:c4c7265f-50fa-4309-ba65-40d8b9e53a3b,0.4015266606710596
+Base refit,human_calibration,human__raid:c864b144-ebe3-49d1-b6cf-dbae94554954,0.32205715653741956
+Base refit,human_calibration,human__raid:c88bc2c1-3448-4ee6-81a9-c23e1ae2b011,0.44835267165973686
+Base refit,human_calibration,human__raid:c9481a76-b4ce-46e8-ac3a-4c499a497254,0.35475708409069534
+Base refit,human_calibration,human__raid:ca3adb6d-b738-43c5-adb0-cdca392cfb6c,0.3633184874377055
+Base refit,human_calibration,human__raid:ce978610-999c-4a01-80aa-95c95a4596d9,0.3809698658334054
+Base refit,human_calibration,human__raid:cebe746c-3fa5-4e80-a64d-6b3f0d23812f,0.28831607744107735
+Base refit,human_calibration,human__raid:cf477deb-ee52-4d5a-9ac1-276cf3a8a7d5,0.5106769028901387
+Base refit,human_calibration,human__raid:d2f37990-467e-45a2-a58c-3a95b91d4010,0.561551161615616
+Base refit,human_calibration,human__raid:d3e6aa01-50c3-471a-b033-c7cbedffd9ef,0.5068592374856169
+Base refit,human_calibration,human__raid:d57ad437-a63a-450a-ad44-a1e71c999d2b,0.3474210360869978
+Base refit,human_calibration,human__raid:d74007ac-5fba-4945-902d-1ab4710de3a2,0.29278956984347465
+Base refit,human_calibration,human__raid:ddcb1e79-7fc8-4a99-9ab6-ffbef3755f4b,0.3612549493517236
+Base refit,human_calibration,human__raid:de83ddd2-024a-472d-b564-7988c1c0e565,0.5662288359788362
+Base refit,human_calibration,human__raid:deb236f9-d956-4cb6-a7fd-dfc3b7d10473,0.4657860490166944
+Base refit,human_calibration,human__raid:df73ffcc-9d88-4afb-bd36-5c4dcfe7f89c,0.2977750805965293
+Base refit,human_calibration,human__raid:dfc140c7-afe2-459d-94d8-ba3332030eba,0.46833999238778623
+Base refit,human_calibration,human__raid:e27cc8a2-263c-47e9-bdb5-414bc4adaa9c,0.5960648047804976
+Base refit,human_calibration,human__raid:e2ca43db-2d7c-4d8a-86cc-c5df97665e5f,0.5036851561369106
+Base refit,human_calibration,human__raid:e5c7b03a-0579-4ab1-91b7-ed939c2301e6,0.3158810077802817
+Base refit,human_calibration,human__raid:e6499adf-a5d3-4f01-ab84-b5d43df7a0a2,0.4988831812310074
+Base refit,human_calibration,human__raid:e7065e9d-a1a8-49a1-9e9d-40cd892dd71e,0.41487105066129826
+Base refit,human_calibration,human__raid:e77fd92a-6788-4dc2-bd28-fe3b3bf23a01,0.529987092880238
+Base refit,human_calibration,human__raid:e7db564c-aeab-485e-b5ff-666847ce01fe,0.37794772286580464
+Base refit,human_calibration,human__raid:edabc259-13b2-44ef-9b4e-8b6187890632,0.4262829188355505
+Base refit,human_calibration,human__raid:f8b1e390-09c2-47df-8eba-de406dd0643f,0.24394384773484604
+Base refit,human_calibration,human__raid:ff1852da-b86f-48a7-ad57-1389b1c5d595,0.4427726867418365
+Base refit,human_calibration,human__raid:ff24f8e9-e876-4bac-9a07-da1965c72f9c,0.3427549910487898
+Base refit,human_calibration,human__raid:ffe4d62a-7342-4b9c-a3d9-a0bd88e354f7,0.3361809938355994
+Adapted rewritten,AI,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,0.6902150715545972
+Adapted rewritten,AI,ai__raid:7bd2da2a-4f21-4b84-91a7-2cb37fd80071,0.5001105908069966
+Adapted rewritten,AI,ai__raid:cfb5728e-c896-4ed5-8173-f39be5ff5f97,0.5410419991228815
+Adapted rewritten,AI,ai__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,0.682220584983368
+Adapted rewritten,AI,ai__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,0.44279936267436226
+Adapted rewritten,AI,ai__raid:eb76307e-f969-4523-9943-52da0e3f78a8,0.5950317402616732
+Adapted rewritten,AI,ai__raid:4c4676d5-c143-448c-b058-9c360b04d900,0.4244956736098042
+Adapted rewritten,AI,ai__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,0.5244516250382728
+Adapted rewritten,AI,ai__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,0.46324653344144856
+Adapted rewritten,AI,ai__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,0.43802412021529674
+Adapted rewritten,AI,ai__raid:603b6d03-c745-4378-a2db-5b0705bddd34,0.532939285232053
+Adapted rewritten,AI,ai__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,0.5833098018046339
+Adapted rewritten,AI,ai__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,0.5721761918821654
+Adapted rewritten,AI,ai__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,0.4743270389808413
+Adapted rewritten,AI,ai__raid:bf3df034-9724-4840-86cb-33eb1489b717,0.3669419181826677
+Adapted rewritten,AI,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,0.5772570386341671
+Adapted rewritten,AI,ai__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,0.6364118258514361
+Adapted rewritten,AI,ai__raid:70764dd8-197a-415b-8c5f-2ebd022e0fd7,0.6314571507139235
+Adapted rewritten,AI,ai__raid:b0d2e4eb-3c43-49ce-bfe1-9a6eafef8b02,0.47277536597628206
+Adapted rewritten,AI,ai__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,0.35511602073489323
+Adapted rewritten,AI,ai__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,0.627734043734044
+Adapted rewritten,AI,ai__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,0.43604597948347923
+Adapted rewritten,AI,ai__raid:c9d4b9c3-20c6-4527-8838-6cbc2263bb00,0.4669400063649215
+Adapted rewritten,AI,ai__raid:90cd9493-2714-47d7-b052-f3c621294322,0.4860182507583508
+Adapted rewritten,AI,ai__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,0.4289436123517005
+Adapted rewritten,AI,ai__raid:723a39e2-9540-4faa-b682-d608457dfde1,0.43451623839123843
+Adapted rewritten,AI,ai__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,0.44848356273356244
+Adapted rewritten,AI,ai__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,0.5239113329919779
+Adapted rewritten,AI,ai__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,0.49412843031849246
+Adapted rewritten,AI,ai__raid:788e4594-960c-4621-8b5e-6f82b7552d7b,0.41376515389015367
+Adapted rewritten,AI,ai__raid:e3945a96-7048-41d9-9e86-a84e87818986,0.2744240791386183
+Adapted rewritten,AI,ai__raid:b146a6b9-b531-4709-ac99-6a3852b3c619,0.45349164028333794
+Adapted rewritten,AI,ai__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,0.6946380001679414
+Adapted rewritten,AI,ai__raid:91bb1e48-f280-46f3-9fd3-b7c7d9cb7e1a,0.5372112600548747
+Adapted rewritten,human_test,human__raid:0216216b-fd4f-403b-87f3-b1c52f29a3f1,0.44490714102207213
+Adapted rewritten,human_test,human__raid:070db71f-3f44-4ebf-b9dc-cf780644667c,0.5055348337972578
+Adapted rewritten,human_test,human__raid:092aa2bc-f8b6-4a7b-8bac-40b62e0dbb25,0.4518513051300957
+Adapted rewritten,human_test,human__raid:0932165c-37b5-4c07-a15d-ded908d7dc32,0.5549639448680267
+Adapted rewritten,human_test,human__raid:0a9dc4af-7338-49c0-b3d9-3a1a3cf1606f,0.40735292760292746
+Adapted rewritten,human_test,human__raid:119d954e-9a2c-4ad6-bd1b-b03ed29034f0,0.4813944140238088
+Adapted rewritten,human_test,human__raid:140bcdd4-cb85-49b7-ad40-483a21380193,0.5048435769656697
+Adapted rewritten,human_test,human__raid:167102f2-a17b-4860-9984-67709aab5d53,0.4245747076997076
+Adapted rewritten,human_test,human__raid:1780eb3e-7c44-4355-a331-e175e5c8c198,0.43296815857001586
+Adapted rewritten,human_test,human__raid:1d8ef537-eff4-4324-ae39-02b5caecb61c,0.30412527998266387
+Adapted rewritten,human_test,human__raid:1de9f910-c6a9-4bf8-8a2d-1f9c07390417,0.35598797734582044
+Adapted rewritten,human_test,human__raid:25689644-8159-4de0-8167-2efea735f75b,0.5475431349614585
+Adapted rewritten,human_test,human__raid:26d2f09e-1b32-4e0b-acc6-fbca10b7051a,0.5481536763674918
+Adapted rewritten,human_test,human__raid:2737d3fd-1ed6-40ae-acb9-d1af0baf5b7c,0.40428220390951536
+Adapted rewritten,human_test,human__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,0.5083620965260504
+Adapted rewritten,human_test,human__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,0.5474829095640216
+Adapted rewritten,human_test,human__raid:2b6630cd-9256-497f-83b2-366131834f3a,0.39538639661783637
+Adapted rewritten,human_test,human__raid:2f47f011-2a2a-47fb-8380-81bbfd3aea9f,0.3737765958402617
+Adapted rewritten,human_test,human__raid:2faf4463-e954-4388-a603-ae85c31b8c00,0.4900028109699163
+Adapted rewritten,human_test,human__raid:31c9da8a-8533-4763-b0ce-b1e54082b6f8,0.47791713735598373
+Adapted rewritten,human_test,human__raid:34071d29-fbbf-4230-9ee4-55f1c54b2b5e,0.5031927374349787
+Adapted rewritten,human_test,human__raid:347fcffd-ce79-4b6f-9e45-cb1cf0ba60a9,0.3899520718932484
+Adapted rewritten,human_test,human__raid:37897e56-78e7-4aaa-a974-a9ec4f8facb3,0.43329103139292763
+Adapted rewritten,human_test,human__raid:39839ad8-9b55-46f1-bfa9-16cd1c961cce,0.40428794329592127
+Adapted rewritten,human_test,human__raid:3a75780e-80cf-4695-b297-bb5c7edd5de3,0.4359712602212602
+Adapted rewritten,human_test,human__raid:3bc610dd-010e-480c-8af3-1c5da8728644,0.5326304344250792
+Adapted rewritten,human_test,human__raid:3c44b645-d716-4865-b596-7c4e6f24fe06,0.3379385930606862
+Adapted rewritten,human_test,human__raid:3e7fb3a2-3d32-43b1-ba60-c4689d38caee,0.43537800162800183
+Adapted rewritten,human_test,human__raid:3f88fbdd-9dde-4766-a8db-05b0f2e0957e,0.3058834128834128
+Adapted rewritten,human_test,human__raid:401abcef-a6a6-41c9-bb25-766e6609d835,0.5413374624039478
+Adapted rewritten,human_test,human__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,0.38786010286856976
+Adapted rewritten,human_test,human__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,0.411997670288368
+Adapted rewritten,human_test,human__raid:4c4676d5-c143-448c-b058-9c360b04d900,0.4244095271927315
+Adapted rewritten,human_test,human__raid:4e41049d-f855-47f9-8e31-1e1a8aebd832,0.3208355089403854
+Adapted rewritten,human_test,human__raid:4e8d2b69-fd42-4cc4-8f94-e52400e1e1b6,0.43483144275982294
+Adapted rewritten,human_test,human__raid:50d75674-15c7-4c9a-a9d4-9589bfd2c16d,0.5947331817880918
+Adapted rewritten,human_test,human__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,0.6327506888832016
+Adapted rewritten,human_test,human__raid:5e96071b-cd3e-4461-9948-96d041e63767,0.2878178685860138
+Adapted rewritten,human_test,human__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,0.48209135077885057
+Adapted rewritten,human_test,human__raid:603b6d03-c745-4378-a2db-5b0705bddd34,0.44079257238652836
+Adapted rewritten,human_test,human__raid:63020fe1-645b-4dbb-988a-3bb080f2d56e,0.503991005241902
+Adapted rewritten,human_test,human__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,0.43892606005106
+Adapted rewritten,human_test,human__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,0.4397620605490649
+Adapted rewritten,human_test,human__raid:6cb1edfa-92ac-4618-9084-7d84a4193bc4,0.26791519691274585
+Adapted rewritten,human_test,human__raid:6d37b523-501f-412e-a18b-645d8e3653a6,0.4522428513980562
+Adapted rewritten,human_test,human__raid:70764dd8-197a-415b-8c5f-2ebd022e0fd7,0.5446084171006209
+Adapted rewritten,human_test,human__raid:723a39e2-9540-4faa-b682-d608457dfde1,0.4541369047619046
+Adapted rewritten,human_test,human__raid:731ae711-8582-44b0-be0d-583188e43781,0.7146428487090256
+Adapted rewritten,human_test,human__raid:788e4594-960c-4621-8b5e-6f82b7552d7b,0.2686891742516744
+Adapted rewritten,human_test,human__raid:7896a7b3-fe69-4bde-98a2-1e295f9550d2,0.34679632620598766
+Adapted rewritten,human_test,human__raid:79171045-dc71-449b-acd4-8265ffefa6ca,0.4761544314775285
+Adapted rewritten,human_test,human__raid:7a2f76a2-30e0-4d30-b9bf-6bb7b6f82c1e,0.43007643437287374
+Adapted rewritten,human_test,human__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,0.3927048818484578
+Adapted rewritten,human_test,human__raid:7a5de8ac-c1d0-45c4-ae1f-cda8899b4b9c,0.4239717573131237
+Adapted rewritten,human_test,human__raid:7adad01b-ff5c-4c95-be22-aa936adb7eed,0.42913458194038745
+Adapted rewritten,human_test,human__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,0.500616936872419
+Adapted rewritten,human_test,human__raid:7bd2da2a-4f21-4b84-91a7-2cb37fd80071,0.3829715891496126
+Adapted rewritten,human_test,human__raid:7c9e5e4d-3046-440f-a9d0-3cc164eb3844,0.6210577650673046
+Adapted rewritten,human_test,human__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,0.5215768114943248
+Adapted rewritten,human_test,human__raid:8598c9e2-8e28-46b2-a6da-a22b767aae49,0.5381608048419637
+Adapted rewritten,human_test,human__raid:8760103e-729a-4bab-b799-5775ac2468b1,0.5145551089240515
+Adapted rewritten,human_test,human__raid:892580ca-0b4d-4920-8137-d3285fdd878b,0.42583485887652556
+Adapted rewritten,human_test,human__raid:89ad70e0-cac0-4bfa-a0a4-f5ae74aa18cc,0.3728065499720694
+Adapted rewritten,human_test,human__raid:8b0085fa-411d-4fc1-bbc1-d0d97bca2ebb,0.46755896538102404
+Adapted rewritten,human_test,human__raid:8b24d3c9-051b-4d8d-b88b-ddac08f4e80f,0.4352453070808336
+Adapted rewritten,human_test,human__raid:90cd9493-2714-47d7-b052-f3c621294322,0.49037294377735596
+Adapted rewritten,human_test,human__raid:91bb1e48-f280-46f3-9fd3-b7c7d9cb7e1a,0.6432939660906288
+Adapted rewritten,human_test,human__raid:960a2cba-576a-4097-bee5-60042988d6ba,0.4062791284185522
+Adapted rewritten,human_test,human__raid:966ff429-7e5b-409c-b301-181197592544,0.25723239723239694
+Adapted rewritten,human_test,human__raid:971d96f8-bc01-4ccc-be38-ec05af40151c,0.5769520364520367
+Adapted rewritten,human_test,human__raid:989ab1d1-5a4d-4e9d-b767-ca3023f3f207,0.5039795963840082
+Adapted rewritten,human_test,human__raid:9b304701-be3e-43a7-9b8c-ad33ca18bfcd,0.4894264503198328
+Adapted rewritten,human_test,human__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,0.4736615159531827
+Adapted rewritten,human_test,human__raid:9c52d90c-846a-4479-8484-bd21e658f787,0.6358137603814649
+Adapted rewritten,human_test,human__raid:9c57c4d7-75d9-48d2-a758-75ccb88aa272,0.4143438727864172
+Adapted rewritten,human_test,human__raid:9de11be0-bc27-4b41-8844-1f4d91abac60,0.4067317237006931
+Adapted rewritten,human_test,human__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,0.5817071886446887
+Adapted rewritten,human_test,human__raid:a2b8f3d1-1bc0-4b62-8bc5-003e55b2f7b5,0.5369353956228956
+Adapted rewritten,human_test,human__raid:a37e28be-98b1-4e8b-a568-5ee3503de484,0.6329772885067002
+Adapted rewritten,human_test,human__raid:a40984f5-f447-464b-8a6a-eaa8d6f76d12,0.4193513493256921
+Adapted rewritten,human_test,human__raid:a4fd071e-41e7-48bc-a95c-829d6b86dff4,0.5108875922507305
+Adapted rewritten,human_test,human__raid:a6e2d7dc-e158-4c10-8e84-d17b2a48ba5a,0.46358785575336364
+Adapted rewritten,human_test,human__raid:a77e8e92-8af5-4e1d-ab67-65bf52a8d5d7,0.30215627659377664
+Adapted rewritten,human_test,human__raid:aa295f63-383e-4a23-9c41-1108391ff777,0.5608417350965641
+Adapted rewritten,human_test,human__raid:adcce3e8-16bb-4c93-8884-4af827f6dc61,0.3787063624448303
+Adapted rewritten,human_test,human__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,0.6314496667189531
+Adapted rewritten,human_test,human__raid:af383c6d-11c9-4169-a2fa-58280f83ca96,0.4437873513378415
+Adapted rewritten,human_test,human__raid:b0d2e4eb-3c43-49ce-bfe1-9a6eafef8b02,0.4350264835100041
+Adapted rewritten,human_test,human__raid:b146a6b9-b531-4709-ac99-6a3852b3c619,0.4508678231859391
+Adapted rewritten,human_test,human__raid:b33bfbfe-9837-4588-903a-4bdd3f2470f7,0.3975601345535557
+Adapted rewritten,human_test,human__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,0.4952796952796954
+Adapted rewritten,human_test,human__raid:b4c2bfc5-c80d-44c2-8a8e-9bbcc458ac00,0.5079375842083189
+Adapted rewritten,human_test,human__raid:b6bf4100-050e-4389-a49c-35b5fc02dd9e,0.219064454064454
+Adapted rewritten,human_test,human__raid:bb27d6eb-f06d-424b-bbbc-630d720a44eb,0.506838700030773
+Adapted rewritten,human_test,human__raid:bf053559-120d-4ac8-8cd3-c0eda1df5861,0.4479314030334314
+Adapted rewritten,human_test,human__raid:bf3df034-9724-4840-86cb-33eb1489b717,0.2801327018498071
+Adapted rewritten,human_test,human__raid:c0009c67-d594-4da3-af81-a06984e70ab5,0.3940981700181503
+Adapted rewritten,human_test,human__raid:c0d15e54-b490-428c-a5c0-540099ae4eeb,0.5402329633873751
+Adapted rewritten,human_test,human__raid:c2384d62-5400-4651-8cdb-b83c4a8bdf43,0.3855025829172246
+Adapted rewritten,human_test,human__raid:c435eb9e-f80e-4ac6-9526-e1282c5c1266,0.4886442501483582
+Adapted rewritten,human_test,human__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,0.5651771696894244
+Adapted rewritten,human_test,human__raid:c9d4b9c3-20c6-4527-8838-6cbc2263bb00,0.3888512536368573
+Adapted rewritten,human_test,human__raid:cbccc75e-54f7-4132-8b9e-5617b55caff3,0.4293968187313774
+Adapted rewritten,human_test,human__raid:cf67eb69-444d-4e5f-a88b-da82d19f89a9,0.484554156491657
+Adapted rewritten,human_test,human__raid:cfb5728e-c896-4ed5-8173-f39be5ff5f97,0.5548068712409282
+Adapted rewritten,human_test,human__raid:d80f6ba2-1916-4c19-b74c-8e9f77b7a066,0.39886109773004835
+Adapted rewritten,human_test,human__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,0.40438809141539583
+Adapted rewritten,human_test,human__raid:dc315335-0314-49c5-96b1-3211dc072983,0.40559793736747707
+Adapted rewritten,human_test,human__raid:dc5c62f4-87cf-409b-9aea-dbb023230f7c,0.5257200258103901
+Adapted rewritten,human_test,human__raid:de2cbdee-92fd-4c6e-aea1-2c1baa24eb70,0.3467214862350288
+Adapted rewritten,human_test,human__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,0.4448273023731073
+Adapted rewritten,human_test,human__raid:e3945a96-7048-41d9-9e86-a84e87818986,0.37127339451911956
+Adapted rewritten,human_test,human__raid:e9f78f95-8a2d-4a0a-a47a-044c9c6c5c22,0.29972434319493124
+Adapted rewritten,human_test,human__raid:ead211a3-a649-4022-be2d-63fb8536f78d,0.42628740368310225
+Adapted rewritten,human_test,human__raid:eb76307e-f969-4523-9943-52da0e3f78a8,0.5751560739129139
+Adapted rewritten,human_test,human__raid:eb80caa7-c8a1-42d5-85f0-d0563e707eb6,0.4604029703956175
+Adapted rewritten,human_test,human__raid:efc8537a-8575-4af0-aae5-a06bc4bccc04,0.5736863683361884
+Adapted rewritten,human_test,human__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,0.5208980854352593
+Adapted rewritten,human_test,human__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,0.4234591689126785
+Adapted rewritten,human_test,human__raid:f5f280b6-e8c1-4f10-9d16-0e6297e8c730,0.24479391333067804
+Adapted rewritten,human_test,human__raid:f806b684-fa7f-41c5-a4a6-8692be841cea,0.36921368497486956
+Adapted rewritten,human_test,human__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,0.27724550953451194
+Adapted rewritten,human_test,human__raid:fae6fce3-fb87-469f-a655-e52447a8cd39,0.47277287561748343
+Adapted rewritten,human_test,human__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,0.48662295170649816
+Adapted rewritten,human_test,human__raid:fcd2c78e-c388-46be-9a2d-7a9cb77381ea,0.4506593365316479
+Adapted rewritten,human_test,human__raid:fd5a753d-9d93-4b93-84a0-d0a65e45cdda,0.501128857084521
+Adapted rewritten,human_test,human__raid:fe252deb-2d6b-4ed6-bac4-315e1dc40e94,0.4282912196974373
+Adapted rewritten,human_test,human__raid:fe4f15ee-af83-41e8-9772-b00be067b996,0.4072018594589755
+Adapted rewritten,human_calibration,human__raid:008926a1-ea57-48b5-a847-c452efb21563,0.4893879315568219
+Adapted rewritten,human_calibration,human__raid:00d25015-419f-45d0-a582-aefcccf69b9b,0.5831767592892032
+Adapted rewritten,human_calibration,human__raid:03c64d14-611c-40f2-b3d6-17260526d7a7,0.418551140217807
+Adapted rewritten,human_calibration,human__raid:061c84b2-a5d3-44d5-a7b7-3b6632a8e8b7,0.3918711443068522
+Adapted rewritten,human_calibration,human__raid:07dc10ce-198b-4398-901a-872cd727f5e9,0.39708508562838346
+Adapted rewritten,human_calibration,human__raid:09fb582f-2073-43a0-9ccf-fd0f0f42b251,0.5124767348699614
+Adapted rewritten,human_calibration,human__raid:0cb539a2-b058-496a-88ec-a79a5ff5fc5e,0.4558759923498524
+Adapted rewritten,human_calibration,human__raid:0db8bf93-c9e7-43df-8020-d888bd838961,0.5228532420738307
+Adapted rewritten,human_calibration,human__raid:0f18a9a6-1340-4149-991e-c11d3bc8981f,0.5367323936236469
+Adapted rewritten,human_calibration,human__raid:11156570-6cd5-44ed-8930-cffe19c91b3c,0.5020475661593309
+Adapted rewritten,human_calibration,human__raid:12cd2887-ace8-4272-ba7f-893996f3a3b2,0.40338529274112306
+Adapted rewritten,human_calibration,human__raid:17762914-561f-4267-902a-9fcdba40f19f,0.42203421578421557
+Adapted rewritten,human_calibration,human__raid:1f5e623a-28b3-45cf-8b0f-bc1bf73722f4,0.35106379412287336
+Adapted rewritten,human_calibration,human__raid:20bc66fe-b904-41fe-ae82-afaa1a8add08,0.42132697857697854
+Adapted rewritten,human_calibration,human__raid:25cbc8ec-a4ab-428f-9069-a07cf0cc5e3b,0.46469454245135317
+Adapted rewritten,human_calibration,human__raid:2653f2a2-64fd-4e3f-a91c-b3b7beba4a1a,0.6561130786854473
+Adapted rewritten,human_calibration,human__raid:265665d2-178d-48c8-8b3f-6209e026f11e,0.47411181555205645
+Adapted rewritten,human_calibration,human__raid:27154897-f938-4a9f-ae7d-b586b70e98b7,0.4411818274613991
+Adapted rewritten,human_calibration,human__raid:2ac62c5c-0829-4e65-8511-54fb369ec81a,0.2885431365284308
+Adapted rewritten,human_calibration,human__raid:2afe5622-beb7-4f86-aa01-e5d8fe4a61b1,0.40921403371403337
+Adapted rewritten,human_calibration,human__raid:2cfbcece-6faf-49c9-913b-26b22961c92d,0.44306464641023446
+Adapted rewritten,human_calibration,human__raid:305d7537-e18e-4b0d-a16c-60d87698beeb,0.42011115019211087
+Adapted rewritten,human_calibration,human__raid:323740f1-dcb9-4f29-b211-fd1a7d5227ad,0.3035893134643134
+Adapted rewritten,human_calibration,human__raid:33035d99-818f-4314-b0d6-9d4fb4d7c1f3,0.3559115791615793
+Adapted rewritten,human_calibration,human__raid:3395a29a-8b6d-4e5a-9296-10723b30b569,0.4133947557055594
+Adapted rewritten,human_calibration,human__raid:36233ca4-81b3-4627-9ac7-0d253f86a734,0.39701999395471377
+Adapted rewritten,human_calibration,human__raid:36a22e5f-8597-4e65-8143-ad3c6586aab7,0.4242910384809698
+Adapted rewritten,human_calibration,human__raid:3c0bd1e6-6687-4370-a963-5202e22d5217,0.5529052437749891
+Adapted rewritten,human_calibration,human__raid:41445ee0-bc03-4285-909f-cbb1bbcf9ea5,0.3554247507451841
+Adapted rewritten,human_calibration,human__raid:44e1ef39-2253-40f9-9a49-07d9209aa162,0.6223298234989414
+Adapted rewritten,human_calibration,human__raid:4533fa7e-2d8a-4c93-b8c0-95720a0707c2,0.5220007847816667
+Adapted rewritten,human_calibration,human__raid:45595fdf-92c6-41de-800e-dceaabd4052a,0.5766979164061232
+Adapted rewritten,human_calibration,human__raid:4852a5dd-e2e5-4ad8-bb4e-b8ce3d69d5d2,0.32922359584859606
+Adapted rewritten,human_calibration,human__raid:4d165a1c-4d03-467a-bb76-3f9b01b7f6ee,0.4246784171700051
+Adapted rewritten,human_calibration,human__raid:4faf09a2-3634-4faf-adda-e2d79f142db7,0.45669956456798566
+Adapted rewritten,human_calibration,human__raid:50db252b-0567-4ad5-aa90-a05e6822012a,0.46246149524466174
+Adapted rewritten,human_calibration,human__raid:51ada673-da2d-4ef7-8eb4-7021f1041780,0.365871876501225
+Adapted rewritten,human_calibration,human__raid:51fcd568-4656-475e-8141-cd66de432b35,0.32342026958469866
+Adapted rewritten,human_calibration,human__raid:525462c1-055b-4067-8611-1863c77c4a6c,0.40862033519599295
+Adapted rewritten,human_calibration,human__raid:53d947fc-cc6a-4b59-ab4e-637b4b090fee,0.4988718361655419
+Adapted rewritten,human_calibration,human__raid:53fdbb53-7949-450d-8c91-9b509027ebaa,0.4428748986576975
+Adapted rewritten,human_calibration,human__raid:557ca36d-bf6d-4bf6-98e5-9dda58d0bb8f,0.471198219665325
+Adapted rewritten,human_calibration,human__raid:56c3b328-045e-45f3-88a2-437c70f3361b,0.4639793472840306
+Adapted rewritten,human_calibration,human__raid:59552172-1412-43fa-8e1a-b73acfb90c64,0.3844214257964257
+Adapted rewritten,human_calibration,human__raid:598ce161-eb6a-469e-a4af-00842147c1b9,0.47923845044488644
+Adapted rewritten,human_calibration,human__raid:5991f2bf-91d6-4d0c-8c11-d0f51ce2e5cc,0.46701575276575275
+Adapted rewritten,human_calibration,human__raid:5abd6b2b-5740-48ee-98b5-c8ec741f6bea,0.3130896627159066
+Adapted rewritten,human_calibration,human__raid:5d252b90-4510-41fa-929c-94f567698e3c,0.4793968392718393
+Adapted rewritten,human_calibration,human__raid:5feb801a-14f8-4a0f-b158-2302446a5073,0.48322348022348033
+Adapted rewritten,human_calibration,human__raid:601dbfce-2f14-4409-a435-23423f943ba6,0.5114156553442545
+Adapted rewritten,human_calibration,human__raid:60f6dd32-9b8c-4ad8-a9e5-44124146ba72,0.3890769600769604
+Adapted rewritten,human_calibration,human__raid:62b3fddd-8827-4ba6-881c-f673c50f454f,0.42112155558005154
+Adapted rewritten,human_calibration,human__raid:66bd23da-3d78-4141-a6c6-89bbc434d01e,0.5754359304488613
+Adapted rewritten,human_calibration,human__raid:66cd7478-7821-4dcc-b052-d17ebe3bfc71,0.41945660780443395
+Adapted rewritten,human_calibration,human__raid:69171c6a-6dd0-4ec3-8d58-f62378cfeaf1,0.3624843602676421
+Adapted rewritten,human_calibration,human__raid:6d39a9a8-ce81-4ebc-8ca3-86789bc9a8d2,0.47988149115575673
+Adapted rewritten,human_calibration,human__raid:6d9664ef-d61d-4c4a-be06-bc6a122e26c7,0.5679841203482509
+Adapted rewritten,human_calibration,human__raid:6e7faca9-ffea-4c5c-a403-302bfe84f2d7,0.5124092225894287
+Adapted rewritten,human_calibration,human__raid:72ae3f66-807e-417b-bd0b-4c33801f29b1,0.5581783611214777
+Adapted rewritten,human_calibration,human__raid:74bd396a-1eb5-498e-953e-f21144f55192,0.38998684020673685
+Adapted rewritten,human_calibration,human__raid:76b0e075-67fa-4920-ae1c-252572a4897c,0.483577380952381
+Adapted rewritten,human_calibration,human__raid:7ad8bde2-1d88-4648-93c7-225b5bd56b59,0.48584395234395195
+Adapted rewritten,human_calibration,human__raid:7c10bd9a-65bb-404e-a34e-cb253eca6d06,0.464602512683395
+Adapted rewritten,human_calibration,human__raid:7c773988-4029-401b-9969-b10b82648121,0.4986650906946439
+Adapted rewritten,human_calibration,human__raid:7edd063b-20e3-4ba7-90d6-bdff6d5bc2df,0.5503217957099601
+Adapted rewritten,human_calibration,human__raid:7f3f2598-a921-48ae-a0a1-17c7d8eb20cf,0.5017081190433306
+Adapted rewritten,human_calibration,human__raid:81fdf5b4-3ef3-47c8-a145-0b0866daeb88,0.42140006818346454
+Adapted rewritten,human_calibration,human__raid:86e638b1-8a67-48e0-95f4-af1b482ad249,0.4436996344665251
+Adapted rewritten,human_calibration,human__raid:88243a01-448e-4f16-ae9f-680f1941af86,0.36546049441701633
+Adapted rewritten,human_calibration,human__raid:8a0c1509-4338-4973-ba92-3a054ac55370,0.35687668524286165
+Adapted rewritten,human_calibration,human__raid:8ad31978-d20e-4954-8ba2-fb1d12e9fbce,0.3632817762303059
+Adapted rewritten,human_calibration,human__raid:8adc99bd-0389-4e34-a475-b988a1b0a434,0.41394330756108166
+Adapted rewritten,human_calibration,human__raid:8aefbf9a-0670-4941-90cd-5c8149cb7ef0,0.39581381785742237
+Adapted rewritten,human_calibration,human__raid:8e602567-88ca-45a2-99bd-8cdbf1b15497,0.5619161584519812
+Adapted rewritten,human_calibration,human__raid:90e5123d-058d-4ea8-bb23-abc98697967b,0.5211845354937461
+Adapted rewritten,human_calibration,human__raid:9655cbdb-73f8-477f-9ee5-61d5f01d67f4,0.3910851421483
+Adapted rewritten,human_calibration,human__raid:969f8e94-3b2b-48d4-a485-b44c00912dc1,0.44944622110561294
+Adapted rewritten,human_calibration,human__raid:9838c4e6-7481-4ede-885a-0107864f57ed,0.5490415614980831
+Adapted rewritten,human_calibration,human__raid:990201c6-f043-48dc-a6b7-0b088bc66581,0.3945571760397612
+Adapted rewritten,human_calibration,human__raid:9d66d34c-dfdd-4e9b-bacd-f0eb51a9ec48,0.48161933851309946
+Adapted rewritten,human_calibration,human__raid:a1480b37-f78e-4029-9ad9-a53f6d228d1d,0.43861320888004324
+Adapted rewritten,human_calibration,human__raid:a1fa9ca5-8995-4682-99d2-36091671f5b1,0.27277846037404857
+Adapted rewritten,human_calibration,human__raid:a22e348a-5716-49be-abe0-7b2e0fa79b9f,0.23848820670333956
+Adapted rewritten,human_calibration,human__raid:a4e2a924-86ed-4f9a-a2c7-3fa5b0810e22,0.5280335843789359
+Adapted rewritten,human_calibration,human__raid:a5eb8ed9-0595-49a8-bc18-2c39a8e66177,0.4328459277182396
+Adapted rewritten,human_calibration,human__raid:abb52ff9-0aed-495d-a25d-bb4a9a26a432,0.5534331144512596
+Adapted rewritten,human_calibration,human__raid:ac6ca2b8-f8fb-4a5e-b3d5-65bab1030830,0.36521238218053803
+Adapted rewritten,human_calibration,human__raid:b40c6a45-72a4-4d51-abe5-986a5a9eeaae,0.3729994557292945
+Adapted rewritten,human_calibration,human__raid:b54ef358-9f79-47fb-a7b5-28d075d1233e,0.4212336979908139
+Adapted rewritten,human_calibration,human__raid:b8a21be5-4576-4851-b9ce-2b50e03faf1d,0.6277258571751609
+Adapted rewritten,human_calibration,human__raid:b9e8f298-0052-499c-843d-91f7a381cfac,0.35298483105300443
+Adapted rewritten,human_calibration,human__raid:ba02d141-24b3-47a1-9ad7-31dba57d3b69,0.589258181582028
+Adapted rewritten,human_calibration,human__raid:bb95ea2d-5a21-468b-9111-bb6a0169b823,0.5481435032068999
+Adapted rewritten,human_calibration,human__raid:bd6b1fc2-4a95-46be-8fb4-05a537fb4cfd,0.433734618852653
+Adapted rewritten,human_calibration,human__raid:bfb139ad-a70c-4c2f-8dff-907f1caf201d,0.47934860912396154
+Adapted rewritten,human_calibration,human__raid:c410e2b4-3b36-4751-ae08-ad9352a7a19e,0.46316688625384284
+Adapted rewritten,human_calibration,human__raid:c4c7265f-50fa-4309-ba65-40d8b9e53a3b,0.40708466570911234
+Adapted rewritten,human_calibration,human__raid:c864b144-ebe3-49d1-b6cf-dbae94554954,0.3472360892542347
+Adapted rewritten,human_calibration,human__raid:c88bc2c1-3448-4ee6-81a9-c23e1ae2b011,0.45493664107672716
+Adapted rewritten,human_calibration,human__raid:c9481a76-b4ce-46e8-ac3a-4c499a497254,0.35528087353129806
+Adapted rewritten,human_calibration,human__raid:ca3adb6d-b738-43c5-adb0-cdca392cfb6c,0.36542658301114184
+Adapted rewritten,human_calibration,human__raid:ce978610-999c-4a01-80aa-95c95a4596d9,0.42419775740828386
+Adapted rewritten,human_calibration,human__raid:cebe746c-3fa5-4e80-a64d-6b3f0d23812f,0.29752379307014853
+Adapted rewritten,human_calibration,human__raid:cf477deb-ee52-4d5a-9ac1-276cf3a8a7d5,0.5218817661634031
+Adapted rewritten,human_calibration,human__raid:d2f37990-467e-45a2-a58c-3a95b91d4010,0.5827062435615068
+Adapted rewritten,human_calibration,human__raid:d3e6aa01-50c3-471a-b033-c7cbedffd9ef,0.5199202612021235
+Adapted rewritten,human_calibration,human__raid:d57ad437-a63a-450a-ad44-a1e71c999d2b,0.3811234312705308
+Adapted rewritten,human_calibration,human__raid:d74007ac-5fba-4945-902d-1ab4710de3a2,0.2972263883814395
+Adapted rewritten,human_calibration,human__raid:ddcb1e79-7fc8-4a99-9ab6-ffbef3755f4b,0.35375575894693556
+Adapted rewritten,human_calibration,human__raid:de83ddd2-024a-472d-b564-7988c1c0e565,0.5668681795790027
+Adapted rewritten,human_calibration,human__raid:deb236f9-d956-4cb6-a7fd-dfc3b7d10473,0.48891756630977434
+Adapted rewritten,human_calibration,human__raid:df73ffcc-9d88-4afb-bd36-5c4dcfe7f89c,0.3287855639730639
+Adapted rewritten,human_calibration,human__raid:dfc140c7-afe2-459d-94d8-ba3332030eba,0.49068684816880886
+Adapted rewritten,human_calibration,human__raid:e27cc8a2-263c-47e9-bdb5-414bc4adaa9c,0.5733445091753914
+Adapted rewritten,human_calibration,human__raid:e2ca43db-2d7c-4d8a-86cc-c5df97665e5f,0.5106149449067743
+Adapted rewritten,human_calibration,human__raid:e5c7b03a-0579-4ab1-91b7-ed939c2301e6,0.34644667973901794
+Adapted rewritten,human_calibration,human__raid:e6499adf-a5d3-4f01-ab84-b5d43df7a0a2,0.49049943527437145
+Adapted rewritten,human_calibration,human__raid:e7065e9d-a1a8-49a1-9e9d-40cd892dd71e,0.425360425483956
+Adapted rewritten,human_calibration,human__raid:e77fd92a-6788-4dc2-bd28-fe3b3bf23a01,0.5268971615497031
+Adapted rewritten,human_calibration,human__raid:e7db564c-aeab-485e-b5ff-666847ce01fe,0.36779662076816777
+Adapted rewritten,human_calibration,human__raid:edabc259-13b2-44ef-9b4e-8b6187890632,0.46219577043738536
+Adapted rewritten,human_calibration,human__raid:f8b1e390-09c2-47df-8eba-de406dd0643f,0.2733277467955553
+Adapted rewritten,human_calibration,human__raid:ff1852da-b86f-48a7-ad57-1389b1c5d595,0.46205356178154916
+Adapted rewritten,human_calibration,human__raid:ff24f8e9-e876-4bac-9a07-da1965c72f9c,0.3436428701110075
+Adapted rewritten,human_calibration,human__raid:ffe4d62a-7342-4b9c-a3d9-a0bd88e354f7,0.34924639934545276
+Ordinary augmentation,AI,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,0.6753336482074849
+Ordinary augmentation,AI,ai__raid:7bd2da2a-4f21-4b84-91a7-2cb37fd80071,0.45867241139493453
+Ordinary augmentation,AI,ai__raid:cfb5728e-c896-4ed5-8173-f39be5ff5f97,0.5102230191420101
+Ordinary augmentation,AI,ai__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,0.6493266465049183
+Ordinary augmentation,AI,ai__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,0.42837456497750587
+Ordinary augmentation,AI,ai__raid:eb76307e-f969-4523-9943-52da0e3f78a8,0.5693002274776542
+Ordinary augmentation,AI,ai__raid:4c4676d5-c143-448c-b058-9c360b04d900,0.3868930814555813
+Ordinary augmentation,AI,ai__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,0.5140681125312873
+Ordinary augmentation,AI,ai__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,0.5005579942982793
+Ordinary augmentation,AI,ai__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,0.406665446481623
+Ordinary augmentation,AI,ai__raid:603b6d03-c745-4378-a2db-5b0705bddd34,0.5209412477059271
+Ordinary augmentation,AI,ai__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,0.5786483094160819
+Ordinary augmentation,AI,ai__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,0.5528494671057687
+Ordinary augmentation,AI,ai__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,0.4794785469663235
+Ordinary augmentation,AI,ai__raid:bf3df034-9724-4840-86cb-33eb1489b717,0.36287415824915836
+Ordinary augmentation,AI,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,0.5545375491882845
+Ordinary augmentation,AI,ai__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,0.6381002853785369
+Ordinary augmentation,AI,ai__raid:70764dd8-197a-415b-8c5f-2ebd022e0fd7,0.621370730798305
+Ordinary augmentation,AI,ai__raid:b0d2e4eb-3c43-49ce-bfe1-9a6eafef8b02,0.45426080018274734
+Ordinary augmentation,AI,ai__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,0.2880683835492514
+Ordinary augmentation,AI,ai__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,0.6485637945901542
+Ordinary augmentation,AI,ai__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,0.40575306271828016
+Ordinary augmentation,AI,ai__raid:c9d4b9c3-20c6-4527-8838-6cbc2263bb00,0.48673642608619855
+Ordinary augmentation,AI,ai__raid:90cd9493-2714-47d7-b052-f3c621294322,0.49494808847256905
+Ordinary augmentation,AI,ai__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,0.39453545427158115
+Ordinary augmentation,AI,ai__raid:723a39e2-9540-4faa-b682-d608457dfde1,0.4265667212346746
+Ordinary augmentation,AI,ai__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,0.47268374382528466
+Ordinary augmentation,AI,ai__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,0.5513722859735672
+Ordinary augmentation,AI,ai__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,0.5028206232082111
+Ordinary augmentation,AI,ai__raid:788e4594-960c-4621-8b5e-6f82b7552d7b,0.42830001789444216
+Ordinary augmentation,AI,ai__raid:e3945a96-7048-41d9-9e86-a84e87818986,0.23670592075131996
+Ordinary augmentation,AI,ai__raid:b146a6b9-b531-4709-ac99-6a3852b3c619,0.4281214203332672
+Ordinary augmentation,AI,ai__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,0.698982475922979
+Ordinary augmentation,AI,ai__raid:91bb1e48-f280-46f3-9fd3-b7c7d9cb7e1a,0.576750009250009
+Ordinary augmentation,human_test,human__raid:0216216b-fd4f-403b-87f3-b1c52f29a3f1,0.4594496282569657
+Ordinary augmentation,human_test,human__raid:070db71f-3f44-4ebf-b9dc-cf780644667c,0.5015130847128318
+Ordinary augmentation,human_test,human__raid:092aa2bc-f8b6-4a7b-8bac-40b62e0dbb25,0.41849516614675425
+Ordinary augmentation,human_test,human__raid:0932165c-37b5-4c07-a15d-ded908d7dc32,0.581742094742666
+Ordinary augmentation,human_test,human__raid:0a9dc4af-7338-49c0-b3d9-3a1a3cf1606f,0.4387853472754636
+Ordinary augmentation,human_test,human__raid:119d954e-9a2c-4ad6-bd1b-b03ed29034f0,0.5317399874091052
+Ordinary augmentation,human_test,human__raid:140bcdd4-cb85-49b7-ad40-483a21380193,0.49818488043123066
+Ordinary augmentation,human_test,human__raid:167102f2-a17b-4860-9984-67709aab5d53,0.4125466288181805
+Ordinary augmentation,human_test,human__raid:1780eb3e-7c44-4355-a331-e175e5c8c198,0.3893843557758031
+Ordinary augmentation,human_test,human__raid:1d8ef537-eff4-4324-ae39-02b5caecb61c,0.31799037751885345
+Ordinary augmentation,human_test,human__raid:1de9f910-c6a9-4bf8-8a2d-1f9c07390417,0.3483387652460065
+Ordinary augmentation,human_test,human__raid:25689644-8159-4de0-8167-2efea735f75b,0.5269393076966608
+Ordinary augmentation,human_test,human__raid:26d2f09e-1b32-4e0b-acc6-fbca10b7051a,0.5685932628782849
+Ordinary augmentation,human_test,human__raid:2737d3fd-1ed6-40ae-acb9-d1af0baf5b7c,0.3741063028554559
+Ordinary augmentation,human_test,human__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,0.523963581295389
+Ordinary augmentation,human_test,human__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,0.5411209642723802
+Ordinary augmentation,human_test,human__raid:2b6630cd-9256-497f-83b2-366131834f3a,0.39900325250984187
+Ordinary augmentation,human_test,human__raid:2f47f011-2a2a-47fb-8380-81bbfd3aea9f,0.3831185507961824
+Ordinary augmentation,human_test,human__raid:2faf4463-e954-4388-a603-ae85c31b8c00,0.5263730804265475
+Ordinary augmentation,human_test,human__raid:31c9da8a-8533-4763-b0ce-b1e54082b6f8,0.49113123813186915
+Ordinary augmentation,human_test,human__raid:34071d29-fbbf-4230-9ee4-55f1c54b2b5e,0.5310032078853631
+Ordinary augmentation,human_test,human__raid:347fcffd-ce79-4b6f-9e45-cb1cf0ba60a9,0.37538745270324203
+Ordinary augmentation,human_test,human__raid:37897e56-78e7-4aaa-a974-a9ec4f8facb3,0.4527288383234176
+Ordinary augmentation,human_test,human__raid:39839ad8-9b55-46f1-bfa9-16cd1c961cce,0.38270860685010716
+Ordinary augmentation,human_test,human__raid:3a75780e-80cf-4695-b297-bb5c7edd5de3,0.46723762621412884
+Ordinary augmentation,human_test,human__raid:3bc610dd-010e-480c-8af3-1c5da8728644,0.5438028607490755
+Ordinary augmentation,human_test,human__raid:3c44b645-d716-4865-b596-7c4e6f24fe06,0.33182368502956744
+Ordinary augmentation,human_test,human__raid:3e7fb3a2-3d32-43b1-ba60-c4689d38caee,0.417971722243274
+Ordinary augmentation,human_test,human__raid:3f88fbdd-9dde-4766-a8db-05b0f2e0957e,0.2972965916164447
+Ordinary augmentation,human_test,human__raid:401abcef-a6a6-41c9-bb25-766e6609d835,0.5471488832362823
+Ordinary augmentation,human_test,human__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,0.42799599336422073
+Ordinary augmentation,human_test,human__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,0.4145570522472696
+Ordinary augmentation,human_test,human__raid:4c4676d5-c143-448c-b058-9c360b04d900,0.423377451702004
+Ordinary augmentation,human_test,human__raid:4e41049d-f855-47f9-8e31-1e1a8aebd832,0.31160325846181114
+Ordinary augmentation,human_test,human__raid:4e8d2b69-fd42-4cc4-8f94-e52400e1e1b6,0.4565219326161243
+Ordinary augmentation,human_test,human__raid:50d75674-15c7-4c9a-a9d4-9589bfd2c16d,0.5666128998075156
+Ordinary augmentation,human_test,human__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,0.6443937803753985
+Ordinary augmentation,human_test,human__raid:5e96071b-cd3e-4461-9948-96d041e63767,0.30139498591313113
+Ordinary augmentation,human_test,human__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,0.4984091590384161
+Ordinary augmentation,human_test,human__raid:603b6d03-c745-4378-a2db-5b0705bddd34,0.44223634669069073
+Ordinary augmentation,human_test,human__raid:63020fe1-645b-4dbb-988a-3bb080f2d56e,0.5296967502817544
+Ordinary augmentation,human_test,human__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,0.45843074300427267
+Ordinary augmentation,human_test,human__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,0.44157040644540624
+Ordinary augmentation,human_test,human__raid:6cb1edfa-92ac-4618-9084-7d84a4193bc4,0.25857927289869725
+Ordinary augmentation,human_test,human__raid:6d37b523-501f-412e-a18b-645d8e3653a6,0.4781156564529063
+Ordinary augmentation,human_test,human__raid:70764dd8-197a-415b-8c5f-2ebd022e0fd7,0.5816266587312401
+Ordinary augmentation,human_test,human__raid:723a39e2-9540-4faa-b682-d608457dfde1,0.4268122009569379
+Ordinary augmentation,human_test,human__raid:731ae711-8582-44b0-be0d-583188e43781,0.7124807969807972
+Ordinary augmentation,human_test,human__raid:788e4594-960c-4621-8b5e-6f82b7552d7b,0.2502476629764366
+Ordinary augmentation,human_test,human__raid:7896a7b3-fe69-4bde-98a2-1e295f9550d2,0.3535895169645168
+Ordinary augmentation,human_test,human__raid:79171045-dc71-449b-acd4-8265ffefa6ca,0.4999929477598253
+Ordinary augmentation,human_test,human__raid:7a2f76a2-30e0-4d30-b9bf-6bb7b6f82c1e,0.41155464905464917
+Ordinary augmentation,human_test,human__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,0.40000832126379865
+Ordinary augmentation,human_test,human__raid:7a5de8ac-c1d0-45c4-ae1f-cda8899b4b9c,0.4121235857996935
+Ordinary augmentation,human_test,human__raid:7adad01b-ff5c-4c95-be22-aa936adb7eed,0.43171029547401557
+Ordinary augmentation,human_test,human__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,0.49596019788697976
+Ordinary augmentation,human_test,human__raid:7bd2da2a-4f21-4b84-91a7-2cb37fd80071,0.36706194904459477
+Ordinary augmentation,human_test,human__raid:7c9e5e4d-3046-440f-a9d0-3cc164eb3844,0.6056535062791225
+Ordinary augmentation,human_test,human__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,0.545380580455682
+Ordinary augmentation,human_test,human__raid:8598c9e2-8e28-46b2-a6da-a22b767aae49,0.5375662682498233
+Ordinary augmentation,human_test,human__raid:8760103e-729a-4bab-b799-5775ac2468b1,0.4937203388566695
+Ordinary augmentation,human_test,human__raid:892580ca-0b4d-4920-8137-d3285fdd878b,0.4210792258931322
+Ordinary augmentation,human_test,human__raid:89ad70e0-cac0-4bfa-a0a4-f5ae74aa18cc,0.37553240292751705
+Ordinary augmentation,human_test,human__raid:8b0085fa-411d-4fc1-bbc1-d0d97bca2ebb,0.44250709141673333
+Ordinary augmentation,human_test,human__raid:8b24d3c9-051b-4d8d-b88b-ddac08f4e80f,0.41457717960990054
+Ordinary augmentation,human_test,human__raid:90cd9493-2714-47d7-b052-f3c621294322,0.5416527419907502
+Ordinary augmentation,human_test,human__raid:91bb1e48-f280-46f3-9fd3-b7c7d9cb7e1a,0.6354143217893222
+Ordinary augmentation,human_test,human__raid:960a2cba-576a-4097-bee5-60042988d6ba,0.3924756974104803
+Ordinary augmentation,human_test,human__raid:966ff429-7e5b-409c-b301-181197592544,0.24766738969221597
+Ordinary augmentation,human_test,human__raid:971d96f8-bc01-4ccc-be38-ec05af40151c,0.5740565534566514
+Ordinary augmentation,human_test,human__raid:989ab1d1-5a4d-4e9d-b767-ca3023f3f207,0.479813261056682
+Ordinary augmentation,human_test,human__raid:9b304701-be3e-43a7-9b8c-ad33ca18bfcd,0.4616292153341123
+Ordinary augmentation,human_test,human__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,0.5020434978983663
+Ordinary augmentation,human_test,human__raid:9c52d90c-846a-4479-8484-bd21e658f787,0.636371550758935
+Ordinary augmentation,human_test,human__raid:9c57c4d7-75d9-48d2-a758-75ccb88aa272,0.4337332321603047
+Ordinary augmentation,human_test,human__raid:9de11be0-bc27-4b41-8844-1f4d91abac60,0.3720577771901301
+Ordinary augmentation,human_test,human__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,0.5699903083694811
+Ordinary augmentation,human_test,human__raid:a2b8f3d1-1bc0-4b62-8bc5-003e55b2f7b5,0.5337413025339968
+Ordinary augmentation,human_test,human__raid:a37e28be-98b1-4e8b-a568-5ee3503de484,0.6560674510674511
+Ordinary augmentation,human_test,human__raid:a40984f5-f447-464b-8a6a-eaa8d6f76d12,0.38278399096877325
+Ordinary augmentation,human_test,human__raid:a4fd071e-41e7-48bc-a95c-829d6b86dff4,0.5382241639079879
+Ordinary augmentation,human_test,human__raid:a6e2d7dc-e158-4c10-8e84-d17b2a48ba5a,0.48925048236645846
+Ordinary augmentation,human_test,human__raid:a77e8e92-8af5-4e1d-ab67-65bf52a8d5d7,0.2882495494613618
+Ordinary augmentation,human_test,human__raid:aa295f63-383e-4a23-9c41-1108391ff777,0.5522556496738082
+Ordinary augmentation,human_test,human__raid:adcce3e8-16bb-4c93-8884-4af827f6dc61,0.37227183930900587
+Ordinary augmentation,human_test,human__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,0.6365225572796734
+Ordinary augmentation,human_test,human__raid:af383c6d-11c9-4169-a2fa-58280f83ca96,0.44638308246273073
+Ordinary augmentation,human_test,human__raid:b0d2e4eb-3c43-49ce-bfe1-9a6eafef8b02,0.4314041725375166
+Ordinary augmentation,human_test,human__raid:b146a6b9-b531-4709-ac99-6a3852b3c619,0.44538649527446816
+Ordinary augmentation,human_test,human__raid:b33bfbfe-9837-4588-903a-4bdd3f2470f7,0.41648671776864254
+Ordinary augmentation,human_test,human__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,0.4907918665695748
+Ordinary augmentation,human_test,human__raid:b4c2bfc5-c80d-44c2-8a8e-9bbcc458ac00,0.5107895614513983
+Ordinary augmentation,human_test,human__raid:b6bf4100-050e-4389-a49c-35b5fc02dd9e,0.20608254075359347
+Ordinary augmentation,human_test,human__raid:bb27d6eb-f06d-424b-bbbc-630d720a44eb,0.5156487272997601
+Ordinary augmentation,human_test,human__raid:bf053559-120d-4ac8-8cd3-c0eda1df5861,0.42743163521819516
+Ordinary augmentation,human_test,human__raid:bf3df034-9724-4840-86cb-33eb1489b717,0.2732565757828917
+Ordinary augmentation,human_test,human__raid:c0009c67-d594-4da3-af81-a06984e70ab5,0.4148620438314682
+Ordinary augmentation,human_test,human__raid:c0d15e54-b490-428c-a5c0-540099ae4eeb,0.5391095071059518
+Ordinary augmentation,human_test,human__raid:c2384d62-5400-4651-8cdb-b83c4a8bdf43,0.3733648833051005
+Ordinary augmentation,human_test,human__raid:c435eb9e-f80e-4ac6-9526-e1282c5c1266,0.4975178571428569
+Ordinary augmentation,human_test,human__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,0.5851210254937126
+Ordinary augmentation,human_test,human__raid:c9d4b9c3-20c6-4527-8838-6cbc2263bb00,0.3315115920354426
+Ordinary augmentation,human_test,human__raid:cbccc75e-54f7-4132-8b9e-5617b55caff3,0.40736470571339
+Ordinary augmentation,human_test,human__raid:cf67eb69-444d-4e5f-a88b-da82d19f89a9,0.45105018357843174
+Ordinary augmentation,human_test,human__raid:cfb5728e-c896-4ed5-8173-f39be5ff5f97,0.539751057330584
+Ordinary augmentation,human_test,human__raid:d80f6ba2-1916-4c19-b74c-8e9f77b7a066,0.3664615285515411
+Ordinary augmentation,human_test,human__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,0.38605599073873004
+Ordinary augmentation,human_test,human__raid:dc315335-0314-49c5-96b1-3211dc072983,0.4467144800295379
+Ordinary augmentation,human_test,human__raid:dc5c62f4-87cf-409b-9aea-dbb023230f7c,0.5500069995904595
+Ordinary augmentation,human_test,human__raid:de2cbdee-92fd-4c6e-aea1-2c1baa24eb70,0.35521698192794704
+Ordinary augmentation,human_test,human__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,0.4942940619953938
+Ordinary augmentation,human_test,human__raid:e3945a96-7048-41d9-9e86-a84e87818986,0.35613186441766975
+Ordinary augmentation,human_test,human__raid:e9f78f95-8a2d-4a0a-a47a-044c9c6c5c22,0.3199549486977978
+Ordinary augmentation,human_test,human__raid:ead211a3-a649-4022-be2d-63fb8536f78d,0.4490088125235393
+Ordinary augmentation,human_test,human__raid:eb76307e-f969-4523-9943-52da0e3f78a8,0.5684849958764435
+Ordinary augmentation,human_test,human__raid:eb80caa7-c8a1-42d5-85f0-d0563e707eb6,0.4628947817679858
+Ordinary augmentation,human_test,human__raid:efc8537a-8575-4af0-aae5-a06bc4bccc04,0.5347383977248532
+Ordinary augmentation,human_test,human__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,0.5548820389640853
+Ordinary augmentation,human_test,human__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,0.4395652707666295
+Ordinary augmentation,human_test,human__raid:f5f280b6-e8c1-4f10-9d16-0e6297e8c730,0.23730162537267807
+Ordinary augmentation,human_test,human__raid:f806b684-fa7f-41c5-a4a6-8692be841cea,0.3986565798521381
+Ordinary augmentation,human_test,human__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,0.25016557808663065
+Ordinary augmentation,human_test,human__raid:fae6fce3-fb87-469f-a655-e52447a8cd39,0.45912108702281385
+Ordinary augmentation,human_test,human__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,0.47753884537574504
+Ordinary augmentation,human_test,human__raid:fcd2c78e-c388-46be-9a2d-7a9cb77381ea,0.46326500307572277
+Ordinary augmentation,human_test,human__raid:fd5a753d-9d93-4b93-84a0-d0a65e45cdda,0.5351406392354918
+Ordinary augmentation,human_test,human__raid:fe252deb-2d6b-4ed6-bac4-315e1dc40e94,0.41996679339976994
+Ordinary augmentation,human_test,human__raid:fe4f15ee-af83-41e8-9772-b00be067b996,0.3918649905673465
+Ordinary augmentation,human_calibration,human__raid:008926a1-ea57-48b5-a847-c452efb21563,0.4945406777046482
+Ordinary augmentation,human_calibration,human__raid:00d25015-419f-45d0-a582-aefcccf69b9b,0.5734826813109115
+Ordinary augmentation,human_calibration,human__raid:03c64d14-611c-40f2-b3d6-17260526d7a7,0.370266911718271
+Ordinary augmentation,human_calibration,human__raid:061c84b2-a5d3-44d5-a7b7-3b6632a8e8b7,0.3670328269033032
+Ordinary augmentation,human_calibration,human__raid:07dc10ce-198b-4398-901a-872cd727f5e9,0.436642483313738
+Ordinary augmentation,human_calibration,human__raid:09fb582f-2073-43a0-9ccf-fd0f0f42b251,0.498062799451151
+Ordinary augmentation,human_calibration,human__raid:0cb539a2-b058-496a-88ec-a79a5ff5fc5e,0.4768912462052999
+Ordinary augmentation,human_calibration,human__raid:0db8bf93-c9e7-43df-8020-d888bd838961,0.5367376858442604
+Ordinary augmentation,human_calibration,human__raid:0f18a9a6-1340-4149-991e-c11d3bc8981f,0.5309167337086794
+Ordinary augmentation,human_calibration,human__raid:11156570-6cd5-44ed-8930-cffe19c91b3c,0.5174119074755851
+Ordinary augmentation,human_calibration,human__raid:12cd2887-ace8-4272-ba7f-893996f3a3b2,0.4192423987174993
+Ordinary augmentation,human_calibration,human__raid:17762914-561f-4267-902a-9fcdba40f19f,0.3998633341795009
+Ordinary augmentation,human_calibration,human__raid:1f5e623a-28b3-45cf-8b0f-bc1bf73722f4,0.37186741089875497
+Ordinary augmentation,human_calibration,human__raid:20bc66fe-b904-41fe-ae82-afaa1a8add08,0.42067032722179737
+Ordinary augmentation,human_calibration,human__raid:25cbc8ec-a4ab-428f-9069-a07cf0cc5e3b,0.4643702847293885
+Ordinary augmentation,human_calibration,human__raid:2653f2a2-64fd-4e3f-a91c-b3b7beba4a1a,0.66760331191327
+Ordinary augmentation,human_calibration,human__raid:265665d2-178d-48c8-8b3f-6209e026f11e,0.4862927473871719
+Ordinary augmentation,human_calibration,human__raid:27154897-f938-4a9f-ae7d-b586b70e98b7,0.4492726658206283
+Ordinary augmentation,human_calibration,human__raid:2ac62c5c-0829-4e65-8511-54fb369ec81a,0.2618065591815593
+Ordinary augmentation,human_calibration,human__raid:2afe5622-beb7-4f86-aa01-e5d8fe4a61b1,0.4207745907435636
+Ordinary augmentation,human_calibration,human__raid:2cfbcece-6faf-49c9-913b-26b22961c92d,0.3846149205918732
+Ordinary augmentation,human_calibration,human__raid:305d7537-e18e-4b0d-a16c-60d87698beeb,0.42337492332229165
+Ordinary augmentation,human_calibration,human__raid:323740f1-dcb9-4f29-b211-fd1a7d5227ad,0.30367174002468134
+Ordinary augmentation,human_calibration,human__raid:33035d99-818f-4314-b0d6-9d4fb4d7c1f3,0.33251297776297795
+Ordinary augmentation,human_calibration,human__raid:3395a29a-8b6d-4e5a-9296-10723b30b569,0.4429550592166689
+Ordinary augmentation,human_calibration,human__raid:36233ca4-81b3-4627-9ac7-0d253f86a734,0.39923973906963606
+Ordinary augmentation,human_calibration,human__raid:36a22e5f-8597-4e65-8143-ad3c6586aab7,0.40179147620537764
+Ordinary augmentation,human_calibration,human__raid:3c0bd1e6-6687-4370-a963-5202e22d5217,0.5579978442227034
+Ordinary augmentation,human_calibration,human__raid:41445ee0-bc03-4285-909f-cbb1bbcf9ea5,0.35350133338010686
+Ordinary augmentation,human_calibration,human__raid:44e1ef39-2253-40f9-9a49-07d9209aa162,0.6004603977893459
+Ordinary augmentation,human_calibration,human__raid:4533fa7e-2d8a-4c93-b8c0-95720a0707c2,0.49990911387245585
+Ordinary augmentation,human_calibration,human__raid:45595fdf-92c6-41de-800e-dceaabd4052a,0.5889092837797609
+Ordinary augmentation,human_calibration,human__raid:4852a5dd-e2e5-4ad8-bb4e-b8ce3d69d5d2,0.3125450235679147
+Ordinary augmentation,human_calibration,human__raid:4d165a1c-4d03-467a-bb76-3f9b01b7f6ee,0.4229593331536223
+Ordinary augmentation,human_calibration,human__raid:4faf09a2-3634-4faf-adda-e2d79f142db7,0.4312655723905722
+Ordinary augmentation,human_calibration,human__raid:50db252b-0567-4ad5-aa90-a05e6822012a,0.4568339635510691
+Ordinary augmentation,human_calibration,human__raid:51ada673-da2d-4ef7-8eb4-7021f1041780,0.35994899380786455
+Ordinary augmentation,human_calibration,human__raid:51fcd568-4656-475e-8141-cd66de432b35,0.3260329234483502
+Ordinary augmentation,human_calibration,human__raid:525462c1-055b-4067-8611-1863c77c4a6c,0.3925062345062345
+Ordinary augmentation,human_calibration,human__raid:53d947fc-cc6a-4b59-ab4e-637b4b090fee,0.49633284841586356
+Ordinary augmentation,human_calibration,human__raid:53fdbb53-7949-450d-8c91-9b509027ebaa,0.46349845437815096
+Ordinary augmentation,human_calibration,human__raid:557ca36d-bf6d-4bf6-98e5-9dda58d0bb8f,0.48016227753727764
+Ordinary augmentation,human_calibration,human__raid:56c3b328-045e-45f3-88a2-437c70f3361b,0.4666741733283803
+Ordinary augmentation,human_calibration,human__raid:59552172-1412-43fa-8e1a-b73acfb90c64,0.35101373994956936
+Ordinary augmentation,human_calibration,human__raid:598ce161-eb6a-469e-a4af-00842147c1b9,0.5213969834367935
+Ordinary augmentation,human_calibration,human__raid:5991f2bf-91d6-4d0c-8c11-d0f51ce2e5cc,0.47523638675532254
+Ordinary augmentation,human_calibration,human__raid:5abd6b2b-5740-48ee-98b5-c8ec741f6bea,0.28798678636178654
+Ordinary augmentation,human_calibration,human__raid:5d252b90-4510-41fa-929c-94f567698e3c,0.49246397529485764
+Ordinary augmentation,human_calibration,human__raid:5feb801a-14f8-4a0f-b158-2302446a5073,0.43839297739297733
+Ordinary augmentation,human_calibration,human__raid:601dbfce-2f14-4409-a435-23423f943ba6,0.5364953219797195
+Ordinary augmentation,human_calibration,human__raid:60f6dd32-9b8c-4ad8-a9e5-44124146ba72,0.41871435654134276
+Ordinary augmentation,human_calibration,human__raid:62b3fddd-8827-4ba6-881c-f673c50f454f,0.4064247656797962
+Ordinary augmentation,human_calibration,human__raid:66bd23da-3d78-4141-a6c6-89bbc434d01e,0.6003207796102537
+Ordinary augmentation,human_calibration,human__raid:66cd7478-7821-4dcc-b052-d17ebe3bfc71,0.4045091413216415
+Ordinary augmentation,human_calibration,human__raid:69171c6a-6dd0-4ec3-8d58-f62378cfeaf1,0.36032466899572174
+Ordinary augmentation,human_calibration,human__raid:6d39a9a8-ce81-4ebc-8ca3-86789bc9a8d2,0.4858871795920763
+Ordinary augmentation,human_calibration,human__raid:6d9664ef-d61d-4c4a-be06-bc6a122e26c7,0.5682596259949197
+Ordinary augmentation,human_calibration,human__raid:6e7faca9-ffea-4c5c-a403-302bfe84f2d7,0.5228124751065929
+Ordinary augmentation,human_calibration,human__raid:72ae3f66-807e-417b-bd0b-4c33801f29b1,0.544372585244868
+Ordinary augmentation,human_calibration,human__raid:74bd396a-1eb5-498e-953e-f21144f55192,0.45061867256410615
+Ordinary augmentation,human_calibration,human__raid:76b0e075-67fa-4920-ae1c-252572a4897c,0.49435717575916255
+Ordinary augmentation,human_calibration,human__raid:7ad8bde2-1d88-4648-93c7-225b5bd56b59,0.49372350288775846
+Ordinary augmentation,human_calibration,human__raid:7c10bd9a-65bb-404e-a34e-cb253eca6d06,0.45824355926419486
+Ordinary augmentation,human_calibration,human__raid:7c773988-4029-401b-9969-b10b82648121,0.4994263065934939
+Ordinary augmentation,human_calibration,human__raid:7edd063b-20e3-4ba7-90d6-bdff6d5bc2df,0.565049661352293
+Ordinary augmentation,human_calibration,human__raid:7f3f2598-a921-48ae-a0a1-17c7d8eb20cf,0.5302591874356583
+Ordinary augmentation,human_calibration,human__raid:81fdf5b4-3ef3-47c8-a145-0b0866daeb88,0.42764286250870914
+Ordinary augmentation,human_calibration,human__raid:86e638b1-8a67-48e0-95f4-af1b482ad249,0.4485497313354528
+Ordinary augmentation,human_calibration,human__raid:88243a01-448e-4f16-ae9f-680f1941af86,0.33922159467489
+Ordinary augmentation,human_calibration,human__raid:8a0c1509-4338-4973-ba92-3a054ac55370,0.3496322728472637
+Ordinary augmentation,human_calibration,human__raid:8ad31978-d20e-4954-8ba2-fb1d12e9fbce,0.3516085211085213
+Ordinary augmentation,human_calibration,human__raid:8adc99bd-0389-4e34-a475-b988a1b0a434,0.4157296973447028
+Ordinary augmentation,human_calibration,human__raid:8aefbf9a-0670-4941-90cd-5c8149cb7ef0,0.3798993665058614
+Ordinary augmentation,human_calibration,human__raid:8e602567-88ca-45a2-99bd-8cdbf1b15497,0.5578936370503708
+Ordinary augmentation,human_calibration,human__raid:90e5123d-058d-4ea8-bb23-abc98697967b,0.5142275779775771
+Ordinary augmentation,human_calibration,human__raid:9655cbdb-73f8-477f-9ee5-61d5f01d67f4,0.4070866203161632
+Ordinary augmentation,human_calibration,human__raid:969f8e94-3b2b-48d4-a485-b44c00912dc1,0.44541721749551166
+Ordinary augmentation,human_calibration,human__raid:9838c4e6-7481-4ede-885a-0107864f57ed,0.5238061478485332
+Ordinary augmentation,human_calibration,human__raid:990201c6-f043-48dc-a6b7-0b088bc66581,0.42138910745496116
+Ordinary augmentation,human_calibration,human__raid:9d66d34c-dfdd-4e9b-bacd-f0eb51a9ec48,0.4976731283422467
+Ordinary augmentation,human_calibration,human__raid:a1480b37-f78e-4029-9ad9-a53f6d228d1d,0.433192313779126
+Ordinary augmentation,human_calibration,human__raid:a1fa9ca5-8995-4682-99d2-36091671f5b1,0.2715512213229604
+Ordinary augmentation,human_calibration,human__raid:a22e348a-5716-49be-abe0-7b2e0fa79b9f,0.2317636853886853
+Ordinary augmentation,human_calibration,human__raid:a4e2a924-86ed-4f9a-a2c7-3fa5b0810e22,0.5307229225023345
+Ordinary augmentation,human_calibration,human__raid:a5eb8ed9-0595-49a8-bc18-2c39a8e66177,0.4327303039393556
+Ordinary augmentation,human_calibration,human__raid:abb52ff9-0aed-495d-a25d-bb4a9a26a432,0.5476065713039403
+Ordinary augmentation,human_calibration,human__raid:ac6ca2b8-f8fb-4a5e-b3d5-65bab1030830,0.3734313716660207
+Ordinary augmentation,human_calibration,human__raid:b40c6a45-72a4-4d51-abe5-986a5a9eeaae,0.4123901283901284
+Ordinary augmentation,human_calibration,human__raid:b54ef358-9f79-47fb-a7b5-28d075d1233e,0.42355184525749046
+Ordinary augmentation,human_calibration,human__raid:b8a21be5-4576-4851-b9ce-2b50e03faf1d,0.5826212446973319
+Ordinary augmentation,human_calibration,human__raid:b9e8f298-0052-499c-843d-91f7a381cfac,0.3591884440258322
+Ordinary augmentation,human_calibration,human__raid:ba02d141-24b3-47a1-9ad7-31dba57d3b69,0.5873731913319036
+Ordinary augmentation,human_calibration,human__raid:bb95ea2d-5a21-468b-9111-bb6a0169b823,0.5544019565574446
+Ordinary augmentation,human_calibration,human__raid:bd6b1fc2-4a95-46be-8fb4-05a537fb4cfd,0.4165337021271414
+Ordinary augmentation,human_calibration,human__raid:bfb139ad-a70c-4c2f-8dff-907f1caf201d,0.47941898697277946
+Ordinary augmentation,human_calibration,human__raid:c410e2b4-3b36-4751-ae08-ad9352a7a19e,0.46089920824789243
+Ordinary augmentation,human_calibration,human__raid:c4c7265f-50fa-4309-ba65-40d8b9e53a3b,0.38500481226215055
+Ordinary augmentation,human_calibration,human__raid:c864b144-ebe3-49d1-b6cf-dbae94554954,0.3287807770573448
+Ordinary augmentation,human_calibration,human__raid:c88bc2c1-3448-4ee6-81a9-c23e1ae2b011,0.468832579216407
+Ordinary augmentation,human_calibration,human__raid:c9481a76-b4ce-46e8-ac3a-4c499a497254,0.37706456515701536
+Ordinary augmentation,human_calibration,human__raid:ca3adb6d-b738-43c5-adb0-cdca392cfb6c,0.36980680067363003
+Ordinary augmentation,human_calibration,human__raid:ce978610-999c-4a01-80aa-95c95a4596d9,0.3959757275967658
+Ordinary augmentation,human_calibration,human__raid:cebe746c-3fa5-4e80-a64d-6b3f0d23812f,0.2874565232525759
+Ordinary augmentation,human_calibration,human__raid:cf477deb-ee52-4d5a-9ac1-276cf3a8a7d5,0.5245351949054837
+Ordinary augmentation,human_calibration,human__raid:d2f37990-467e-45a2-a58c-3a95b91d4010,0.5825509520707841
+Ordinary augmentation,human_calibration,human__raid:d3e6aa01-50c3-471a-b033-c7cbedffd9ef,0.4997778626602159
+Ordinary augmentation,human_calibration,human__raid:d57ad437-a63a-450a-ad44-a1e71c999d2b,0.38991658427695197
+Ordinary augmentation,human_calibration,human__raid:d74007ac-5fba-4945-902d-1ab4710de3a2,0.26678035682640944
+Ordinary augmentation,human_calibration,human__raid:ddcb1e79-7fc8-4a99-9ab6-ffbef3755f4b,0.3663776742905427
+Ordinary augmentation,human_calibration,human__raid:de83ddd2-024a-472d-b564-7988c1c0e565,0.5832919150080499
+Ordinary augmentation,human_calibration,human__raid:deb236f9-d956-4cb6-a7fd-dfc3b7d10473,0.49222706807426014
+Ordinary augmentation,human_calibration,human__raid:df73ffcc-9d88-4afb-bd36-5c4dcfe7f89c,0.34246997698947845
+Ordinary augmentation,human_calibration,human__raid:dfc140c7-afe2-459d-94d8-ba3332030eba,0.4566139136793233
+Ordinary augmentation,human_calibration,human__raid:e27cc8a2-263c-47e9-bdb5-414bc4adaa9c,0.5762888971464739
+Ordinary augmentation,human_calibration,human__raid:e2ca43db-2d7c-4d8a-86cc-c5df97665e5f,0.49940264903472403
+Ordinary augmentation,human_calibration,human__raid:e5c7b03a-0579-4ab1-91b7-ed939c2301e6,0.32563409275909266
+Ordinary augmentation,human_calibration,human__raid:e6499adf-a5d3-4f01-ab84-b5d43df7a0a2,0.5168372515423156
+Ordinary augmentation,human_calibration,human__raid:e7065e9d-a1a8-49a1-9e9d-40cd892dd71e,0.41155472060619086
+Ordinary augmentation,human_calibration,human__raid:e77fd92a-6788-4dc2-bd28-fe3b3bf23a01,0.520895936502944
+Ordinary augmentation,human_calibration,human__raid:e7db564c-aeab-485e-b5ff-666847ce01fe,0.4237050206372961
+Ordinary augmentation,human_calibration,human__raid:edabc259-13b2-44ef-9b4e-8b6187890632,0.4276224750491052
+Ordinary augmentation,human_calibration,human__raid:f8b1e390-09c2-47df-8eba-de406dd0643f,0.24847075468697555
+Ordinary augmentation,human_calibration,human__raid:ff1852da-b86f-48a7-ad57-1389b1c5d595,0.4478215270426797
+Ordinary augmentation,human_calibration,human__raid:ff24f8e9-e876-4bac-9a07-da1965c72f9c,0.35253850695310124
+Ordinary augmentation,human_calibration,human__raid:ffe4d62a-7342-4b9c-a3d9-a0bd88e354f7,0.32364075354767774

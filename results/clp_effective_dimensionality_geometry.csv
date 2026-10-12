@@ -1,0 +1,5 @@
+scorer,representation,n_docs,n_coordinates,participation_ratio,r90,r95,r99,r999,pc1_corr_L256
+Qwen3-0.6B,Raw,292,249,1.0781990336581693,1,1,3,16,0.9839875916207915
+Qwen3-0.6B,EndpointNormalizedShape,292,248,1.8501523338625674,3,6,20,85,
+GPT-2,Raw,292,249,1.1305086809501088,1,2,4,19,0.9733829697510505
+GPT-2,EndpointNormalizedShape,292,248,1.7260892514689241,3,5,17,74,

@@ -1,0 +1,2 @@
+detector,arm,baseline,delta_AUROC,ci_low,ci_high
+GLTR,NS10-Batch2,OG-Batch2,-0.2982360969063921,-0.3762122052320118,-0.2221118477591262

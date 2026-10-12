@@ -1,0 +1,9 @@
+detector,exposure,checkpoint,available
+RoBERTa,RAID_only,REPO_ROOT/results/causal/C08b_RoBERTa_competitors_RAFT_NS11_v1/adaptation/RAID_only/best_model,True
+WaveDetect,RAID_only,REPO_ROOT/results/causal/C08d_WaveDetect_competitors_RAFT_NS11_v1/RAID_only_continuation/best.pt,True
+RoBERTa,NS10,REPO_ROOT/results/causal/C08b_RoBERTa_competitors_RAFT_NS11_v1/adaptation/NS10/best_model,True
+WaveDetect,NS10,REPO_ROOT/results/causal/C08d_WaveDetect_competitors_RAFT_NS11_v1/NS10/best.pt,True
+RoBERTa,OG_RAFT,REPO_ROOT/results/causal/C08b_RoBERTa_competitors_RAFT_NS11_v1/adaptation/OG_RAFT/best_model,True
+WaveDetect,OG_RAFT,REPO_ROOT/results/causal/C08d_WaveDetect_competitors_RAFT_NS11_v1/OG_RAFT/best.pt,True
+RoBERTa,NS11,REPO_ROOT/results/causal/C08b_RoBERTa_competitors_RAFT_NS11_v1/adaptation/NS11/best_model,True
+WaveDetect,NS11,REPO_ROOT/results/causal/C08d_WaveDetect_competitors_RAFT_NS11_v1/NS11/best.pt,True

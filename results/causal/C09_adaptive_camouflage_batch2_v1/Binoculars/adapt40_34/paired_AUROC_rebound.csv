@@ -1,0 +1,2 @@
+detector,exposure,heldout,comparison,delta_AUROC,ci_low,ci_high
+Binoculars,40,34,Adapted_minus_Frozen,0.012675495782734506,0.005887889677116412,0.02027952384345851

@@ -1,0 +1,5 @@
+case_id,original_output_tokens,original_words,alarm_detected,alarm_output_token,danger_start_output_token,rewind_target_output_token,tokens_removed_at_initial_rewind,alarm_word,rewind_target_word,last_H_roll16
+gate_0035,640,538,True,311.0,303.0,279.0,32.0,243.0,218.0,6.099243134260178
+gate_0039,389,252,False,,,,,,,
+gate_0078,543,413,True,507.0,499.0,475.0,32.0,380.0,349.0,6.8269984126091
+gate_0025,638,421,False,,,,,,,

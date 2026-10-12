@@ -1,0 +1,19 @@
+metric,transition,cases,gained,preserved,lost,crossed_entire_band,NS10_attained_then_NS11_lost
+L128,OG → NS10,39,18,11,5,3,
+L128,OG → OG_RAFT,39,16,9,7,3,
+L128,NS10 → NS11,39,3,16,13,2,6.0
+L32,OG → NS10,39,11,23,3,1,
+L32,OG → OG_RAFT,39,7,21,5,3,
+L32,NS10 → NS11,39,2,18,16,1,6.0
+L8,OG → NS10,39,14,13,11,0,
+L8,OG → OG_RAFT,39,8,24,0,5,
+L8,NS10 → NS11,39,7,14,13,1,7.0
+U128,OG → NS10,39,7,21,9,0,
+U128,OG → OG_RAFT,39,8,24,6,1,
+U128,NS10 → NS11,39,7,23,5,0,1.0
+U32,OG → NS10,39,4,21,10,3,
+U32,OG → OG_RAFT,39,5,26,5,2,
+U32,NS10 → NS11,39,9,19,6,1,1.0
+extra_32_to_128,OG → NS10,39,5,21,10,2,
+extra_32_to_128,OG → OG_RAFT,39,5,20,11,2,
+extra_32_to_128,NS10 → NS11,39,12,19,7,0,2.0

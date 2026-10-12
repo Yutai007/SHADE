@@ -1,0 +1,55 @@
+case_id,source_id,domain,HIP_RAID_0.6B:input_truncated,HIP_RAID_0.6B:output_capped,MASH_RAID_GB:input_truncated,MASH_RAID_GB:output_capped,UTS_SYNTH_RECON:input_truncated,UTS_SYNTH_RECON:output_capped,UTS_STREAM_RECON:input_truncated,UTS_STREAM_RECON:output_capped,included,exclusion_reasons
+gate_0001,ai__raid:af383c6d-11c9-4169-a2fa-58280f83ca96,abstracts,False,False,False,True,False,False,False,False,False,MASH_RAID_GB:output_capped
+gate_0003,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,news,True,True,False,False,False,False,False,False,False,HIP_RAID_0.6B:input_truncated; HIP_RAID_0.6B:output_capped
+gate_0004,ai__raid:f5f280b6-e8c1-4f10-9d16-0e6297e8c730,recipes,False,False,False,False,False,False,False,False,True,
+gate_0005,ai__raid:7bd2da2a-4f21-4b84-91a7-2cb37fd80071,reddit,False,False,False,False,False,False,False,False,True,
+gate_0007,ai__raid:ae32af9e-d8dc-415d-bb9f-051981e11dd4,wiki,False,False,False,False,False,False,False,False,True,
+gate_0015,ai__raid:cfb5728e-c896-4ed5-8173-f39be5ff5f97,abstracts,False,False,False,True,False,False,False,False,False,MASH_RAID_GB:output_capped
+gate_0016,ai__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,books,False,False,False,False,False,False,False,False,True,
+gate_0017,ai__raid:b4b807b1-fbfa-43d8-9fc3-61bd36b078ef,news,False,False,False,True,False,False,False,False,False,MASH_RAID_GB:output_capped
+gate_0018,ai__raid:6caeff0b-6fa7-4fea-9a48-342fe2d6b83b,recipes,True,True,False,False,False,False,False,False,False,HIP_RAID_0.6B:input_truncated; HIP_RAID_0.6B:output_capped
+gate_0019,ai__raid:dc315335-0314-49c5-96b1-3211dc072983,reddit,False,False,False,False,False,False,False,False,True,
+gate_0020,ai__raid:eb76307e-f969-4523-9943-52da0e3f78a8,reviews,True,True,False,True,False,False,False,False,False,HIP_RAID_0.6B:input_truncated; HIP_RAID_0.6B:output_capped; MASH_RAID_GB:output_capped
+gate_0021,ai__raid:cf67eb69-444d-4e5f-a88b-da82d19f89a9,wiki,False,False,False,False,False,False,False,False,True,
+gate_0022,ai__raid:4c4676d5-c143-448c-b058-9c360b04d900,abstracts,False,False,False,True,False,False,False,False,False,MASH_RAID_GB:output_capped
+gate_0023,ai__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,books,True,True,False,False,False,False,False,False,False,HIP_RAID_0.6B:input_truncated; HIP_RAID_0.6B:output_capped
+gate_0024,ai__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,news,True,False,False,True,False,False,False,False,False,HIP_RAID_0.6B:input_truncated; MASH_RAID_GB:output_capped
+gate_0025,ai__raid:dab3ef7f-6a54-49f9-9367-e907f0618c82,recipes,False,False,False,False,False,False,False,False,True,
+gate_0026,ai__raid:603b6d03-c745-4378-a2db-5b0705bddd34,reddit,False,False,False,False,False,False,False,False,True,
+gate_0027,ai__raid:f3cc8b87-5e7a-49cb-bc52-a57b28ce27d2,wiki,False,False,False,False,False,False,False,False,True,
+gate_0028,ai__raid:1780eb3e-7c44-4355-a331-e175e5c8c198,abstracts,False,False,False,True,False,False,False,False,False,MASH_RAID_GB:output_capped
+gate_0030,ai__raid:fcc95fec-43c3-4885-86f5-8e310a8d552f,news,False,False,False,False,False,False,False,False,True,
+gate_0035,ai__raid:e0c2314e-b8d9-422e-af55-1498f8c4dce9,books,True,True,False,False,False,False,False,False,False,HIP_RAID_0.6B:input_truncated; HIP_RAID_0.6B:output_capped
+gate_0037,ai__raid:966ff429-7e5b-409c-b301-181197592544,recipes,False,False,False,False,False,False,False,False,True,
+gate_0038,ai__raid:bf3df034-9724-4840-86cb-33eb1489b717,reddit,False,False,False,True,False,False,False,False,False,MASH_RAID_GB:output_capped
+gate_0039,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki,False,False,False,False,False,False,False,False,True,
+gate_0046,ai__raid:59825d20-00f4-4abf-8cf6-7eec3e063729,abstracts,False,False,False,True,False,False,False,False,False,MASH_RAID_GB:output_capped
+gate_0047,ai__raid:70764dd8-197a-415b-8c5f-2ebd022e0fd7,books,True,True,False,False,False,False,False,False,False,HIP_RAID_0.6B:input_truncated; HIP_RAID_0.6B:output_capped
+gate_0048,ai__raid:b0d2e4eb-3c43-49ce-bfe1-9a6eafef8b02,news,False,False,False,True,False,False,False,False,False,MASH_RAID_GB:output_capped
+gate_0049,ai__raid:a77e8e92-8af5-4e1d-ab67-65bf52a8d5d7,recipes,False,False,False,False,False,False,False,False,True,
+gate_0050,ai__raid:c435eb9e-f80e-4ac6-9526-e1282c5c1266,reddit,False,False,False,False,False,False,False,False,True,
+gate_0051,ai__raid:9bbd937c-6bbb-4405-b5ca-56920c941b48,wiki,False,False,False,False,False,False,False,False,True,
+gate_0054,ai__raid:8598c9e2-8e28-46b2-a6da-a22b767aae49,news,False,False,False,False,False,False,False,False,True,
+gate_0062,ai__raid:4a827fbb-b7e6-4ddf-95a3-d4d0a4ef473f,reddit,False,False,False,False,False,False,False,False,True,
+gate_0065,ai__raid:7a2f76a2-30e0-4d30-b9bf-6bb7b6f82c1e,books,False,False,False,False,False,False,False,False,True,
+gate_0066,ai__raid:a40984f5-f447-464b-8a6a-eaa8d6f76d12,news,True,True,False,False,False,False,False,False,False,HIP_RAID_0.6B:input_truncated; HIP_RAID_0.6B:output_capped
+gate_0067,ai__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,recipes,False,False,True,False,False,False,False,False,False,MASH_RAID_GB:input_truncated
+gate_0069,ai__raid:c7b5fc38-2bbb-4e44-bba7-dc8ac8eae773,abstracts,False,False,False,True,False,False,False,False,False,MASH_RAID_GB:output_capped
+gate_0070,ai__raid:7a3b622e-1e88-48ce-98e0-2f87da5c573c,books,True,True,False,False,False,False,False,False,False,HIP_RAID_0.6B:input_truncated; HIP_RAID_0.6B:output_capped
+gate_0073,ai__raid:c9d4b9c3-20c6-4527-8838-6cbc2263bb00,wiki,True,True,False,False,False,True,False,False,False,HIP_RAID_0.6B:input_truncated; HIP_RAID_0.6B:output_capped; UTS_SYNTH_RECON:output_capped
+gate_0074,ai__raid:31c9da8a-8533-4763-b0ce-b1e54082b6f8,abstracts,False,False,False,True,False,False,False,False,False,MASH_RAID_GB:output_capped
+gate_0075,ai__raid:0a9dc4af-7338-49c0-b3d9-3a1a3cf1606f,books,False,False,False,False,False,False,False,False,True,
+gate_0076,ai__raid:90cd9493-2714-47d7-b052-f3c621294322,news,True,True,False,True,False,False,False,False,False,HIP_RAID_0.6B:input_truncated; HIP_RAID_0.6B:output_capped; MASH_RAID_GB:output_capped
+gate_0078,ai__raid:39839ad8-9b55-46f1-bfa9-16cd1c961cce,wiki,False,False,False,False,False,False,False,False,True,
+gate_0079,ai__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,abstracts,False,False,False,True,False,False,False,False,False,MASH_RAID_GB:output_capped
+gate_0081,ai__raid:723a39e2-9540-4faa-b682-d608457dfde1,recipes,True,True,False,False,False,False,False,False,False,HIP_RAID_0.6B:input_truncated; HIP_RAID_0.6B:output_capped
+gate_0082,ai__raid:9f6e6f4d-9b87-449c-8ad4-740ec0b34368,wiki,False,False,False,False,False,False,False,False,True,
+gate_0085,ai__raid:fa8bd0e4-3134-4d4d-83e4-4749c0bf6462,recipes,False,False,False,False,False,False,False,False,True,
+gate_0086,ai__raid:7ced28f5-df4d-40ba-a6f1-e7fa8fbb9640,wiki,False,False,False,True,False,False,False,False,False,MASH_RAID_GB:output_capped
+gate_0088,ai__raid:6d37b523-501f-412e-a18b-645d8e3653a6,news,True,True,False,False,False,False,False,False,False,HIP_RAID_0.6B:input_truncated; HIP_RAID_0.6B:output_capped
+gate_0089,ai__raid:788e4594-960c-4621-8b5e-6f82b7552d7b,recipes,False,False,False,False,False,False,False,False,True,
+gate_0090,ai__raid:e3945a96-7048-41d9-9e86-a84e87818986,abstracts,False,False,False,True,False,False,False,False,False,MASH_RAID_GB:output_capped
+gate_0092,ai__raid:b146a6b9-b531-4709-ac99-6a3852b3c619,abstracts,False,False,False,True,False,False,False,False,False,MASH_RAID_GB:output_capped
+gate_0093,ai__raid:6cb1edfa-92ac-4618-9084-7d84a4193bc4,news,False,False,False,False,False,False,False,False,True,
+gate_0094,ai__raid:6cabdcd3-cfcb-4594-a58f-d412de5b8e54,news,True,True,False,False,False,False,False,False,False,HIP_RAID_0.6B:input_truncated; HIP_RAID_0.6B:output_capped
+gate_0095,ai__raid:91bb1e48-f280-46f3-9fd3-b7c7d9cb7e1a,news,False,False,False,False,False,False,False,False,True,

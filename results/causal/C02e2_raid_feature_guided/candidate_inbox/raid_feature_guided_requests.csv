@@ -1,0 +1,306 @@
+case_id,source_id,pair_id,domain,generator,score_band,selection_sha256,input_text,rewrite_prompt,output_text,request_sha256,rewrite_operator,rewrite_model,rewrite_temperature,rewrite_response_id,rewrite_system_fingerprint,rewrite_finish_reason,rewrite_created_utc,rewrite_prompt_sha256,rewrite_output_sha256,rewrite_prompt_tokens,rewrite_completion_tokens,rewrite_transport_attempts
+raid_micro_01,ai__raid:fcd2c78e-c388-46be-9a2d-7a9cb77381ea,1530,recipes,llama-chat,p99,30199fcc27d5b279ba98096f50d50e36b654ac06d93d77b29503e8e079664ed5,"Sure, here's a recipe for rigatoni with hearty sausage ragu:
+
+Ingredients:
+
+* 1 pound rigatoni pasta
+* 2 tablespoons olive oil
+* 1 onion, finely chopped
+* 3 garlic cloves, minced
+* 1 pound sweet Italian sausage, casings removed
+* 1 can (28 oz) crushed tomatoes
+* 1 cup beef broth
+* 1 teaspoon dried basil
+* Salt and freshly ground black pepper
+* Grated Parmesan cheese, for serving
+* Fresh parsley, chopped, for garnish
+
+Instructions:
+
+1. Bring a large pot of salted water to a boil. Cook the rigatoni according to package instructions until al dente. Reserve 1 cup of pasta cooking water before draining.
+2. Heat the olive oil in a large skillet over medium-high heat. Add the chopped onion and cook until softened, about 5 minutes.Add the minced garlic and cook for another minute.
+3. Add the sweet Italian sausage to the skillet, breaking it up with a spoon as it cooks, until browned and cooked through, about 5-7 minutes.
+4. Add the crushed tomatoes, beef broth, dried basil, salt, and black pepper to the skillet. Stir to combine and bring the sauce to a simmer. Reduce the heat to low and let it cook for 10-15 minutes, stirring occasionally, allowing the flavors to meld together and the sauce to thicken slightly.
+5. When the rigatoni is done cooking, add it to the skillet with the sauce, tossing everything together to ensure the pasta is well coated. If the sauce seems too thick, you can add some of the reserved pasta cooking water to thin it out.
+6. Serve the rigatoni hot, topped with grated Parmigiano Reggiano cheese and garnished with chopped fresh pars","Rewrite the passage once. Preserve every fact, number, named entity, and the overall meaning. Do not add headings, bullets, commentary, or new facts. Return only the rewritten passage. Apply these modest style adjustments:
+- Reduce grammatically optional colons while preserving sentence meaning.
+- Repeat important terms across adjacent sentences to strengthen lexical continuity.
+- Reduce grammatically optional commas while preserving sentence meaning.
+
+PASSAGE:
+Sure, here's a recipe for rigatoni with hearty sausage ragu:
+
+Ingredients:
+
+* 1 pound rigatoni pasta
+* 2 tablespoons olive oil
+* 1 onion, finely chopped
+* 3 garlic cloves, minced
+* 1 pound sweet Italian sausage, casings removed
+* 1 can (28 oz) crushed tomatoes
+* 1 cup beef broth
+* 1 teaspoon dried basil
+* Salt and freshly ground black pepper
+* Grated Parmesan cheese, for serving
+* Fresh parsley, chopped, for garnish
+
+Instructions:
+
+1. Bring a large pot of salted water to a boil. Cook the rigatoni according to package instructions until al dente. Reserve 1 cup of pasta cooking water before draining.
+2. Heat the olive oil in a large skillet over medium-high heat. Add the chopped onion and cook until softened, about 5 minutes.Add the minced garlic and cook for another minute.
+3. Add the sweet Italian sausage to the skillet, breaking it up with a spoon as it cooks, until browned and cooked through, about 5-7 minutes.
+4. Add the crushed tomatoes, beef broth, dried basil, salt, and black pepper to the skillet. Stir to combine and bring the sauce to a simmer. Reduce the heat to low and let it cook for 10-15 minutes, stirring occasionally, allowing the flavors to meld together and the sauce to thicken slightly.
+5. When the rigatoni is done cooking, add it to the skillet with the sauce, tossing everything together to ensure the pasta is well coated. If the sauce seems too thick, you can add some of the reserved pasta cooking water to thin it out.
+6. Serve the rigatoni hot, topped with grated Parmigiano Reggiano cheese and garnished with chopped fresh pars","Sure, here is a recipe for rigatoni with hearty sausage ragu:
+
+Ingredients:
+
+1 pound rigatoni pasta  
+2 tablespoons olive oil  
+1 onion, finely chopped  
+3 garlic cloves, minced  
+1 pound sweet Italian sausage, casings removed  
+1 can (28 oz) crushed tomatoes  
+1 cup beef broth  
+1 teaspoon dried basil  
+Salt and freshly ground black pepper  
+Grated Parmesan cheese for serving  
+Fresh parsley, chopped for garnish  
+
+Instructions:
+
+1. Bring a large pot of salted water to a boil. Cook the rigatoni according to package instructions until al dente. Reserve 1 cup of pasta cooking water before draining.  
+2. Heat the olive oil in a large skillet over medium-high heat. Add the chopped onion and cook until softened, about 5 minutes. Add the minced garlic and cook for another minute.  
+3. Add the sweet Italian sausage to the skillet, breaking it up with a spoon as it cooks until browned and cooked through, about 5-7 minutes.  
+4. Add the crushed tomatoes, beef broth, dried basil, salt, and black pepper to the skillet. Stir to combine and bring the sauce to a simmer. Reduce the heat to low and let it cook for 10-15 minutes, stirring occasionally, allowing the flavors to meld together and the sauce to thicken slightly.  
+5. When the rigatoni is done cooking, add it to the skillet with the sauce, tossing everything together to ensure the pasta is well coated. If the sauce seems too thick, you can add some of the reserved pasta cooking water to thin it out.  
+6. Serve the rigatoni hot, topped with grated Parmesan cheese and garnished with chopped fresh parsley.",01b3d5420b14e8b1566ca32c1480aaa71442d8d273e164ee2e9537a8c325697e,openai.chat.completions,gpt-4o-mini-2024-07-18,0.0,chatcmpl-EKaa9Qsvo4WCJzhkFPLgBqHAmjlMm,fp_f5dd3ac0b7,stop,2026-09-05T02:38:11.724018+00:00,ef16460a978232567e9deb0e4a2a343268fa1e11efef7bfa028c02d52af152df,96f17b3c0bb39e4b79131203152294d4c2e01b58a4bf5f4620e811d30abaa105,458,350,1
+raid_micro_02,ai__raid:2737d3fd-1ed6-40ae-acb9-d1af0baf5b7c,755,wiki,mistral,p99,30199fcc27d5b279ba98096f50d50e36b654ac06d93d77b29503e8e079664ed5,"> Lorenzo Sumulong Tañada (June 10, 1908 – August 23, 1980) was a Filipino lawyer and politician who served as Senator for the Liberal Party in the Philippines from 1947 to 1965 and again from 1967 until his death in 1980. He also served as Speaker of the House of Representatives during the Second Republic from 1943-1944.
+>
+> ## Early life[edit]
+>
+> Born on June 10, 1908 in Manila, he was the son of Manuel L. Quezon, second President of the Commonwealth of the Philippines, and Maria Agoncillo Sumulong, daughter of Don Mariano Ponce de Leon y Sumulong, one of the richest men in the country at that time.^{[1]} His mother's family were descendants of Spanish conquistador Juan de Salcedo,^{[2]} while his father's side came from Chinese immigrants.^{[3]}
+>
+> In 1926, he graduated with honors from Ateneo Municipal High School, now known as Ateneo de Manila University Senior High School. After graduating from high school, he went to study law at the University of Santo Tomas where he earned his Bachelor of Laws degree in 1931. While studying there, he became president of the university's student council.
+>
+> On July 1, 1931, he married Carmen Guerrero Nakpil, daughter of Marcelo H. del Pilar, one of the leaders of the Philippine Revolution against Spain. They had three children: Lorenzo III, Jose Conrado, and Cristina.
+>
+> ## Political career[edit]
+>
+> ### First term as senator[edit]
+>
+> During the Japanese occupation of the Philippines, he joined the resistance movement and helped organize the Makapili guerillas. When the war ended, he returned to politics and ran for Senate under the Nacionalista Party ticket. He won by a landslide and took office on November 14, 1947. As","Rewrite the passage once. Preserve every fact, number, named entity, and the overall meaning. Do not add headings, bullets, commentary, or new facts. Return only the rewritten passage. Apply these modest style adjustments:
+- Convert bracketed material into ordinary prose where possible, without deleting its content.
+- Convert bracketed material into ordinary prose where possible, without deleting its content.
+- Reduce grammatically optional colons while preserving sentence meaning.
+
+PASSAGE:
+> Lorenzo Sumulong Tañada (June 10, 1908 – August 23, 1980) was a Filipino lawyer and politician who served as Senator for the Liberal Party in the Philippines from 1947 to 1965 and again from 1967 until his death in 1980. He also served as Speaker of the House of Representatives during the Second Republic from 1943-1944.
+>
+> ## Early life[edit]
+>
+> Born on June 10, 1908 in Manila, he was the son of Manuel L. Quezon, second President of the Commonwealth of the Philippines, and Maria Agoncillo Sumulong, daughter of Don Mariano Ponce de Leon y Sumulong, one of the richest men in the country at that time.^{[1]} His mother's family were descendants of Spanish conquistador Juan de Salcedo,^{[2]} while his father's side came from Chinese immigrants.^{[3]}
+>
+> In 1926, he graduated with honors from Ateneo Municipal High School, now known as Ateneo de Manila University Senior High School. After graduating from high school, he went to study law at the University of Santo Tomas where he earned his Bachelor of Laws degree in 1931. While studying there, he became president of the university's student council.
+>
+> On July 1, 1931, he married Carmen Guerrero Nakpil, daughter of Marcelo H. del Pilar, one of the leaders of the Philippine Revolution against Spain. They had three children: Lorenzo III, Jose Conrado, and Cristina.
+>
+> ## Political career[edit]
+>
+> ### First term as senator[edit]
+>
+> During the Japanese occupation of the Philippines, he joined the resistance movement and helped organize the Makapili guerillas. When the war ended, he returned to politics and ran for Senate under the Nacionalista Party ticket. He won by a landslide and took office on November 14, 1947. As","Lorenzo Sumulong Tañada, born on June 10, 1908, and passing away on August 23, 1980, was a Filipino lawyer and politician who served as a Senator for the Liberal Party in the Philippines from 1947 to 1965 and again from 1967 until his death in 1980. He also held the position of Speaker of the House of Representatives during the Second Republic from 1943 to 1944.
+
+Tañada was born in Manila to Manuel L. Quezon, the second President of the Commonwealth of the Philippines, and Maria Agoncillo Sumulong, who was the daughter of Don Mariano Ponce de Leon y Sumulong, one of the wealthiest individuals in the country at that time. His mother's lineage traced back to Spanish conquistador Juan de Salcedo, while his father's ancestry included Chinese immigrants.
+
+In 1926, he graduated with honors from Ateneo Municipal High School, now known as Ateneo de Manila University Senior High School. Following high school, he pursued a law degree at the University of Santo Tomas, where he earned his Bachelor of Laws in 1931. While studying there, he served as president of the university's student council.
+
+On July 1, 1931, he married Carmen Guerrero Nakpil, the daughter of Marcelo H. del Pilar, a leader of the Philippine Revolution against Spain. They had three children: Lorenzo III, Jose Conrado, and Cristina.
+
+During the Japanese occupation of the Philippines, Tañada joined the resistance movement and helped organize the Makapili guerillas. After the war, he returned to politics and ran for the Senate under the Nacionalista Party ticket, winning by a landslide and taking office on November 14, 1947.",01b3d5420b14e8b1566ca32c1480aaa71442d8d273e164ee2e9537a8c325697e,openai.chat.completions,gpt-4o-mini-2024-07-18,0.0,chatcmpl-EKaaDo3HtI1gsCgdXhpOAkQ9fGzOn,fp_b85f3645a5,stop,2026-09-05T02:38:17.207104+00:00,45bdbe2ed19c86f5284a60070940004ef4848c537b2ed28640bc303d11dc3815,84c3e09b035d5b1b2bd4a50894d10202ad8b117475bedfde224c3838490952cf,501,361,1
+raid_micro_03,ai__raid:25689644-8159-4de0-8167-2efea735f75b,745,reddit,mpt-chat,p99,30199fcc27d5b279ba98096f50d50e36b654ac06d93d77b29503e8e079664ed5,"I'm sure many preppers out there have heard about lifeboats, but how much is enough? It's important to have a plan in place and supplies stockpiled for when SHTF, but it can be overwhelming to figure out what you need and how much of it. In my experience, I've found that having at least three months' worth of food and water, as well as essentials like medicine and hygiene products, is a good starting point. But don't stop there! Keep adding to your stash and learning new skills so that you're always prepared for whatever comes your way. Remember, knowledge is power - stay informed and stay safe!","Rewrite the passage once. Preserve every fact, number, named entity, and the overall meaning. Do not add headings, bullets, commentary, or new facts. Return only the rewritten passage. Apply these modest style adjustments:
+- Reduce grammatically optional exclamation marks while preserving sentence meaning.
+- Reuse important content words slightly more instead of continually introducing synonyms.
+- Replace a few generic high-frequency words with more precise alternatives.
+
+PASSAGE:
+I'm sure many preppers out there have heard about lifeboats, but how much is enough? It's important to have a plan in place and supplies stockpiled for when SHTF, but it can be overwhelming to figure out what you need and how much of it. In my experience, I've found that having at least three months' worth of food and water, as well as essentials like medicine and hygiene products, is a good starting point. But don't stop there! Keep adding to your stash and learning new skills so that you're always prepared for whatever comes your way. Remember, knowledge is power - stay informed and stay safe!","Many preppers have heard about lifeboats, but how much is sufficient? It's crucial to have a plan in place and supplies stockpiled for when SHTF, but determining what you need and the quantity can be daunting. In my experience, having at least three months' worth of food and water, along with essentials like medicine and hygiene products, is a solid starting point. However, don't stop there. Continue to add to your supplies and acquire new skills so that you're always ready for whatever arises. Remember, knowledge is power—stay informed and stay safe.",01b3d5420b14e8b1566ca32c1480aaa71442d8d273e164ee2e9537a8c325697e,openai.chat.completions,gpt-4o-mini-2024-07-18,0.0,chatcmpl-EKaaH0cqckSGPZkr3k6NYFOukJ3zk,fp_73c73d24da,stop,2026-09-05T02:38:18.946809+00:00,b440d3edc744fc9d42658d2531875de9115d98cfd2e4a10d0e56a7be6827d2fc,aa5b63cc9eab85e5687cd5e7cc5399a831eafe041561bc7c94adf717b9e93b5b,222,115,1
+raid_micro_04,ai__raid:140bcdd4-cb85-49b7-ad40-483a21380193,699,news,gpt4,p99,30199fcc27d5b279ba98096f50d50e36b654ac06d93d77b29503e8e079664ed5,"Aston Villa's manager, Michael O'Leary, has agreed to a new contract, securing his place at the helm of the traditional Premier League club. 
+
+O'Leary was appointed as Villa's manager in the summer of 2019 and has since led the team to a promising mid-table position in the Premier League last season. The news of his contract extension will certainly be welcomed by fans who have appreciated his commitment and dedication to the club.
+
+""The club is delighted to confirm that Michael O'Leary has agreed to a new contract"", a club statement released today read. ""His leadership, experience and stability have been key factors in our improving performances on the pitch. We look forward to continuing this progress under his management"".
+
+Details of the new contract, including its length, haven't been disclosed yet, but it's expected to keep O'Leary at the Villa Park for the foreseeable future.
+
+Under O'Leary's management, Villa has developed a strong squad and adopted a bolder and more exciting playing style, which has proven popular among the fans. He has also demonstrated an eye for talent, overseeing the development of several young players who have established themselves in the first team.
+
+Club captain Jack Grealish shared his excitement over the news, tweeting, ""Can't wait for what's to come under the gaffer's lead. Let's go, Villa!""
+
+In the wake of the announcement, many pundits have praised Villa's decision to secure O'Leary's services moving forward, citing the need for managerial stability in football, which can often see a high turnover of coaches.
+
+Although Villa fans will be relieved to see the issue of O'Leary's future put to rest, they'll be hoping that this is just the first of many positive off-pitch developments this summer as the club looks to further secure their Premier League status and perhaps eye a push for European football.
+
+Talks have been ongoing about potential new signings to build on last season's performances, but the players, management and fans alike can now turn their full attention to preparations for the upcoming campaign, safe in the knowledge that their man in charge is going nowhere.","Rewrite the passage once. Preserve every fact, number, named entity, and the overall meaning. Do not add headings, bullets, commentary, or new facts. Return only the rewritten passage. Apply these modest style adjustments:
+- Reduce grammatically optional exclamation marks while preserving sentence meaning.
+- Replace a few generic high-frequency words with more precise alternatives.
+- Use slightly more periods where grammatically natural.
+
+PASSAGE:
+Aston Villa's manager, Michael O'Leary, has agreed to a new contract, securing his place at the helm of the traditional Premier League club. 
+
+O'Leary was appointed as Villa's manager in the summer of 2019 and has since led the team to a promising mid-table position in the Premier League last season. The news of his contract extension will certainly be welcomed by fans who have appreciated his commitment and dedication to the club.
+
+""The club is delighted to confirm that Michael O'Leary has agreed to a new contract"", a club statement released today read. ""His leadership, experience and stability have been key factors in our improving performances on the pitch. We look forward to continuing this progress under his management"".
+
+Details of the new contract, including its length, haven't been disclosed yet, but it's expected to keep O'Leary at the Villa Park for the foreseeable future.
+
+Under O'Leary's management, Villa has developed a strong squad and adopted a bolder and more exciting playing style, which has proven popular among the fans. He has also demonstrated an eye for talent, overseeing the development of several young players who have established themselves in the first team.
+
+Club captain Jack Grealish shared his excitement over the news, tweeting, ""Can't wait for what's to come under the gaffer's lead. Let's go, Villa!""
+
+In the wake of the announcement, many pundits have praised Villa's decision to secure O'Leary's services moving forward, citing the need for managerial stability in football, which can often see a high turnover of coaches.
+
+Although Villa fans will be relieved to see the issue of O'Leary's future put to rest, they'll be hoping that this is just the first of many positive off-pitch developments this summer as the club looks to further secure their Premier League status and perhaps eye a push for European football.
+
+Talks have been ongoing about potential new signings to build on last season's performances, but the players, management and fans alike can now turn their full attention to preparations for the upcoming campaign, safe in the knowledge that their man in charge is going nowhere.","Aston Villa's manager, Michael O'Leary, has agreed to a new contract, securing his position at the helm of the historic Premier League club. 
+
+O'Leary was appointed as Villa's manager in the summer of 2019 and has since guided the team to a promising mid-table standing in the Premier League last season. The news of his contract extension will be welcomed by fans who have valued his commitment and dedication to the club.
+
+""The club is pleased to confirm that Michael O'Leary has agreed to a new contract,"" a club statement released today stated. ""His leadership, experience, and stability have been key factors in our improving performances on the pitch. We look forward to continuing this progress under his management.""
+
+Details of the new contract, including its duration, have not been disclosed yet, but it is anticipated to keep O'Leary at Villa Park for the foreseeable future.
+
+Under O'Leary's management, Villa has developed a strong squad and adopted a bolder and more exciting playing style, which has resonated with the fans. He has also shown an eye for talent, overseeing the development of several young players who have established themselves in the first team.
+
+Club captain Jack Grealish expressed his enthusiasm over the news, tweeting, ""Can't wait for what's to come under the gaffer's lead. Let's go, Villa.""
+
+In the wake of the announcement, many pundits have commended Villa's decision to secure O'Leary's services moving forward, citing the necessity for managerial stability in football, which often experiences a high turnover of coaches.
+
+Although Villa fans will be relieved to see the issue of O'Leary's future resolved, they will be hoping that this is just the first of many positive off-pitch developments this summer as the club aims to further secure their Premier League status and perhaps pursue a push for European football.
+
+Discussions have been ongoing about potential new signings to build on last season's performances, but the players, management, and fans alike can now focus their full attention on preparations for the upcoming campaign, reassured that their man in charge is staying put.",01b3d5420b14e8b1566ca32c1480aaa71442d8d273e164ee2e9537a8c325697e,openai.chat.completions,gpt-4o-mini-2024-07-18,0.0,chatcmpl-EKaaJZ9pLoSiqVKPTPxQrJifgv7jc,fp_f367f9dc44,stop,2026-09-05T02:38:22.428502+00:00,584bc8caf6ff61bcda78ff52ca2b07b4f4efe2156d56fe0348ed8543eaab247c,6979e78a381f91db9bf4a2703b81f49361444ae38d859677134135c9bffaa707,519,428,1
+raid_micro_05,ai__raid:e9f78f95-8a2d-4a0a-a47a-044c9c6c5c22,1471,reddit,mistral-chat,p95_to_p99,30199fcc27d5b279ba98096f50d50e36b654ac06d93d77b29503e8e079664ed5,"As a cougar, I can't help but worry about the future. With climate change, habitat loss, and human encroachment, it's becoming increasingly difficult for us to survive. We're already facing challenges such as hunting and trapping, and now we have to contend with even more threats to our existence.
+
+It's not just us cougars that are affected. Many other species are facing similar challenges, and it's up to us all to take action to protect our planet and its inhabitants. We need to reduce our carbon footprint, protect wildlife habitats, and work together to create a more sustainable future.
+
+As a cougar, I may be small, but I'm determined to do my part. I'll continue to hunt and hunt, but I'll also work to educate others about the importance of conservation and the threats facing wildlife. I'll do whatever it takes to ensure that my species and others like it can continue to thrive for generations to come.","Rewrite the passage once. Preserve every fact, number, named entity, and the overall meaning. Do not add headings, bullets, commentary, or new facts. Return only the rewritten passage. Apply these modest style adjustments:
+- Replace a few generic high-frequency words with more precise alternatives.
+- Reduce grammatically optional commas while preserving sentence meaning.
+- Move share_stopwords modestly toward the reference style without changing the passage's content.
+
+PASSAGE:
+As a cougar, I can't help but worry about the future. With climate change, habitat loss, and human encroachment, it's becoming increasingly difficult for us to survive. We're already facing challenges such as hunting and trapping, and now we have to contend with even more threats to our existence.
+
+It's not just us cougars that are affected. Many other species are facing similar challenges, and it's up to us all to take action to protect our planet and its inhabitants. We need to reduce our carbon footprint, protect wildlife habitats, and work together to create a more sustainable future.
+
+As a cougar, I may be small, but I'm determined to do my part. I'll continue to hunt and hunt, but I'll also work to educate others about the importance of conservation and the threats facing wildlife. I'll do whatever it takes to ensure that my species and others like it can continue to thrive for generations to come.","As a cougar, I cannot help but be concerned about the future. With climate change, habitat loss, and human encroachment, it is becoming increasingly challenging for us to survive. We are already confronting issues such as hunting and trapping, and now we must face even more dangers to our existence.
+
+It is not just us cougars that are impacted. Numerous other species are encountering similar difficulties, and it is up to all of us to take action to safeguard our planet and its inhabitants. We need to minimize our carbon footprint, protect wildlife habitats, and collaborate to create a more sustainable future.
+
+As a cougar, I may be small, but I am resolute in doing my part. I will continue to hunt, but I will also strive to educate others about the significance of conservation and the threats facing wildlife. I will do whatever is necessary to ensure that my species and others like it can continue to thrive for generations to come.",01b3d5420b14e8b1566ca32c1480aaa71442d8d273e164ee2e9537a8c325697e,openai.chat.completions,gpt-4o-mini-2024-07-18,0.0,chatcmpl-EKaaN0Bm0WaVGpHNjyGj0dzJX20y1,fp_4ce87c02f6,stop,2026-09-05T02:38:24.477235+00:00,e1123db7a692ef52eb8ab126ca848034ec73e5e5c3ac0857242cc0f165d6b887,21ff252b83cc2e838dbf9fbb4a2c99f279d0f695c1ad4bf8c8c510b8424166fe,277,187,1
+raid_micro_06,ai__raid:efc8537a-8575-4af0-aae5-a06bc4bccc04,1485,books,llama-chat,p95_to_p99,30199fcc27d5b279ba98096f50d50e36b654ac06d93d77b29503e8e079664ed5,"In the small town of Willow Creek, a brutal murder shakes the community to its core. The Robins family, known for their kindness and generosity, are found dead in their home, each victim bearing the signs of a gruesome and violent attack. As the local police department investigates, they are met with a web of secrets and deceit that threaten to tear the town apart.
+
+As the investigation unfolds, the police are faced with a multitude of suspects, each with their own motives and secrets. There's the Robins' neighbors, the Smiths, who had a long-standing feud with the family. There's also the local businessman, Mr. Johnson, who had a history of shady dealings with the Robins. And then there's the mysterious stranger who was seen lurking around the Robins' home on the night of the murders.
+
+As the police dig deeper, they uncover a tangled web of lies and deceit that leads them to question everyone they thought they could trust. The townspeople are shocked to discover that their friends and neighbors are not who they seem, and the investigation reveals a sinister plot that threatens to destroy the very fabric of their community.
+
+As the police race against time to solve the case, they are faced with a daunting task: uncovering the truth behind the Robins family's murder. Will they be able to bring the perpetrator to justice, or will the truth be too much for the town to handle? The clock is ticking, and the people of Willow Creek are on edge, waiting for answers. Will the police be able to unravel the mystery before it's too late?","Rewrite the passage once. Preserve every fact, number, named entity, and the overall meaning. Do not add headings, bullets, commentary, or new facts. Return only the rewritten passage. Apply these modest style adjustments:
+- Replace a few generic high-frequency words with more precise alternatives.
+- Reduce grammatically optional question marks while preserving sentence meaning.
+- Use somewhat more varied wording while keeping every claim unchanged.
+
+PASSAGE:
+In the small town of Willow Creek, a brutal murder shakes the community to its core. The Robins family, known for their kindness and generosity, are found dead in their home, each victim bearing the signs of a gruesome and violent attack. As the local police department investigates, they are met with a web of secrets and deceit that threaten to tear the town apart.
+
+As the investigation unfolds, the police are faced with a multitude of suspects, each with their own motives and secrets. There's the Robins' neighbors, the Smiths, who had a long-standing feud with the family. There's also the local businessman, Mr. Johnson, who had a history of shady dealings with the Robins. And then there's the mysterious stranger who was seen lurking around the Robins' home on the night of the murders.
+
+As the police dig deeper, they uncover a tangled web of lies and deceit that leads them to question everyone they thought they could trust. The townspeople are shocked to discover that their friends and neighbors are not who they seem, and the investigation reveals a sinister plot that threatens to destroy the very fabric of their community.
+
+As the police race against time to solve the case, they are faced with a daunting task: uncovering the truth behind the Robins family's murder. Will they be able to bring the perpetrator to justice, or will the truth be too much for the town to handle? The clock is ticking, and the people of Willow Creek are on edge, waiting for answers. Will the police be able to unravel the mystery before it's too late?","In the quaint town of Willow Creek, a horrific murder rattles the community to its foundation. The Robins family, recognized for their warmth and generosity, is discovered deceased in their residence, each victim exhibiting the marks of a brutal and violent assault. As the local police department conducts its investigation, they encounter a complex web of secrets and deception that threatens to fracture the town.
+
+As the inquiry progresses, the police confront a plethora of suspects, each harboring their own motives and hidden truths. Among them are the Robins' neighbors, the Smiths, who had a longstanding rivalry with the family. Additionally, there is the local entrepreneur, Mr. Johnson, who had a history of dubious dealings with the Robins. Furthermore, a mysterious stranger was spotted lurking near the Robins' home on the night of the murders.
+
+As the police delve deeper, they reveal a convoluted network of lies and deceit that compels them to scrutinize everyone they believed they could rely on. The townspeople are astonished to learn that their friends and neighbors are not as they appear, and the investigation uncovers a malevolent scheme that threatens to unravel the very essence of their community.
+
+As the police race against the clock to resolve the case, they face a formidable challenge: uncovering the truth behind the Robins family's murder. Will they succeed in bringing the culprit to justice, or will the reality be too overwhelming for the town to bear? Time is of the essence, and the residents of Willow Creek are anxious, awaiting answers. Can the police solve the mystery before it is too late?",01b3d5420b14e8b1566ca32c1480aaa71442d8d273e164ee2e9537a8c325697e,openai.chat.completions,gpt-4o-mini-2024-07-18,0.0,chatcmpl-EKaaP7QdChyQEYqRqGpHez8N2UB4x,fp_f5dd3ac0b7,stop,2026-09-05T02:38:27.581895+00:00,465ac793da378245b68c2be8e30f60f72f5d7337544e64d413faf974c69be71e,20f94663d7ba39b76263076749fd315c3f8b08600ab90d4d04826f2d186fec29,406,317,1
+raid_micro_07,ai__raid:0f754d71-62ae-4f45-9e67-7c835bc8ebe1,681,poetry,gpt4,p95_to_p99,30199fcc27d5b279ba98096f50d50e36b654ac06d93d77b29503e8e079664ed5,"Azaleas unfold blushing gowns, beneath the pecan trees,
+The magnolias blossom, carried on the soft, warm breeze
+Rivers carry golden pollen, the essence of the pines,
+Sweet aroma fills the air from confederate jasmine vines.
+
+Redbud trees in bloom against a clear Carolina blue,
+Spanish moss gently hangs, creating an ethereal view.
+Cardinals flutter, gifting spots of fiery, passionate red,
+Tender footsteps of a deer, where the camellia petals spread.
+
+Wisteria weaves a blanket, lilac clusters hanging fair,
+In the field of buttercups, sunlight creates an amber glare.
+Mockingbirds reciting songs, in the southern live oak’s shade,
+A quartet of melody and colour, a symphony, nature-made.
+
+The song of the cicadas echoes, as day gives into evening's hush,
+Fireflies begin their dance, in the mellow dusk-light rush.
+The promise of humid nights, under a moon laced with silver touch,
+Such is the bewitching charm, of a southern springtime’s clutch. 
+
+Its warmth seeps into your bones, like sweet tea on a sultry day,
+Whispers of a bygone era, where hoop skirts used to sway.
+Beneath the lazy sun, the south unfurls her elegant spring,
+A silent invitation to partake in the enchantment she will bring.
+
+The mystery deepens in the softness of its southern glow,
+Painting magic on the landscape, a spectacle for those below.
+Shimmering with life, all cloaked in a languid, honeyed hue,
+Spring in the South is a poem, eternally whispering and forever new.","Rewrite the passage once. Preserve every fact, number, named entity, and the overall meaning. Do not add headings, bullets, commentary, or new facts. Return only the rewritten passage. Apply these modest style adjustments:
+- Reduce grammatically optional commas while preserving sentence meaning.
+- Reuse important content words slightly more instead of continually introducing synonyms.
+- Vary the grammatical structure of adjacent sentences while preserving their meaning.
+
+PASSAGE:
+Azaleas unfold blushing gowns, beneath the pecan trees,
+The magnolias blossom, carried on the soft, warm breeze
+Rivers carry golden pollen, the essence of the pines,
+Sweet aroma fills the air from confederate jasmine vines.
+
+Redbud trees in bloom against a clear Carolina blue,
+Spanish moss gently hangs, creating an ethereal view.
+Cardinals flutter, gifting spots of fiery, passionate red,
+Tender footsteps of a deer, where the camellia petals spread.
+
+Wisteria weaves a blanket, lilac clusters hanging fair,
+In the field of buttercups, sunlight creates an amber glare.
+Mockingbirds reciting songs, in the southern live oak’s shade,
+A quartet of melody and colour, a symphony, nature-made.
+
+The song of the cicadas echoes, as day gives into evening's hush,
+Fireflies begin their dance, in the mellow dusk-light rush.
+The promise of humid nights, under a moon laced with silver touch,
+Such is the bewitching charm, of a southern springtime’s clutch. 
+
+Its warmth seeps into your bones, like sweet tea on a sultry day,
+Whispers of a bygone era, where hoop skirts used to sway.
+Beneath the lazy sun, the south unfurls her elegant spring,
+A silent invitation to partake in the enchantment she will bring.
+
+The mystery deepens in the softness of its southern glow,
+Painting magic on the landscape, a spectacle for those below.
+Shimmering with life, all cloaked in a languid, honeyed hue,
+Spring in the South is a poem, eternally whispering and forever new.","Azaleas unfold blushing gowns beneath the pecan trees. The magnolias blossom, carried on the soft warm breeze. Rivers carry golden pollen, the essence of the pines, while sweet aroma fills the air from confederate jasmine vines. 
+
+Redbud trees bloom against a clear Carolina blue, and Spanish moss gently hangs, creating an ethereal view. Cardinals flutter, gifting spots of fiery passionate red, and tender footsteps of a deer appear where camellia petals spread. 
+
+Wisteria weaves a blanket with lilac clusters hanging fair. In the field of buttercups, sunlight creates an amber glare. Mockingbirds recite songs in the shade of the southern live oak, forming a quartet of melody and color, a symphony made by nature. 
+
+The song of cicadas echoes as day gives way to evening's hush. Fireflies begin their dance in the mellow dusk-light rush. The promise of humid nights unfolds under a moon laced with silver touch. Such is the bewitching charm of a southern springtime's embrace. 
+
+Its warmth seeps into your bones like sweet tea on a sultry day, whispering of a bygone era where hoop skirts used to sway. Beneath the lazy sun, the South unfurls her elegant spring, offering a silent invitation to partake in the enchantment she brings. 
+
+The mystery deepens in the softness of its southern glow, painting magic on the landscape, a spectacle for those below. Shimmering with life, all cloaked in a languid honeyed hue, spring in the South is a poem eternally whispering and forever new.",01b3d5420b14e8b1566ca32c1480aaa71442d8d273e164ee2e9537a8c325697e,openai.chat.completions,gpt-4o-mini-2024-07-18,0.0,chatcmpl-EKaaRPthkq1YE4ANvZhmJclkN5D90,fp_53c3b1e564,stop,2026-09-05T02:38:30.314074+00:00,e33a362cf82bfbd853132c1adfe67d8449474248c02e8751083ed47e393dd08b,d1881c10553f3f973b9908ec5da76744d6aa789907554e119a791005a589db6e,429,329,1
+raid_micro_08,ai__raid:3bc610dd-010e-480c-8af3-1c5da8728644,836,abstracts,mistral-chat,p95_to_p99,30199fcc27d5b279ba98096f50d50e36b654ac06d93d77b29503e8e079664ed5,"The Extended LTLvis Motion Planning interface (Extended Technical Report) presents an extension to the LTLvis motion planning interface, which is a widely used tool for motion planning in robotics. The extension allows for the inclusion of additional features and capabilities, such as support for non-linear motion planning, collision detection and avoidance, and path optimization. The paper provides a detailed description of the extended interface, including its architecture, algorithms, and implementation. It also presents a number of case studies that demonstrate the effectiveness of the extended interface in various motion planning tasks. Overall, the paper provides a valuable resource for researchers and practitioners in the field of robotics and motion planning.","Rewrite the passage once. Preserve every fact, number, named entity, and the overall meaning. Do not add headings, bullets, commentary, or new facts. Return only the rewritten passage. Apply these modest style adjustments:
+- Replace a few generic high-frequency words with more precise alternatives.
+- Vary the grammatical structure of adjacent sentences while preserving their meaning.
+- Prefer shorter, more common words where they express the same meaning.
+
+PASSAGE:
+The Extended LTLvis Motion Planning interface (Extended Technical Report) presents an extension to the LTLvis motion planning interface, which is a widely used tool for motion planning in robotics. The extension allows for the inclusion of additional features and capabilities, such as support for non-linear motion planning, collision detection and avoidance, and path optimization. The paper provides a detailed description of the extended interface, including its architecture, algorithms, and implementation. It also presents a number of case studies that demonstrate the effectiveness of the extended interface in various motion planning tasks. Overall, the paper provides a valuable resource for researchers and practitioners in the field of robotics and motion planning.","The Extended LTLvis Motion Planning interface (Extended Technical Report) introduces an enhancement to the LTLvis motion planning interface, a popular tool for motion planning in robotics. This enhancement enables the addition of new features and functions, including support for non-linear motion planning, collision detection and avoidance, and path optimization. The document offers a thorough description of the extended interface, detailing its architecture, algorithms, and implementation. Additionally, it includes several case studies that showcase the effectiveness of the extended interface in different motion planning tasks. In summary, the paper serves as a valuable resource for researchers and professionals in the robotics and motion planning fields.",01b3d5420b14e8b1566ca32c1480aaa71442d8d273e164ee2e9537a8c325697e,openai.chat.completions,gpt-4o-mini-2024-07-18,0.0,chatcmpl-EKaaVmm0EN1vlA0BlOBTlzyy1f1UC,fp_1d2403c701,stop,2026-09-05T02:38:32.206354+00:00,6e7616919c6a31368792787a4914efa10b9ebee1fca84ad33d98b1a337e6e221,2dd5aa589e43124bf1a83ee679ce7bce0007a60395139a4125bedaf9333dd7dd,225,125,1

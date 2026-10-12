@@ -1,0 +1,10 @@
+case_id,domain,edit_index,op,candidate,logp_delta
+gate_0018,recipes,1,SPLIT,I had the World's Best Key Lime Pie. It was prepared there.,0.6542782783508301
+gate_0021,wiki,1,SPLIT,"In addition to his academic work, Gruzman has been involved in several interfaith initiatives. He has served as a consultant to the Vatican's Pontifical Council for Interreligious Dialogue, and has been a member of the National Council of Churches' Committee on Faith and Order.",0.3450198173522949
+gate_0027,wiki,1,SPLIT,"The Scottish Mining Museum in Newtongrange attracts many visitors. The area is also home to several heritage sites dedicated to the coal miners of the Fife Coalfield, including the Scottish Mining Museum.",0.05193281173706055
+gate_0051,wiki,1,SPLIT,"In a two thousand fourteen interview with The Huffington Post, Liam Finn stated that Blue Merle had ""run its course"" and that the band was ""never really meant to be a long-term thing."" According to The Huffington Post.",-0.16199874877929688
+gate_0078,wiki,1,REMOVE,"Throughout its history, it has been primarily an agricultural community, with cotton and grains being the main crops grown in the area.",0.5191147327423096
+gate_0078,wiki,2,REMOVE,"The community had a population of around 200 residents with several businesses including a general store, a cotton gin and a school in the early 20th century.",0.0576024055480957
+gate_0082,wiki,1,SPLIT,"He has won numerous awards for his compositions, including the Ernst von Siemens Music Prize. He has also won the Joseph Haydn Prize.",0.46323537826538086
+gate_0085,recipes,1,SPLIT,Step 9 Serve immediately. Enjoy your yummy Broccoli and Garlic Ricotta Toasts with Hot Honey.,-0.1257786750793457
+gate_0086,wiki,1,SPLIT,He joined the Labor Party during his youth. He then first entered the Knesset in two thousand three.,0.08296012878417969

@@ -1,0 +1,6 @@
+arm,completed,requested,token_cap,input_truncated
+HIP_RAID_0.6B,54,54,13,14
+MASH_RAID_GB,54,54,17,1
+StealthRL_RAID_GB,0,54,0,0
+UTS_SYNTH_RECON,54,54,1,0
+UTS_STREAM_RECON,54,54,0,0

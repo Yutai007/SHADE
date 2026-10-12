@@ -1,0 +1,36 @@
+method,condition,our_score,raid_median,raid_best,n_raid_detectors_beaten,beats_raid_median,beats_raid_best
+L256,None,68.92857142857143,68.7,85.0,3,True,False
+L256,Paraphrase,52.916666666666664,70.1,96.7,1,False,False
+L256,Synonym,53.57142857142857,64.25,96.5,2,False,False
+L256,Misspelling,59.64285714285714,67.3,78.6,1,False,False
+L256,Homoglyph,48.92857142857143,31.0,66.2,4,True,False
+L256,Whitespace,57.14285714285714,66.15,84.9,2,False,False
+L256,Delete Articles,59.285714285714285,64.45,74.3,2,False,False
+SL6,None,61.07142857142858,68.7,85.0,1,False,False
+SL6,Paraphrase,55.41666666666667,70.1,96.7,1,False,False
+SL6,Synonym,55.35714285714286,64.25,96.5,2,False,False
+SL6,Misspelling,53.214285714285715,67.3,78.6,1,False,False
+SL6,Homoglyph,52.5,31.0,66.2,4,True,False
+SL6,Whitespace,57.14285714285714,66.15,84.9,2,False,False
+SL6,Delete Articles,57.49999999999999,64.45,74.3,2,False,False
+W+L256,None,95.35714285714286,68.7,85.0,6,True,True
+W+L256,Paraphrase,85.41666666666666,70.1,96.7,5,True,False
+W+L256,Synonym,95.35714285714286,64.25,96.5,5,True,False
+W+L256,Misspelling,95.35714285714286,67.3,78.6,6,True,True
+W+L256,Homoglyph,89.64285714285714,31.0,66.2,6,True,True
+W+L256,Whitespace,95.35714285714286,66.15,84.9,6,True,True
+W+L256,Delete Articles,96.42857142857142,64.45,74.3,6,True,True
+W+SL6,None,97.85714285714286,68.7,85.0,6,True,True
+W+SL6,Paraphrase,85.0,70.1,96.7,5,True,False
+W+SL6,Synonym,97.5,64.25,96.5,6,True,True
+W+SL6,Misspelling,97.85714285714286,67.3,78.6,6,True,True
+W+SL6,Homoglyph,92.14285714285714,31.0,66.2,6,True,True
+W+SL6,Whitespace,97.85714285714286,66.15,84.9,6,True,True
+W+SL6,Delete Articles,97.5,64.45,74.3,6,True,True
+WaveDetect,None,97.14285714285712,68.7,85.0,6,True,True
+WaveDetect,Paraphrase,88.75,70.1,96.7,5,True,False
+WaveDetect,Synonym,97.14285714285715,64.25,96.5,6,True,True
+WaveDetect,Misspelling,97.14285714285712,67.3,78.6,6,True,True
+WaveDetect,Homoglyph,91.42857142857143,31.0,66.2,6,True,True
+WaveDetect,Whitespace,97.14285714285712,66.15,84.9,6,True,True
+WaveDetect,Delete Articles,97.14285714285715,64.45,74.3,6,True,True

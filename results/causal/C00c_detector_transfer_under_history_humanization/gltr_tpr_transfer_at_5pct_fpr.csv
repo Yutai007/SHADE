@@ -1,0 +1,5 @@
+condition,n,baseline_TPR,treatment_TPR,delta_TPR,delta_TPR_ci_low,delta_TPR_ci_high,evasion_fraction_among_L000_detected,new_detection_fraction_among_L000_missed
+L0125,60,1.0,1.0,0.0,0.0,0.0,0.0,
+L025,60,1.0,1.0,0.0,0.0,0.0,0.0,
+L050,60,1.0,1.0,0.0,0.0,0.0,0.0,
+L100,60,1.0,1.0,0.0,0.0,0.0,0.0,

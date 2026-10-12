@@ -1,0 +1,2 @@
+detector,exposure,heldout,comparison,delta_AUROC,ci_low,ci_high
+RoBERTa,40,34,Adapted_minus_Frozen,0.1733103468201118,0.09824734490085349,0.2577097778162057

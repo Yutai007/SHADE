@@ -1,0 +1,2 @@
+comparison,metric,cases,mean_delta,ci_low,ci_high
+Adapted_minus_Frozen,AUROC,34,-0.023618896138344968,-0.06227325882735649,0.008026262589771379

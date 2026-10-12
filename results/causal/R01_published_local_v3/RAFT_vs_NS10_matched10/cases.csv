@@ -1,0 +1,11 @@
+case_id,source_id,domain
+gate_0003,ai__raid:2abdd1df-30c9-4db4-bc75-08ae57b9ec93,news
+gate_0016,ai__raid:296752cd-3b82-479f-b5a9-0bb1001ba706,books
+gate_0019,ai__raid:dc315335-0314-49c5-96b1-3211dc072983,reddit
+gate_0023,ai__raid:7b6ca4a8-9f9f-4ede-a9ce-4d6ca52ac525,books
+gate_0024,ai__raid:f2eaa471-9b08-4ebd-804a-1c12ad4bdad6,news
+gate_0039,ai__raid:8760103e-729a-4bab-b799-5775ac2468b1,wiki
+gate_0067,ai__raid:5f29c85e-2c0c-402d-a985-d5f9974352d8,recipes
+gate_0074,ai__raid:31c9da8a-8533-4763-b0ce-b1e54082b6f8,abstracts
+gate_0079,ai__raid:48ea9a1e-7e86-41ee-a3bb-4675af0442ef,abstracts
+gate_0081,ai__raid:723a39e2-9540-4faa-b682-d608457dfde1,recipes

@@ -1,0 +1,4 @@
+detector,validation_auc,validation_accuracy,validation_balanced_accuracy
+extra_trees,0.9954,0.965,0.965
+mlp,0.9915,0.955,0.955
+logistic,0.9838,0.93,0.9299999999999999

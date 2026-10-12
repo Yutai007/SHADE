@@ -1,0 +1,2 @@
+detector,arm,baseline,delta_AUROC,ci_low,ci_high
+Ghostbuster,NS10-Batch2,OG-Batch2,-0.42139694528293103,-0.5026822810011051,-0.3406746971096519

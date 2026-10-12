@@ -1,0 +1,2 @@
+detector,arm,baseline,delta_AUROC,ci_low,ci_high
+Binoculars,NS10-Batch2,OG-Batch2,-0.19945967946180557,-0.2885866708611217,-0.11368931439999161

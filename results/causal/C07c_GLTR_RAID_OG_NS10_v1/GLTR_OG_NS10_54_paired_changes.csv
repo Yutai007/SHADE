@@ -1,0 +1,2 @@
+comparison,AUROC_delta,ci_low,ci_high
+"('Frozen / RAID-only', 'NS10') minus ('Frozen / RAID-only', 'OG')",-0.3097480175608502,-0.3861400872652023,-0.23443438174806716

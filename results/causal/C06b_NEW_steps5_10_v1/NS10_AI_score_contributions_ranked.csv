@@ -1,0 +1,15 @@
+rank,stage,feature,mean_AI_score_contribution,ci_low,ci_high,n_score_lowered,n_score_raised,cases
+1,NS10,unigram-logprobs v-> trigram-logprobs v-< ada-logprobs s-l2,0.09660646287224949,0.060715531284800874,0.13501851317335126,47,7,54
+2,NS10,davinci-logprobs v-div unigram-logprobs v-< ada-logprobs s-avg,0.020158902845920673,0.006841008650129779,0.03527644701075498,16,33,54
+3,NS10,unigram-logprobs v-< trigram-logprobs v-sub ada-logprobs s-avg-top-25,0.018408916266677417,0.012827827965690921,0.024203877252372035,51,3,54
+4,NS10,trigram-logprobs v-add ada-logprobs v-sub davinci-logprobs s-avg,0.00808796828589952,0.005528725976450477,0.010834591792899246,46,8,54
+5,NS10,outlier_count,0.0,0.0,0.0,0,0,54
+6,NS10,outlier_top25_mean,0.0,0.0,0.0,0,0,54
+7,NS10,ada-logprobs v-> davinci-logprobs v-div trigram-logprobs s-avg-top-25,0.0,0.0,0.0,0,0,54
+8,NS10,outlier_25_50_mean,0.0,0.0,0.0,0,0,54
+9,NS10,davinci_minus_ada_25_50_mean,-0.001488948266593135,-0.00673835489068186,0.003653632973185904,24,30,54
+10,NS10,word_token_len_top25_mean,-0.002778960773978741,-0.022187709331369262,0.01885824115208404,21,33,54
+11,NS10,word_token_len_25_50_mean,-0.004103889397673932,-0.008483265297529024,0.00012334734832949792,20,34,54
+12,NS10,davinci_minus_ada_top25_mean,-0.021990866903773002,-0.04395379703865545,-0.0001661511782064707,23,31,54
+13,NS10,unigram-logprobs v-sub davinci-logprobs s-avg-top-25,-0.06588003328611226,-0.09059588325511889,-0.041944853233778695,9,45,54
+14,NS10,unigram-logprobs v-sub ada-logprobs v-div trigram-logprobs s-avg-top-25,-0.09346519633989508,-0.13163442949556117,-0.053578858974312187,14,40,54

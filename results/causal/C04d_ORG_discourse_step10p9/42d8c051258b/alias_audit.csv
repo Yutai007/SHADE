@@ -1,0 +1,85 @@
+case_id,domain,org,derived_acronym,acronym_already_present
+gate_0004,recipes,Salt & Pepper,SP,False
+gate_0005,reddit,the Google Account,GA,False
+gate_0007,wiki,the Union of the Crowns of Scotland,UCS,False
+gate_0007,wiki,the Union of the Crowns of Scotland,UCS,False
+gate_0007,wiki,the Scottish Privy Council,SPC,False
+gate_0007,wiki,3rd Viscount,RV,False
+gate_0007,wiki,The 3rd Viscount's,RVS,False
+gate_0007,wiki,the British Parliament,BP,False
+gate_0007,wiki,the National Library of,NL,False
+gate_0007,wiki,the British Parliament,BP,False
+gate_0007,wiki,the National Library of,NL,False
+gate_0015,abstracts,the Journal of Statistical Genetics Abstract,JSGA,False
+gate_0015,abstracts,Nature Genetics,NG,False
+gate_0017,news,Conservative Party,CP,False
+gate_0017,news,the European Union,EU,False
+gate_0018,recipes,allrecipes.com,AC,False
+gate_0018,recipes,Best Key Lime Pie,BKLP,False
+gate_0021,wiki,the Center for Jewish Studies,CJS,False
+gate_0021,wiki,Georgetown University,GU,False
+gate_0021,wiki,the Hebrew University of Jerusalem,HUJ,False
+gate_0021,wiki,Harvard University,HU,False
+gate_0021,wiki,the University of Pennsylvania,UP,False
+gate_0021,wiki,"the University of California,",UC,False
+gate_0021,wiki,the Center for Jewish Studies,CJS,False
+gate_0021,wiki,the Dead Sea Scrolls,DSS,False
+gate_0021,wiki,Pontifical Council for Interreligious Dialogue,PCID,False
+gate_0021,wiki,the National Council of Churches' Committee on Faith and Order,NCCCOFO,False
+gate_0021,wiki,Qabas University,QU,False
+gate_0021,wiki,the National Jewish Book Award,NJBA,False
+gate_0022,abstracts,the Texas Instrument DLP Sign Language Gesture Database,TIDSLGD,False
+gate_0024,news,Bank of Israel,BI,False
+gate_0024,news,Federal Reserve,FR,False
+gate_0024,news,JPMorgan Chase,JC,False
+gate_0024,news,the Bank of England,BE,False
+gate_0027,wiki,The Scottish Mining Museum,SMM,False
+gate_0027,wiki,The Scottish Mining Museum,SMM,False
+gate_0028,abstracts,T2w,TW,False
+gate_0030,news,African Union,AU,False
+gate_0030,news,Foreign Affairs,FA,False
+gate_0039,wiki,the Manhattan Elevated Railway Company,MERC,False
+gate_0047,books,Plot Summary,PS,False
+gate_0047,books,the First King's Men,FKSM,False
+gate_0048,news,Rare Ltd.,RL,False
+gate_0048,news,Rare Ltd.,RL,False
+gate_0049,recipes,Instructions Step 1 Bring,ISB,False
+gate_0049,recipes,Nutrition Facts Calories,NFC,False
+gate_0050,reddit,Salt & Straw on Division,SSOD,False
+gate_0051,wiki,Keeps Me Wondering,KMW,False
+gate_0051,wiki,Keeps Me Wondering,KMW,False
+gate_0051,wiki,Blue Merle,BM,False
+gate_0051,wiki,the Johnson Brothers,JB,False
+gate_0051,wiki,Keeps Me Wondering,KMW,False
+gate_0051,wiki,The Huffington Post,HP,False
+gate_0051,wiki,Blue Merle,BM,False
+gate_0051,wiki,The Huffington Post,HP,False
+gate_0067,recipes,Beurre & Sel'S Port Jammer Cookies  Ingredient Substitutions,BSSPJCIS,False
+gate_0067,recipes,Mis en Place Gather,MEPG,False
+gate_0069,abstracts,the Alternating Direction Method of Multipliers,ADMM,True
+gate_0076,news,Decca Records,DR,False
+gate_0078,wiki,Farm to Market Roads,FTMR,False
+gate_0078,wiki,Texas Railway,TR,False
+gate_0078,wiki,the Alpes Maritimes,AM,False
+gate_0078,wiki,the Mentone Cemetery,MC,False
+gate_0079,abstracts,SYNAPSE BREAST CT,SBC,False
+gate_0079,abstracts,https //github.com/CCF-Union/UXNet,HGCCUU,False
+gate_0082,wiki,the Vienna Philharmonic Orchestra,VPO,False
+gate_0082,wiki,the Ernst von Siemens Music Prize,EVSMP,False
+gate_0082,wiki,the Joseph Haydn Prize,JHP,False
+gate_0085,recipes,Garlic Ricotta Toasts,GRT,False
+gate_0085,recipes,Hot Honey,HH,False
+gate_0086,wiki,the Labor Party,LP,False
+gate_0086,wiki,the Minister of Transportation,MT,False
+gate_0086,wiki,the Minister of Transportation,MT,False
+gate_0086,wiki,the Labor Party,LP,False
+gate_0086,wiki,the Labor Party,LP,False
+gate_0089,recipes,Coconut Fudge Brownies Recipe  Ingredients 1 cup,CFBRIC,False
+gate_0090,abstracts,VITA-Group/UA-SE,VGUS,False
+gate_0092,abstracts,Bi2Se3,BS,False
+gate_0092,abstracts,Bi2Se3,BS,False
+gate_0094,news,Skype and Zoom,SZ,False
+gate_0095,news,The Department of Justice (DoJ,DJD,False
+gate_0095,news,Philip Morris USA,PMU,False
+gate_0095,news,R.J. Reynolds Tobacco,RJRT,False
+gate_0095,news,Brown & Williamson and Lorillard Tobacco,BWLT,False

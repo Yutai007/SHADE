@@ -1,0 +1,16 @@
+case_id,status,proposed,already_visited,no_joint_objective_improvement,unexpected_sentence_count,below_mutability_threshold,eligible
+raid_residual_03,no_eligible_improving_candidate,35.0,2.0,28.0,4.0,1.0,
+raid_residual_05,no_eligible_improving_candidate,3.0,,2.0,,1.0,
+raid_residual_09,no_eligible_improving_candidate,23.0,,22.0,,1.0,
+raid_residual_10,in_band,55.0,1.0,39.0,,12.0,3.0
+raid_residual_14,no_eligible_improving_candidate,23.0,,15.0,,8.0,
+raid_residual_16,no_eligible_improving_candidate,23.0,,4.0,1.0,18.0,
+raid_residual_17,in_band,26.0,1.0,17.0,,2.0,6.0
+raid_residual_18,in_band,27.0,1.0,17.0,,1.0,8.0
+raid_residual_19,in_band,95.0,,61.0,16.0,6.0,12.0
+raid_residual_21,no_eligible_improving_candidate,,,,,,
+raid_residual_24,no_eligible_improving_candidate,19.0,,12.0,,7.0,
+raid_residual_25,no_eligible_improving_candidate,26.0,,24.0,,2.0,
+raid_residual_26,in_band,,,,,,
+raid_residual_27,no_eligible_improving_candidate,67.0,,63.0,4.0,,
+raid_residual_29,no_eligible_improving_candidate,1.0,,1.0,,,

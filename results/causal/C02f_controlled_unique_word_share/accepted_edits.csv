@@ -1,0 +1,16 @@
+case_id,round,token_index,old,new,sentence_start,before_sentence,after_sentence,V_before,V_after,W
+raid_micro_05,0,38,facing,confronting,35,"We're already facing challenges such as hunting and trapping, and now we have to contend with even more threats to our existence.
+
+","We're already confronting challenges such as hunting and trapping, and now we have to contend with even more threats to our existence.
+
+",93,94,158
+raid_micro_06,0,10,murder,homicide,0,"In the small town of Willow Creek, a brutal murder shakes the community to its core.","In the small town of Willow Creek, a brutal homicide shakes the community to its core.",137,138,270
+raid_micro_06,0,34,home,residence,18,"The Robins family, known for their kindness and generosity, are found dead in their home, each victim bearing the signs of a gruesome and violent attack.","The Robins family, known for their kindness and generosity, are found dead in their residence, each victim bearing the signs of a gruesome and violent attack.",138,139,270
+raid_micro_06,1,60,web,network,48,"As the local police department investigates, they are met with a web of secrets and deceit that threaten to tear the town apart.
+
+","As the local police department investigates, they are met with a network of secrets and deceit that threaten to tear the town apart.
+
+",139,140,270
+raid_micro_06,1,76,investigation,probe,74,"As the investigation unfolds, the police are faced with a multitude of suspects, each with their own motives and secrets.","As the probe unfolds, the police are faced with a multitude of suspects, each with their own motives and secrets.",140,141,270
+raid_micro_06,2,177,deceit,deception,163,"As the police dig deeper, they uncover a tangled web of lies and deceit that leads them to question everyone they thought they could trust.","As the police dig deeper, they uncover a tangled web of lies and deception that leads them to question everyone they thought they could trust.",141,142,270
+raid_micro_06,2,239,faced,confronted,226,"As the police race against time to solve the case, they are faced with a daunting task: uncovering the truth behind the Robins family's murder.","As the police race against time to solve the case, they are confronted with a daunting task: uncovering the truth behind the Robins family's murder.",142,143,270
