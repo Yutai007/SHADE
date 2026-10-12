@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23308593.svg)](https://doi.org/10.5281/zenodo.23308593)
+
 # SHADE: Trace-Based Humanization for Robust and Composable AI-Text Detector Evasion
 
 View the paper at `paper.pdf`.
